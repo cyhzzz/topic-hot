@@ -1,822 +1,117 @@
 {
-  "generatedAt": "2026-09-30T04:07:47.116Z",
+  "generatedAt": "2026-09-30T07:37:05.033Z",
   "today": "2026-09-30",
   "site": {
-    "name": "Topic Hot",
-    "subject": "AI",
-    "tagline": "值得关注的 AI 动态",
-    "homeTitle": "Topic Hot — AI 行业动态 · 每日精选与日报",
-    "description": "自动盯住一批行业信源，打分、摘要、把同一件事的多篇报道归到一起，每小时更新，每天出一份日报。",
-    "footerNote": null,
+    "name": "券业动态",
+    "subject": "证券",
+    "tagline": "值得关注的证券行业动态",
+    "homeTitle": "券业动态 — 证券行业动态 · 获客展业每日精选",
+    "description": "自动盯住券商经营、监管政策、市场动态与获客展业的一批信源，打分、摘要、把同一件事的多篇报道归到一起，每小时更新，每天出一份日报。",
+    "footerNote": "临时试验版：由 AI 行业示例站切换而来，信源与口径仍在调整中。",
     "about": {
       "headline": [
-        "AI 圈每天都有新动静，",
+        "券商行业每天都有新动静，",
         "值得看的，只有几条。"
       ],
-      "lead": "Topic Hot 替你盯着 25 个信源：抓取、归并、打分、精选，每小时更新一次，每天出一份日报。免费，不用注册。",
+      "lead": "券业动态 替你盯着 6 个信源：抓取、归并、打分、精选，每小时更新一次，每天出一份日报。免费，不用注册。",
       "steps": {
-        "collect": "官方博客、媒体和研究机构的订阅源都在看；GitHub Actions 每小时自动采集一轮。",
+        "collect": "券商公告、财经媒体的订阅源和行业热榜都在看；GitHub Actions 每小时自动采集一轮。",
         "store": "抓到的内容按同一件事归到一起，只保留摘要和原文链接，数据以 JSON 形式存在仓库里。",
-        "select": "按注意力分筛选（有模型用模型打分，没模型自动降级为规则打分），营销稿和重复转发进不来。",
+        "select": "按注意力分筛选（有模型用模型打分，没模型自动降级为规则打分），营销软文和重复转发进不来。",
         "publish": "每小时发布一次更新，每天生成一份日报，静态部署在 GitHub Pages 上。"
       },
-      "copyright": "Topic Hot 是聚合摘要和阅读索引，原文版权归各来源所有。如果你是来源方，希望更正、下架或调整展示方式，可以通过",
+      "copyright": "券业动态 是聚合摘要和阅读索引，原文版权归各来源所有。如果你是来源方，希望更正、下架或调整展示方式，可以通过",
       "contactEmail": null
     }
   },
   "categories": [
     {
-      "key": "ai-models",
-      "label": "模型",
-      "section": "模型发布/更新"
-    },
-    {
-      "key": "ai-products",
-      "label": "产品",
-      "section": "产品发布/更新"
-    },
-    {
       "key": "industry",
-      "label": "行业",
-      "section": "行业动态"
+      "label": "经营",
+      "section": "券商经营"
     },
     {
-      "key": "paper",
-      "label": "论文",
-      "section": "论文研究"
+      "key": "policy",
+      "label": "政策",
+      "section": "监管政策"
     },
     {
-      "key": "tip",
-      "label": "教程",
-      "section": "技巧与观点"
+      "key": "market",
+      "label": "市场",
+      "section": "市场动态"
+    },
+    {
+      "key": "acquisition",
+      "label": "获客展业",
+      "section": "获客展业"
+    },
+    {
+      "key": "product",
+      "label": "产品",
+      "section": "产品与工具"
     },
     {
       "key": "opinion",
       "label": "观点",
-      "section": "技巧与观点"
+      "section": "观点分析"
     }
   ],
   "reports": [
     {
       "day": "2026-09-30",
-      "generatedAt": "2026-09-30T04:07:47.116Z",
-      "lead": {
-        "title": "Improving synthesis predictio…",
-        "paragraph": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
-        "highlights": [
-          "GitHub Copilot app for Beginners: How t…",
-          "Introducing Quine: An AI research syste…",
-          "NVIDIA Isaac ROS 5.0 Advances Agentic, …"
-        ]
-      },
-      "sections": [
-        {
-          "category": "ai-models",
-          "title": "模型发布/更新",
-          "items": [
-            {
-              "id": "mvz9t6br0m36al7t2hyf4qz6",
-              "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-              "summary": "Biology doesn't operate in silos, and neither should the AI representation of i…",
-              "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-              "sourceId": "rss-microsoft-research",
-              "sourceName": "Microsoft Research",
-              "publishedAt": "2026-09-29T14:00:02.000Z",
-              "score": 77,
-              "category": "ai-models",
-              "tags": [
-                "模型发布"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "vcno6um19w92yqi2icvxyacn",
-              "title": "Introducing Gemini 3.8 Live with Live Avatar",
-              "summary": "Introducing Gemini 3.8 Live with Live Avatar",
-              "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-              "sourceId": "rss-google-deepmind",
-              "sourceName": "Google DeepMind",
-              "publishedAt": "2026-09-24T16:20:39.000Z",
-              "score": 63,
-              "category": "ai-models",
-              "tags": [
-                "模型发布"
-              ],
-              "entityTags": [
-                "Google"
-              ]
-            }
-          ]
-        },
-        {
-          "category": "ai-products",
-          "title": "产品发布/更新",
-          "items": [
-            {
-              "id": "vtaopio5iutx04663h1lqy3z",
-              "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-              "summary": "To build and deploy sophisticated robotics applications that can perceive, reas…",
-              "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-22T12:00:41.000Z",
-              "score": 77,
-              "category": "ai-products",
-              "tags": [
-                "开源/仓库"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "kgyut2rbl2xb1e0b5cgrx0q2",
-              "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-              "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CO…",
-              "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-24T13:00:36.000Z",
-              "score": 76,
-              "category": "ai-products",
-              "tags": [
-                "产品更新"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "ftx1u599kstav55mlxvcjrvl",
-              "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-              "summary": "Every AI factory needs power and cooling that fit its computing architecture. A…",
-              "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-21T18:00:07.000Z",
-              "score": 76,
-              "category": "ai-products",
-              "tags": [
-                "产品更新"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "industry",
-          "title": "行业动态",
-          "items": [
-            {
-              "id": "y0rs6y38118x2e7nqeaw5v3z",
-              "title": "Offloaded inference for real-world physical AI robotics",
-              "summary": "Robots are getting smarter, but how can their hardware match that growth? New M…",
-              "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
-              "sourceId": "rss-microsoft-research",
-              "sourceName": "Microsoft Research",
-              "publishedAt": "2026-09-23T16:01:36.000Z",
-              "score": 76,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            },
-            {
-              "id": "abwcuctc6unt71571dgr5ij8",
-              "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-              "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior res…",
-              "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-24T14:00:50.000Z",
-              "score": 76,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Google"
-              ]
-            },
-            {
-              "id": "zq9rajo65cfqu0dk0x9ak5md",
-              "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-              "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has est…",
-              "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
-              "sourceId": "rss-microsoft-research",
-              "sourceName": "Microsoft Research",
-              "publishedAt": "2026-09-28T21:00:00.000Z",
-              "score": 73,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            },
-            {
-              "id": "kc4me628mdstdd3e554z5bfn",
-              "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-              "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she do…",
-              "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-23T15:00:32.000Z",
-              "score": 73,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "weax9mklq24mg4ivretgpomn",
-              "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-              "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Conv…",
-              "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-23T02:30:22.000Z",
-              "score": 73,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "gpnrr3vrwph93j71goy1xbs8",
-              "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-              "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035,…",
-              "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-21T16:00:46.000Z",
-              "score": 73,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "bxal77avhcrcltex7waaxhvx",
-              "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-              "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a receptio…",
-              "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-              "sourceId": "rss-nvidia-blog",
-              "sourceName": "NVIDIA Blog",
-              "publishedAt": "2026-09-21T16:00:10.000Z",
-              "score": 73,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "cemtpunv0v7zbqejgpegiycb",
-              "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-              "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Co…",
-              "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-17T00:26:43.000Z",
-              "score": 70,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            },
-            {
-              "id": "uslftqd0gs8mcz3si9hqohr0",
-              "title": "Rendering huge pull requests in the GitHub Copilot app",
-              "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-lin…",
-              "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-23T18:29:49.000Z",
-              "score": 69,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            },
-            {
-              "id": "th33jcty5eawrdd0v6r760m1",
-              "title": "When chat is the wrong UI",
-              "summary": "What is a developer to do when they need something more tangible than a chat bo…",
-              "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-24T20:00:00.000Z",
-              "score": 66,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "k8hp3fafd32s2zqkce14x09c",
-              "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-              "summary": "We dive into these questions and other AI hot takes on the latest episode of th…",
-              "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-18T15:00:00.000Z",
-              "score": 66,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "izpsl65qxvcugg2ptw5temjg",
-              "title": "Gemini 3.8 text-to-speech says hello",
-              "summary": "Gemini 3.8 text-to-speech says hello",
-              "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-              "sourceId": "rss-google-deepmind",
-              "sourceName": "Google DeepMind",
-              "publishedAt": "2026-09-23T15:25:14.000Z",
-              "score": 61,
-              "category": "industry",
-              "tags": [
-                "行业动态"
-              ],
-              "entityTags": [
-                "Google"
-              ]
-            }
-          ]
-        },
-        {
-          "category": "paper",
-          "title": "论文研究",
-          "items": [
-            {
-              "id": "n1k4mh8f5i2aohu5tle7r0ry",
-              "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-              "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
-              "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
-              "sourceId": "rss-microsoft-research",
-              "sourceName": "Microsoft Research",
-              "publishedAt": "2026-09-21T15:30:19.000Z",
-              "score": 78,
-              "category": "paper",
-              "tags": [
-                "论文/研究"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            }
-          ]
-        },
-        {
-          "category": "tip",
-          "title": "技巧与观点",
-          "items": [
-            {
-              "id": "kewqah9pf7hfxyjg4jfsreg2",
-              "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-              "summary": "Describe the interface you need in plain English, then let the agent build a li…",
-              "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-25T18:00:00.000Z",
-              "score": 78,
-              "category": "tip",
-              "tags": [
-                "教程/实践"
-              ],
-              "entityTags": [
-                "Microsoft"
-              ]
-            },
-            {
-              "id": "skcjzydewvqo7jh5iilqgspm",
-              "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-              "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the G…",
-              "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-              "sourceId": "rss-github-ai",
-              "sourceName": "GitHub Blog · AI & ML",
-              "publishedAt": "2026-09-24T18:26:12.000Z",
-              "score": 67,
-              "category": "tip",
-              "tags": [
-                "教程/实践"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
+      "generatedAt": "2026-09-30T07:37:05.033Z",
+      "sections": [],
       "stats": {
-        "total": 261,
-        "selected": 20,
+        "total": 103,
+        "selected": 0,
         "llmCalls": 0
       }
     }
   ],
   "groups": [
     {
-      "id": "ev_bbe71cf5d2",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "category": "industry",
+      "id": "ev_69b59428ea",
+      "title": "俄罗斯将柴油出口禁令延长至10月底",
+      "category": "market",
       "tags": [
-        "行业动态"
+        "市场动态"
       ],
       "itemIds": [
-        "cemtpunv0v7zbqejgpegiycb",
-        "uslftqd0gs8mcz3si9hqohr0"
+        "zp3gdotenuqre0oa5dh8uukb",
+        "loa2iqhsfvrnmcb7xneltepz"
       ],
-      "updatedAt": "2026-09-30T04:07:47.116Z"
+      "updatedAt": "2026-09-30T07:37:05.033Z"
     },
     {
-      "id": "ev_f3ea35bd2b",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "category": "ai-models",
+      "id": "ev_8c89f0601e",
+      "title": "凯格精机(301338.SZ)：公司的锡膏印刷设备X60满足玻璃基板无需载具的印刷工艺",
+      "category": "market",
       "tags": [
-        "模型发布"
+        "市场动态"
       ],
       "itemIds": [
-        "hs62natsyn1wqlh43mnf7cmd",
-        "l7y2fbwsaw38j4raq0iuiy92",
-        "t8cn538rbqmn38e9ikc3tgh2"
+        "sh1erlrnw5at1tlpqwjlb66u",
+        "s0s7uy0jt8n819wjcchwz02g"
       ],
-      "updatedAt": "2026-09-30T04:07:47.116Z"
+      "updatedAt": "2026-09-30T07:37:05.033Z"
     },
     {
-      "id": "ev_acd9e8f87e",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the pri…",
-      "category": "industry",
+      "id": "ev_cb54ab2ab3",
+      "title": "金十图示：2026年09月30日（周三）投机情绪指数",
+      "category": "market",
       "tags": [
-        "行业动态"
+        "市场动态"
       ],
       "itemIds": [
-        "w47gm6l3j0pul5fpd86lnxw9",
-        "x13qeq5nn7r5xdsh3w7jwmos"
+        "q94xk8jvoeo082bt3i69t33y",
+        "y69ft0yc1z15ni1tq3olaro9"
       ],
-      "updatedAt": "2026-09-30T04:07:47.116Z"
-    },
-    {
-      "id": "ev_d81f160e73",
-      "title": "本周看什么 | 最近值得一看的 6 部作品",
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "itemIds": [
-        "aexw6205tthyk2rv0y49aqzi",
-        "m5a8966b6dijpqis6uk0sh84",
-        "db47tmxwbwhofpdrxxeyrd9n"
-      ],
-      "updatedAt": "2026-09-30T04:07:47.116Z"
-    },
-    {
-      "id": "ev_ef201bd07d",
-      "title": "派评 | 近期值得关注的 App",
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "itemIds": [
-        "tbbjrals7q2qzfz1quoqrijz",
-        "qtivjsln182x7ig4647ie1xt"
-      ],
-      "updatedAt": "2026-09-30T04:07:47.116Z"
+      "updatedAt": "2026-09-30T07:37:05.033Z"
     }
   ],
-  "items": [
-    {
-      "id": "n1k4mh8f5i2aohu5tle7r0ry",
-      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-      "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
-      "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
-      "sourceId": "rss-microsoft-research",
-      "sourceName": "Microsoft Research",
-      "publishedAt": "2026-09-21T15:30:19.000Z",
-      "score": 78,
-      "category": "paper",
-      "tags": [
-        "论文/研究"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "kewqah9pf7hfxyjg4jfsreg2",
-      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "summary": "Describe the interface you need in plain English, then let the agent build a li…",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-25T18:00:00.000Z",
-      "score": 78,
-      "category": "tip",
-      "tags": [
-        "教程/实践"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "mvz9t6br0m36al7t2hyf4qz6",
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "summary": "Biology doesn't operate in silos, and neither should the AI representation of i…",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-      "sourceId": "rss-microsoft-research",
-      "sourceName": "Microsoft Research",
-      "publishedAt": "2026-09-29T14:00:02.000Z",
-      "score": 77,
-      "category": "ai-models",
-      "tags": [
-        "模型发布"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "vtaopio5iutx04663h1lqy3z",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "summary": "To build and deploy sophisticated robotics applications that can perceive, reas…",
-      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-22T12:00:41.000Z",
-      "score": 77,
-      "category": "ai-products",
-      "tags": [
-        "开源/仓库"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "kgyut2rbl2xb1e0b5cgrx0q2",
-      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CO…",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-24T13:00:36.000Z",
-      "score": 76,
-      "category": "ai-products",
-      "tags": [
-        "产品更新"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "ftx1u599kstav55mlxvcjrvl",
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "summary": "Every AI factory needs power and cooling that fit its computing architecture. A…",
-      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-21T18:00:07.000Z",
-      "score": 76,
-      "category": "ai-products",
-      "tags": [
-        "产品更新"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "y0rs6y38118x2e7nqeaw5v3z",
-      "title": "Offloaded inference for real-world physical AI robotics",
-      "summary": "Robots are getting smarter, but how can their hardware match that growth? New M…",
-      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
-      "sourceId": "rss-microsoft-research",
-      "sourceName": "Microsoft Research",
-      "publishedAt": "2026-09-23T16:01:36.000Z",
-      "score": 76,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "abwcuctc6unt71571dgr5ij8",
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior res…",
-      "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-24T14:00:50.000Z",
-      "score": 76,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Google"
-      ]
-    },
-    {
-      "id": "zq9rajo65cfqu0dk0x9ak5md",
-      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has est…",
-      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
-      "sourceId": "rss-microsoft-research",
-      "sourceName": "Microsoft Research",
-      "publishedAt": "2026-09-28T21:00:00.000Z",
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "kc4me628mdstdd3e554z5bfn",
-      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-      "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she do…",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-23T15:00:32.000Z",
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "weax9mklq24mg4ivretgpomn",
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Conv…",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-23T02:30:22.000Z",
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "gpnrr3vrwph93j71goy1xbs8",
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035,…",
-      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-21T16:00:46.000Z",
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "bxal77avhcrcltex7waaxhvx",
-      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a receptio…",
-      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-      "sourceId": "rss-nvidia-blog",
-      "sourceName": "NVIDIA Blog",
-      "publishedAt": "2026-09-21T16:00:10.000Z",
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "cemtpunv0v7zbqejgpegiycb",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Co…",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-17T00:26:43.000Z",
-      "score": 70,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "uslftqd0gs8mcz3si9hqohr0",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-lin…",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-23T18:29:49.000Z",
-      "score": 69,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "id": "skcjzydewvqo7jh5iilqgspm",
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the G…",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-24T18:26:12.000Z",
-      "score": 67,
-      "category": "tip",
-      "tags": [
-        "教程/实践"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "th33jcty5eawrdd0v6r760m1",
-      "title": "When chat is the wrong UI",
-      "summary": "What is a developer to do when they need something more tangible than a chat bo…",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-24T20:00:00.000Z",
-      "score": 66,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "k8hp3fafd32s2zqkce14x09c",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "summary": "We dive into these questions and other AI hot takes on the latest episode of th…",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "sourceId": "rss-github-ai",
-      "sourceName": "GitHub Blog · AI & ML",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "score": 66,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "vcno6um19w92yqi2icvxyacn",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "sourceId": "rss-google-deepmind",
-      "sourceName": "Google DeepMind",
-      "publishedAt": "2026-09-24T16:20:39.000Z",
-      "score": 63,
-      "category": "ai-models",
-      "tags": [
-        "模型发布"
-      ],
-      "entityTags": [
-        "Google"
-      ]
-    },
-    {
-      "id": "izpsl65qxvcugg2ptw5temjg",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "summary": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "sourceId": "rss-google-deepmind",
-      "sourceName": "Google DeepMind",
-      "publishedAt": "2026-09-23T15:25:14.000Z",
-      "score": 61,
-      "category": "industry",
-      "tags": [
-        "行业动态"
-      ],
-      "entityTags": [
-        "Google"
-      ]
-    }
-  ],
+  "items": [],
   "meta": {
-    "itemCount": 261,
+    "itemCount": 103,
     "llmCalls": 0
   }
 }

@@ -22,25 +22,25 @@ import { collapseWhitespace, truncate } from "../lib/text.ts";
 import type { ItemRecord, SourceRow } from "../lib/types.ts";
 import type { LandedItem } from "./triage.ts";
 
-const RELEASE_RE = /(发布|开源|上线|推出|释出|released?|launch(?:es|ed)?|announc|unveil|introduc|open.?sourc)/i;
-const NOISE_RE = /(招聘|招人|赞助|广告|sponsored|抽奖|一周要闻|weekly\s?(?:roundup|digest)|newsletter)/i;
-const MODEL_HINT_RE = /(模型|model|agent|llm|gpt|claude|gemini|llama|qwen|deepseek|kimi|grok|glm|doubao|混元|通义|智谱)/i;
+const RELEASE_RE = /(发布|上线|推出|获批|落地|开办|released?|launch(?:es|ed)?|announc|unveil|introduc)/i;
+const NOISE_RE = /(招聘|招人|赞助|广告|sponsored|抽奖|一周要闻|weekly\s?(?:roundup|digest)|newsletter|荐股|牛股|翻倍|加群|内部消息)/i;
+const MARKET_HINT_RE = /(券商|证券|两融|IPO|证监会|交易所|开户|佣金|经纪|投顾|行情|A股|基金|财富管理)/i;
 const POLICY_RE = /(监管|政策|法案|禁令|regulat|ban\b|legislat)/i;
 
 /** 规则模式下分类标签 → 类别 key 的映射（与 taxonomy 的类别词对齐）。 */
 const CATEGORY_BY_TAG: Record<string, string> = {
-  "模型发布": "ai-models",
-  "产品更新": "ai-products",
-  "论文/研究": "paper",
-  "开源/仓库": "ai-products",
+  "券商经营": "industry",
+  "海外同业": "industry",
+  "监管政策": "policy",
+  "市场动态": "market",
+  "数据/榜单": "market",
+  "非证券/宏观": "market",
+  "获客展业": "acquisition",
+  "财富管理": "acquisition",
+  "产品更新": "product",
+  "金融科技": "product",
+  "观点/评论": "opinion",
   "教程/实践": "tip",
-  "大佬观点": "opinion",
-  "现象/趋势": "opinion",
-  "评测/基准": "ai-models",
-  "安全/对齐": "industry",
-  "行业动态": "industry",
-  "政策/监管": "industry",
-  "非AI/通用工具": "ai-products",
 };
 
 const CATEGORY_TAG_SET = new Set<string>(CATEGORY_TAGS);
@@ -91,7 +91,7 @@ function ruleAttention(record: ItemRecord, tier: string): number {
   let score = tier === "T1" ? 66 : tier === "T1_5" ? 58 : 46;
   if (matchEntities(hay).length > 0) score += 6;
   if (RELEASE_RE.test(record.title)) score += 5;
-  if (MODEL_HINT_RE.test(hay)) score += 3;
+  if (MARKET_HINT_RE.test(hay)) score += 3;
   if (NOISE_RE.test(hay)) score -= 15;
   return clampScore(score);
 }
@@ -118,15 +118,16 @@ function matchEntities(text: string): string[] {
 
 function ruleUnderstanding(record: ItemRecord, sourceText: string): Understanding {
   let tag: string;
-  if (/\barxiv\b|论文|paper\b|benchmark|评测|基准/i.test(sourceText)) tag = "论文/研究";
-  else if (/open.?sourc|开源|github\.com/i.test(sourceText)) tag = "开源/仓库";
-  else if (/教程|实践|指南|提示词|how\s?to|prompt|技巧|玩法|用法/i.test(sourceText)) tag = "教程/实践";
-  else if (POLICY_RE.test(sourceText)) tag = "政策/监管";
-  else if (/融资|收购|并购|裁员|任命|起诉|合作|funding|acquir|merger|layoff|lawsuit|partner/i.test(sourceText)) tag = "行业动态";
-  else if (MODEL_HINT_RE.test(sourceText) && RELEASE_RE.test(sourceText)) tag = "模型发布";
-  else if (RELEASE_RE.test(sourceText)) tag = "产品更新";
-  else if (/观点|评论|趋势|访谈|争论|opinion|trend/i.test(sourceText)) tag = "现象/趋势";
-  else tag = "行业动态";
+  if (/证监会|交易所|协会|监管|处罚|新规|罚单|立案|征求意见/i.test(sourceText)) tag = "监管政策";
+  else if (/获客|开户|私域|直播|客户经理|展业|营销|转化|引流/i.test(sourceText)) tag = "获客展业";
+  else if (/财富管理|基金投顾|代销|买方投顾/i.test(sourceText)) tag = "财富管理";
+  else if (/教程|实操|案例|指南|技巧|打法|方法论/i.test(sourceText)) tag = "教程/实践";
+  else if (/两融|IPO|再融资|成交|行情|牛市|资金流|降息|印花税/i.test(sourceText)) tag = "市场动态";
+  else if (/业绩|财报|净利润|营收|增资|融资|并购|重组|人事|任命|离职|裁员|营业部|牌照|合资/i.test(sourceText)) tag = "券商经营";
+  else if (/App|产品|上线|改版|新功能|版本更新/i.test(sourceText)) tag = "产品更新";
+  else if (/排名|榜单|市场份额|市占率/i.test(sourceText)) tag = "数据/榜单";
+  else if (/研报|观点|评论|趋势|访谈|展望/i.test(sourceText)) tag = "观点/评论";
+  else tag = "市场动态";
 
   const lowered = sourceText.toLowerCase();
   const topicTags = TOPIC_TAG_LIST.filter((word) => lowered.includes(word.toLowerCase())).slice(0, 2);

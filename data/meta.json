@@ -1,16 +1,9 @@
 {
-  "lastRunAt": "2026-09-30T04:07:47.116Z",
-  "lastSuccessAt": "2026-09-30T04:08:37.960Z",
+  "lastRunAt": "2026-09-30T07:37:05.033Z",
+  "lastSuccessAt": "2026-09-30T07:37:07.869Z",
   "llmCallsUsed": 0,
-  "fetchedFeeds": 7,
-  "newItems": 184,
-  "selectedToday": 20,
-  "errors": [
-    "fetch rss-openai-news: read ECONNRESET",
-    "fetch rss-google-research: Connect Timeout Error (attempted address: research.google:443, timeout: 15000ms)",
-    "fetch rss-hugging-face: read ECONNRESET",
-    "fetch rss-aws-ml: read ECONNRESET",
-    "fetch rss-mistral: Connect Timeout Error (attempted address: mistral.ai:443, timeout: 15000ms)",
-    "fetch rss-import-ai: Connect Timeout Error (attempted address: importai.substack.com:443, timeout: 15000ms)"
-  ]
+  "fetchedFeeds": 6,
+  "newItems": 103,
+  "selectedToday": 0,
+  "errors": []
 }

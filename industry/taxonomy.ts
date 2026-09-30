@@ -6,76 +6,77 @@
  * 网页上的类别（筛选栏、卡片角标、RSS 分类订阅）。key 是网址和接口里的身份，上线后不要改。
  * section 是日报里的分节标题（几个类别可以共用一节，按这里的顺序排）；guide 告诉模型怎么归类。
  * 没归上类的资料在日报里放进第一个 key 为 industry 的类别所在的节（没有就放最后一节）。
+ * 第一个 key 固定为 industry（管线日报兜底逻辑按这个 key 找分节），证券行业对应“券商经营”。
  */
 export const CATEGORIES = [
-  { key: "ai-models", label: "模型", section: "模型发布/更新", guide: "新模型、模型版本、权重开放、模型能力与价格变化的发布与评测结果" },
-  { key: "ai-products", label: "产品", section: "产品发布/更新", guide: "AI 产品、功能、应用、工具、API 与平台的发布和更新" },
-  { key: "industry", label: "行业", section: "行业动态", guide: "公司经营、融资并购、人事、合作、诉讼、监管与政策、市场与基础设施" },
-  { key: "paper", label: "论文", section: "论文研究", guide: "研究论文、技术报告、基准与数据集" },
-  { key: "tip", label: "教程", section: "技巧与观点", guide: "教程、实践经验、使用技巧、提示词与工具用法、深度技术讲解" },
-  { key: "opinion", label: "观点", section: "技巧与观点", guide: "人物观点、评论、分析、访谈、现象与趋势讨论" },
+  { key: "industry", label: "经营", section: "券商经营", guide: "券商业绩财报、增资融资、并购重组、人事变动、分支机构与牌照、业务线经营数据" },
+  { key: "policy", label: "政策", section: "监管政策", guide: "证监会、交易所、行业协会发布的监管新规、政策文件、处罚与合规要求" },
+  { key: "market", label: "市场", section: "市场动态", guide: "行情走势、成交与两融、IPO 与再融资、基金发行、资金流向，以及影响券商业务的宏观数据" },
+  { key: "acquisition", label: "获客展业", section: "获客展业", guide: "券商获客营销、开户与客户转化、直播与私域运营、投顾展业、财富管理转型的实践与案例" },
+  { key: "product", label: "产品", section: "产品与工具", guide: "券商App、交易工具、投顾与基金投顾产品、金融科技与 AI 应用的发布和更新" },
+  { key: "opinion", label: "观点", section: "观点分析", guide: "分析师观点、研报解读、行业评论、趋势讨论与访谈" },
 ] as const;
 
 /**
  * 内容理解一步给每篇资料判的“内容类型”（写在 prompts/content-understanding.md 里，改了类型要同步改那份提示词）。
  * 评分提示词（prompts/selection-score.md）按类型给五个维度不同的权重。
  */
-export const ITEM_TYPES = ["model_release", "product_launch", "tool_or_prompt", "research_paper", "industry_event", "opinion_analysis", "tutorial_explainer"] as const;
+export const ITEM_TYPES = ["firm_event", "policy_regulation", "market_move", "client_acquisition", "product_release", "opinion_analysis", "tutorial_explainer"] as const;
 
 // ── 标签词表 ────────────────────────────────────────────────────────────────────────────
 
 /** 每篇资料的第一个标签必须是这些“分类标签”之一。 */
 export const CATEGORY_TAGS = [
-  "产品更新", "模型发布", "论文/研究", "开源/仓库", "教程/实践", "现象/趋势", "大佬观点", "评测/基准", "安全/对齐", "行业动态", "政策/监管",
-  "非AI/通用工具", "其他",
+  "券商经营", "监管政策", "市场动态", "获客展业", "财富管理", "产品更新", "金融科技", "观点/评论", "教程/实践", "数据/榜单", "海外同业", "非证券/宏观", "其他",
 ] as const;
 
 /** 可选的主题标签。 */
 export const TOPIC_TAGS = [
-  "Agent", "编码", "推理", "多模态", "语音", "视频", "图像生成", "RAG", "端侧", "数据/训练", "搜索", "部署/工程", "开源生态", "具身智能", "MCP/工具调用",
+  "两融", "IPO", "再融资", "并购重组", "基金投顾", "投行业务", "经纪业务", "资管业务", "佣金", "降费让利", "开户", "直播获客", "私域运营", "AI应用", "跨境业务",
 ] as const;
 
 /** 可选的实体标签（公司、机构、平台）。 */
-export const ENTITY_TAGS = ["OpenAI", "Anthropic", "DeepSeek", "DeepMind", "Google", "Meta", "Microsoft", "xAI", "Hugging Face", "GitHub", "arXiv"] as const;
+export const ENTITY_TAGS = ["中信证券", "华泰证券", "国泰海通", "中金公司", "中信建投", "招商证券", "广发证券", "中国银河", "申万宏源", "东方财富", "同花顺"] as const;
 
 /** 模型常写的近义词，统一成词表里的写法。 */
 export const TAG_SYNONYMS: Readonly<Record<string, string>> = {
-  "教程/玩法": "教程/实践", "技巧/最佳实践": "教程/实践", "合作/生态": "行业动态", "融资/收购": "行业动态", "公司动态": "行业动态",
-  合作: "行业动态", 生态: "行业动态", 融资: "行业动态", 收购: "行业动态", 投资: "行业动态", 并购: "行业动态",
-  政策: "政策/监管", 监管: "政策/监管", 法规: "政策/监管", 安全: "安全/对齐", 对齐: "安全/对齐",
-  论文: "论文/研究", 研究: "论文/研究", paper: "论文/研究", papers: "论文/研究",
-  "open-source": "开源/仓库", 开源: "开源/仓库", 仓库: "开源/仓库", repo: "开源/仓库",
-  教程: "教程/实践", 玩法: "教程/实践", 指南: "教程/实践", 技巧: "教程/实践", 最佳实践: "教程/实践", 实践: "教程/实践",
-  产品: "产品更新", 更新: "产品更新", 发布: "模型发布", 模型: "模型发布", 趋势: "现象/趋势", 现象: "现象/趋势", 观点: "大佬观点",
-  视频生成: "视频", 非ai: "非AI/通用工具", "non-ai": "非AI/通用工具", 通用工具: "非AI/通用工具", 工程工具: "非AI/通用工具",
-  安全扫描: "非AI/通用工具", devops: "非AI/通用工具", 行业: "行业动态", 动态: "行业动态",
+  "业绩/财报": "券商经营", 业绩: "券商经营", 财报: "券商经营", "并购/重组": "券商经营", 人事: "券商经营",
+  融资: "券商经营", 增资: "券商经营", 牌照: "券商经营", 分支机构: "券商经营", 营业部: "券商经营", 券商: "券商经营",
+  政策: "监管政策", 监管: "监管政策", 新规: "监管政策", 处罚: "监管政策", 合规: "监管政策", 证监会: "监管政策",
+  行情: "市场动态", 成交: "市场动态", 股市: "市场动态", A股: "市场动态", 牛市: "市场动态", 市场: "市场动态",
+  两融余额: "两融", 融资融券: "两融", IPO: "IPO", 首发上市: "IPO", 定增: "再融资", 并购: "并购重组", 重组: "并购重组",
+  获客: "获客展业", 展业: "获客展业", 营销: "获客展业", 开户: "开户", 直播: "直播获客", 私域: "私域运营", 客户经理: "获客展业",
+  "财富管理": "财富管理", 基金销售: "财富管理", 代销: "财富管理", 投顾: "基金投顾", "买方投顾": "基金投顾",
+  产品: "产品更新", 更新: "产品更新", 上线: "产品更新", App: "产品更新",
+  数字化: "金融科技", "人工智能": "AI应用", 大模型: "AI应用", AI: "AI应用",
+  研报: "观点/评论", 观点: "观点/评论", 评论: "观点/评论", 分析: "观点/评论", 趋势: "观点/评论",
+  教程: "教程/实践", 实操: "教程/实践", 案例: "教程/实践", 技巧: "教程/实践", 指南: "教程/实践", 最佳实践: "教程/实践", 实践: "教程/实践",
+  排名: "数据/榜单", 榜单: "数据/榜单", 数据: "数据/榜单", 统计: "数据/榜单",
+  海外券商: "海外同业", 高盛: "海外同业", "摩根士丹利": "海外同业", 大摩: "海外同业", 美林: "海外同业", 富途: "海外同业", 老虎证券: "海外同业",
+  非证券: "非证券/宏观", 宏观: "非证券/宏观", 外汇: "非证券/宏观", "大宗商品": "非证券/宏观", 债市: "非证券/宏观", 房地产: "非证券/宏观",
 };
 
 /** 模型漏了分类标签时，按内容类型补一个。 */
 export const CATEGORY_BY_ITEM_TYPE: Readonly<Record<string, string>> = {
-  model_release: "模型发布", product_launch: "产品更新", tool_or_prompt: "教程/实践", research_paper: "论文/研究",
-  industry_event: "行业动态", opinion_analysis: "大佬观点", tutorial_explainer: "教程/实践",
+  firm_event: "券商经营", policy_regulation: "监管政策", market_move: "市场动态", client_acquisition: "获客展业",
+  product_release: "产品更新", opinion_analysis: "观点/评论", tutorial_explainer: "教程/实践",
 };
 
 // ── 公司与主体 ──────────────────────────────────────────────────────────────────────────
 
 /** 公司主题：id → 显示名、卡片上显示的标签（null 表示只用 entity:<id> 归类）、别名。 */
 export const ENTITIES: Record<string, { name: string; displayTag: string | null; aliases: string[] }> = {
-  openai: { name: "OpenAI", displayTag: "OpenAI", aliases: ["OpenAI", "ChatGPT", "Sora", "Codex", "GPT"] },
-  anthropic: { name: "Anthropic", displayTag: "Anthropic", aliases: ["Anthropic", "Claude"] },
-  google: { name: "Google", displayTag: "Google", aliases: ["Google", "DeepMind", "Gemini", "谷歌"] },
-  deepseek: { name: "DeepSeek", displayTag: "DeepSeek", aliases: ["DeepSeek", "深度求索"] },
-  qwen: { name: "千问 Qwen", displayTag: null, aliases: ["Qwen", "通义", "阿里"] },
-  kimi: { name: "Kimi / 月之暗面", displayTag: null, aliases: ["Kimi", "月之暗面", "Moonshot"] },
-  minimax: { name: "MiniMax", displayTag: null, aliases: ["MiniMax", "海螺"] },
-  zhipu: { name: "智谱 GLM", displayTag: null, aliases: ["智谱", "GLM", "Z.ai"] },
-  xai: { name: "xAI", displayTag: "xAI", aliases: ["xAI", "Grok"] },
-  meta: { name: "Meta", displayTag: "Meta", aliases: ["Meta", "Llama"] },
-  microsoft: { name: "Microsoft", displayTag: "Microsoft", aliases: ["Microsoft", "微软", "Copilot"] },
-  nvidia: { name: "NVIDIA", displayTag: null, aliases: ["NVIDIA", "英伟达"] },
-  "hugging-face": { name: "Hugging Face", displayTag: "Hugging Face", aliases: ["Hugging Face"] },
-  cursor: { name: "Cursor", displayTag: null, aliases: ["Cursor", "Anysphere"] },
-  openrouter: { name: "OpenRouter", displayTag: null, aliases: ["OpenRouter"] },
+  citic: { name: "中信证券", displayTag: null, aliases: ["中信证券", "中信"] },
+  huatai: { name: "华泰证券", displayTag: null, aliases: ["华泰证券", "华泰", "涨乐财富通"] },
+  gtht: { name: "国泰海通", displayTag: null, aliases: ["国泰海通", "国泰君安", "海通证券"] },
+  cicc: { name: "中金公司", displayTag: null, aliases: ["中金公司", "中金", "CICC"] },
+  csc: { name: "中信建投", displayTag: null, aliases: ["中信建投", "建投"] },
+  cms: { name: "招商证券", displayTag: null, aliases: ["招商证券"] },
+  gf: { name: "广发证券", displayTag: null, aliases: ["广发证券"] },
+  galaxy: { name: "中国银河", displayTag: null, aliases: ["中国银河", "银河证券"] },
+  swhy: { name: "申万宏源", displayTag: null, aliases: ["申万宏源", "申万"] },
+  em: { name: "东方财富", displayTag: null, aliases: ["东方财富", "东财", "天天基金"] },
+  ths: { name: "同花顺", displayTag: null, aliases: ["同花顺"] },
 };
 
 /**
@@ -83,57 +84,33 @@ export const ENTITIES: Record<string, { name: string; displayTag: string | null;
  * 行业没有这个问题时可以留空数组。
  */
 export const IDENTITY_LEXICON: ReadonlyArray<{ id: string; name: string; patterns: RegExp[] }> = [
-  { id: "openai", name: "OpenAI", patterns: [/openai|chatgpt|\bgpt-?[o\d]|\bsora\b|\bcodex\b/i] },
-  { id: "anthropic", name: "Anthropic", patterns: [/anthropic|\bclaude\b/i, /\b(?:opus|sonnet|haiku)\s*\d+(?:[.\-]\d+)*\b/i, /\bfable\s*\d+(?:[.\-]\d+)*\b|\bmythos\b/i] },
-  { id: "google", name: "Google / Gemini", patterns: [/google|deepmind|\bgemini\b|notebooklm|\bveo\s?\d|\bAlphaFold\b|\bAMIE\b/i] },
-  { id: "deepseek", name: "DeepSeek", patterns: [/deepseek|深度求索/i] },
-  { id: "xai", name: "xAI / Grok", patterns: [/\bxai\b|\bgrok\b/i] },
-  { id: "meta", name: "Meta / Llama", patterns: [/\bMeta\b/, /\bmeta\s?ai\b|\bllama\b/i] },
-  { id: "microsoft", name: "Microsoft / Copilot", patterns: [/microsoft|copilot|微软/i] },
-  { id: "nvidia", name: "NVIDIA", patterns: [/nvidia|英伟达|\bnemotron\b|\bnemo\b|\bblackwell\b|\brubin(?:\s+ultra)?\b|\bcuda\b/i] },
-  { id: "qwen", name: "千问 Qwen", patterns: [/\bqwen|通义|千问/i] },
-  { id: "hugging-face", name: "Hugging Face", patterns: [/hugging\s?face/i] },
-  { id: "cursor", name: "Cursor", patterns: [/\bCursor\b/] },
-  { id: "kimi", name: "Kimi / 月之暗面", patterns: [/\bkimi\b|月之暗面|\bmoonshot\s?ai\b/i] },
-  { id: "openrouter", name: "OpenRouter", patterns: [/openrouter/i] },
-  { id: "minimax", name: "MiniMax", patterns: [/minimax/i] },
-  { id: "zhipu", name: "智谱 GLM", patterns: [/智谱|\bglm-?[4-9]/i] },
-  { id: "hunyuan", name: "腾讯混元", patterns: [/混元|hunyuan/i] },
-  { id: "doubao", name: "字节豆包", patterns: [/豆包|doubao|字节跳动|bytedance/i] },
-  { id: "mistral", name: "Mistral", patterns: [/mistral/i] },
-  { id: "perplexity", name: "Perplexity", patterns: [/\bPerplexity\b/] },
-  { id: "runway", name: "Runway", patterns: [/\brunway\b/i] },
-  { id: "suno", name: "Suno", patterns: [/\bsuno\b/i] },
-  { id: "midjourney", name: "Midjourney", patterns: [/midjourney/i] },
-  { id: "stability-ai", name: "Stability AI", patterns: [/stability\s?ai/i] },
-  { id: "elevenlabs", name: "ElevenLabs", patterns: [/eleven\s?labs/i] },
-  { id: "vllm", name: "vLLM", patterns: [/\bvllm\b/i] },
-  { id: "ollama", name: "Ollama", patterns: [/\bollama\b/i] },
-  { id: "windsurf", name: "Windsurf", patterns: [/windsurf/i] },
-  { id: "devin", name: "Devin", patterns: [/\bdevin\b/i] },
-  { id: "manus", name: "Manus", patterns: [/\bmanus\b/i] },
-  { id: "apple", name: "Apple AI", patterns: [/\bapple\s?(intelligence|silicon|ai)\b|苹果(智能|\s?AI)/i] },
-  { id: "amazon", name: "Amazon / AWS", patterns: [/amazon|\baws\b|亚马逊/i] },
-  { id: "baidu", name: "百度文心", patterns: [/百度|baidu|文心|\bernie\s?bot\b/i] },
+  { id: "citic", name: "中信证券", patterns: [/中信证券|\bCITIC\s?Securities/i] },
+  { id: "huatai", name: "华泰证券", patterns: [/华泰证券|\bHuatai\b|涨乐财富通|\bHTSC\b/i] },
+  { id: "gtht", name: "国泰海通", patterns: [/国泰海通|国泰君安|海通证券|\bHaitong\b|\bGTJA\b/i] },
+  { id: "cicc", name: "中金公司", patterns: [/中金公司|中金(?!所|在线)|\bCICC\b/i] },
+  { id: "csc", name: "中信建投", patterns: [/中信建投|建投证券|\bCSC\s?(?:Financial|Research)\b/i] },
+  { id: "cms", name: "招商证券", patterns: [/招商证券|\bChina\s?Merchants\s?Securities/i] },
+  { id: "gf", name: "广发证券", patterns: [/广发证券|\bGF\s?Securities/i] },
+  { id: "galaxy", name: "中国银河", patterns: [/银河证券|中国银河|\bChina\s?Galaxy/i] },
+  { id: "swhy", name: "申万宏源", patterns: [/申万宏源|申万(?:研究|行业|评级)|\bSWS\b/i] },
+  { id: "em", name: "东方财富", patterns: [/东方财富|东财|天天基金|\bEast\s?Money/i] },
+  { id: "ths", name: "同花顺", patterns: [/同花顺|\biFinD\b/i] },
 ];
 
 /** 这些域名上的文章，发布方就是对应的公司（托管平台如 GitHub、arXiv 不算）。 */
 export const PUBLISHER_DOMAINS: ReadonlyArray<{ entityId: string; domains: readonly string[] }> = [
-  { entityId: "openai", domains: ["openai.com"] },
-  { entityId: "anthropic", domains: ["anthropic.com", "claude.com"] },
-  { entityId: "google", domains: ["deepmind.google", "ai.google", "blog.google"] },
-  { entityId: "deepseek", domains: ["deepseek.com"] },
-  { entityId: "xai", domains: ["x.ai"] },
-  { entityId: "meta", domains: ["ai.meta.com"] },
-  { entityId: "microsoft", domains: ["microsoft.com"] },
-  { entityId: "nvidia", domains: ["nvidia.com"] },
-  { entityId: "qwen", domains: ["qwen.ai"] },
-  { entityId: "cursor", domains: ["cursor.com"] },
-  { entityId: "openrouter", domains: ["openrouter.ai"] },
+  { entityId: "citic", domains: ["citics.com"] },
+  { entityId: "huatai", domains: ["htsc.com.cn"] },
+  { entityId: "gtht", domains: ["gtht.com", "gtja.com", "htsec.com"] },
+  { entityId: "cicc", domains: ["cicc.com"] },
+  { entityId: "csc", domains: ["csc108.com"] },
+  { entityId: "cms", domains: ["newone.com.cn"] },
+  { entityId: "gf", domains: ["gf.com.cn"] },
+  { entityId: "galaxy", domains: ["chinastock.com.cn"] },
+  { entityId: "swhy", domains: ["sw2000.com", "swsresearch.com"] },
+  { entityId: "em", domains: ["eastmoney.com"] },
+  { entityId: "ths", domains: ["10jqka.com.cn"] },
 ];
 
 /** 原文里的这些写法也算提到了对应公司。 */
-export const IDENTITY_CONTEXT_ALIASES: ReadonlyArray<{ entityId: string; pattern: RegExp }> = [
-  { entityId: "meta", pattern: /@AIatMeta\b/i },
-  { entityId: "zhipu", pattern: /\bZhipu(?:\s+AI\b|['’]s\b)/i },
-];
+export const IDENTITY_CONTEXT_ALIASES: ReadonlyArray<{ entityId: string; pattern: RegExp }> = [];

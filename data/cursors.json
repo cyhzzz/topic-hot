@@ -1,98 +1,26 @@
 {
-  "rss-google-deepmind": {
-    "etag": "\"Yy-s2A\"",
-    "configHash": "9c92f29eb29326b9",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
+  "rss-wallstreetcn": {
+    "configHash": "71a2e642bfc44427",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   },
-  "rss-microsoft-research": {
-    "etag": "\"92f956225359f4b95680777d61a4012b\"",
-    "lastModified": "Wed, 30 Sep 2026 02:26:26 GMT",
-    "configHash": "689dc3f1b092fd61",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
+  "hot-wallstreetcn": {
+    "configHash": "6e76a2ca01510352",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   },
-  "rss-nvidia-blog": {
-    "etag": "\"4ef4f90deeca0d447e928309b6d67425-gzip\"",
-    "lastModified": "Tue, 29 Sep 2026 16:29:25 GMT",
-    "configHash": "219951b2c406ee4b",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
+  "hot-cls": {
+    "configHash": "b73136911153b1c3",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   },
-  "rss-github-ai": {
-    "etag": "\"292587fd37ad7111ea93585f0b57e7bb\"",
-    "lastModified": "Tue, 29 Sep 2026 21:56:41 GMT",
-    "configHash": "4c55fbffc3ac7693",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
+  "hot-jin10": {
+    "configHash": "83b8ba8f301f4170",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   },
-  "rss-bair": {
-    "etag": "\"46973-657c8b456a0bd\"",
-    "lastModified": "Wed, 29 Jul 2026 23:56:30 GMT",
-    "configHash": "51f8274975973f60",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
+  "hot-gelonghui": {
+    "configHash": "d7b1ef5198e62f0f",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   },
-  "rss-the-verge-ai": {
-    "etag": "\"74d5b942bf165dfe12da28e54387264a\"",
-    "configHash": "30d3075711420e93",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
-  },
-  "rss-ars-technica-ai": {
-    "etag": "\"07660c72350730af37cf7eac744104f9\"",
-    "lastModified": "Wed, 30 Sep 2026 00:12:05 GMT",
-    "configHash": "814a5de5287ac6f8",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
-  },
-  "rss-the-decoder": {
-    "etag": "\"f9785ff23d3090ae97e65d7956341678\"",
-    "lastModified": "Tue, 29 Sep 2026 20:29:15 GMT",
-    "configHash": "40e60d3cb89bc601",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
-  },
-  "rss-simon-willison": {
-    "lastModified": "Tue, 29 Sep 2026 22:20:28 GMT",
-    "configHash": "052434531db837d6",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
-  },
-  "rss-latent-space": {
-    "etag": "W/\"14d7b3-hCLhC3m/PNOCqq2rxO5dKEKKIr8\"",
-    "configHash": "a5689419c24836e7",
-    "lastFetchedAt": "2026-09-30T03:19:34.893Z"
-  },
-  "rss-techcrunch-ai": {
-    "etag": "\"8c18bf259b3194760e1557f35bce501f\"",
-    "lastModified": "Wed, 30 Sep 2026 01:07:55 GMT",
-    "configHash": "0e9770270556fa3f",
-    "lastFetchedAt": "2026-09-30T03:31:12.758Z"
-  },
-  "rss-mit-tech-review-ai": {
-    "etag": "\"419f403fc6e919766a4feb55e4704e94\"",
-    "lastModified": "Wed, 30 Sep 2026 01:08:28 GMT",
-    "configHash": "14307d09071fb747",
-    "lastFetchedAt": "2026-09-30T03:31:12.758Z"
-  },
-  "hot-ithome": {
-    "configHash": "97d2dae7b9303a22",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-juejin": {
-    "configHash": "0bc1d3687fe91430",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-v2ex": {
-    "configHash": "f5250d7f22ec69ee",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-sspai": {
-    "configHash": "8fbcde884154872f",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-hackernews": {
-    "configHash": "96b7f54d2da2454a",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-github-trending": {
-    "configHash": "2a9aa0d6b31d33f4",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
-  },
-  "hot-producthunt": {
-    "configHash": "3a46debfd6c3d56c",
-    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  "hot-fastbull": {
+    "configHash": "69fea532e8a4072b",
+    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
   }
 }
