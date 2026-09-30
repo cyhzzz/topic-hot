@@ -9,7 +9,7 @@ on:
     paths-ignore:
       - "data/**"
   schedule:
-    - cron: "0 * * * *" # 每小时整点（UTC）
+    - cron: "13 * * * *" # 每小时跑一次；避开整点（GitHub 整点档期拥堵，调度延迟大）
   workflow_dispatch:
 
 permissions:
