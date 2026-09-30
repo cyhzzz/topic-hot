@@ -2540,5 +2540,2008 @@
       "average": 46
     },
     "selected": false
+  },
+  {
+    "id": "dzcx7oxoytaedqpbrw66w7i4",
+    "identityKey": "url:https://wallstreetcn.com/articles/3782821",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3782821",
+    "title": "谁在接盘美国国债？对冲基金扛起7%份额，但高杠杆是定时炸弹",
+    "language": "zh",
+    "publishedAt": "2026-09-30T08:25:54.000Z",
+    "excerpt": "当传统长期买家逐步退出，对冲基金正以前所未有的规模填补美国国债市场的需求缺口——但这一替代力量自带高杠杆风险，令市场稳定性面临新的考验。 对冲基金持有的美国国债规模已攀升至历史峰值。 美国财政部金融研究办公室数据显示，2025年底，对冲基金持有的现金国债达2万亿美元，在约28.9万亿美元的可流通国债中占比7%，创下历史纪录，较五年前增长近两倍。美联储更近期的数据显示，2026年上半年对冲基金持续净买入，仅二季度净买入额即达606亿美元。 然而，这股需求背后暗藏隐忧。美联储在5月金融稳定报告中警告， 对冲基金的杠杆率仍接近历史高位，且集中于大型基金 ；国际清算银行则直言，对冲基金作为政府债券市场核心中间商的崛起，已制造出\"新的金融稳定脆弱性\"。国债市场本身亦在承压——10年期美债收益率本周一升至2007年以来最高，30年期收益率周二触及2002年以来峰值。 传统买家撤退，对冲基金填补缺口 养老金基金长期以来是长久期国债的主力买家，其超长投资期限天然契合资产负债匹配需求。但这一格局正在改变。 据经合组织（OECD）分析，从固定收益型养老金计划（defined-benefit）向固定缴费型…",
+    "media": [],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:27.730Z",
+    "discoveredAt": "2026-09-30T09:05:27.730Z",
+    "category": "industry",
+    "summary": "当传统长期买家逐步退出，对冲基金正以前所未有的规模填补美国国债市场的需求缺口——但这一替代力量自带高杠杆风险，令市场稳定性面临新的考验。 对冲基金持有的美国国…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": true
+  },
+  {
+    "id": "v8lz4e05s7vvd29ubktjq3of",
+    "identityKey": "url:https://wallstreetcn.com/articles/3782824",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3782824",
+    "title": "金价本月跌超5%，后续走势等待今夜美国PCE“定方向”",
+    "language": "zh",
+    "publishedAt": "2026-09-30T08:23:44.000Z",
+    "excerpt": "黄金短线反弹，但月线跌势仍未扭转。随着市场对美联储继续加息的预期升温，即将公布的“美联储最爱通胀指标”——PCE数据将成为判断金价下一步走势的关键变量。 周三，现货黄金上涨0.3%，报每盎司4193.7美元，但月内累计跌幅仍超过5%。与此同时，美元延续强势，进一步推高非美元投资者的购金成本，限制金价反弹空间。 加息预期仍是压制金价的主要因素之一。 CME FedWatch数据显示，交易员预计美联储10月加息的概率为47%，12月加息概率高达91%。纽约联储主席John Williams近日表示，政策制定者今年可能只需再加息一次，就能推动通胀回归2%的目标水平。 在这一背景下，PCE数据将成为市场判断美联储后续政策路径的重要依据。 数据若低于预期，可能缓解加息压力并支撑金价；若通胀表现强于预期，则可能进一步推高收益率和美元，对黄金形成压力。 PCE价格指数将于北京时间20时30分公布。 PCE数据牵动金价下一步走势 Critical Metals首席执行官Tony Sage表示，PCE数据将是黄金短期走势的重要考验，其结果可能改变市场对美联储货币政策的预期，并进一步影响美债收益率和美元…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/040b05be-0760-4448-9dcf-1faa6b43ff7c.png"
+      }
+    ],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:27.730Z",
+    "discoveredAt": "2026-09-30T09:05:27.730Z",
+    "category": "market",
+    "summary": "黄金短线反弹，但月线跌势仍未扭转。随着市场对美联储继续加息的预期升温，即将公布的“美联储最爱通胀指标”——PCE数据将成为判断金价下一步走势的关键变量。 周三…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": true
+  },
+  {
+    "id": "t2os140sf9wylqt2jelokv94",
+    "identityKey": "url:https://wallstreetcn.com/articles/3782819",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3782819",
+    "title": "市场静待PCE，美股期指走高，10年期美债收益率小幅下行，布油跌1%，黄金站上4200",
+    "language": "zh",
+    "publishedAt": "2026-09-30T08:20:53.000Z",
+    "excerpt": "经历前期抛售后，全球股债暂时企稳，市场焦点集中于即将公布的美国PCE通胀数据。 周三，MSCI亚太指数上涨0.9%，有望创下三周来最大单日涨幅。美股期指上涨，道指期货涨0.5%，欧股高开。10年期美债收益率下行，布伦特原油跌1%，现货黄金日内涨0.44%，站上4200美元。 油价和美伊局势仍是市场主要不确定因素。能源成本上涨可能推高通胀，并强化市场对美联储进一步加息的预期，推动全球债券收益率升至多年高位。与此同时，下月企业财报将成为市场检验美股高估值能否由盈利支撑的关键。 摩根大通资产管理公司基金经理Arjun Vij表示：“债券抛售可能会因以下原因之一而停止：中东冲突迅速解决、受硬经济数据放缓推动的美股大幅下跌，或者盈利下降和业绩指引放缓。” 核心市场走势如下： 标普500指数期货上涨0.3%，纳斯达克100指数期货涨0.2%。 欧洲斯托克50指数开盘涨0.23%，德国DAX指数涨0.43%，英国富时100指数涨0.39%，法国CAC 40指数涨0.04%。 日经225指数收涨1.9%，报66,753.72点。日本东证指数收涨1.7%，报4,108.65点。韩国KOSPI指数收跌0…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/3f85d415-5033-46d4-bd38-51bbe739f4dc.png"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:27.730Z",
+    "discoveredAt": "2026-09-30T09:05:27.730Z",
+    "category": "industry",
+    "summary": "经历前期抛售后，全球股债暂时企稳，市场焦点集中于即将公布的美国PCE通胀数据。 周三，MSCI亚太指数上涨0.9%，有望创下三周来最大单日涨幅。美股期指上涨，…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": true
+  },
+  {
+    "id": "jjqys0v3fxo2md0e7mg3bqr5",
+    "identityKey": "url:https://wallstreetcn.com/articles/3782823",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3782823",
+    "title": "澳网加码中国，从赛事IP走向全年生活方式品牌",
+    "language": "zh",
+    "publishedAt": "2026-09-30T07:53:45.000Z",
+    "excerpt": "中国网球市场正在从由明星和赛期驱动的流量生意，转向以大众参与、日常消费和商业合作支撑的全年经营。 每年1月在墨尔本举行的澳网，是网球四大满贯之一，也是时区上最接近中国的一站，长期将自己定位为“亚太地区的大满贯”。 9月28日，澳网举行中国发布会。澳大利亚网球协会合作与国际业务总监罗迪·坎贝尔在接受华尔街见闻专访时，将澳网的长期目标概括为“打造一个贯穿全年的文化和生活方式品牌”。 “我们希望球迷全年都会想到澳网，而不是只在1月的三周。”坎贝尔说，“我们的目标，是让澳网成为一个全年持续发生的品牌体验，而不仅仅是一项在1月举办的赛事。”这意味着消费者在赛期之外仍能观看内容、参加比赛、购买产品，并把赴澳观赛纳入旅行计划。 通常来说，观众占比、社交媒体粉丝和合作伙伴数量是衡量市场规模的重要指标。这一次，谈及中国市场时，坎贝尔也表示，他也关注好的内容能否沉淀为稳定的用户关系。 几乎同期，国内首个以单项运动为主题的年度产业消费季——2026中国网球消费季启动，把赛事、电商、场馆和培训纳入同一套消费促进机制。 对澳网来说，中国市场的价值也不再只由收视率决定。中国球员带来关注，大众参与扩大消费，国际赛…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/5fd1023a-c120-4dbe-809e-ada0c3b3ca2c.jpeg"
+      }
+    ],
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:27.730Z",
+    "discoveredAt": "2026-09-30T09:05:27.730Z",
+    "category": "policy",
+    "summary": "中国网球市场正在从由明星和赛期驱动的流量生意，转向以大众参与、日常消费和商业合作支撑的全年经营。 每年1月在墨尔本举行的澳网，是网球四大满贯之一，也是时区上最…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": true
+  },
+  {
+    "id": "pvyh904yw24w3bwyu7ouxr33",
+    "identityKey": "url:https://wallstreetcn.com/articles/3782749",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3782749",
+    "title": "美债冲击持续加剧，为何美股依然无动于衷？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:28.317Z",
+    "discoveredAt": "2026-09-30T09:05:28.317Z",
+    "category": "market",
+    "summary": "美债冲击持续加剧，为何美股依然无动于衷？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "yc0nxwe9qjraejv2bpx7rcrs",
+    "identityKey": "url:https://www.cls.cn/detail/2496167",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2496167",
+    "title": "习近平：加强普惠性、基础性、兜底性民生建设",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:28.837Z",
+    "discoveredAt": "2026-09-30T09:05:28.837Z",
+    "category": "market",
+    "summary": "习近平：加强普惠性、基础性、兜底性民生建设",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "o9ltl9ex9s0mxxcyxis280y6",
+    "identityKey": "url:https://www.cls.cn/detail/2496313",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496313",
+    "title": "财联社9月30日电，可口可乐公司表示计划于12月提交其印度子公司的IPO申请。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，可口可乐公司表示计划于12月提交其印度子公司的IPO申请。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "stzsjrnpl4nldsuu41snum3g",
+    "identityKey": "url:https://www.cls.cn/detail/2496310",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496310",
+    "title": "国庆假期机票预售价比去年贵11%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "国庆假期机票预售价比去年贵11%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "zzx1y8eclacmvk0726qdkgic",
+    "identityKey": "url:https://www.cls.cn/detail/2496308",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496308",
+    "title": "中央网信办部署开展“清朗·整治短视频虚假人设乱象”专项行动",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "中央网信办部署开展“清朗·整治短视频虚假人设乱象”专项行动",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "z5akw0ni5bkxvwbaateml7c7",
+    "identityKey": "url:https://www.cls.cn/detail/2496302",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496302",
+    "title": "公募今年来分红1216亿 债基贡献六成",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "公募今年来分红1216亿 债基贡献六成",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "viwqrunsqv0jik7qn6pa83up",
+    "identityKey": "url:https://www.cls.cn/detail/2496301",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496301",
+    "title": "伊拉克宣布国际联盟正式结束在伊军事任务",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "伊拉克宣布国际联盟正式结束在伊军事任务",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "kxlky3u5pfk9uappg3hce1rl",
+    "identityKey": "url:https://www.cls.cn/detail/2496297",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496297",
+    "title": "北元化工：恒源投资拟协议转让不高于5.5%公司股份",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "北元化工：恒源投资拟协议转让不高于5.5%公司股份",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "u7yr9rllzp2yf7slrsz4v81o",
+    "identityKey": "url:https://www.cls.cn/detail/2496290",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496290",
+    "title": "财政部：1-8月全国国有及国有控股企业营业总收入同比下降2.7%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财政部：1-8月全国国有及国有控股企业营业总收入同比下降2.7%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "oeet9j3d16svb1mtq0wkwmfm",
+    "identityKey": "url:https://www.cls.cn/detail/2496279",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496279",
+    "title": "财联社9月30日电，在岸人民币兑美元收盘报6.7053，较上一交易日下降16点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，在岸人民币兑美元收盘报6.7053，较上一交易日下降16点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "vleethbpa1pg7ad01gfzgh63",
+    "identityKey": "url:https://www.cls.cn/detail/2496278",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496278",
+    "title": "财联社9月30日电，斯洛文尼亚9月CPI环比下降0.1%，同比上涨3.3%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，斯洛文尼亚9月CPI环比下降0.1%，同比上涨3.3%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "bh6oudabo108g7frzdehu7f4",
+    "identityKey": "url:https://www.cls.cn/detail/2496277",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496277",
+    "title": "伊朗称收到美针对卡塔尔提议的回复",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "伊朗称收到美针对卡塔尔提议的回复",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "j9wb257ua43cgbkxw0q0gsxy",
+    "identityKey": "url:https://www.cls.cn/detail/2496274",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496274",
+    "title": "国家外汇管理局就《通过银行进行国际收支统计申报业务实施细则（征求意见稿）》 公开征求意见",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "policy",
+    "summary": "国家外汇管理局就《通过银行进行国际收支统计申报业务实施细则（征求意见稿）》 公开征求意见",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "m1xq2ly98oxft1eznwyb6s1w",
+    "identityKey": "url:https://www.cls.cn/detail/2496272",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496272",
+    "title": "四部门：开展2026年度享受增值税加计抵减政策的集成电路企业清单制定工作",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "四部门：开展2026年度享受增值税加计抵减政策的集成电路企业清单制定工作",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "n0pb0gwr71wmpk6avnuqebcs",
+    "identityKey": "url:https://www.cls.cn/detail/2496271",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496271",
+    "title": "中国东航：拟投资33.95亿元建设浦东机场四期东航基地生产辅助区项目",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "中国东航：拟投资33.95亿元建设浦东机场四期东航基地生产辅助区项目",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "qy38ggo5t5q3hegang4ldtt3",
+    "identityKey": "url:https://www.cls.cn/detail/2496268",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496268",
+    "title": "中际旭创：协议受让中石科技10.47%股份完成过户登记",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "中际旭创：协议受让中石科技10.47%股份完成过户登记",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "qu7r4wugaicegwx0r9bo6v1z",
+    "identityKey": "url:https://www.cls.cn/detail/2496265",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496265",
+    "title": "赛轮轮胎：实控人之一致行动人拟无偿捐赠3786万股股份",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "赛轮轮胎：实控人之一致行动人拟无偿捐赠3786万股股份",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "o0erxhtdswnwxzajqzh6fz36",
+    "identityKey": "url:https://www.cls.cn/detail/2496263",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496263",
+    "title": "招商轮船：子公司签署6艘VLOC船舶25年长期运输协议 总金额预计不低于28亿美元",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "招商轮船：子公司签署6艘VLOC船舶25年长期运输协议 总金额预计不低于28亿美元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "xamtlf43xiy0kjrrusa9a1c6",
+    "identityKey": "url:https://www.cls.cn/detail/2496256",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496256",
+    "title": "9月30日连板股分析：连板股晋级率60% 善水科技20cm3连板",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "9月30日连板股分析：连板股晋级率60% 善水科技20cm3连板",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "y36gularhullso4fadyz6sib",
+    "identityKey": "url:https://www.cls.cn/detail/2496260",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496260",
+    "title": "英国公用事业板块上涨2.8%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "英国公用事业板块上涨2.8%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "jz8glshdfl1zgjlgf94p4k2y",
+    "identityKey": "url:https://www.cls.cn/detail/2496257",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496257",
+    "title": "财联社9月30日电，德国经济部发言人表示，政府将从2027年起建立战略天然气储备。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，德国经济部发言人表示，政府将从2027年起建立战略天然气储备。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "b0dy6gj8aaqny3tllcuf3cb2",
+    "identityKey": "url:https://www.cls.cn/detail/2496254",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496254",
+    "title": "恒生指数收涨0.37% 恒生科技指数收涨0.10%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "恒生指数收涨0.37% 恒生科技指数收涨0.10%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "uj1t8p9lielmt03ynfttru92",
+    "identityKey": "url:https://www.cls.cn/detail/2496253",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496253",
+    "title": "新疆天业：拟8.65亿元收购四家矿业公司100%股权",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "新疆天业：拟8.65亿元收购四家矿业公司100%股权",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "cfpexz2zmurvwi4hanyamzby",
+    "identityKey": "url:https://www.cls.cn/detail/2496250",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496250",
+    "title": "财联社9月30日电，伦敦金属交易所（LME）镍仓单库存减少8,322吨，为2025年5月以来最大降幅。",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "policy",
+    "summary": "财联社9月30日电，伦敦金属交易所（LME）镍仓单库存减少8,322吨，为2025年5月以来最大降幅。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "rkr1gjk7kmiblx9cwq9zmks0",
+    "identityKey": "url:https://www.cls.cn/detail/2496247",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496247",
+    "title": "财联社9月30日电，德国政府已指示能源公司SEFE储存天然气。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，德国政府已指示能源公司SEFE储存天然气。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "eq0bklqyndfto9nsr9q1qa00",
+    "identityKey": "url:https://www.cls.cn/detail/2496246",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496246",
+    "title": "迪拜航空确认返航客机降落乘客安全",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "迪拜航空确认返航客机降落乘客安全",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "of3ob4drx0qs4tgw1hel41gt",
+    "identityKey": "url:https://www.cls.cn/detail/2496244",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496244",
+    "title": "智能眼镜声学性能测试规范10月2日起正式实施",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "智能眼镜声学性能测试规范10月2日起正式实施",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "el17572s2sq7lx3zkmoydjhg",
+    "identityKey": "url:https://www.cls.cn/detail/2496243",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496243",
+    "title": "财联社9月30日电，瑞士9月ZEW投资者信心指数为2.6，前值12.1。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，瑞士9月ZEW投资者信心指数为2.6，前值12.1。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "r2vz0go7oz9a2rnlf57mco1w",
+    "identityKey": "url:https://www.cls.cn/detail/2496242",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496242",
+    "title": "致尚科技：签订5亿美金光纤连接器(MPO光纤跳线等光通信产品)需求预测合作备忘录",
+    "language": "zh",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "product",
+    "summary": "致尚科技：签订5亿美金光纤连接器(MPO光纤跳线等光通信产品)需求预测合作备忘录",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "t0sey0cwapivrqwtcngjxff0",
+    "identityKey": "url:https://www.cls.cn/detail/2496240",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496240",
+    "title": "迈为股份等成立智芯半导体公司",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "迈为股份等成立智芯半导体公司",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "byk04t6iwfgejft17hstjc7j",
+    "identityKey": "url:https://www.cls.cn/detail/2496239",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496239",
+    "title": "财联社9月30日电，中国智能手机制造商OPPO据悉寻求12亿美元等值银团贷款。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，中国智能手机制造商OPPO据悉寻求12亿美元等值银团贷款。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "padfcsy253mkv5icv8sihqka",
+    "identityKey": "url:https://www.cls.cn/detail/2496237",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2496237",
+    "title": "财联社9月30日电，摩根大通分析师表示，外国投资者正持续加大对北美人工智能计算基础设施的资金投入。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.331Z",
+    "discoveredAt": "2026-09-30T09:05:29.331Z",
+    "category": "market",
+    "summary": "财联社9月30日电，摩根大通分析师表示，外国投资者正持续加大对北美人工智能计算基础设施的资金投入。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "bvwj0r4gtu8m81dv12ehty1z",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164651235800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164651235800",
+    "title": "伊拉克国民议会议长：我们尊重与伊朗的关系，也希望伊拉克主权得到尊重。德黑兰并未将伊拉克船只排除在霍尔木兹海峡航行禁令之外。对国内安全形势感到担忧。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "伊拉克国民议会议长：我们尊重与伊朗的关系，也希望伊拉克主权得到尊重。德黑兰并未将伊拉克船只排除在霍尔木兹海峡航行禁令之外。对国内安全形势感到担忧。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "dj11x5lfv3edmg8fcte51vx3",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164641607800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164641607800",
+    "title": "财政部：1-8月，全国国有及国有控股企业营业总收入同比下降2.7%，利润总额同比增长0.2%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "财政部：1-8月，全国国有及国有控股企业营业总收入同比下降2.7%，利润总额同比增长0.2%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "a2ny70o95vz745ofad0lqv1y",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164448952800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164448952800",
+    "title": "南宁百货：控股子公司桂林竹木破产程序终结",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，南宁百货公告，公司控股子公司桂林南百竹木业发展有限公司因资不抵债、不具备持续运营能力，公司于2019年4月以债权人身份向桂林中院申请对其破产清算，同年8月法院裁定受理，2020年7月该公司被宣告破产。近日公司收到法院裁定，因桂林竹木破产财产不足以偿付破产费用，终结其破产程序。公司涉及桂林竹木的所有资产已于2015年全额计提减值准备，桂林竹木已不再纳入合并报表范围，本次清算不会对公司本期或期后利润产生重大影响。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，南宁百货公告，公司控股子公司桂林南百竹木业发展有限公司因资不抵债、不具备持续运营能力，公司于2019年4月以债权人身份向桂林中院申请对其…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "k1qhqsv33yayo8nne0jkc6gw",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164405924800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164405924800",
+    "title": "伊拉克国民议会议长：由于一些受外国势力指挥的武装派别，我们与阿拉伯邻国的关系出现了紧张。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "伊拉克国民议会议长：由于一些受外国势力指挥的武装派别，我们与阿拉伯邻国的关系出现了紧张。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "pl8pwl6ijvuys9yinvyohw91",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164353220800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164353220800",
+    "title": "*ST四通：公司及相关责任人收到广东证监局警示函",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，*ST四通公告，公司收到广东证监局警示函，经查公司存在2025年一季报、半年报、三季报收入核算不准确，2025年资产减值损失确认不充分的问题，相关报告披露不准确。广东证监局决定对公司采取责令改正的行政监管措施，对董事长邓建华、总经理蔡镇通、财务总监张平采取出具警示函的行政监管措施，要求相关方收到决定书之日起30日内报送整改报告。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "policy",
+    "summary": "金十数据9月30日讯，*ST四通公告，公司收到广东证监局警示函，经查公司存在2025年一季报、半年报、三季报收入核算不准确，2025年资产减值损失确认不充分的…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "m7osyjpitiywssqmyrxpxu3a",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164351565800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164351565800",
+    "title": "伊拉克国民议会议长：领导层已作出决议，禁止针对邻国发动袭击，并禁止将伊拉克作为威胁邻国的跳板。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "伊拉克国民议会议长：领导层已作出决议，禁止针对邻国发动袭击，并禁止将伊拉克作为威胁邻国的跳板。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "hvc51txhc6gdfk7c9e2gl0i4",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164334875800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164334875800",
+    "title": "伊拉克国民议会议长：我们不会允许伊拉克领土上发生针对海湾国家的攻击。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "伊拉克国民议会议长：我们不会允许伊拉克领土上发生针对海湾国家的攻击。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "kn6oymog0ojy9kh3efcn4ka9",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164240284800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164240284800",
+    "title": "伊朗总统：将全力以赴推动谅解备忘录的落实",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "eky0aoppzgjnolzfye1jz42f",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164231699800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164231699800",
+    "title": "三连板时代万恒：目前生产经营情况正常 均按订单组织生产",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，时代万恒公告，公司股票连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。公司主营业务为新能源电池的研发、生产和销售，涉及锂离子电池和镍氢电池两部分，锂电池产品主要应用于电动工具领域，镍氢电池产品主要应用于个人护理、民用消费品、电动工具等领域。公司目前生产经营情况正常，均按订单组织生产。",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "product",
+    "summary": "金十数据9月30日讯，时代万恒公告，公司股票连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。公司主营业务为新能源电池的研发、生产…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "i5bdt19dw2oolycktyfufntp",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164211249800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164211249800",
+    "title": "中东客机发出“劫机代码”：两国战机升空，最后是一场大乌龙",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "r4qi5kqueyp02anr1y2qzaoz",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930164031759800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930164031759800",
+    "title": "黄金延续反弹，市场关注美伊谈判进展及美联储鸽派信号",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，随着市场对美伊谈判取得进展的预期升温，黄金延续反弹；据悉美伊双方仍在就伊朗提出的“有条件、7天内重启霍尔木兹海峡”方案进行谈判，目前的分歧主要集中在步骤的先后顺序上，而非计划的具体内容。与此同时，美联储官员威廉姆斯的言论也提振了金价。他表示，在9月加息之后并不急于采取进一步行动，但如果经济表现符合预期，可能会再加息一次。他的言论引发了市场对政策立场的鸽派重新评估，10月加息的概率随之从70%降至45%。短期来看，市场焦点仍将集中在美伊谈判、美联储政策信号以及本周美国经济数据。今日将公布ADP就业和PCE物价指数，周四公布ISM制造业PMI和初请失业金人数，周五则将公布非农就业报告。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，随着市场对美伊谈判取得进展的预期升温，黄金延续反弹；据悉美伊双方仍在就伊朗提出的“有条件、7天内重启霍尔木兹海峡”方案进行谈判，目前的分…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": true
+  },
+  {
+    "id": "ue267tt7kdmzxajlz033tno9",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163850593800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163850593800",
+    "title": "华是科技：股票交易异常波动 无应披露未披露重大事项",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，华是科技公告，公司股票于2026年9月29日、9月30日连续两个交易日收盘价涨幅偏离值累计达30%，属于股票交易异常波动情形。公司2026年上半年实现营业收入2.11亿元，归母净亏损1460.46万元，扣非净亏损2091.49万元。截至目前，公司基本面及内外部经营环境未发生重大变化，公司、控股股东及实控人均不存在应披露而未披露的重大信息，实控人及控股股东在异动期间未买卖公司股票。公司当前滚动市盈率为负值，显著偏离行业平均水平，提醒投资者理性投资、注意风险。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，华是科技公告，公司股票于2026年9月29日、9月30日连续两个交易日收盘价涨幅偏离值累计达30%，属于股票交易异常波动情形。公司202…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "qbs8j4lkzs7qr8ax43g3xljd",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163800837800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163800837800",
+    "title": "振芯科技：获2141.55万元政府补助",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，振芯科技公告，公司近日收到与收益相关的政府补助资金共计2141.55万元，占2025年度经审计净利润的75.65%。上述补助计入“其他收益”，预计增加2026年度利润总额2141.55万元。具体会计处理及影响以审计结果为准。",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "industry",
+    "summary": "金十数据9月30日讯，振芯科技公告，公司近日收到与收益相关的政府补助资金共计2141.55万元，占2025年度经审计净利润的75.65%。上述补助计入“其他收…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "quy9lpmqbjthb4itvwcz6bk1",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163545140800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163545140800",
+    "title": "GME数据显示，阿曼11月原油官方售价为每桶114.07美元，较10月的每桶87.84美元上涨26.23美元。",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "hxkixgp1zqvhujck4k7rq41s",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163424388800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163424388800",
+    "title": "北元化工：陕西恒源投资集团有限公司拟减持公司不超过5.5%股份",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，北元化工公告，持股5%以上股东陕西恒源投资集团有限公司持有公司9亿股，占总股本22.66%，拟通过协议转让方式转让不高于2.18亿股，不高于总股本5.5%（含5.5%）。转让期间为上海证券交易所出具确认意见书之后的6个月内。本次协议转让不会导致公司控股股东、实际控制人发生变化。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "policy",
+    "summary": "金十数据9月30日讯，北元化工公告，持股5%以上股东陕西恒源投资集团有限公司持有公司9亿股，占总股本22.66%，拟通过协议转让方式转让不高于2.18亿股，不…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 65,
+      "average": 62
+    },
+    "selected": true
+  },
+  {
+    "id": "fsvreja8r4hk5f9cfr47zq3o",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163349133800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163349133800",
+    "title": "中央网信办部署开展“清朗·整治短视频虚假人设乱象”专项行动",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，近日，中央网信办印发通知，在全国范围内部署开展为期2个月的“清朗·整治短视频虚假人设乱象”专项行动。中央网信办有关负责同志表示，本次专项行动重点整治突出问题，包括假扮弱势群体问题、利用AI等仿冒人物问题、编造冲突剧情问题等。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，近日，中央网信办印发通知，在全国范围内部署开展为期2个月的“清朗·整治短视频虚假人设乱象”专项行动。中央网信办有关负责同志表示，本次专项…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "jda2odjdtcny17a5z3vft3vj",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163320076800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163320076800",
+    "title": "内蒙新华：股票交易异常波动 无应披露未披露重大事项",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，内蒙新华公告，公司股票连续三个交易日（2026年9月28日、9月29日、9月30日）内收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。经自查并向控股股东、实控人函证，公司日常经营情况及外部环境未发生重大变化，不存在应披露而未披露的重大事项，董监高、控股股东及实控人在异常波动期间不存在买卖公司股票的情况。敬请广大投资者注意投资风险，理性决策。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，内蒙新华公告，公司股票连续三个交易日（2026年9月28日、9月29日、9月30日）内收盘价格跌幅偏离值累计超过20%，属于股票交易异常…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "jqu0l8cxotdtmxvc0dmaptrf",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163143587800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163143587800",
+    "title": "航天长峰：尚未在脑机接口领域开展相关业务，也从未研发过上述材料。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "航天长峰：尚未在脑机接口领域开展相关业务，也从未研发过上述材料。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "dfjbjum166ttkoaz6yk3g1na",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163125562800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163125562800",
+    "title": "中国东航：拟投资33.95亿元建设浦东机场四期东航基地生产辅助区项目",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，中国东航公告，公司董事会审议通过浦东机场四期东航基地生产辅助区项目立项，项目总投资约33.95亿元。同时，公司拟与其他股东以货币形式对东航江苏公司同比例增资，其中公司增资31.28亿元。本次增资不涉及关联交易。",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "industry",
+    "summary": "金十数据9月30日讯，中国东航公告，公司董事会审议通过浦东机场四期东航基地生产辅助区项目立项，项目总投资约33.95亿元。同时，公司拟与其他股东以货币形式对东…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "ycfu3qa5sa1yw9ix3p6jbc54",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163124327800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163124327800",
+    "title": "在岸人民币兑美元9月30日16:30收盘报6.7053，较上一交易日下跌16点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "在岸人民币兑美元9月30日16:30收盘报6.7053，较上一交易日下跌16点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "ry6mu4k43k6hox3pt2lbhl4d",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163115369800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163115369800",
+    "title": "金十数据整理：每日债券市场要闻速递（2026-09-30）",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "bvqg8z6qm7grugw3fkn4pv1r",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163044177800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163044177800",
+    "title": "WTI原油站上89美元/桶，日内涨1.09%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "WTI原油站上89美元/桶，日内涨1.09%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "uwj0ht4f1z12fi1caog1bgel",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163039949800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163039949800",
+    "title": "乌克兰总理：俄罗斯已对乌克兰的能源基础设施发起大规模攻击。",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "tqguct2u3l4htf98vx7af52p",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930163009477800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930163009477800",
+    "title": "中国香港8月货币供应M3年率 9.9%，前值5.50%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "中国香港8月货币供应M3年率 9.9%，前值5.50%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "o20wpsen61grcv709fuslli9",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930162922790800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930162922790800",
+    "title": "中际旭创：协议受让中石科技10.47%股份完成过户登记",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，中际旭创公告，公司协议受让中石科技控股股东吴晓宁、叶露和HANWU合计持有的3137.25万股股份，占中石科技总股本的10.47%，转让价款合计17.47亿元。公司已于2026年9月29日完成过户登记，本次交易后合计持有中石科技10.47%股份。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，中际旭创公告，公司协议受让中石科技控股股东吴晓宁、叶露和HANWU合计持有的3137.25万股股份，占中石科技总股本的10.47%，转让…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "h7021rpwmn3i62savvp6jbw9",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930162710538800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930162710538800",
+    "title": "基金危机引发抛售潮，土耳其股市势将进入熊市",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，近期的基金危机令伊斯坦布尔上市公司市值蒸发数十亿美元，土耳其股市势将进入熊市。土耳其主要股指BIST100指数周三早盘一度下跌1.7%至12,084点，较5月初高点下跌20%，若收于该水平则将进入熊市区域。以美元计算，该指数已下跌约25%。自持有大量流动性较差股票的投资基金出现流动性问题引发危机以来，土耳其市场一直处于动荡之中。尽管监管机构和央行采取措施，但抛售仍蔓延至整个伊斯坦布尔证交所。此后，131只基金被清算，多名金融业高管被拘留或逮捕。此次暴跌已导致土耳其股市9月市值蒸发约1000亿美元，暴露出该国快速增长的基金行业部分领域存在的风险。BIST 100指数9月迄今累计下跌超过15%，创2020年以来最糟糕单月表现。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "policy",
+    "summary": "金十数据9月30日讯，近期的基金危机令伊斯坦布尔上市公司市值蒸发数十亿美元，土耳其股市势将进入熊市。土耳其主要股指BIST100指数周三早盘一度下跌1.7%至…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": true
+  },
+  {
+    "id": "retf4tyb631znbw81nsn78oi",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930162604025800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930162604025800",
+    "title": "埃及外交部：在索马里被劫持的M/T EUREKA油轮上的八名埃及船员已获释。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "埃及外交部：在索马里被劫持的M/T EUREKA油轮上的八名埃及船员已获释。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "s9pgnmedhm79m6o6bmc88fmp",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930162451865800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930162451865800",
+    "title": "全国首个高原绿色Token中心落地青海",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，近日，全国首个高原绿色Token中心正式落地中国移动（青海）高原大数据中心二期。该中心打通“Token生产—流通交易—应用落地”全链路，让智能服务像用水用电一样即开即用、按量计费，为青海人工智能产业筑牢绿色算力底座。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，近日，全国首个高原绿色Token中心正式落地中国移动（青海）高原大数据中心二期。该中心打通“Token生产—流通交易—应用落地”全链路，…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 61,
+      "understand": 50,
+      "average": 56
+    },
+    "selected": true
+  },
+  {
+    "id": "agqdzz5in1k58u4jaexiha8x",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930162428935800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930162428935800",
+    "title": "招商轮船：子公司签署6艘VLOC船舶25年长期运输协议 总金额预计不低于28亿美元",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，招商轮船公告，公司下属全资子公司香港明华船务有限公司近日与客户签署6艘VLOC散货船舶25年期的《长期运输协议》，合同总金额预计不低于28亿美元。该协议是香港明华深度参与西芒杜项目的第一步，有利于公司干散货船队的内生式发展和质量提升。合同履行期较长，公司将根据收入准则分期确认收入，对当期利润不构成重大影响。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，招商轮船公告，公司下属全资子公司香港明华船务有限公司近日与客户签署6艘VLOC散货船舶25年期的《长期运输协议》，合同总金额预计不低于2…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "spvjfbnuieh7v9t2kiuppyyn",
+    "identityKey": "url:https://flash.jin10.com/detail/20260930161834435800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20260930161834435800",
+    "title": "《国民经济行业分类》专家技术审查会在京召开",
+    "language": "zh",
+    "excerpt": "金十数据9月30日讯，9月28日，《国民经济行业分类》专家技术审查会在北京召开。会议指出，修订《国民经济行业分类》是贯彻落实党中央决策部署，加强新经济新领域纳统覆盖的具体行动，也是保持统计国际可比、服务宏观经济治理的重要举措，意义十分重大。修订后的《国民经济行业分类》既保持了标准的总体稳定，又充分吸收了新产业、新业态及数字经济新内容，反映了新时代经济社会发展的新进展新成果，为国民经济核算和统计调查提供了详细、科学的分类依据。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:29.799Z",
+    "discoveredAt": "2026-09-30T09:05:29.799Z",
+    "category": "market",
+    "summary": "金十数据9月30日讯，9月28日，《国民经济行业分类》专家技术审查会在北京召开。会议指出，修订《国民经济行业分类》是贯彻落实党中央决策部署，加强新经济新领域纳…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 65,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "a2nk4fkqhizsy5wv5w1ei7g1",
+    "identityKey": "url:https://www.gelonghui.com/news/5319731",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319731",
+    "title": "汇隆新材(301057.SZ)：控股股东、实际控制人终止协议转让部分公司股份",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
+  },
+  {
+    "id": "tojdb0u9gfe6kwu77i5zpki5",
+    "identityKey": "url:https://www.gelonghui.com/news/5319730",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319730",
+    "title": "浙版传媒(601921.SH)：拟1.25亿元参与设立投资基金",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
+  },
+  {
+    "id": "u1luit980vngx1okhiggk4qq",
+    "identityKey": "url:https://www.gelonghui.com/news/5319729",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319729",
+    "title": "凌雄科技(02436.HK)9月30日耗资391.97万港元回购24万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "bm159vid0n4hwetw0awmkz0n",
+    "identityKey": "url:https://www.gelonghui.com/news/5319728",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319728",
+    "title": "渣打集团(02888.HK)9月29日耗资834.5万英镑回购35.64万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "zavij5em3obdlst538acofsg",
+    "identityKey": "url:https://www.gelonghui.com/news/5319727",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319727",
+    "title": "亚邦股份(603188.SH)：不存在应披露而未披露的重大事项",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "fu5eflnemyux2ryco8c7rt2x",
+    "identityKey": "url:https://www.gelonghui.com/news/5319726",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319726",
+    "title": "中国金融投资管理(00605.HK)附属授出本金额680万元贷款",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "px5soskx4i1fxvmcif37e2ci",
+    "identityKey": "url:https://www.gelonghui.com/news/5319725",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319725",
+    "title": "正业国际(03363.HK)：拟2344.3万元出售位于荟谷项目的10号厂房部分物业",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "h6vrgpvg4taqwx7tm8jgf8up",
+    "identityKey": "url:https://www.gelonghui.com/news/5319724",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319724",
+    "title": "音飞储存(603066.SH)：聘任张华为公司财务总监",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
+  },
+  {
+    "id": "rkkf1ln5limgv5zqb85oz20r",
+    "identityKey": "url:https://www.gelonghui.com/news/5319723",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319723",
+    "title": "中国海外宏洋集团(00081.HK)拟10月21日举行董事局会议审批季度业绩",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "industry",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "hyhgep6jh7mjphvokyatys3m",
+    "identityKey": "url:https://www.gelonghui.com/news/5319722",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319722",
+    "title": "时代万恒(600241.SH)：目前生产经营情况正常，均按订单组织生产",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "oqakeyp90n4l3ywd3ey9wxry",
+    "identityKey": "url:https://www.gelonghui.com/news/5319721",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319721",
+    "title": "中文在线(300364.SZ)：拟定增募资不超过28.33亿元用于AI大模型技术研发与升级项目等",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
+  },
+  {
+    "id": "dzd88hq1nw2t3jb4uofig7h1",
+    "identityKey": "url:https://www.gelonghui.com/news/5319720",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319720",
+    "title": "威胜控股(03393.HK)9月30日耗资383.15万港元回购30万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "jlpxn665tsl4849bwml9bwxb",
+    "identityKey": "url:https://www.gelonghui.com/news/5319719",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319719",
+    "title": "华友钴业(603799.SH)：已累计回购1508.303万股股份",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
+  },
+  {
+    "id": "dfyhqsw5tpr9inrk2d5q2cs0",
+    "identityKey": "url:https://www.gelonghui.com/news/5319718",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319718",
+    "title": "中国淀粉(03838.HK)9月30日耗资70.6万港元回购400万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "damwjtrwh81hna6t9tl6xxla",
+    "identityKey": "url:https://www.gelonghui.com/news/5319717",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5319717",
+    "title": "五矿发展(600058.SH)：聘任邰晓僖担任董事会秘书职务",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T09:05:30.260Z",
+    "discoveredAt": "2026-09-30T09:05:30.260Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": true
   }
 ]

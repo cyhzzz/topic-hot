@@ -1,26 +1,30 @@
 {
   "rss-wallstreetcn": {
     "configHash": "71a2e642bfc44427",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   },
   "hot-wallstreetcn": {
     "configHash": "6e76a2ca01510352",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   },
   "hot-cls": {
     "configHash": "b73136911153b1c3",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   },
   "hot-jin10": {
     "configHash": "83b8ba8f301f4170",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   },
   "hot-gelonghui": {
     "configHash": "d7b1ef5198e62f0f",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   },
   "hot-fastbull": {
     "configHash": "69fea532e8a4072b",
-    "lastFetchedAt": "2026-09-30T07:37:05.033Z"
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
+  },
+  "feed-cls": {
+    "configHash": "881503a4560500e9",
+    "lastFetchedAt": "2026-09-30T09:05:27.506Z"
   }
 }

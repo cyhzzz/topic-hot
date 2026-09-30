@@ -4,6 +4,10 @@
 name: Collect and deploy
 
 on:
+  push: # 推到 main 即采集发布；忽略 data/** 防止数据回写触发循环
+    branches: [main]
+    paths-ignore:
+      - "data/**"
   schedule:
     - cron: "0 * * * *" # 每小时整点（UTC）
   workflow_dispatch:

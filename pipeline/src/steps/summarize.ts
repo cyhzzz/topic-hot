@@ -88,7 +88,7 @@ function normalizeTagList(raw: unknown, allowed: ReadonlySet<string> | readonly 
 
 function ruleAttention(record: ItemRecord, tier: string): number {
   const hay = `${record.title} ${record.excerpt ?? ""}`;
-  let score = tier === "T1" ? 66 : tier === "T1_5" ? 58 : 46;
+  let score = tier === "T1" ? 66 : tier === "T1_5" ? 58 : 56;
   if (matchEntities(hay).length > 0) score += 6;
   if (RELEASE_RE.test(record.title)) score += 5;
   if (MARKET_HINT_RE.test(hay)) score += 3;

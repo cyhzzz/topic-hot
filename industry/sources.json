@@ -58,6 +58,25 @@
       "syndicate_fulltext": false
     },
     {
+      "id": "feed-cls",
+      "name": "财联社 · 电报",
+      "kind": "newsnow",
+      "config": {
+        "platform": "cls"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "快讯",
+        "市场"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
       "id": "hot-jin10",
       "name": "金十数据",
       "kind": "newsnow",
