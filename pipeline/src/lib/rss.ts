@@ -178,7 +178,7 @@ export type RssFetchResult = {
  * 抓取并解析一个 feed。validator 传上次返回的协商缓存凭据即可走条件请求；
  * feedUrl 变了会自动作废旧凭据。force 为真时跳过缓存直接拉全量。
  */
-export async function fetchRss(source: SourceRow, validator: FeedValidator = {}, opts: { force?: boolean } = {}): Promise<RssFetchResult> {
+export async function fetchRss(source: Extract<SourceRow, { kind: "rss" }>, validator: FeedValidator = {}, opts: { force?: boolean } = {}): Promise<RssFetchResult> {
   const feedUrl = source.config.feedUrl;
   const configHash = shortHash(feedUrl, 16);
   const cached = validator.configHash === configHash ? validator : {};

@@ -37,16 +37,17 @@
 | --- | --- |
 | `id` | 稳定标识，游标按它存，不要中途改 |
 | `name` | 页面上显示的来源名 |
-| `kind` | 目前支持 `"rss"` |
-| `config.feedUrl` | RSS 地址 |
-| `config.backfillLimit` | 首次抓取回溯多少条 |
+| `kind` | `"rss"`（订阅源）或 `"newsnow"`（热榜源） |
+| `config.feedUrl` | RSS 地址（`kind: "rss"` 时必填） |
+| `config.backfillLimit` | 首次抓取回溯多少条（仅 RSS） |
+| `config.platform` | NewsNow 平台 id，如 `ithome`、`juejin`、`hackernews`（仅热榜源） |
 | `tier` | 信源分级：`T1` 官方一手 / `T1_5` 官方账号、准官方 / `T2` 媒体与个人；分级直接决定精选门槛 |
 | `owner_entity_id` | 发布方，引用 `taxonomy.ts` 的 `ENTITIES` id |
 | `interval_minutes` | 抓取间隔（分钟）；游标未到期就跳过 |
 | `tags` | 来源自身的固定标签 |
 | `site_fulltext` | 站点上是否展示全文；默认 `false`，只在来源明确允许时打开 |
 
-挑信源的原则：优先官方一手（门槛低、噪声小），媒体源控制在能看过来的数量。加完源跑一轮 `npm run collect`，看结尾列出的失败信源和 `data/meta.json` 的 `errors`。
+挑信源的原则：优先官方一手（门槛低、噪声小），媒体源控制在能看过来的数量。热榜源（`newsnow`）来自 NewsNow 公共聚合接口，条目只有标题和链接，一般按 `T2` 挂：它们都会进条目池参与事件归组，但要进每日精选得过评分门槛——配了模型时由模型正常打分；纯规则模式下 T2 分数上不去，热榜条目基本只出现在事件卡里。加完源跑一轮 `npm run collect`，看结尾列出的失败信源和 `data/meta.json` 的 `errors`。
 
 ## 4. 主题页：`topics.json`
 

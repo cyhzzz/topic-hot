@@ -1,6 +1,6 @@
 {
   "day": "2026-09-30",
-  "generatedAt": "2026-09-30T03:38:18.216Z",
+  "generatedAt": "2026-09-30T04:07:47.116Z",
   "lead": {
     "title": "Improving synthesis predictio…",
     "paragraph": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
@@ -361,7 +361,7 @@
     }
   ],
   "stats": {
-    "total": 77,
+    "total": 261,
     "selected": 20,
     "llmCalls": 0
   }

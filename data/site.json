@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T03:38:18.216Z",
+  "generatedAt": "2026-09-30T04:07:47.116Z",
   "today": "2026-09-30",
   "site": {
     "name": "Topic Hot",
@@ -13,7 +13,7 @@
         "AI 圈每天都有新动静，",
         "值得看的，只有几条。"
       ],
-      "lead": "Topic Hot 替你盯着 18 个信源：抓取、归并、打分、精选，每小时更新一次，每天出一份日报。免费，不用注册。",
+      "lead": "Topic Hot 替你盯着 25 个信源：抓取、归并、打分、精选，每小时更新一次，每天出一份日报。免费，不用注册。",
       "steps": {
         "collect": "官方博客、媒体和研究机构的订阅源都在看；GitHub Actions 每小时自动采集一轮。",
         "store": "抓到的内容按同一件事归到一起，只保留摘要和原文链接，数据以 JSON 形式存在仓库里。",
@@ -59,7 +59,7 @@
   "reports": [
     {
       "day": "2026-09-30",
-      "generatedAt": "2026-09-30T03:38:18.216Z",
+      "generatedAt": "2026-09-30T04:07:47.116Z",
       "lead": {
         "title": "Improving synthesis predictio…",
         "paragraph": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
@@ -420,7 +420,7 @@
         }
       ],
       "stats": {
-        "total": 77,
+        "total": 261,
         "selected": 20,
         "llmCalls": 0
       }
@@ -438,7 +438,7 @@
         "cemtpunv0v7zbqejgpegiycb",
         "uslftqd0gs8mcz3si9hqohr0"
       ],
-      "updatedAt": "2026-09-30T03:38:18.216Z"
+      "updatedAt": "2026-09-30T04:07:47.116Z"
     },
     {
       "id": "ev_f3ea35bd2b",
@@ -452,7 +452,47 @@
         "l7y2fbwsaw38j4raq0iuiy92",
         "t8cn538rbqmn38e9ikc3tgh2"
       ],
-      "updatedAt": "2026-09-30T03:38:18.216Z"
+      "updatedAt": "2026-09-30T04:07:47.116Z"
+    },
+    {
+      "id": "ev_acd9e8f87e",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the pri…",
+      "category": "industry",
+      "tags": [
+        "行业动态"
+      ],
+      "itemIds": [
+        "w47gm6l3j0pul5fpd86lnxw9",
+        "x13qeq5nn7r5xdsh3w7jwmos"
+      ],
+      "updatedAt": "2026-09-30T04:07:47.116Z"
+    },
+    {
+      "id": "ev_d81f160e73",
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "category": "industry",
+      "tags": [
+        "行业动态"
+      ],
+      "itemIds": [
+        "aexw6205tthyk2rv0y49aqzi",
+        "m5a8966b6dijpqis6uk0sh84",
+        "db47tmxwbwhofpdrxxeyrd9n"
+      ],
+      "updatedAt": "2026-09-30T04:07:47.116Z"
+    },
+    {
+      "id": "ev_ef201bd07d",
+      "title": "派评 | 近期值得关注的 App",
+      "category": "industry",
+      "tags": [
+        "行业动态"
+      ],
+      "itemIds": [
+        "tbbjrals7q2qzfz1quoqrijz",
+        "qtivjsln182x7ig4647ie1xt"
+      ],
+      "updatedAt": "2026-09-30T04:07:47.116Z"
     }
   ],
   "items": [
@@ -776,7 +816,7 @@
     }
   ],
   "meta": {
-    "itemCount": 77,
+    "itemCount": 261,
     "llmCalls": 0
   }
 }

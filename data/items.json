@@ -2357,5 +2357,4585 @@
       "average": 63
     },
     "selected": false
+  },
+  {
+    "id": "p56rcel44s3rc5lkp9wa5ja5",
+    "identityKey": "url:https://www.ithome.com/1/008/679.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/679.htm",
+    "title": "CounterPoint 称 iPhone 18 Pro / Max 在中国首周销量同比增 12%，苹果 33% 份额跃居第 38 周销冠",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:46:22.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "CounterPoint 称 iPhone 18 Pro / Max 在中国首周销量同比增 12%，苹果 33% 份额跃居第 38 周销冠",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "zgg0n0gcdbdovm0d4fwpp9vu",
+    "identityKey": "url:https://www.ithome.com/1/008/670.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/670.htm",
+    "title": "闪促价 1399 元起，OPPO K15s/K15x 两款新机今日开售",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:43:14.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "闪促价 1399 元起，OPPO K15s/K15x 两款新机今日开售",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "qsqwkojbk3yy49qr7yo5b9yj",
+    "identityKey": "url:https://www.ithome.com/1/008/656.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/656.htm",
+    "title": "OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:26:56.000Z",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "ai-products",
+    "summary": "OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 57,
+      "understand": 46,
+      "average": 52
+    },
+    "selected": false
+  },
+  {
+    "id": "l6bx7qaxpfqypi1qfy28n7bq",
+    "identityKey": "url:https://www.ithome.com/1/008/655.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/655.htm",
+    "title": "法拉第未来：机器人工厂目标年底前投入运营",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:26:13.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "法拉第未来：机器人工厂目标年底前投入运营",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "q5yxq2ahewnqjpoa7xkirikh",
+    "identityKey": "url:https://www.ithome.com/1/008/654.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/654.htm",
+    "title": "电子病历 OFD-H 格式文件有了国家标准，医疗数据互通互认、手机就能查",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:25:32.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "电子病历 OFD-H 格式文件有了国家标准，医疗数据互通互认、手机就能查",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "sxw7nnxpdzd8b81raevhvl8f",
+    "identityKey": "url:https://www.ithome.com/1/008/653.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/653.htm",
+    "title": "止步 26H2：Windows 11 下一个主要版本将放弃支持高通骁龙 850 处理器",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:25:18.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "止步 26H2：Windows 11 下一个主要版本将放弃支持高通骁龙 850 处理器",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "shozdga7oddoyo6jm3seqgb8",
+    "identityKey": "url:https://www.ithome.com/1/008/652.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/652.htm",
+    "title": "哈萨克斯坦总统托卡耶夫：支持优必选在阿拉木图建设机器人设备制造工厂",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:24:53.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "哈萨克斯坦总统托卡耶夫：支持优必选在阿拉木图建设机器人设备制造工厂",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "s7101u6s2qnw1iutm35hy9pd",
+    "identityKey": "url:https://www.ithome.com/1/008/646.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/646.htm",
+    "title": "豆包宣布支持出行服务：覆盖订机票、火车票以及打车导航",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:15:05.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "豆包宣布支持出行服务：覆盖订机票、火车票以及打车导航",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "j8tqstq01t5wgkyw57fsifm1",
+    "identityKey": "url:https://www.ithome.com/1/008/634.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/634.htm",
+    "title": "小米门窗传感器 3 上架：升级隧道磁阻传感器、3 年长续航，众筹价 44 元",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:06:52.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "小米门窗传感器 3 上架：升级隧道磁阻传感器、3 年长续航，众筹价 44 元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "e1lk7dt007ovu0p9oqj2gp7v",
+    "identityKey": "url:https://www.ithome.com/1/008/628.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/628.htm",
+    "title": "Counterpoint：预计苹果首款折叠屏手机 iPhone Duo 今年将售出 600 万部",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:05:49.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "Counterpoint：预计苹果首款折叠屏手机 iPhone Duo 今年将售出 600 万部",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "ci19p9ymiix53b4fc4wbwb5t",
+    "identityKey": "url:https://www.ithome.com/1/008/624.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/624.htm",
+    "title": "豪威推出常开型视觉 AI 协处理器 OAX7700，停车监控方案仅需 3% 功耗",
+    "language": "zh",
+    "publishedAt": "2026-09-30T03:04:54.000Z",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "ai-products",
+    "summary": "豪威推出常开型视觉 AI 协处理器 OAX7700，停车监控方案仅需 3% 功耗",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 51,
+      "understand": 46,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "xdqqjnvokh5f3zhtcwj6q2r3",
+    "identityKey": "url:https://www.ithome.com/1/008/615.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/615.htm",
+    "title": "《007 初露锋芒》官宣免费 DLC 明日上线",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:58:33.000Z",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "ai-products",
+    "summary": "《007 初露锋芒》官宣免费 DLC 明日上线",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 51,
+      "understand": 46,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "b5b81p4ih54a4l0hodvq6cg0",
+    "identityKey": "url:https://www.ithome.com/1/008/614.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/614.htm",
+    "title": "福田汽车 2030 年锚定百万销量目标，新能源占比 50%",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:54:40.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "福田汽车 2030 年锚定百万销量目标，新能源占比 50%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "umu7oqnduebzgtz2faqzf0jl",
+    "identityKey": "url:https://www.ithome.com/1/008/613.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/613.htm",
+    "title": "《巫师 3：重制版》登陆 Switch 2：画质大幅进化，最高 1080p/40FPS",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:53:15.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "《巫师 3：重制版》登陆 Switch 2：画质大幅进化，最高 1080p/40FPS",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "lqm8mswapy4ffqxooao4yhqq",
+    "identityKey": "url:https://www.ithome.com/1/008/612.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/612.htm",
+    "title": "首款鸿蒙 7+ 麒麟 9 系旗舰芯片电视：华为智慧屏 Mate TV 2 系列今日开售",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:41:50.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "首款鸿蒙 7+ 麒麟 9 系旗舰芯片电视：华为智慧屏 Mate TV 2 系列今日开售",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "rx7ycxusfhhuf6ma6z4skylm",
+    "identityKey": "url:https://www.ithome.com/1/008/611.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/611.htm",
+    "title": "WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:39:24.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "fk1wqxz5dy0ma2is3vfjj13h",
+    "identityKey": "url:https://www.ithome.com/1/008/609.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/609.htm",
+    "title": "英伟达前顾问称公司欠其价值 10 亿美元股票，和解提议遭拒绝",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:35:30.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "英伟达前顾问称公司欠其价值 10 亿美元股票，和解提议遭拒绝",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "szn1txivlmi1lz8fyhbnru0r",
+    "identityKey": "url:https://www.ithome.com/1/008/608.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/608.htm",
+    "title": "国家发改委：2500 亿元消费品以旧换新资金全部下达，今年 1-8 月相关商品销售额达 1.55 万亿元",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:35:16.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "国家发改委：2500 亿元消费品以旧换新资金全部下达，今年 1-8 月相关商品销售额达 1.55 万亿元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "fml64990xsfvptbl7d8inqnt",
+    "identityKey": "url:https://www.ithome.com/1/008/607.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/607.htm",
+    "title": "八位堂天刃星 Pro 街机控制器国行上市：小间距布局，首发 699 元赠收纳包",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:33:40.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "八位堂天刃星 Pro 街机控制器国行上市：小间距布局，首发 699 元赠收纳包",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "skm194gzebh9y5n32o1fqwe8",
+    "identityKey": "url:https://www.ithome.com/1/008/606.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/606.htm",
+    "title": "报告称微软 Copilot 承包商可完整查看用户上传的照片、AI 提示词等",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:30:25.000Z",
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "tip",
+    "summary": "报告称微软 Copilot 承包商可完整查看用户上传的照片、AI 提示词等",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 46,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "aiw74t4tmfbvg8b4vr4m177x",
+    "identityKey": "url:https://www.ithome.com/1/008/605.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/605.htm",
+    "title": "鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:26:54.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "pgqu1aqlglijc953oqlwqnq7",
+    "identityKey": "url:https://www.ithome.com/1/008/604.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/604.htm",
+    "title": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，与英伟达平台一一对应",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:25:20.000Z",
+    "tags": [
+      "开源/仓库"
+    ],
+    "entityTags": [
+      "DeepSeek"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "ai-products",
+    "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，与英伟达平台一一对应",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "yfnuxnnrfivbta1uogmg38rz",
+    "identityKey": "url:https://www.ithome.com/1/008/602.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/602.htm",
+    "title": "Omdia 预测：＞1000 美元高端电视出货量 2027 年有望逆势上扬 9.3%",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:20:36.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "Omdia 预测：＞1000 美元高端电视出货量 2027 年有望逆势上扬 9.3%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "ck9hnxaxla16n7pcrnesxxi4",
+    "identityKey": "url:https://www.ithome.com/1/008/601.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/601.htm",
+    "title": "Take-Two 出手，粉丝自制《GTA 5》Switch / 安卓移植项目被叫停",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:17:37.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "Take-Two 出手，粉丝自制《GTA 5》Switch / 安卓移植项目被叫停",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "vzcvp90qwjylzl1t2cxc3zej",
+    "identityKey": "url:https://www.ithome.com/1/008/598.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/598.htm",
+    "title": "凯越机车回应网传“经销商集体跑路”“多次回头求张雪救命”：都不是事实",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:11:21.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "凯越机车回应网传“经销商集体跑路”“多次回头求张雪救命”：都不是事实",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "c035c72zbez9r69dgj9nch61",
+    "identityKey": "url:https://www.ithome.com/1/008/597.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/597.htm",
+    "title": "《鬼吹灯》首部 XR 电影作品《鬼吹灯之精绝古城 VR》全感版公布",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:08:30.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "《鬼吹灯》首部 XR 电影作品《鬼吹灯之精绝古城 VR》全感版公布",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "hpcg3gfeao2qcc3tkr73hguy",
+    "identityKey": "url:https://www.ithome.com/1/008/596.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/596.htm",
+    "title": "消息称 AMD 霄龙 9006 系列服务器 CPU 订单火热：2027 产量已售罄，预估出货 675 万颗",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:07:02.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "消息称 AMD 霄龙 9006 系列服务器 CPU 订单火热：2027 产量已售罄，预估出货 675 万颗",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "z5m9c0v3v4xna89oh4emonib",
+    "identityKey": "url:https://www.ithome.com/1/008/595.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/595.htm",
+    "title": "易速马 X20 Pro 手柄国行上市：可调阻尼 TMR 摇杆 + 智能交互屏，低至 289 元",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:04:07.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "易速马 X20 Pro 手柄国行上市：可调阻尼 TMR 摇杆 + 智能交互屏，低至 289 元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "c1u3ymo53tjgsrq0xru1o42i",
+    "identityKey": "url:https://www.ithome.com/1/008/594.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/594.htm",
+    "title": "2026 年 10 月科技事件日历一览表",
+    "language": "zh",
+    "publishedAt": "2026-09-30T02:00:00.000Z",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "industry",
+    "summary": "2026 年 10 月科技事件日历一览表",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "n9zmaxed0r609bpfa6ntg4n5",
+    "identityKey": "url:https://www.ithome.com/1/008/593.htm",
+    "sourceId": "hot-ithome",
+    "via": "newsnow:hot-ithome",
+    "url": "https://www.ithome.com/1/008/593.htm",
+    "title": "鸿蒙智行尚界 Z7/Z7T 汽车国庆 OTA 升级，肖战专属语音包上线",
+    "language": "zh",
+    "publishedAt": "2026-09-30T01:48:22.000Z",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.011Z",
+    "discoveredAt": "2026-09-30T04:08:35.011Z",
+    "category": "ai-products",
+    "summary": "鸿蒙智行尚界 Z7/Z7T 汽车国庆 OTA 升级，肖战专属语音包上线",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 51,
+      "understand": 46,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "e6yoqtizvflcqudqzv74pyki",
+    "identityKey": "url:https://juejin.cn/post/7689818941397778478",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689818941397778478",
+    "title": "突发！字节内部大调整，QA直接转研发了？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "突发！字节内部大调整，QA直接转研发了？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "ir78beniyek33vctwlq7qp26",
+    "identityKey": "url:https://juejin.cn/post/7689599510955278336",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689599510955278336",
+    "title": "为什么越来越多人用 OnlyOffice？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "为什么越来越多人用 OnlyOffice？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "vqgoa26l8jxeqed7xptgrfe2",
+    "identityKey": "url:https://juejin.cn/post/7690468159975637038",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690468159975637038",
+    "title": "读懂LangGraph 的分支执行逻辑",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "读懂LangGraph 的分支执行逻辑",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "r5ic74u401dwzig7hn964lxi",
+    "identityKey": "url:https://juejin.cn/post/7690393223730642980",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690393223730642980",
+    "title": "Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "g92g636d2epfi1etw0rmgc48",
+    "identityKey": "url:https://juejin.cn/post/7690190550998007827",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690190550998007827",
+    "title": "2026年，你终于可以在 `<textarea>` 里定位任意字符了",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "2026年，你终于可以在 `<textarea>` 里定位任意字符了",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "qm18vuy0zpu1gxsgds4plfdh",
+    "identityKey": "url:https://juejin.cn/post/7689408456148074523",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689408456148074523",
+    "title": "第一次当面试官有感",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "第一次当面试官有感",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 40,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "meiu20rb1bbs4q4kc3d6gk4g",
+    "identityKey": "url:https://juejin.cn/post/7690769804492341298",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690769804492341298",
+    "title": "漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "bligi78lsk927jwfrtne6gu6",
+    "identityKey": "url:https://juejin.cn/post/7690197651808616502",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690197651808616502",
+    "title": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "DeepSeek"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "z4kvt2rfec2lihg47o7kqunb",
+    "identityKey": "url:https://juejin.cn/post/7690614916369252387",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690614916369252387",
+    "title": "我排查了一下午，发现项目打包体积翻倍的元凶是它",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "我排查了一下午，发现项目打包体积翻倍的元凶是它",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "eh0st2k1bjj0mqieuhtd6sy4",
+    "identityKey": "url:https://juejin.cn/post/7690405198255325234",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690405198255325234",
+    "title": "同样用 Element Plus，为什么你的后台总有一股“模板味”？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "同样用 Element Plus，为什么你的后台总有一股“模板味”？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "rgyk0yvwlpxih7x9v6pwzaa4",
+    "identityKey": "url:https://juejin.cn/post/7690197651807633462",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690197651807633462",
+    "title": "画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词",
+    "language": "zh",
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "tip",
+    "summary": "画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "ztiluwlkis3qsh6zkiljr9hj",
+    "identityKey": "url:https://juejin.cn/post/7690497704220196883",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690497704220196883",
+    "title": "用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "dglsulxxbqyka213i9htwe5f",
+    "identityKey": "url:https://juejin.cn/post/7690010257952178218",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690010257952178218",
+    "title": "ZCode 可以自己看微信小程序了",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "ZCode 可以自己看微信小程序了",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "bzpemimjwkgjlw4rxkqn0g9w",
+    "identityKey": "url:https://juejin.cn/post/7689866047096602666",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689866047096602666",
+    "title": "栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "tsm49r48527uask60ao1qjr8",
+    "identityKey": "url:https://juejin.cn/post/7690026779798208547",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690026779798208547",
+    "title": "分享一个做视频的skill，这条白板视频，每一笔都是代码画的",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "分享一个做视频的skill，这条白板视频，每一笔都是代码画的",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "a0vq1pwd04lill5cjqxvajfx",
+    "identityKey": "url:https://juejin.cn/post/7689599510956507136",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689599510956507136",
+    "title": "《HelloGitHub》第 126 期",
+    "language": "en",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "《HelloGitHub》第 126 期",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "gms8dsxlyh0lo31i1oqlba1l",
+    "identityKey": "url:https://juejin.cn/post/7690205250238103567",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690205250238103567",
+    "title": "Next.js+LangGraph.js+ 简历工具AI Agent完整落地",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "Next.js+LangGraph.js+ 简历工具AI Agent完整落地",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "nzbpae97t5hp3ot510alvr3o",
+    "identityKey": "url:https://juejin.cn/post/7690159620451811337",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690159620451811337",
+    "title": "王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "b5j4egboeheukmpsi7oafk1g",
+    "identityKey": "url:https://juejin.cn/post/7690110881577304079",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690110881577304079",
+    "title": "AI时代最大的红利：个人做量化，也能开发出一套适合你的策略",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "AI时代最大的红利：个人做量化，也能开发出一套适合你的策略",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "a8hcbu11ckp6v5rmt38yrfq4",
+    "identityKey": "url:https://juejin.cn/post/7690414588748464138",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690414588748464138",
+    "title": "AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "q0t61u8aoqdthdq1zwy3qb8q",
+    "identityKey": "url:https://juejin.cn/post/7690435049426681898",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690435049426681898",
+    "title": "非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "bel1jz4rshhv4y59lb1eqvhb",
+    "identityKey": "url:https://juejin.cn/post/7689883764008239142",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689883764008239142",
+    "title": "IT风云录 03 | 大公司里老技术部之困境",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "IT风云录 03 | 大公司里老技术部之困境",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "m6uhl809i476i3nuldiz9t7n",
+    "identityKey": "url:https://juejin.cn/post/7690463587244687411",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690463587244687411",
+    "title": "Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`",
+    "language": "zh",
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "tip",
+    "summary": "Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "nzunlfsdvqkl301wusk0sa8o",
+    "identityKey": "url:https://juejin.cn/post/7689431365684772904",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689431365684772904",
+    "title": "WEB 项目如何禁用 F12 等功能",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "WEB 项目如何禁用 F12 等功能",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "xc22hs6ths3e2rwr88pf0hxu",
+    "identityKey": "url:https://juejin.cn/post/7689656350306959406",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689656350306959406",
+    "title": "从零实现一个带虚拟滚动的 Select",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "从零实现一个带虚拟滚动的 Select",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "gubt6blixmc9y5dpf7uz85g8",
+    "identityKey": "url:https://juejin.cn/post/7690490511467544602",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690490511467544602",
+    "title": "再见了 WebUI，DeepSeek 桌面版真不错。",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "DeepSeek"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "再见了 WebUI，DeepSeek 桌面版真不错。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "qzhue06gbya3885iqfcoe4pl",
+    "identityKey": "url:https://juejin.cn/post/7690776567971872768",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690776567971872768",
+    "title": "从程序员到一人公司创业者：这一年半我经历了什么",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "从程序员到一人公司创业者：这一年半我经历了什么",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "hnxjsbfncly29cyvnvsyga9u",
+    "identityKey": "url:https://juejin.cn/post/7690197651807535158",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690197651807535158",
+    "title": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "gfzqr6225gt2xob2dm24q9ed",
+    "identityKey": "url:https://juejin.cn/post/7690762523469479977",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7690762523469479977",
+    "title": "基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "li5a0vf9o3xtzywm1uvi76qj",
+    "identityKey": "url:https://juejin.cn/post/7689883764008386598",
+    "sourceId": "hot-juejin",
+    "via": "newsnow:hot-juejin",
+    "url": "https://juejin.cn/post/7689883764008386598",
+    "title": "如果你在做 RAG，可能会需要 pdf-inspector",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:35.531Z",
+    "discoveredAt": "2026-09-30T04:08:35.531Z",
+    "category": "industry",
+    "summary": "如果你在做 RAG，可能会需要 pdf-inspector",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "gbhu31lspm50zyyj909n8e3n",
+    "identityKey": "url:https://www.v2ex.com/t/1245784",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245784",
+    "title": "O÷卖不起 plan 为什么不选择倒闭呢？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "O÷卖不起 plan 为什么不选择倒闭呢？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "c7gvie2jrsx5qmq3pd9jyu7e",
+    "identityKey": "url:https://www.v2ex.com/t/1245777",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245777",
+    "title": "最后一天，给大家来点乐子 vibe coding 的一款游戏大家品一下",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "最后一天，给大家来点乐子 vibe coding 的一款游戏大家品一下",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "pwbdam608oqah9cfmef1dm11",
+    "identityKey": "url:https://www.v2ex.com/t/1245778",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245778",
+    "title": "GPT 源头代充+招代理",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "GPT 源头代充+招代理",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "jpj8yapqy2lb73etkjfskl2u",
+    "identityKey": "url:https://www.v2ex.com/t/1245776",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245776",
+    "title": "做了个双人说唱视频生成器，传两张照片就能整活",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "做了个双人说唱视频生成器，传两张照片就能整活",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "bbdrvh5nselwxbyyuyr2oa3u",
+    "identityKey": "url:https://www.v2ex.com/t/1245775",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245775",
+    "title": "强行被老板安装了监控软件…（他怎么知道我对着 gpt 骂他了",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "强行被老板安装了监控软件…（他怎么知道我对着 gpt 骂他了",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "yc3xe7vbj8jqma1iqknwm2ny",
+    "identityKey": "url:https://www.v2ex.com/t/1245769",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245769",
+    "title": "想问一下大家现在开发还要写设计文档吗？设计文档中要用到的一些流程图，时序图都是用什么工具画的呢？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "想问一下大家现在开发还要写设计文档吗？设计文档中要用到的一些流程图，时序图都是用什么工具画的呢？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "cjju1yuyq1hms7ydj6fdko3e",
+    "identityKey": "url:https://www.v2ex.com/t/1245766",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245766",
+    "title": "DGX Spark 什么情况？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "DGX Spark 什么情况？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "l4id5xl90weh7wk53797igyc",
+    "identityKey": "url:https://www.v2ex.com/t/1245763",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245763",
+    "title": "让 AI 做网页，总是有一股 AI 味道。看到那种圆角、漆黑网站就本能的反感。",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "让 AI 做网页，总是有一股 AI 味道。看到那种圆角、漆黑网站就本能的反感。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "wl5wiaaw1n8u78jbf0zc2gro",
+    "identityKey": "url:https://www.v2ex.com/t/1245762",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245762",
+    "title": "把微信里挺好用的图片 OCR 交互搬到了 Chrome，做了个 SelectSight",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "把微信里挺好用的图片 OCR 交互搬到了 Chrome，做了个 SelectSight",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "lgqba3ynussgspdjqnwhxwq7",
+    "identityKey": "url:https://www.v2ex.com/t/1245761",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245761",
+    "title": "Hermes Agent 现在还有人用吗？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "Hermes Agent 现在还有人用吗？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "ucdwf4xi6y7nodzb77vels5p",
+    "identityKey": "url:https://www.v2ex.com/t/1245758",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245758",
+    "title": "做了个帮 ADHD、拖延、容易走神的人找回专注力的 Mac App，纯本地[送码]",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "做了个帮 ADHD、拖延、容易走神的人找回专注力的 Mac App，纯本地[送码]",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "d1uhty6a1a1insznitvjszq4",
+    "identityKey": "url:https://www.v2ex.com/t/1245753",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245753",
+    "title": "Android 冲浪工具哪家强？别天天问了看看 Cursor 怎么说",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "Android 冲浪工具哪家强？别天天问了看看 Cursor 怎么说",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "invckhgoe7f6rr5pem1ngby7",
+    "identityKey": "url:https://www.v2ex.com/t/1245750",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245750",
+    "title": "Opus 5.5 再次让我这个前端震惊：两小时做出的交互动效和证件照算法，让我开始怀疑「纯前端」这个岗位还能存在多久",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "Opus 5.5 再次让我这个前端震惊：两小时做出的交互动效和证件照算法，让我开始怀疑「纯前端」这个岗位还能存在多久",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "u13k2997oglpw1v0itpo2ay7",
+    "identityKey": "url:https://www.v2ex.com/t/1245744",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245744",
+    "title": "有人要收购我开发的 app，朋友们帮忙看看是不是骗子",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "有人要收购我开发的 app，朋友们帮忙看看是不是骗子",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "t0ozj91km0ai1l359v7b8k5m",
+    "identityKey": "url:https://www.v2ex.com/t/1245742",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245742",
+    "title": "做了个 AI 生成 Minecraft 建筑的工具",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "做了个 AI 生成 Minecraft 建筑的工具",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "p3n8igtggpu0suzooirqtygv",
+    "identityKey": "url:https://www.v2ex.com/t/1245739",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245739",
+    "title": "自己的坑 自己埋，网页流视频下载工具",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "自己的坑 自己埋，网页流视频下载工具",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "gfwmmuwyrutq3kj04axk0wvi",
+    "identityKey": "url:https://www.v2ex.com/t/1245736",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245736",
+    "title": "程序员想创业求指教",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "程序员想创业求指教",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 40,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "l31h5tf1pqee5n0eo6r4jzkz",
+    "identityKey": "url:https://www.v2ex.com/t/1245734",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245734",
+    "title": "dot 云电脑原来是这样的",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "dot 云电脑原来是这样的",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "q5ln2mdh1a4aygdusk9lviua",
+    "identityKey": "url:https://www.v2ex.com/t/1245733",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245733",
+    "title": "如果你手头刚好有 A7C2 和 Stick S3",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "如果你手头刚好有 A7C2 和 Stick S3",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "nrio9yd8mtdfftij3i58rzrc",
+    "identityKey": "url:https://www.v2ex.com/t/1245730",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245730",
+    "title": "节前最后一天班了，大家 10 月 1 都去干啥呢？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "节前最后一天班了，大家 10 月 1 都去干啥呢？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "jt8clq3xorzvfm8nl3c1dkmq",
+    "identityKey": "url:https://www.v2ex.com/t/1245729",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245729",
+    "title": "分享下最近 skillsgist 的更新 - 一款轻量的私有 Agent Skills 仓库",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "分享下最近 skillsgist 的更新 - 一款轻量的私有 Agent Skills 仓库",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "vh7yjybl1k5uke1vyduamfci",
+    "identityKey": "url:https://www.v2ex.com/t/1245725",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245725",
+    "title": "Dots 的优势是什么呢？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "Dots 的优势是什么呢？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "zk6gmk0yc4s5tljosi1n607p",
+    "identityKey": "url:https://www.v2ex.com/t/1245717",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245717",
+    "title": "我有阅读癖，可以发点外面看不到的文件给我看吗",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "我有阅读癖，可以发点外面看不到的文件给我看吗",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "pa6g2rearc9swa5v9mc02nep",
+    "identityKey": "url:https://www.v2ex.com/t/1245716",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245716",
+    "title": "基于 AI 的 图片背景工具，个人用户永久免费",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "基于 AI 的 图片背景工具，个人用户永久免费",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "hvszk3lg5rjaxj436mjy1uwq",
+    "identityKey": "url:https://www.v2ex.com/t/1245711",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245711",
+    "title": "OpenAI Dots、Gemini Spark、Meta Muse、Grok Bot 这些 AI Agent 和之前的 OpenClaw 有啥区别",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Google",
+      "xAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "OpenAI Dots、Gemini Spark、Meta Muse、Grok Bot 这些 AI Agent 和之前的 OpenClaw 有啥区别",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "fyefw29pic16cflbrinon4ur",
+    "identityKey": "url:https://www.v2ex.com/t/1245709",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245709",
+    "title": "两轮车安全行驶有感",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "两轮车安全行驶有感",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 40,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "e6icle5nr7xab6mpo51sfzf0",
+    "identityKey": "url:https://www.v2ex.com/t/1245705",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245705",
+    "title": "讨论下以后软件发版模式",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "讨论下以后软件发版模式",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 40,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "dyv3yemqtabke9dq2b9d7dbj",
+    "identityKey": "url:https://www.v2ex.com/t/1245703",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245703",
+    "title": "出海管理平台(极简)， 1 核 1G 服务器就能跑",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "出海管理平台(极简)， 1 核 1G 服务器就能跑",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "t23j1nhkluan53r3yo1eqjx7",
+    "identityKey": "url:https://www.v2ex.com/t/1245702",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245702",
+    "title": "做了个 chainlist 扩展工具",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "做了个 chainlist 扩展工具",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "lodrblxd65pgyl68u0ctdezv",
+    "identityKey": "url:https://www.v2ex.com/t/1245698",
+    "sourceId": "hot-v2ex",
+    "via": "newsnow:hot-v2ex",
+    "url": "https://www.v2ex.com/t/1245698",
+    "title": "看到房贷贴息的消息真难受，老一代享受了房价上涨的时代红利，新一代得到了房价降低的实惠，我这高位接盘的一代，变成了时代的炮灰",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.001Z",
+    "discoveredAt": "2026-09-30T04:08:36.001Z",
+    "category": "industry",
+    "summary": "看到房贷贴息的消息真难受，老一代享受了房价上涨的时代红利，新一代得到了房价降低的实惠，我这高位接盘的一代，变成了时代的炮灰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "x41nnjcrroru0v4pzxq3euvn",
+    "identityKey": "url:https://sspai.com/post/114958",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114958",
+    "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "aexw6205tthyk2rv0y49aqzi",
+    "identityKey": "url:https://sspai.com/post/114957",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114957",
+    "title": "本周看什么 | 最近值得一看的 6 部作品",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "本周看什么 | 最近值得一看的 6 部作品",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "k896e9y1bbpbssn5by69xtmw",
+    "identityKey": "url:https://sspai.com/post/114954",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114954",
+    "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "新玩意 252｜少数派的编辑们最近买了啥？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "epzwly1lh3ebtg63lezajadu",
+    "identityKey": "url:https://sspai.com/post/114904",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114904",
+    "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "brw74gtwkdqxc6rkijdvwwej",
+    "identityKey": "url:https://sspai.com/post/114901",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114901",
+    "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "oxm66yqneqzcy1t0zqxtvx7a",
+    "identityKey": "url:https://sspai.com/post/113823",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/113823",
+    "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 46,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "n0g1o6uqrb13fc0pgkmrknl3",
+    "identityKey": "url:https://sspai.com/post/114878",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114878",
+    "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "xzn5ct78n5r63zr4o04v6rjp",
+    "identityKey": "url:https://sspai.com/post/114823",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114823",
+    "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "o6yk690njibrxh7o1m2fo98d",
+    "identityKey": "url:https://sspai.com/post/114829",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114829",
+    "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "一台主机，多重角色：新款 Mac mini 首发体验",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "tbbjrals7q2qzfz1quoqrijz",
+    "identityKey": "url:https://sspai.com/post/114815",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114815",
+    "title": "派评 | 近期值得关注的 App",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "派评 | 近期值得关注的 App",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "racnaqm4qgv6s8rmeq38q461",
+    "identityKey": "url:https://sspai.com/post/114717",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114717",
+    "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "给电话加上「辅助驾驶」？我们想听听你的意见",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "f1o63ktiybzrapk136othhxi",
+    "identityKey": "url:https://sspai.com/post/114641",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114641",
+    "title": "你的脸红是什么红：了解玫瑰痤疮",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "你的脸红是什么红：了解玫瑰痤疮",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "m5a8966b6dijpqis6uk0sh84",
+    "identityKey": "url:https://sspai.com/post/114716",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114716",
+    "title": "本周看什么 | 最近值得一看的 9 部作品",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "本周看什么 | 最近值得一看的 9 部作品",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "yucyrqgai0xbb4imkpen4524",
+    "identityKey": "url:https://sspai.com/post/114555",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114555",
+    "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "8月音乐精选：有限的生命里，要听得再任性一点！",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "ujh2o8y4ddzg9wf3ikqnk89q",
+    "identityKey": "url:https://sspai.com/post/114670",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114670",
+    "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "blvfnhw4yzbt6u9c7qtr1wyw",
+    "identityKey": "url:https://sspai.com/post/114643",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114643",
+    "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "dg18kjfee2ot2ght626exzeh",
+    "identityKey": "url:https://sspai.com/post/114551",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114551",
+    "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "w9jwejy88a2m362jzvtsg3st",
+    "identityKey": "url:https://sspai.com/post/114607",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114607",
+    "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "d62fecpcg5c3kuqymsk8ojet",
+    "identityKey": "url:https://sspai.com/post/114519",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114519",
+    "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "sfaausjg5agxzk1i6ptwyuq5",
+    "identityKey": "url:https://sspai.com/post/114613",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114613",
+    "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "z3wxso3ktisvv9zzgglo37sx",
+    "identityKey": "url:https://sspai.com/post/114565",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114565",
+    "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "kaz5q681hqpdwr8ksr6mhdy3",
+    "identityKey": "url:https://sspai.com/post/114479",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114479",
+    "title": "Coast：用十年经验，给记账这件事一个「终点」",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "Coast：用十年经验，给记账这件事一个「终点」",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "fbpu8ocbw36lb5ehgwtiwq72",
+    "identityKey": "url:https://sspai.com/post/114454",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114454",
+    "title": "探秘柬埔寨，千年吴哥窟",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "探秘柬埔寨，千年吴哥窟",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 40,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "qtivjsln182x7ig4647ie1xt",
+    "identityKey": "url:https://sspai.com/post/114577",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114577",
+    "title": "派评｜近期值得关注的 App",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "派评｜近期值得关注的 App",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "bojdmkjptgkn3q2ylnb0cedm",
+    "identityKey": "url:https://sspai.com/post/114557",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114557",
+    "title": "城市漫步指南｜威海初秋，看海玩沙",
+    "language": "zh",
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "tip",
+    "summary": "城市漫步指南｜威海初秋，看海玩沙",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "o5s3442sc6h8f3slnoalnn0d",
+    "identityKey": "url:https://sspai.com/post/114410",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114410",
+    "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "hetjuvcrrlhpfzbda0721ea4",
+    "identityKey": "url:https://sspai.com/post/114453",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114453",
+    "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "wlel301vnc2abvf8ww08o42c",
+    "identityKey": "url:https://sspai.com/post/114461",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114461",
+    "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+    "language": "zh",
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "tip",
+    "summary": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "db47tmxwbwhofpdrxxeyrd9n",
+    "identityKey": "url:https://sspai.com/post/114458",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/114458",
+    "title": "本周看什么 | 最近值得一看的 7 部作品",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "本周看什么 | 最近值得一看的 7 部作品",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "yj4jx13e9ana547ixpvz2eg3",
+    "identityKey": "url:https://sspai.com/post/113880",
+    "sourceId": "hot-sspai",
+    "via": "newsnow:hot-sspai",
+    "url": "https://sspai.com/post/113880",
+    "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+    "language": "zh",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.453Z",
+    "discoveredAt": "2026-09-30T04:08:36.453Z",
+    "category": "industry",
+    "summary": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "c0h8h149j5l22v2pusqrpnu4",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49903383",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49903383",
+    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+    "language": "en",
+    "publishedAt": "2026-09-30T01:47:14.000Z",
+    "excerpt": "10 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "10 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "ak5zd4f4poxqiqiycb7xr88b",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49901973",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49901973",
+    "title": "How our vibe coded website looks like a designer made it",
+    "language": "en",
+    "publishedAt": "2026-09-29T22:59:28.000Z",
+    "excerpt": "94 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "94 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "e1z3mr9jfv2dmcmuqud1fyok",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49901736",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49901736",
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "language": "en",
+    "publishedAt": "2026-09-29T22:36:14.000Z",
+    "excerpt": "331 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "331 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "g68y1vydhha65blq2uw4scpi",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49901149",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49901149",
+    "title": "Deser: Rethinking Rust Serialization",
+    "language": "en",
+    "publishedAt": "2026-09-29T21:48:27.000Z",
+    "excerpt": "38 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "38 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "oidyiubocyo6qtsg5kr9llbc",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49899090",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49899090",
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "language": "en",
+    "publishedAt": "2026-09-29T19:30:17.000Z",
+    "excerpt": "188 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "188 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "zo1jjzbpz3iwug8r1d34uqhc",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49898778",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49898778",
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "language": "en",
+    "publishedAt": "2026-09-29T19:08:01.000Z",
+    "excerpt": "149 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "149 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "tyj4one7378kvznyvcbf6hie",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49898050",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49898050",
+    "title": "We’re forgetting what darkness feels like",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:22:40.000Z",
+    "excerpt": "83 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "83 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "d3wjd5wjr4ulwiyejaigod5j",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49897993",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49897993",
+    "title": "Vermont replacing power plants with home batteries",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:19:02.000Z",
+    "excerpt": "112 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "112 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "jr8x7q5643sesky5rp3acfei",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49896757",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49896757",
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:15:56.000Z",
+    "excerpt": "46 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "46 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "tz48p4pigrsr2gp9mykk49ma",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49896712",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49896712",
+    "title": "Tcl/Tk 9.1",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:13:38.000Z",
+    "excerpt": "253 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "253 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "cxluvqgx48cnhlj8m18i38uf",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49896604",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49896604",
+    "title": "Dots: Always-on agents",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:07:57.000Z",
+    "excerpt": "479 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "479 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "x13qeq5nn7r5xdsh3w7jwmos",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49896586",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49896586",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:06:45.000Z",
+    "excerpt": "827 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "827 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "h64xvvqxobbcasvkzv9fmic8",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49895864",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49895864",
+    "title": "Needed 1+1, built a functional programming language",
+    "language": "en",
+    "publishedAt": "2026-09-29T16:18:26.000Z",
+    "excerpt": "46 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "46 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "f8mtvtxhs5xraiedowhxlvaw",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49895304",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49895304",
+    "title": "PS5 Relapse Exploit",
+    "language": "en",
+    "publishedAt": "2026-09-29T15:44:41.000Z",
+    "excerpt": "251 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "251 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "p2wox6rhxlgjd0oajqjh9xpk",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49894351",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49894351",
+    "title": "Show HN: NSL – WSL for Linux",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:51:36.000Z",
+    "excerpt": "99 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "99 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "x8q7nb2ryv7nq40ytrunjlhv",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49893509",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49893509",
+    "title": "America.gov",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:04:57.000Z",
+    "excerpt": "419 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "419 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "i1lr1z9vkoxs0nhyovfaf9tx",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49893157",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49893157",
+    "title": "Ask HN: What are you reading?",
+    "language": "en",
+    "publishedAt": "2026-09-29T13:44:43.000Z",
+    "excerpt": "171 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "171 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "flw6yrxyit2ydr6n6miala7e",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49893144",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49893144",
+    "title": "Building a certificate authority for the whole Internet",
+    "language": "en",
+    "publishedAt": "2026-09-29T13:44:00.000Z",
+    "excerpt": "37 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "37 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "bitrx0sp66vw11yzk53xc8ra",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49893002",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49893002",
+    "title": "Backblaze drive stats for Q2 2026",
+    "language": "en",
+    "publishedAt": "2026-09-29T13:34:20.000Z",
+    "excerpt": "109 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "109 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "vlnn8gjjkq929tj0bboneq1t",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49892245",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49892245",
+    "title": "How Delhi cut electricity loss from 50 to 5 percent",
+    "language": "en",
+    "publishedAt": "2026-09-29T12:43:29.000Z",
+    "excerpt": "455 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "455 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "suar8g7zmn9tb4dj97gb8ool",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49892175",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49892175",
+    "title": "Sustainable energy without the hot air (2008)",
+    "language": "en",
+    "publishedAt": "2026-09-29T12:38:18.000Z",
+    "excerpt": "140 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "140 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "ocz5yrucbz2ys6b12bdgxn5n",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49891295",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49891295",
+    "title": "Everybody’s home. No one’s coming over",
+    "language": "en",
+    "publishedAt": "2026-09-29T11:14:45.000Z",
+    "excerpt": "759 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "759 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "wptsvsv6k3ofhch6m7vxgrbw",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49891290",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49891290",
+    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "language": "en",
+    "publishedAt": "2026-09-29T11:13:54.000Z",
+    "excerpt": "232 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "232 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "f1jg9f96in7wkve70o1w7u1x",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49891203",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49891203",
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "language": "en",
+    "publishedAt": "2026-09-29T11:06:25.000Z",
+    "excerpt": "48 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "48 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "bo7eckplz60mxcguxw3dk7f0",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49884583",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49884583",
+    "title": "Remembering the Chicago Pile, the First Nuclear Reactor",
+    "language": "en",
+    "publishedAt": "2026-09-28T21:24:01.000Z",
+    "excerpt": "6 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "6 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "kvtxu9dsxpc235n082497j9i",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49880411",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49880411",
+    "title": "Phyllotaxis: An audio-reactive LED display",
+    "language": "en",
+    "publishedAt": "2026-09-28T16:18:57.000Z",
+    "excerpt": "267 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "267 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "vbhmi2ggpqkw5omik11idpg4",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49878857",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49878857",
+    "title": "A Staff Engineer's Guide to Inventing Work",
+    "language": "en",
+    "publishedAt": "2026-09-28T14:46:07.000Z",
+    "excerpt": "207 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "207 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "v7h7feor59k12hqr2bfmkh54",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49871018",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49871018",
+    "title": "NAND-16: a computer built from 277,248 NAND gates",
+    "language": "en",
+    "publishedAt": "2026-09-27T21:26:06.000Z",
+    "excerpt": "113 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "113 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "yt8ese0pvx4lbd4085d1rx2h",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49866031",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49866031",
+    "title": "Stuck in the Suez Canal – the short version (2021)",
+    "language": "en",
+    "publishedAt": "2026-09-27T12:17:39.000Z",
+    "excerpt": "46 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "46 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "usie6pnii2b9z8ir062c0utt",
+    "identityKey": "url:https://news.ycombinator.com/item?id=49859482",
+    "sourceId": "hot-hackernews",
+    "via": "newsnow:hot-hackernews",
+    "url": "https://news.ycombinator.com/item?id=49859482",
+    "title": "Commodore 64: Mercenary",
+    "language": "en",
+    "publishedAt": "2026-09-26T19:00:46.000Z",
+    "excerpt": "36 points",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:36.948Z",
+    "discoveredAt": "2026-09-30T04:08:36.948Z",
+    "category": "industry",
+    "summary": "36 points",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "ii8lw7izk4a9rk9w08luzc9d",
+    "identityKey": "url:https://github.com/debpalash/VoiceStudio",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "title": "debpalash / VoiceStudio",
+    "language": "en",
+    "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "tags": [
+      "开源/仓库"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "ai-products",
+    "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clon…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 65,
+      "average": 56
+    },
+    "selected": false
+  },
+  {
+    "id": "nybf6rm9ur6razaf62lpuzv6",
+    "identityKey": "url:https://github.com/NVIDIA/OpenShell",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "title": "NVIDIA / OpenShell",
+    "language": "en",
+    "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "n8alnoozo02l1hxihyybuqgw",
+    "identityKey": "url:https://github.com/vectorize-io/hindsight",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "title": "vectorize-io / hindsight",
+    "language": "en",
+    "excerpt": "Hindsight: Agent Memory That Learns",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Hindsight: Agent Memory That Learns",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "abhwr9meo2cvgl0nrbbin801",
+    "identityKey": "url:https://github.com/paperclipai/paperclip",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/paperclipai/paperclip",
+    "title": "paperclipai / paperclip",
+    "language": "en",
+    "excerpt": "The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "开源/仓库"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "ai-products",
+    "summary": "The open-source app everyone uses to manage agents at work",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "dax4tb4tr3bmr5ei14obo5op",
+    "identityKey": "url:https://github.com/t8y2/dbx",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/t8y2/dbx",
+    "title": "t8y2 / dbx",
+    "language": "en",
+    "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "25 MB lightweight cross-platform database client for 100+ databases, including …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 74,
+      "average": 60
+    },
+    "selected": false
+  },
+  {
+    "id": "vwji4dtd2p0m1l3cunte0cvx",
+    "identityKey": "url:https://github.com/mvschwarz/openrig",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/mvschwarz/openrig",
+    "title": "mvschwarz / openrig",
+    "language": "en",
+    "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "qryyr9acufnh4qf1tp39p8eg",
+    "identityKey": "url:https://github.com/oblien/openship",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/oblien/openship",
+    "title": "oblien / openship",
+    "language": "en",
+    "excerpt": "Self-hosted deployment platform",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Self-hosted deployment platform",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "oyb2stjz9trkm4jjbguiumxp",
+    "identityKey": "url:https://github.com/averygan/reclip",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/averygan/reclip",
+    "title": "averygan / reclip",
+    "language": "en",
+    "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Download videos from almost any website. Lightweight, self-hosted media downloa…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "aq7nvvzg90yuurew3rnbfr5x",
+    "identityKey": "url:https://github.com/cs341-illinois/coursebook",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "title": "cs341-illinois / coursebook",
+    "language": "en",
+    "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "tags": [
+      "开源/仓库"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "ai-products",
+    "summary": "Open Source Introductory Systems Programming Textbook for the University of Ill…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "x2odz736r210tqdks0hj4l77",
+    "identityKey": "url:https://github.com/rohitg00/ai-engineering-from-scratch",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "language": "en",
+    "excerpt": "Learn it. Build it. Ship it for others.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Learn it. Build it. Ship it for others.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "rhlecohg4ke2jwwlzksvu31l",
+    "identityKey": "url:https://github.com/VectifyAI/PageIndex",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "title": "VectifyAI / PageIndex",
+    "language": "en",
+    "excerpt": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "a96expcwioyblwmvvt6wfbyx",
+    "identityKey": "url:https://github.com/willfaust/Madeira",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/willfaust/Madeira",
+    "title": "willfaust / Madeira",
+    "language": "en",
+    "excerpt": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "zvi08eg7klnaepytfnzp5dgh",
+    "identityKey": "url:https://github.com/dream-num/univer",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/dream-num/univer",
+    "title": "dream-num / univer",
+    "language": "en",
+    "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relation…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "plo2npqyi3junhpego2btysu",
+    "identityKey": "url:https://github.com/rakyll/hey",
+    "sourceId": "hot-github-trending",
+    "via": "newsnow:hot-github-trending",
+    "url": "https://github.com/rakyll/hey",
+    "title": "rakyll / hey",
+    "language": "en",
+    "excerpt": "HTTP load generator, ApacheBench (ab) replacement",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.424Z",
+    "discoveredAt": "2026-09-30T04:08:37.424Z",
+    "category": "industry",
+    "summary": "HTTP load generator, ApacheBench (ab) replacement",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "agdult1n1564mz741a5fgota",
+    "identityKey": "url:https://www.producthunt.com/products/ifixai",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/ifixai",
+    "title": "iFixAi",
+    "language": "en",
+    "excerpt": "Independent auditing of AI agents to uncover misalignment",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "xAI"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Independent auditing of AI agents to uncover misalignment",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 44,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "lkufcowuvgjj2te9zwhspdhy",
+    "identityKey": "url:https://www.producthunt.com/products/luci-desktop",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/luci-desktop",
+    "title": "LUCI Desktop",
+    "language": "en",
+    "excerpt": "Let your AI agents remember what you've seen",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Let your AI agents remember what you've seen",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "nsexsksotjwn7xrwrllvvxmk",
+    "identityKey": "url:https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+    "title": "ZenABM",
+    "language": "en",
+    "excerpt": "Create, optimize & report on LinkedIn Ads from any AI tool",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Create, optimize & report on LinkedIn Ads from any AI tool",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "k00of58lz6di0czxaizksjtn",
+    "identityKey": "url:https://www.producthunt.com/products/claude",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/claude",
+    "title": "Claude Sonnet 5.5",
+    "language": "en",
+    "excerpt": "Anthropic's second model in the Claude 5.5 family",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Anthropic's second model in the Claude 5.5 family",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "zwt42q9r4ekehg09ijiqho0v",
+    "identityKey": "url:https://www.producthunt.com/products/semos-ai-manager-agents",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
+    "title": "Semos.ai Manager Agents",
+    "language": "en",
+    "excerpt": "AI agents purpose-built for managers",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "AI agents purpose-built for managers",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "my0e3xhkb6qu3tu1b2tps89x",
+    "identityKey": "url:https://www.producthunt.com/products/paste",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/paste",
+    "title": "Paste 7",
+    "language": "en",
+    "excerpt": "Intelligent clipboard that knows what you're about to paste",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Intelligent clipboard that knows what you're about to paste",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "h4kuprulbpkb574z9sedyupm",
+    "identityKey": "url:https://www.producthunt.com/products/hopscotch-7",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/hopscotch-7",
+    "title": "Hopscotch AI",
+    "language": "en",
+    "excerpt": "500+ AI models available via a single API",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "500+ AI models available via a single API",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "z8n37bgt7tvvdasujctxxk8b",
+    "identityKey": "url:https://www.producthunt.com/products/timeos",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/timeos",
+    "title": "Timeless Code",
+    "language": "en",
+    "excerpt": "Meeting notetaker that installs and runs inside Claude Code",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Meeting notetaker that installs and runs inside Claude Code",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "l5xlgyv0t42bdek8cqebx1is",
+    "identityKey": "url:https://www.producthunt.com/products/would-you-pay",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/would-you-pay",
+    "title": "Would you pay?",
+    "language": "en",
+    "excerpt": "Find out who'd pay before you build more",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Find out who'd pay before you build more",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "iy1onzjxac1yakxd52jn5gms",
+    "identityKey": "url:https://www.producthunt.com/products/pokebinder",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/pokebinder",
+    "title": "Pokébinder",
+    "language": "en",
+    "excerpt": "Plan your Pokémon binder, then print what's missing",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Plan your Pokémon binder, then print what's missing",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "geeoipd45iwv46xnzf1wbazl",
+    "identityKey": "url:https://www.producthunt.com/products/engine-room-media",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/engine-room-media",
+    "title": "Engine Room Media",
+    "language": "en",
+    "excerpt": "We Run The Numbers. You Run The Show.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "We Run The Numbers. You Run The Show.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "kzj2h0621m8pi23ao3v81vs6",
+    "identityKey": "url:https://www.producthunt.com/products/jotform",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/jotform",
+    "title": "Jotform Sign for ChatGPT and Claude",
+    "language": "en",
+    "excerpt": "Create, send, and sign documents in ChatGPT and Claude",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Create, send, and sign documents in ChatGPT and Claude",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "aox4vkdbfyxaoij74j6ef66t",
+    "identityKey": "url:https://www.producthunt.com/products/curie-4",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/curie-4",
+    "title": "Curie",
+    "language": "en",
+    "excerpt": "Assistant for scientific literature and document analysis.",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Assistant for scientific literature and document analysis.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "iyi67s0iqs4udsx0x2yq6yfp",
+    "identityKey": "url:https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+    "title": "Arsaze",
+    "language": "en",
+    "excerpt": "Let Claude, ChatGPT or Gemini edit your real timeline",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic",
+      "Google"
+    ],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Let Claude, ChatGPT or Gemini edit your real timeline",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 44,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "laduq9dkmoc6ipbgw7x2eghq",
+    "identityKey": "url:https://www.producthunt.com/products/imejis-io",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/imejis-io",
+    "title": "Imejis.io",
+    "language": "en",
+    "excerpt": "Give your agent a design studio to automate your marketing",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Give your agent a design studio to automate your marketing",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 44,
+      "average": 47
+    },
+    "selected": false
+  },
+  {
+    "id": "y8gmsbl9o4x27jmbuqre6s9u",
+    "identityKey": "url:https://www.producthunt.com/products/gladys-assistant",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/gladys-assistant",
+    "title": "Gladys Assistant 5",
+    "language": "en",
+    "excerpt": "Private, self-hosted smart home, no YAML required",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Private, self-hosted smart home, no YAML required",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "br8ypxvegf18zsba5sh6zscp",
+    "identityKey": "url:https://www.producthunt.com/products/supertake",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/supertake",
+    "title": "Supertake",
+    "language": "en",
+    "excerpt": "AI that turn your ideas into real investments",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "AI that turn your ideas into real investments",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "bp92h4sx7l66ankvol8yjebr",
+    "identityKey": "url:https://www.producthunt.com/products/declutr",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/declutr",
+    "title": "Declutr",
+    "language": "en",
+    "excerpt": "Tidy your Mac's desktop and downloads in one click",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Tidy your Mac's desktop and downloads in one click",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "gmnhtaxza2rq0b30xs2zhq7x",
+    "identityKey": "url:https://www.producthunt.com/products/clink-custom-keyboards",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/clink-custom-keyboards",
+    "title": "Clink",
+    "language": "en",
+    "excerpt": "The iOS keyboard you actually own",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "The iOS keyboard you actually own",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "r8gp8111opop9jfhm7os66yo",
+    "identityKey": "url:https://www.producthunt.com/products/ghostdeck-retro-music-player",
+    "sourceId": "hot-producthunt",
+    "via": "newsnow:hot-producthunt",
+    "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
+    "title": "GhostDeck",
+    "language": "en",
+    "excerpt": "Offline Mac music player with living low-poly worlds",
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T04:08:37.899Z",
+    "discoveredAt": "2026-09-30T04:08:37.899Z",
+    "category": "industry",
+    "summary": "Offline Mac music player with living low-poly worlds",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
   }
 ]

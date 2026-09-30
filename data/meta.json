@@ -1,16 +1,16 @@
 {
-  "lastRunAt": "2026-09-30T03:38:18.216Z",
-  "lastSuccessAt": "2026-09-30T03:38:18.532Z",
+  "lastRunAt": "2026-09-30T04:07:47.116Z",
+  "lastSuccessAt": "2026-09-30T04:08:37.960Z",
   "llmCallsUsed": 0,
-  "fetchedFeeds": 0,
-  "newItems": 0,
+  "fetchedFeeds": 7,
+  "newItems": 184,
   "selectedToday": 20,
   "errors": [
-    "fetch rss-openai-news: 目标指向内网/保留地址，已拦截：openai.com",
-    "fetch rss-google-research: 目标指向内网/保留地址，已拦截：research.google",
-    "fetch rss-hugging-face: 目标指向内网/保留地址，已拦截：huggingface.co",
-    "fetch rss-aws-ml: 目标指向内网/保留地址，已拦截：aws.amazon.com",
-    "fetch rss-mistral: 目标指向内网/保留地址，已拦截：mistral.ai",
-    "fetch rss-import-ai: 目标指向内网/保留地址，已拦截：importai.substack.com"
+    "fetch rss-openai-news: read ECONNRESET",
+    "fetch rss-google-research: Connect Timeout Error (attempted address: research.google:443, timeout: 15000ms)",
+    "fetch rss-hugging-face: read ECONNRESET",
+    "fetch rss-aws-ml: read ECONNRESET",
+    "fetch rss-mistral: Connect Timeout Error (attempted address: mistral.ai:443, timeout: 15000ms)",
+    "fetch rss-import-ai: Connect Timeout Error (attempted address: importai.substack.com:443, timeout: 15000ms)"
   ]
 }

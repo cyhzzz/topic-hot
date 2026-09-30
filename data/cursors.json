@@ -66,5 +66,33 @@
     "lastModified": "Wed, 30 Sep 2026 01:08:28 GMT",
     "configHash": "14307d09071fb747",
     "lastFetchedAt": "2026-09-30T03:31:12.758Z"
+  },
+  "hot-ithome": {
+    "configHash": "97d2dae7b9303a22",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-juejin": {
+    "configHash": "0bc1d3687fe91430",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-v2ex": {
+    "configHash": "f5250d7f22ec69ee",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-sspai": {
+    "configHash": "8fbcde884154872f",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-hackernews": {
+    "configHash": "96b7f54d2da2454a",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-github-trending": {
+    "configHash": "2a9aa0d6b31d33f4",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
+  },
+  "hot-producthunt": {
+    "configHash": "3a46debfd6c3d56c",
+    "lastFetchedAt": "2026-09-30T04:07:47.116Z"
   }
 }

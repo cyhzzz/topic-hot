@@ -30,14 +30,10 @@ export type MaterialInput = {
 /** 信源产出、还没挂 sourceId/via 的候选。 */
 export type Candidate = Omit<MaterialInput, "sourceId" | "via"> & { categories?: string[] };
 
-export type SourceConfig = { feedUrl: string; backfillLimit?: number };
-
-/** sources.json 里的一条信源。 */
+/** sources.json 里的一条信源：基础字段两种 kind 共用，config 按 kind 取不同形态。 */
 export type SourceRow = {
   id: string;
   name: string;
-  kind: "rss";
-  config: SourceConfig;
   tier: string;
   first_party: boolean;
   owner_entity_id?: string;
@@ -46,7 +42,10 @@ export type SourceRow = {
   tags?: string[];
   site_fulltext: boolean;
   syndicate_fulltext?: boolean;
-};
+} & (
+  | { kind: "rss"; config: { feedUrl: string; backfillLimit?: number } }
+  | { kind: "newsnow"; config: { platform: string } }
+);
 
 /** 条件请求用的协商缓存凭据，按信源存在 cursors.json。 */
 export type FeedValidator = { etag?: string; lastModified?: string; configHash?: string };

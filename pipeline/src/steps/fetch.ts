@@ -1,5 +1,6 @@
-// 第 1 步：按信源抓 RSS。间隔没到的源直接跳过；条件请求凭据写回 cursors。
+// 第 1 步：按信源抓取（RSS 订阅 / NewsNow 热榜）。间隔没到的源直接跳过；凭据写回 cursors。
 import { config } from "../config.ts";
+import { fetchNewsnow } from "../lib/newsnow.ts";
 import { fetchRss } from "../lib/rss.ts";
 import type { Cursors, MaterialInput, SourceRow } from "../lib/types.ts";
 
@@ -15,11 +16,13 @@ export async function fetchAll(sources: SourceRow[], cursors: Cursors, now: Date
       if (Number.isFinite(elapsed) && elapsed < source.interval_minutes * 60_000) continue;
     }
     try {
-      const result = await fetchRss(source, cursor, {});
+      const result = source.kind === "newsnow"
+        ? await fetchNewsnow(source, cursor)
+        : await fetchRss(source, cursor, {});
       cursors[source.id] = { ...result.validator, lastFetchedAt: now.toISOString() };
       outcome.fetchedFeeds += 1;
       for (const candidate of result.candidates) {
-        outcome.materials.push({ ...candidate, sourceId: source.id, via: `rss:${source.id}` });
+        outcome.materials.push({ ...candidate, sourceId: source.id, via: `${source.kind}:${source.id}` });
       }
     } catch (error) {
       outcome.errors.push(`fetch ${source.id}: ${error instanceof Error ? error.message : String(error)}`);

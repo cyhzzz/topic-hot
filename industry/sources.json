@@ -347,6 +347,138 @@
       ],
       "site_fulltext": false,
       "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-ithome",
+      "name": "IT之家 · 热榜",
+      "kind": "newsnow",
+      "config": {
+        "platform": "ithome"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-juejin",
+      "name": "掘金 · 热榜",
+      "kind": "newsnow",
+      "config": {
+        "platform": "juejin"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "社区"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-v2ex",
+      "name": "V2EX · 热榜",
+      "kind": "newsnow",
+      "config": {
+        "platform": "v2ex"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "社区"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-sspai",
+      "name": "少数派 · 热榜",
+      "kind": "newsnow",
+      "config": {
+        "platform": "sspai"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "媒体"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-hackernews",
+      "name": "Hacker News",
+      "kind": "newsnow",
+      "config": {
+        "platform": "hackernews"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "社区"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-github-trending",
+      "name": "GitHub Trending",
+      "kind": "newsnow",
+      "config": {
+        "platform": "github"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "开源"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "hot-producthunt",
+      "name": "Product Hunt",
+      "kind": "newsnow",
+      "config": {
+        "platform": "producthunt"
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "aggregated",
+      "interval_minutes": 60,
+      "tags": [
+        "热榜",
+        "产品"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
     }
   ]
 }
