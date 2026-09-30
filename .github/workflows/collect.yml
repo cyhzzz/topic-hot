@@ -1,0 +1,63 @@
+# 每小时采集一次并发布到 GitHub Pages：一个工作流、两个 job。
+# 采集 → 把 data/ 提交回仓库（JSON 就是“数据库”）→ 构建 web → 部署 Pages。
+# 模型可选：仓库 Secrets 里没配 LLM_* 时管线自动走规则打分，没有任何密钥也能跑。
+name: Collect and deploy
+
+on:
+  schedule:
+    - cron: "0 * * * *" # 每小时整点（UTC）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  collect-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: 采集并生成站点数据
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          EGRESS_PROXY_URL: ${{ secrets.EGRESS_PROXY_URL }}
+        run: npm run collect
+      - name: 提交数据回仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "数据没有变化，跳过提交"
+          else
+            git commit -m "data: 采集更新 $(date -u +%FT%TZ)"
+            git push
+          fi
+      - name: 构建站点
+        run: npm run build:web
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  deploy:
+    needs: collect-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

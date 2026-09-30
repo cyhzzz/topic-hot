@@ -1,0 +1,23 @@
+{
+  "name": "topic-hot",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "pipeline",
+    "web",
+    "industry"
+  ],
+  "engines": {
+    "node": ">=24.11"
+  },
+  "scripts": {
+    "collect": "node --env-file-if-exists=.env pipeline/src/main.ts",
+    "typecheck": "tsc -p pipeline && tsc -p industry",
+    "build:web": "npm run build -w @topic-hot/web",
+    "preview": "npm run preview -w @topic-hot/web"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.3",
+    "typescript": "7.0.2"
+  }
+}

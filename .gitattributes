@@ -1,0 +1,4 @@
+# 入库统一 LF：工作流要在 Linux 的 bash 里跑脚本，CRLF 会让 run 块出问题。
+* text=auto eol=lf
+*.png binary
+*.ico binary

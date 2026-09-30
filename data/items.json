@@ -1,0 +1,2361 @@
+[
+  {
+    "id": "vcno6um19w92yqi2icvxyacn",
+    "identityKey": "url:https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+    "sourceId": "rss-google-deepmind",
+    "via": "rss:rss-google-deepmind",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "language": "en",
+    "publishedAt": "2026-09-24T16:20:39.000Z",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "Google"
+    ],
+    "firstSeenAt": "2026-09-30T03:19:35.486Z",
+    "discoveredAt": "2026-09-30T03:19:35.486Z",
+    "category": "ai-models",
+    "summary": "Introducing Gemini 3.8 Live with Live Avatar",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 80,
+      "understand": 46,
+      "average": 63
+    },
+    "selected": true
+  },
+  {
+    "id": "sqwql9qxnqgqz8tmvrgkram7",
+    "identityKey": "url:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "sourceId": "rss-google-deepmind",
+    "via": "rss:rss-google-deepmind",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "language": "en",
+    "publishedAt": "2026-09-23T16:00:57.000Z",
+    "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "media": [
+      {
+        "url": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
+      }
+    ],
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:19:35.486Z",
+    "discoveredAt": "2026-09-30T03:19:35.486Z",
+    "category": "ai-products",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 50,
+      "average": 58
+    },
+    "selected": false
+  },
+  {
+    "id": "izpsl65qxvcugg2ptw5temjg",
+    "identityKey": "url:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "sourceId": "rss-google-deepmind",
+    "via": "rss:rss-google-deepmind",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "language": "en",
+    "publishedAt": "2026-09-23T15:25:14.000Z",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Google"
+    ],
+    "firstSeenAt": "2026-09-30T03:19:35.486Z",
+    "discoveredAt": "2026-09-30T03:19:35.486Z",
+    "category": "industry",
+    "summary": "Gemini 3.8 text-to-speech says hello",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 75,
+      "understand": 46,
+      "average": 61
+    },
+    "selected": true
+  },
+  {
+    "id": "mvz9t6br0m36al7t2hyf4qz6",
+    "identityKey": "url:https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
+    "sourceId": "rss-microsoft-research",
+    "via": "rss:rss-microsoft-research",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
+    "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "author": "Nicolo Fusi, Jonathan M. Carlson",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:00:02.000Z",
+    "excerpt": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing …",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:09.718Z",
+    "discoveredAt": "2026-09-30T03:20:09.718Z",
+    "category": "ai-models",
+    "summary": "Biology doesn't operate in silos, and neither should the AI representation of i…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 74,
+      "understand": 80,
+      "average": 77
+    },
+    "selected": true
+  },
+  {
+    "id": "zq9rajo65cfqu0dk0x9ak5md",
+    "identityKey": "url:https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
+    "sourceId": "rss-microsoft-research",
+    "via": "rss:rss-microsoft-research",
+    "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
+    "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+    "author": "Microsoft Research Team",
+    "language": "en",
+    "publishedAt": "2026-09-28T21:00:00.000Z",
+    "excerpt": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:09.718Z",
+    "discoveredAt": "2026-09-30T03:20:09.718Z",
+    "category": "industry",
+    "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has est…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 72,
+      "understand": 74,
+      "average": 73
+    },
+    "selected": true
+  },
+  {
+    "id": "y0rs6y38118x2e7nqeaw5v3z",
+    "identityKey": "url:https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+    "sourceId": "rss-microsoft-research",
+    "via": "rss:rss-microsoft-research",
+    "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+    "title": "Offloaded inference for real-world physical AI robotics",
+    "author": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+    "language": "en",
+    "publishedAt": "2026-09-23T16:01:36.000Z",
+    "excerpt": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:09.718Z",
+    "discoveredAt": "2026-09-30T03:20:09.718Z",
+    "category": "industry",
+    "summary": "Robots are getting smarter, but how can their hardware match that growth? New M…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 72,
+      "understand": 80,
+      "average": 76
+    },
+    "selected": true
+  },
+  {
+    "id": "n1k4mh8f5i2aohu5tle7r0ry",
+    "identityKey": "url:https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
+    "sourceId": "rss-microsoft-research",
+    "via": "rss:rss-microsoft-research",
+    "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
+    "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+    "author": "Felix Pultar, John Gardner, Guoqing Liu, Marwin Segler",
+    "language": "en",
+    "publishedAt": "2026-09-21T15:30:19.000Z",
+    "excerpt": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research .",
+    "media": [],
+    "tags": [
+      "论文/研究"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:09.718Z",
+    "discoveredAt": "2026-09-30T03:20:09.718Z",
+    "category": "paper",
+    "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but p…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 75,
+      "understand": 80,
+      "average": 78
+    },
+    "selected": true
+  },
+  {
+    "id": "abwcuctc6unt71571dgr5ij8",
+    "identityKey": "url:https://blogs.nvidia.com/blog/open-protein-dataset",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+    "author": "Anthony Costa",
+    "language": "en",
+    "publishedAt": "2026-09-24T14:00:50.000Z",
+    "excerpt": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Google"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "industry",
+    "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior res…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 72,
+      "understand": 80,
+      "average": 76
+    },
+    "selected": true
+  },
+  {
+    "id": "kgyut2rbl2xb1e0b5cgrx0q2",
+    "identityKey": "url:https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
+    "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+    "author": "GeForce NOW Community",
+    "language": "en",
+    "publishedAt": "2026-09-24T13:00:36.000Z",
+    "excerpt": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate membership through Sunday, Sept. 27, and receive […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday-Sept_24.jpg"
+      }
+    ],
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "ai-products",
+    "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CO…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 71,
+      "understand": 80,
+      "average": 76
+    },
+    "selected": true
+  },
+  {
+    "id": "kc4me628mdstdd3e554z5bfn",
+    "identityKey": "url:https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+    "author": "Matthew Leib",
+    "language": "en",
+    "publishedAt": "2026-09-23T15:00:32.000Z",
+    "excerpt": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "industry",
+    "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she do…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 80,
+      "average": 73
+    },
+    "selected": true
+  },
+  {
+    "id": "weax9mklq24mg4ivretgpomn",
+    "identityKey": "url:https://blogs.nvidia.com/blog/ai-day-singapore",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+    "author": "NVIDIA Writers",
+    "language": "en",
+    "publishedAt": "2026-09-23T02:30:22.000Z",
+    "excerpt": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "industry",
+    "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Conv…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 80,
+      "average": 73
+    },
+    "selected": true
+  },
+  {
+    "id": "vtaopio5iutx04663h1lqy3z",
+    "identityKey": "url:https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "author": "Katie Washabaugh",
+    "language": "en",
+    "publishedAt": "2026-09-22T12:00:41.000Z",
+    "excerpt": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg"
+      }
+    ],
+    "tags": [
+      "开源/仓库"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "ai-products",
+    "summary": "To build and deploy sophisticated robotics applications that can perceive, reas…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 74,
+      "understand": 80,
+      "average": 77
+    },
+    "selected": true
+  },
+  {
+    "id": "ftx1u599kstav55mlxvcjrvl",
+    "identityKey": "url:https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "author": "Vishal Ganeriwala",
+    "language": "en",
+    "publishedAt": "2026-09-21T18:00:07.000Z",
+    "excerpt": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/end-to-end-press-dsx-ready-kv-1920x1080-1.png"
+      }
+    ],
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "ai-products",
+    "summary": "Every AI factory needs power and cooling that fit its computing architecture. A…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 71,
+      "understand": 80,
+      "average": 76
+    },
+    "selected": true
+  },
+  {
+    "id": "gpnrr3vrwph93j71goy1xbs8",
+    "identityKey": "url:https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+    "author": "Riccardo Mariani",
+    "language": "en",
+    "publishedAt": "2026-09-21T16:00:46.000Z",
+    "excerpt": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-pr-halos-1600x900-1.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "industry",
+    "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035,…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 80,
+      "average": 73
+    },
+    "selected": true
+  },
+  {
+    "id": "bxal77avhcrcltex7waaxhvx",
+    "identityKey": "url:https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+    "sourceId": "rss-nvidia-blog",
+    "via": "rss:rss-nvidia-blog",
+    "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+    "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+    "author": "Fatima Tambajang",
+    "language": "en",
+    "publishedAt": "2026-09-21T16:00:10.000Z",
+    "excerpt": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
+    "media": [
+      {
+        "url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/5723250-ent-dig-egypt-ecosystem-reception-blog-1920x1080-1.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:10.848Z",
+    "discoveredAt": "2026-09-30T03:20:10.848Z",
+    "category": "industry",
+    "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a receptio…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 80,
+      "average": 73
+    },
+    "selected": true
+  },
+  {
+    "id": "kewqah9pf7hfxyjg4jfsreg2",
+    "identityKey": "url:https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "author": "Kayla Cinnamon",
+    "language": "en",
+    "publishedAt": "2026-09-25T18:00:00.000Z",
+    "excerpt": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "tip",
+    "summary": "Describe the interface you need in plain English, then let the agent build a li…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 75,
+      "understand": 80,
+      "average": 78
+    },
+    "selected": true
+  },
+  {
+    "id": "th33jcty5eawrdd0v6r760m1",
+    "identityKey": "url:https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+    "title": "When chat is the wrong UI",
+    "author": "Burke Holland",
+    "language": "en",
+    "publishedAt": "2026-09-24T20:00:00.000Z",
+    "excerpt": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "industry",
+    "summary": "What is a developer to do when they need something more tangible than a chat bo…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 65,
+      "average": 66
+    },
+    "selected": true
+  },
+  {
+    "id": "skcjzydewvqo7jh5iilqgspm",
+    "identityKey": "url:https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "author": "Antonio Morales",
+    "language": "en",
+    "publishedAt": "2026-09-24T18:26:12.000Z",
+    "excerpt": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "tip",
+    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the G…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 69,
+      "understand": 65,
+      "average": 67
+    },
+    "selected": true
+  },
+  {
+    "id": "uslftqd0gs8mcz3si9hqohr0",
+    "identityKey": "url:https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "author": "Alberto Gimeno",
+    "language": "en",
+    "publishedAt": "2026-09-23T18:29:49.000Z",
+    "excerpt": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "industry",
+    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-lin…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 72,
+      "understand": 65,
+      "average": 69
+    },
+    "selected": true
+  },
+  {
+    "id": "k8hp3fafd32s2zqkce14x09c",
+    "identityKey": "url:https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "author": "GPS",
+    "language": "en",
+    "publishedAt": "2026-09-18T15:00:00.000Z",
+    "excerpt": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "industry",
+    "summary": "We dive into these questions and other AI hot takes on the latest episode of th…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 66,
+      "understand": 65,
+      "average": 66
+    },
+    "selected": true
+  },
+  {
+    "id": "cemtpunv0v7zbqejgpegiycb",
+    "identityKey": "url:https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+    "sourceId": "rss-github-ai",
+    "via": "rss:rss-github-ai",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "author": "Stephen Toub",
+    "language": "en",
+    "publishedAt": "2026-09-17T00:26:43.000Z",
+    "excerpt": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:26.336Z",
+    "discoveredAt": "2026-09-30T03:20:26.336Z",
+    "category": "industry",
+    "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Co…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 75,
+      "understand": 65,
+      "average": 70
+    },
+    "selected": true
+  },
+  {
+    "id": "grr9qhcrlqf9el5jqwyw8i07",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "author": "Hayden Field",
+    "language": "en",
+    "publishedAt": "2026-09-30T00:19:13.000Z",
+    "excerpt": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "industry",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman say…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "a19tktrrfcg3zqq5im4xiuc1",
+    "identityKey": "url:https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "author": "Lauren Feiner",
+    "language": "en",
+    "publishedAt": "2026-09-29T22:25:45.000Z",
+    "excerpt": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said […]",
+    "media": [],
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "ai-products",
+    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 80,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "zr664rmh2u8drqudg3xciado",
+    "identityKey": "url:https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+    "author": "Jay Peters",
+    "language": "en",
+    "publishedAt": "2026-09-29T21:49:09.000Z",
+    "excerpt": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a […]",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "xAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "industry",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be upd…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "ewy92sji45nrmia3km4ymgba",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "author": "Stevie Bonifield",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:35:03.000Z",
+    "excerpt": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' […]",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic",
+      "Google"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "industry",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irv…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 74,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "hs62natsyn1wqlh43mnf7cmd",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "author": "Emma Roth",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "excerpt": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers […]",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Meta"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "ai-models",
+    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: D…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": false
+  },
+  {
+    "id": "sp5nfn4mlybdrletd9wjb4ob",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "author": "Hayden Field",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:12:27.000Z",
+    "excerpt": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside […]",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "industry",
+    "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chant…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 80,
+      "average": 66
+    },
+    "selected": false
+  },
+  {
+    "id": "oe0i3s3wgbl18zsw276wnug8",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "author": "The Verge",
+    "language": "en",
+    "publishedAt": "2026-09-29T16:00:00.000Z",
+    "excerpt": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, […]",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Meta"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "ai-models",
+    "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": false
+  },
+  {
+    "id": "zxc2lna09e9mci2bcanp22wz",
+    "identityKey": "url:https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "sourceId": "rss-the-verge-ai",
+    "via": "rss:rss-the-verge-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+    "author": "Jess Weatherbed",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:08:21.000Z",
+    "excerpt": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch […]",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "Meta"
+    ],
+    "firstSeenAt": "2026-09-30T03:20:43.367Z",
+    "discoveredAt": "2026-09-30T03:20:43.367Z",
+    "category": "ai-models",
+    "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total str…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "axc9jlyfn2j9qoumspgx0f20",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
+    "title": "Protests against OpenAI get increasingly creative",
+    "author": "Cyrus Farivar",
+    "language": "en",
+    "publishedAt": "2026-09-29T21:52:58.000Z",
+    "excerpt": "New sculpture depicts AI leaders escaping a sinking ship.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 50,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "rzx5q6n1hhfynqtu7o8ckd56",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "author": "Samuel Axon",
+    "language": "en",
+    "publishedAt": "2026-09-29T21:14:49.000Z",
+    "excerpt": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "ya7fz8eyxujwyubf3473q6ax",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+    "author": "Kyle Orland",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:11:09.000Z",
+    "excerpt": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-1152x648.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and sour…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "yia4m2zmr0zue651pirnxc15",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "author": "Kyle Orland",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:22:31.000Z",
+    "excerpt": "Similar performance, security trade-offs also seen in current public models.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg"
+      }
+    ],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "ai-models",
+    "summary": "Similar performance, security trade-offs also seen in current public models.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 50,
+      "average": 55
+    },
+    "selected": false
+  },
+  {
+    "id": "msxbykk6zxflkjz6x4mamie6",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
+    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+    "author": "George Hammond, Financial Times",
+    "language": "en",
+    "publishedAt": "2026-09-29T14:10:00.000Z",
+    "excerpt": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "The Claude maker warns its own models could resist shutdowns and cause catastro…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "bxjylhs4qf6gjpbvmqsddnl5",
+    "identityKey": "url:https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice",
+    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+    "author": "Samuel Axon",
+    "language": "en",
+    "publishedAt": "2026-09-29T13:00:19.000Z",
+    "excerpt": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Firefox-header-1-1152x648-1790642597.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "qdza4wzuwju62spxaep1wg5e",
+    "identityKey": "url:https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "author": "Ashley Belanger",
+    "language": "en",
+    "publishedAt": "2026-09-28T21:49:10.000Z",
+    "excerpt": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "pao4yo0f99f9n55roecye97x",
+    "identityKey": "url:https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+    "sourceId": "rss-ars-technica-ai",
+    "via": "rss:rss-ars-technica-ai",
+    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "author": "Kyle Orland",
+    "language": "en",
+    "publishedAt": "2026-09-28T20:49:39.000Z",
+    "excerpt": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+    "media": [
+      {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:04.604Z",
+    "discoveredAt": "2026-09-30T03:21:04.604Z",
+    "category": "industry",
+    "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever cre…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "ppm7c5ao8z9im1id2frsntcr",
+    "identityKey": "url:https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+    "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+    "author": "Matthias Bastian",
+    "language": "en",
+    "publishedAt": "2026-09-29T19:24:12.000Z",
+    "excerpt": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Explicit restrictions reduced attacks but didn't stop them entirely. The article UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor appeared first on The Decoder…",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/astra_cybersecuity_kraken-scaled.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of si…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 74,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "reibixjoerrfsypzx1d5nhj4",
+    "identityKey": "url:https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says",
+    "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+    "author": "Matthias Bastian",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:10:34.000Z",
+    "excerpt": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The article ChatGPT now reaches 1.2 billion people every week, OpenAI says appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent si…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "wgfuar6kjmipsmrkspts7i1t",
+    "identityKey": "url:https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+    "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+    "author": "Matthias Bastian",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:23:22.000Z",
+    "excerpt": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with 32 partners, and a new Pro 500 pricing tier. The article OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/openai_chatgpt-2.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 74,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "l7y2fbwsaw38j4raq0iuiy92",
+    "identityKey": "url:https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse",
+    "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+    "author": "Maximilian Schreiner",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:14:45.000Z",
+    "excerpt": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways to help in the background using read-only access. The article OpenAI launches always-on Dots agents to rival Meta's Muse appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/Dots-Hero-Image-scaled.png"
+      }
+    ],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Meta",
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "ai-models",
+    "summary": "OpenAI's new Dots are always-on agents that run on their own cloud computers, w…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 80,
+      "average": 70
+    },
+    "selected": false
+  },
+  {
+    "id": "bj1pakb0bbumcc72cfkw4rxi",
+    "identityKey": "url:https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast",
+    "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
+    "author": "Jonathan Kemper",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:14:41.000Z",
+    "excerpt": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises up to eight times the speed at six times the price. The article OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/openai-devday-codex-api-01-codex-cloud-environments.jpg"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic securi…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 74,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "hd90yp1nofwny7bz3nt4340l",
+    "identityKey": "url:https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price",
+    "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+    "author": "Maximilian Schreiner",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:14:27.000Z",
+    "excerpt": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png"
+      }
+    ],
+    "tags": [
+      "论文/研究"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "paper",
+    "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, acc…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "p2ivaxestdxplcyjyw3swvwr",
+    "identityKey": "url:https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion",
+    "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+    "author": "Matthias Bastian",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:13:51.000Z",
+    "excerpt": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, which generates and simulates 3D environments from minimal input. AMD gains its own AI research unit focused on physical-world models, sharpening its competition with Nvidia. The article AMD buys AI world model startup Wor…",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logowall.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. L…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 80,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "eyoea060jqswrojdp27guddm",
+    "identityKey": "url:https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids",
+    "sourceId": "rss-the-decoder",
+    "via": "rss:rss-the-decoder",
+    "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids",
+    "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
+    "author": "Manuel Uth",
+    "language": "en",
+    "publishedAt": "2026-09-29T16:31:36.000Z",
+    "excerpt": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most capable models. The article Florida wants a court to stop ChatGPT from pretending to be human and talking to kids appeared first on The Decoder .",
+    "media": [
+      {
+        "url": "https://the-decoder.com/wp-content/uploads/2026/09/florida_openai_ban.png"
+      }
+    ],
+    "tags": [
+      "政策/监管"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:21.838Z",
+    "discoveredAt": "2026-09-30T03:21:21.838Z",
+    "category": "industry",
+    "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from gi…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "a1jorgbek9htyuoc3mvt8fkv",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
+    "title": "Quoting Anthropic Frontier Red Team",
+    "language": "en",
+    "publishedAt": "2026-09-29T22:20:28.000Z",
+    "excerpt": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them. — Anthropic Frontier Red Team , GLM-5.3 and the spread of advanced cyber capabiliti…",
+    "media": [],
+    "tags": [
+      "论文/研究"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "paper",
+    "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "w47gm6l3j0pul5fpd86lnxw9",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/29/hn-49898129",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:27:48.000Z",
+    "excerpt": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht... They're not notably different from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr... Tags: ai , openai , generative-ai , llms , pelica…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "industry",
+    "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — H…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "vxwwhr10560fs9gw9t7jnd2s",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog",
+    "title": "OpenAI DevDay 2026 live blog",
+    "language": "en",
+    "publishedAt": "2026-09-29T15:55:13.000Z",
+    "excerpt": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "industry",
+    "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'l…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "iqeh81wfvmsps3l6m4oswq8t",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+    "title": "Claude Sonnet 5.5",
+    "language": "en",
+    "publishedAt": "2026-09-28T22:07:38.000Z",
+    "excerpt": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican i…",
+    "media": [],
+    "tags": [
+      "论文/研究"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "paper",
+    "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "m7lgqb6y1ys1ynw1yth0bvmv",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/28/joedaroo",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/28/joedaroo",
+    "title": "Quoting @joedaroo",
+    "language": "en",
+    "publishedAt": "2026-09-28T19:11:42.000Z",
+    "excerpt": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden …",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "industry",
+    "summary": "To say that we were surprised at the jump and suddenness of the capabilities of…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 80,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "v7id9vs65frn2h7uvktvyu0r",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/28/muse-ai-agent",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent",
+    "title": "Quoting Muse AI Agent",
+    "language": "en",
+    "publishedAt": "2026-09-28T04:01:30.000Z",
+    "excerpt": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse. I've sent him an apology from your account owning it and offering to try again another day. But the negative rating is real, and I should probably stop…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "industry",
+    "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 80,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "fzh7g5omhna05nmicplx34eb",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
+    "title": "2026 in LLMs (so far)",
+    "language": "en",
+    "publishedAt": "2026-09-27T23:54:15.000Z",
+    "excerpt": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk. And as an annotated presentation : # I'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet! # For me, 2026 started a couple of months ea…",
+    "media": [],
+    "tags": [
+      "现象/趋势"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "opinion",
+    "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress Nort…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 80,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "fges5ru3d3er4thcn5n57g7a",
+    "identityKey": "url:https://simonwillison.net/2026/Sep/27/hn-49871741",
+    "sourceId": "rss-simon-willison",
+    "via": "rss:rss-simon-willison",
+    "url": "https://simonwillison.net/2026/Sep/27/hn-49871741",
+    "title": "S3 Is the Future, S3 Is the Past",
+    "language": "en",
+    "publishedAt": "2026-09-27T23:09:19.000Z",
+    "excerpt": "My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade : 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01 $0.125/GB-month 2012-12-01 $0.095/GB-month 2014-02-01 $0.085/GB-month 2014-04-01 $0.030/GB-month 2016-12-01 $0.023/GB-month Today it's still $0.023/GB-month. Tags: amazon-web-services , s3",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:22.032Z",
+    "discoveredAt": "2026-09-30T03:21:22.032Z",
+    "category": "industry",
+    "summary": "My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 80,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "eb4lqtvomlmjg4ugvqmi9o7v",
+    "identityKey": "url:https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+    "language": "en",
+    "publishedAt": "2026-09-29T02:55:27.000Z",
+    "excerpt": "Congrats team!",
+    "media": [
+      {
+        "url": "https://substackcdn.com/image/youtube/w_728,c_limit/60iW8FZ7MJU"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "Congrats team!",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 44,
+      "average": 45
+    },
+    "selected": false
+  },
+  {
+    "id": "sojtbfyndkq62k3sfl1qs6j1",
+    "identityKey": "url:https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+    "title": "[AINews] Opus 5.5 is good at explainer videos",
+    "language": "en",
+    "publishedAt": "2026-09-29T02:44:29.000Z",
+    "excerpt": "a rare feature of a capability",
+    "media": [
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!aAiz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTVRIbeagAAvWK1.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "a rare feature of a capability",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "g1a18dfg3pqp5qxr1rh6yg6g",
+    "identityKey": "url:https://www.latent.space/p/thariq",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/thariq",
+    "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+    "language": "en",
+    "publishedAt": "2026-09-29T01:48:18.000Z",
+    "excerpt": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "xoo53cn5f7qlt5b65p7lut7l",
+    "identityKey": "url:https://www.latent.space/p/openrouter",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/openrouter",
+    "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+    "language": "en",
+    "publishedAt": "2026-09-25T23:14:41.000Z",
+    "excerpt": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 65,
+      "average": 57
+    },
+    "selected": false
+  },
+  {
+    "id": "b7aji7eseu2v7ns3ofwookwh",
+    "identityKey": "url:https://www.latent.space/p/ainews-the-future-of-latent-space",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+    "title": "[AINews] The Future of Latent Space",
+    "language": "en",
+    "publishedAt": "2026-09-25T05:37:00.000Z",
+    "excerpt": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+    "media": [
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 50,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "fhqm19c2110v2w3a6935h8nd",
+    "identityKey": "url:https://www.latent.space/p/runway",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/runway",
+    "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+    "author": "Richard MacManus",
+    "language": "en",
+    "publishedAt": "2026-09-25T01:30:57.000Z",
+    "excerpt": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
+    "media": [],
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "tip",
+    "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model g…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 50,
+      "average": 50
+    },
+    "selected": false
+  },
+  {
+    "id": "chx699xxwzq58p6c373wcfwz",
+    "identityKey": "url:https://www.latent.space/p/foundries-vs-navigators-lowering",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+    "title": "Foundries vs Navigators: Lowering the Cost of Science",
+    "author": "Adrian Sanborn",
+    "language": "en",
+    "publishedAt": "2026-09-24T15:03:16.000Z",
+    "excerpt": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+    "media": [
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymm…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 65,
+      "average": 56
+    },
+    "selected": false
+  },
+  {
+    "id": "duk5divzqs05c451hmm5b3u5",
+    "identityKey": "url:https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+    "sourceId": "rss-latent-space",
+    "via": "rss:rss-latent-space",
+    "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+    "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+    "language": "en",
+    "publishedAt": "2026-09-24T08:12:59.000Z",
+    "excerpt": "Team Zuck is absolutely on fire.",
+    "media": [
+      {
+        "url": "https://substackcdn.com/image/youtube/w_728,c_limit/JvyVwlP_nlw"
+      }
+    ],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "Meta"
+    ],
+    "firstSeenAt": "2026-09-30T03:21:38.166Z",
+    "discoveredAt": "2026-09-30T03:21:38.166Z",
+    "category": "industry",
+    "summary": "Team Zuck is absolutely on fire.",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 50,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "rlikkqcyvu3x81nkzch5nrjl",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "author": "Amanda Silberling",
+    "language": "en",
+    "publishedAt": "2026-09-29T23:30:55.000Z",
+    "excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "industry",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is n…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 65,
+      "average": 56
+    },
+    "selected": false
+  },
+  {
+    "id": "fioc372s104x5dltu3shnr52",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "author": "Julie Bort",
+    "language": "en",
+    "publishedAt": "2026-09-29T22:20:59.000Z",
+    "excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "xAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "industry",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 65,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "n89rtp42fvy1z7x8kmuhwknu",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "author": "Sarah Perez",
+    "language": "en",
+    "publishedAt": "2026-09-29T20:15:47.000Z",
+    "excerpt": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "industry",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app stor…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 65,
+      "average": 60
+    },
+    "selected": false
+  },
+  {
+    "id": "ypkd3hvcyjof3t1giaqtaqmf",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "author": "Marina Temkin",
+    "language": "en",
+    "publishedAt": "2026-09-29T19:52:37.000Z",
+    "excerpt": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "industry",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 p…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 52,
+      "understand": 50,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "a4mdmnt0uimnbwupxpxpo952",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "author": "Julie Bort",
+    "language": "en",
+    "publishedAt": "2026-09-29T18:35:00.000Z",
+    "excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "industry",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 65,
+      "average": 60
+    },
+    "selected": false
+  },
+  {
+    "id": "f7mbinvt5nndvsdvyxhkydsz",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "author": "Lucas Ropek",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:45:51.000Z",
+    "excerpt": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "ai-models",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct comp…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 59,
+      "average": 60
+    },
+    "selected": false
+  },
+  {
+    "id": "xg7vc0i8our3v7su1ly52qq7",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "author": "Sarah Perez",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:20:00.000Z",
+    "excerpt": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "media": [],
+    "tags": [
+      "教程/实践"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "tip",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 65,
+      "average": 57
+    },
+    "selected": false
+  },
+  {
+    "id": "t8cn538rbqmn38e9ikc3tgh2",
+    "identityKey": "url:https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+    "sourceId": "rss-techcrunch-ai",
+    "via": "rss:rss-techcrunch-ai",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "author": "Lucas Ropek",
+    "language": "en",
+    "publishedAt": "2026-09-29T17:17:15.000Z",
+    "excerpt": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.239Z",
+    "discoveredAt": "2026-09-30T03:31:50.239Z",
+    "category": "ai-models",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pu…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 60,
+      "understand": 65,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "tbh7nfk01ip9p18k2f0evyju",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+    "title": "Making AI an asset, not an expense",
+    "author": "Cheri Williams",
+    "language": "en",
+    "publishedAt": "2026-09-29T10:43:45.000Z",
+    "excerpt": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 80,
+      "average": 65
+    },
+    "selected": false
+  },
+  {
+    "id": "jwwf7u6u9w9waykvoru5kjbg",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "author": "MIT Technology Review",
+    "language": "en",
+    "publishedAt": "2026-09-28T22:17:07.000Z",
+    "excerpt": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virt…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 80,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "vvuh9bruf66r8k17wm70e38f",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
+    "title": "When can we say AI made a scientific discovery?",
+    "author": "James O'Donnell",
+    "language": "en",
+    "publishedAt": "2026-09-28T17:03:16.000Z",
+    "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+    "media": [],
+    "tags": [
+      "模型发布"
+    ],
+    "entityTags": [
+      "Anthropic"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "ai-models",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. T…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 40,
+      "understand": 80,
+      "average": 60
+    },
+    "selected": false
+  },
+  {
+    "id": "f3apxiuudsb5doy73d3a8tbu",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+    "title": "Who’s liable when AI agents go rogue?",
+    "author": "Michelle Kim",
+    "language": "en",
+    "publishedAt": "2026-09-28T08:06:22.000Z",
+    "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy wor…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "bae7yytpla0jctgaotzuonz4",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "author": "Amit Katwala",
+    "language": "en",
+    "publishedAt": "2026-09-25T09:16:25.000Z",
+    "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an i…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 80,
+      "average": 63
+    },
+    "selected": false
+  },
+  {
+    "id": "k6i43gvcwekeijsu27dxgdl1",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+    "title": "The AI Hype Index: AI loves cheating",
+    "author": "Michelle Kim",
+    "language": "en",
+    "publishedAt": "2026-09-23T09:00:00.000Z",
+    "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic",
+      "Hugging Face"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agent…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "uh9d4p5mcfo5afp99txk6ptl",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "author": "Timnit Gebru, Emily M. Bender",
+    "language": "en",
+    "publishedAt": "2026-09-22T11:04:51.000Z",
+    "excerpt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta"
+    ],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 55,
+      "understand": 80,
+      "average": 68
+    },
+    "selected": false
+  },
+  {
+    "id": "xdrhpxjn5poxc5tpmdxb6740",
+    "identityKey": "url:https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
+    "sourceId": "rss-mit-tech-review-ai",
+    "via": "rss:rss-mit-tech-review-ai",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "author": "James O'Donnell",
+    "language": "en",
+    "publishedAt": "2026-09-21T12:00:00.000Z",
+    "excerpt": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
+    "media": [],
+    "tags": [
+      "行业动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-09-30T03:31:50.468Z",
+    "discoveredAt": "2026-09-30T03:31:50.468Z",
+    "category": "industry",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico bord…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 80,
+      "average": 63
+    },
+    "selected": false
+  }
+]

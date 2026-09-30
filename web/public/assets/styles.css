@@ -1,0 +1,152 @@
+/* Topic Hot：编辑部风格的轻量排版 —— 纸面底色、衬线标题、克制的橙红点缀。 */
+:root {
+  --paper: #faf8f4;
+  --card: #ffffff;
+  --ink: #1c1917;
+  --ink-2: #57534e;
+  --ink-3: #a8a29e;
+  --line: #e7e2da;
+  --accent: #c2410c;
+  --accent-soft: #fdf0e7;
+  --radius: 10px;
+  --serif: "Noto Serif SC", "Source Han Serif SC", Georgia, "Songti SC", serif;
+  --sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16130f;
+    --card: #201c17;
+    --ink: #ece7e1;
+    --ink-2: #b3aba2;
+    --ink-3: #7c746b;
+    --line: #322c25;
+    --accent: #f97316;
+    --accent-soft: #2e2118;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 15px/1.75 var(--sans);
+}
+a { color: inherit; text-decoration: none; }
+.wrap { max-width: 880px; margin: 0 auto; padding: 0 20px; }
+
+/* ── 头尾 ─────────────────────────────────── */
+.site-head {
+  position: sticky; top: 0; z-index: 10;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.head-row { display: flex; align-items: baseline; gap: 14px; padding: 14px 20px; }
+.brand { font: 700 22px/1 var(--serif); letter-spacing: 0.5px; }
+.brand:hover { color: var(--accent); }
+.tagline { color: var(--ink-3); font-size: 12.5px; }
+#nav { margin-left: auto; display: flex; gap: 4px; }
+#nav a {
+  padding: 4px 12px; border-radius: 999px;
+  color: var(--ink-2); font-size: 14px;
+}
+#nav a:hover { color: var(--ink); background: var(--accent-soft); }
+#nav a.active { color: var(--accent); font-weight: 600; }
+.site-foot { border-top: 1px solid var(--line); margin-top: 56px; }
+.site-foot .wrap { padding: 22px 20px 34px; color: var(--ink-3); font-size: 12.5px; }
+
+/* ── 通用状态与分节 ─────────────────────────── */
+.state { padding: 80px 0; text-align: center; color: var(--ink-3); }
+.state-error strong { color: var(--accent); }
+.section { margin-top: 36px; }
+.section-title {
+  display: flex; align-items: center; gap: 10px;
+  font: 700 17px/1.4 var(--serif);
+  margin: 0 0 14px;
+}
+.section-title::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.section-count { color: var(--ink-3); font: 400 12.5px var(--sans); }
+
+/* ── 日报 ─────────────────────────────────── */
+.day-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 22px 0 4px; }
+.day-tabs a {
+  padding: 3px 12px; border-radius: 999px; font-size: 13px;
+  color: var(--ink-2); border: 1px solid var(--line); background: var(--card);
+}
+.day-tabs a.active { color: #fff; background: var(--accent); border-color: var(--accent); }
+.day-meta { color: var(--ink-3); font-size: 12.5px; margin: 10px 0 0; }
+
+.lead-card {
+  margin-top: 18px; padding: 22px 24px;
+  background: var(--card); border: 1px solid var(--line);
+  border-left: 3px solid var(--accent); border-radius: var(--radius);
+}
+.lead-card h2 { font: 700 22px/1.5 var(--serif); margin: 0 0 8px; }
+.lead-card p { margin: 0 0 10px; color: var(--ink-2); }
+.lead-card ul { margin: 0; padding-left: 18px; color: var(--ink-2); }
+.lead-card li { margin: 2px 0; }
+.lead-card li::marker { color: var(--accent); }
+
+/* ── 条目卡 ───────────────────────────────── */
+.cards { display: grid; grid-template-columns: 1fr; gap: 12px; }
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 16px 18px;
+}
+.item-top { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.chip {
+  font-size: 11.5px; padding: 1px 9px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent); font-weight: 600;
+}
+.chip-ghost { background: transparent; border: 1px solid var(--line); color: var(--ink-3); font-weight: 400; }
+.score { margin-left: auto; font: 700 13px var(--sans); color: var(--accent); }
+.item-title { font: 600 16px/1.6 var(--serif); margin: 0; }
+.item-title a:hover { color: var(--accent); }
+.item-summary { margin: 6px 0 8px; color: var(--ink-2); font-size: 14px; }
+.item-meta { display: flex; flex-wrap: wrap; gap: 4px 10px; color: var(--ink-3); font-size: 12.5px; }
+.item-meta .tag:hover { color: var(--accent); }
+
+/* ── 事件组 ───────────────────────────────── */
+.group-title { font: 600 16px/1.6 var(--serif); margin: 0 0 4px; }
+.group-items { margin: 10px 0 0; padding: 0; list-style: none; border-top: 1px dashed var(--line); }
+.group-items li {
+  display: flex; gap: 10px; align-items: baseline;
+  padding: 7px 0; border-bottom: 1px dashed var(--line); font-size: 13.5px;
+}
+.group-items a { color: var(--ink-2); }
+.group-items a:hover { color: var(--accent); }
+.group-items .src { margin-left: auto; flex: none; color: var(--ink-3); font-size: 12px; }
+
+/* ── 全部条目：工具栏 ────────────────────────── */
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 22px 0 16px; }
+.toolbar input[type="search"] {
+  flex: 1 1 220px; min-width: 0;
+  padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px;
+  background: var(--card); color: var(--ink); font: 14px var(--sans); outline: none;
+}
+.toolbar input[type="search"]:focus { border-color: var(--accent); }
+.toolbar select {
+  padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--card); color: var(--ink); font: 13.5px var(--sans);
+}
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.chip-row button {
+  padding: 3px 13px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--card); color: var(--ink-2); font-size: 13px;
+}
+.chip-row button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+/* ── 关于页 ───────────────────────────────── */
+.prose { max-width: 640px; margin-top: 26px; color: var(--ink-2); }
+.prose h2 { font: 700 20px var(--serif); color: var(--ink); margin: 26px 0 8px; }
+.prose p { margin: 8px 0; }
+.prose code { background: var(--accent-soft); color: var(--accent); padding: 1px 6px; border-radius: 6px; font-size: 13px; }
+.about-title { font: 700 24px/1.5 var(--serif); color: var(--ink); margin: 4px 0 10px; }
+.about-title em { font-style: normal; color: var(--accent); }
+
+@media (max-width: 640px) {
+  .head-row { flex-wrap: wrap; }
+  .tagline { display: none; }
+  .lead-card h2 { font-size: 19px; }
+}

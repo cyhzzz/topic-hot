@@ -1,0 +1,9 @@
+{
+  "name": "@topic-hot/industry",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./pages/*": "./pages/*",
+    "./*": "./*.ts"
+  }
+}

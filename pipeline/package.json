@@ -1,0 +1,10 @@
+{
+  "name": "@topic-hot/pipeline",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@paralleldrive/cuid2": "^2.2.2",
+    "fast-xml-parser": "^5.2.5",
+    "undici": "^7.10.0"
+  }
+}
