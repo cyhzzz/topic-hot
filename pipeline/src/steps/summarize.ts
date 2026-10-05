@@ -93,9 +93,14 @@ function normalizeTagList(raw: unknown, allowed: ReadonlySet<string> | readonly 
 
 function ruleAttention(record: ItemRecord, tier: string): number {
   const hay = `${record.title} ${record.excerpt ?? ""}`;
-  // 行业相关性闸门：噪声或标题未命中行业词表的条目，注意力分直接归零——
+  // 行业相关性闸门：噪声、或标题既未命中行业词表也不在券商名录里的条目，注意力分直接归零——
   // 两分平均最高只有可理解性上限的一半（92/2 = 46），必然低于所有档位的精选门槛。
-  if (NOISE_RE.test(hay) || !RELEVANCE_RE.test(record.title)) return 0;
+  if (
+    NOISE_RE.test(hay) ||
+    !(RELEVANCE_RE.test(record.title) || matchEntities(record.title).length > 0)
+  ) {
+    return 0;
+  }
   let score = tier === "T1" ? 66 : tier === "T1_5" ? 58 : 56;
   if (matchEntities(hay).length > 0) score += 6;
   if (RELEASE_RE.test(record.title)) score += 5;
