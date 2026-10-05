@@ -1,9 +1,17 @@
 {
-  "lastRunAt": "2026-10-05T07:52:16.479Z",
-  "lastSuccessAt": "2026-10-05T07:52:16.521Z",
+  "lastRunAt": "2026-10-05T09:05:24.013Z",
+  "lastSuccessAt": "2026-10-05T09:05:24.057Z",
   "llmCallsUsed": 0,
   "fetchedFeeds": 0,
   "newItems": 0,
   "selectedToday": 14,
-  "errors": []
+  "errors": [
+    "fetch rss-wallstreetcn: 目标指向内网/保留地址，已拦截：dedicated.wallstreetcn.com",
+    "fetch hot-wallstreetcn: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
+    "fetch hot-cls: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
+    "fetch feed-cls: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
+    "fetch hot-jin10: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
+    "fetch hot-gelonghui: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
+    "fetch hot-fastbull: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world"
+  ]
 }
