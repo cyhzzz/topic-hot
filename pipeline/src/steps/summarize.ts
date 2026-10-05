@@ -25,6 +25,11 @@ import type { LandedItem } from "./triage.ts";
 const RELEASE_RE = /(发布|上线|推出|获批|落地|开办|released?|launch(?:es|ed)?|announc|unveil|introduc)/i;
 const NOISE_RE = /(招聘|招人|赞助|广告|sponsored|抽奖|一周要闻|weekly\s?(?:roundup|digest)|newsletter|荐股|牛股|翻倍|加群|内部消息)/i;
 const MARKET_HINT_RE = /(券商|证券|两融|IPO|证监会|交易所|开户|佣金|经纪|投顾|行情|A股|基金|财富管理)/i;
+// 行业相关性闸门词表：标题必须命中证券行业或资本市场的关键词，
+// 否则视为与站点主题无关的泛财经（宏观行情、国际市场、社会热点等）。
+// 只看标题不看摘要：摘要是全文片段，无关词（如"愿景基金"里的"基金"）误命中率高。
+const RELEVANCE_RE =
+  /(券商|证券|证监会|上交所|深交所|港交所|北交所|中证协|新三板|两融|融资融券|转融通|IPO|保荐|承销|做市|经纪|佣金|开户|投行|投顾|投资顾问|财富管理|资管|公募|私募|基金|营业部|(?<![a-zA-Z])A股|港股|打新|新股|中签|减持|增持|回购|停牌|复牌|退市|并购|重组|借壳|定增|警示函|监管函|问询函|罚单|处罚|立案|征求意见|管理办法|管理规定|新规|自律|涨停|跌停|龙虎榜|大宗交易|研报)/i;
 const POLICY_RE = /(监管|政策|法案|禁令|regulat|ban\b|legislat)/i;
 
 /** 规则模式下分类标签 → 类别 key 的映射（与 taxonomy 的类别词对齐）。 */
@@ -88,11 +93,13 @@ function normalizeTagList(raw: unknown, allowed: ReadonlySet<string> | readonly 
 
 function ruleAttention(record: ItemRecord, tier: string): number {
   const hay = `${record.title} ${record.excerpt ?? ""}`;
+  // 行业相关性闸门：噪声或标题未命中行业词表的条目，注意力分直接归零——
+  // 两分平均最高只有可理解性上限的一半（92/2 = 46），必然低于所有档位的精选门槛。
+  if (NOISE_RE.test(hay) || !RELEVANCE_RE.test(record.title)) return 0;
   let score = tier === "T1" ? 66 : tier === "T1_5" ? 58 : 56;
   if (matchEntities(hay).length > 0) score += 6;
   if (RELEASE_RE.test(record.title)) score += 5;
   if (MARKET_HINT_RE.test(hay)) score += 3;
-  if (NOISE_RE.test(hay)) score -= 15;
   return clampScore(score);
 }
 
