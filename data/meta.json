@@ -1,10 +1,10 @@
 {
-  "lastRunAt": "2026-10-05T09:05:24.013Z",
-  "lastSuccessAt": "2026-10-05T09:05:24.057Z",
+  "lastRunAt": "2026-10-05T18:28:47.324Z",
+  "lastSuccessAt": "2026-10-05T18:28:47.377Z",
   "llmCallsUsed": 0,
   "fetchedFeeds": 0,
   "newItems": 0,
-  "selectedToday": 14,
+  "selectedToday": 0,
   "errors": [
     "fetch rss-wallstreetcn: 目标指向内网/保留地址，已拦截：dedicated.wallstreetcn.com",
     "fetch hot-wallstreetcn: 目标指向内网/保留地址，已拦截：newsnow.busiyi.world",
