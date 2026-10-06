@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T15:13:02.995Z",
-  "today": "2026-10-06",
+  "generatedAt": "2026-10-06T20:22:34.866Z",
+  "today": "2026-10-07",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,16 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-07",
+      "generatedAt": "2026-10-06T20:22:34.866Z",
+      "sections": [],
+      "stats": {
+        "total": 0,
+        "selected": 0,
+        "llmCalls": 0
+      }
+    },
     {
       "day": "2026-10-06",
       "generatedAt": "2026-10-06T15:13:02.995Z",
@@ -309,7 +319,7 @@
         "dob2a3zutv179ioqmeljgeqc",
         "asqaat2ksd6vei62e9j995zy"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     },
     {
       "id": "ev_beaf26fa13",
@@ -322,7 +332,7 @@
         "bs6ra5pmk1x24jovssfuqs48",
         "iohiuz6ce888qh81smb6wn8m"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     },
     {
       "id": "ev_782b2e6ab6",
@@ -335,7 +345,7 @@
         "s1z4evoor547gdg46rcpkioa",
         "jqg6zcr2335e5ymqjn80wgcj"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     },
     {
       "id": "ev_04ed283154",
@@ -348,7 +358,7 @@
         "t9txa8gmxzb76hgu2w16vcnb",
         "farf047lgozxnbicy7mfoelf"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     },
     {
       "id": "ev_d9e3ef93f7",
@@ -361,7 +371,7 @@
         "xnbwbjex3yq9pw3q0ilbhess",
         "i2o3sdsrib3cjk9dhihwue8i"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     },
     {
       "id": "ev_88f258433c",
@@ -374,7 +384,7 @@
         "ufubavroji7eiphwbiuvt0ay",
         "oso1usjwl6c4p2q5w9n2v0iu"
       ],
-      "updatedAt": "2026-10-06T15:13:02.995Z"
+      "updatedAt": "2026-10-06T20:22:34.866Z"
     }
   ],
   "items": [
