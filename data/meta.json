@@ -1,14 +1,11 @@
 {
-  "lastRunAt": "2026-10-07T07:38:38.967Z",
-  "lastSuccessAt": "2026-10-07T07:38:39.028Z",
+  "lastRunAt": "2026-10-07T12:00:32.695Z",
+  "lastSuccessAt": "2026-10-07T12:01:48.003Z",
   "llmCallsUsed": 0,
-  "fetchedFeeds": 0,
-  "newItems": 0,
-  "selectedToday": 8,
+  "fetchedFeeds": 13,
+  "newItems": 128,
+  "selectedToday": 49,
   "errors": [
-    "fetch rss-sse-rules: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
-    "fetch rss-sse-notices: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
-    "fetch rss-szse-rules: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
-    "fetch rss-szse-notices: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party"
+    "fetch web-csrc-news: Connect Timeout Error (attempted addresses: 103.78.127.170:443, 103.78.127.165:443, 103.78.127.167:443, 103.78.127.171:443, 103.78.127.168:443, 103.78.127.169:443, 103.78.127.166:443, 103.78.127.172:443, timeout: 15000ms)"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "day": "2026-10-07",
-  "generatedAt": "2026-10-07T07:38:38.967Z",
+  "generatedAt": "2026-10-07T12:00:32.695Z",
   "lead": {
-    "title": "“AI硬件第一股”IPO搁浅了",
-    "paragraph": "智能戒指制造商Oura上市受挫，揭示出一个投资市场的老命题：叫自己\"平台\"，不等于被市场当平台估值。 Oura上月底试图赴美上市，却因无法在预期价格区间找到足…",
+    "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号…",
+    "paragraph": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
     "highlights": [
-      "中国央行连续第23个月增持黄金，9月购金节奏进一步加快",
-      "点夺技术冲击IPO，专注于半导体工艺排气系统领域，研发人员人均薪酬低于同行",
-      "名创优品(09896.HK)10月6日耗资24.5万美元回购11.08万股"
+      "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注…",
+      "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（…",
+      "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（…"
     ]
   },
   "sections": [
@@ -33,6 +33,281 @@
       ]
     },
     {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "vjbuh21dgegyoye0h6sx3gd1",
+          "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
+          "summary": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058644-11-01T11:53:20.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "rrzbsz06y5hwkcfc74ggcclb",
+          "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
+          "summary": "深证上〔 202 6 〕 1047 号 各市场参与人： 为了进一步规范 资产支持证券挂牌条件审核 业务 ， 提升审核工作透明度， 本所 对 《深圳证券交易所资…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058530-07-13T13:26:40.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "mgzklxic92bis0aa9mwzz16t",
+          "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
+          "summary": "深证上〔 202 6 〕 712 号 各市场参与人 ： 为进一步加强债券质押式协议回购（以下简称协议回购）风险管控，保障业务平稳运行，本所对《深圳证券交易所债…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-24T00:30:00.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "jwuxyozss21aq8sxtfxtute7",
+          "title": "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（2026年修订）》的通知",
+          "summary": "深证上〔 202 6 〕 548 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
+          "url": "http://www.szse.cn/lawrules/rule/stock/supervision/chinext/t20260424_620195.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058281-11-01T02:46:40.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "s0ph2x4xrv89vjr9f5kzuq53",
+          "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
+          "summary": "深证上〔 202 6 〕 547 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
+          "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058281-10-29T10:20:00.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "l6oojxto5xnfer9dgnpn3ief",
+          "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
+          "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
+          "sourceId": "rss-sse-rules",
+          "sourceName": "上交所 · 规则发布",
+          "publishedAt": "2025-03-27T16:00:00.000Z",
+          "score": 70,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "f5of2b0fsusz2i366141p6pf",
+          "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
+          "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-22T11:00:00.000Z",
+          "score": 70,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "hblnqkhpl2hdfajrbum3yje3",
+          "title": "关于元道通信股份有限公司股票终止上市的公告",
+          "summary": "2026年8月28日， 元道通信 股份有限公司 （以下简称公司） 收到中国证券监督管理委员会 （以下简称证监会） 作出的《行政处罚决定书》（〔 202 6 〕…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260922_622981.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-21T16:00:00.000Z",
+          "score": 70,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "o04tzhnbkxcqbo1ex00erpk9",
+          "title": "002388，重大资产重组！明起停牌！",
+          "summary": "公司股票明起停牌。 新亚制程(002388)10月7日晚公告，公司正在筹划以发行股份及支付现金的方式购买上海启元气体发展有限公司（简称“启元气体”）的控股权并…",
+          "url": "https://www.stcn.com/article/detail/4207022.html",
+          "sourceId": "rss-stcn-company",
+          "sourceName": "证券时报 · 公司",
+          "score": 70,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "itiogtkn6ko80ksnpldvrqqd",
+          "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
+          "summary": "深证上〔 202 6 〕 841 号 各市场参与人 ： 为规范主动管理交易型开放式基金业务运作，保护投资者合法权益，促进公募基金行业高质量发展，深圳证券交易所…",
+          "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058429-02-09T07:40:00.000Z",
+          "score": 65,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "uyi00i0jk0dac3movf232zje",
+          "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
+          "summary": "深证上〔 202 6 〕 700 号 各市场参与人： 为进一步 优化债券做市业务安排，促进 提升债券二级市场流动性， 本 所 对 《深圳证券交易所债券交易业务…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-17T21:33:20.000Z",
+          "score": 65,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "int9xsx9256g98pe878bu32p",
+          "title": "关于宁波力勤资源科技股份有限公司股票上市交易的公告",
+          "summary": "宁波力勤资源科技股份有限公司 人民币普通股股票 将于 2026年9月30日在本所上市。证券简称为 “ 力勤资源 ” ,证券代码为 “ 001246 ” 。公司…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260929_623106.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-28T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "v5bcag37tgk0zwrliusm2oac",
+          "title": "关于深圳市鸿富诚新材料股份有限公司股票上市交易的公告",
+          "summary": "深圳市鸿富诚新材料股份有限公司 人民币普通股股票 将于 2026年9月29日在本所上市。证券简称为 “ 鸿富诚 ” ,证券代码为 “ 301716 ” 。公司…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260928_623074.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-27T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "de04c97zmss5mep5j1tbhwj9",
+          "title": "关于广东中塑新材料股份有限公司股票上市交易的公告",
+          "summary": "广东中塑新材料股份有限公司 人民币普通股股票 将于 2026年9月22日在本所上市。证券简称为 “ 中塑股份 ” ,证券代码为 “ 301686 ” 。公司 …",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260921_622945.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-20T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "waxeibr1nlxa2ratr3imx2be",
+          "title": "关于中电科思仪科技股份有限公司股票上市交易的公告",
+          "summary": "中电科思仪科技股份有限公司 人民币普通股股票 将于 2026年9月10日在本所上市。证券简称为 “ 电科思仪 ” ,证券代码为 “ 301689 ” 。公司 …",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260909_622782.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-08T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "n7pj92xkscfqmhdjl1duzjj3",
+          "title": "关于洛阳轴承集团股份有限公司股票上市交易的公告",
+          "summary": "洛阳轴承集团股份有限公司 人民币普通股股票 将于 2026年9月9日在本所上市。证券简称为 “ 洛轴股份 ” ,证券代码为 “ 301699 ” 。公司 人民…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260908_622725.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-09-07T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "z0md12lxwc035o2bhagnlita",
+          "title": "关于格林生物科技股份有限公司股票上市交易的公告",
+          "summary": "格林生物科技股份有限公司 人民币普通股股票 将于 2026年9月2日在本所上市。证券简称为“格林生物”,证券代码为“301688”。公司 人民币普通股股份 总…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260901_622630.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-08-31T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "hoefbznke8p0nn2pow4cc7vt",
+          "title": "关于苏州市贝特利高分子材料股份有限公司股票上市交易的公告",
+          "summary": "苏州市贝特利高分子材料股份有限公司 人民币普通股股票 将于 2026年9月1日在本所上市。证券简称为“贝特利”,证券代码为“301697”。公司 人民币普通股…",
+          "url": "http://www.szse.cn/disclosure/notice/company/t20260831_622597.html",
+          "sourceId": "rss-szse-notices",
+          "sourceName": "深交所 · 上市公司公告",
+          "publishedAt": "2026-08-30T16:00:00.000Z",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
       "category": "market",
       "title": "市场动态",
       "items": [
@@ -52,12 +327,41 @@
           "entityTags": []
         },
         {
+          "id": "raylmq3rkgfz1ibjwkjd9g7k",
+          "title": "000668，拟易主，明起停牌！",
+          "summary": "明起停牌。 荣丰控股(000668)10月7日晚公告，公司于9月30日收到控股股东盛世达投资有限公司（以下简称“盛世达”）通知，控股股东盛世达正在筹划公司控制…",
+          "url": "https://www.stcn.com/article/detail/4207038.html",
+          "sourceId": "rss-stcn-company",
+          "sourceName": "证券时报 · 公司",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
           "id": "a5tjuhtoihz1in9a3g7el3en",
           "title": "点夺技术冲击IPO，专注于半导体工艺排气系统领域，研发人员人均薪酬低于同行",
           "summary": "新股掘金",
           "url": "https://www.gelonghui.com/news/5320735",
           "sourceId": "hot-gelonghui",
           "sourceName": "格隆汇",
+          "score": 55,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "l0dmztjvbddzb4d79nw9fsgi",
+          "title": "H股公告-证券变动月报表",
+          "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+          "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600276_20261008_JSN2.pdf",
+          "sourceId": "rss-sse-notices",
+          "sourceName": "上交所 · 上市公司公告",
+          "publishedAt": "2026-10-07T08:44:36.000Z",
           "score": 55,
           "category": "market",
           "tags": [
@@ -122,6 +426,249 @@
           "entityTags": []
         },
         {
+          "id": "yn9kkkgzdksv2l8p8rq2mxjc",
+          "title": "南方航空H股公告-月报表",
+          "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+          "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600029_20261008_7HZU.pdf",
+          "sourceId": "rss-sse-notices",
+          "sourceName": "上交所 · 上市公司公告",
+          "publishedAt": "2026-10-07T09:02:10.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "l2ta2flk3k1pdlb75lf66rdu",
+          "title": "关于董事长、部分董事及高级管理人员增持股份计划时间过半暨增持股份进展公告",
+          "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+          "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_M8PA.pdf",
+          "sourceId": "rss-sse-notices",
+          "sourceName": "上交所 · 上市公司公告",
+          "publishedAt": "2026-10-07T07:30:45.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "iozfunzlxxzttm4fdrijltwm",
+          "title": "关于公司股票被实施退市风险警示及其他风险警示相关事项的进展公告",
+          "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+          "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_7HPW.pdf",
+          "sourceId": "rss-sse-notices",
+          "sourceName": "上交所 · 上市公司公告",
+          "publishedAt": "2026-10-07T07:30:43.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "fwfn6d1b8qreiuno774l12qn",
+          "title": "史上最大IPO，突传“利空”！",
+          "summary": "史上最大IPO，突传“利空”！",
+          "url": "https://qzs.stcn.com/article/detail/639305.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-07T04:51:00.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "dx2f79b2nsefnii8vq7js3cp",
+          "title": "土耳其副总统伊尔马兹：投资者的索赔将由相关基金的资源来满足。",
+          "summary": "土耳其副总统伊尔马兹：投资者的索赔将由相关基金的资源来满足。",
+          "url": "https://flash.jin10.com/detail/20261007193036992800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "sljiba839y9zuht5gwyc2lxo",
+          "title": "土耳其副总统伊尔马兹：财政部资金不会用于弥补私人损失；基金市场不适用国家担保。",
+          "summary": "土耳其副总统伊尔马兹：财政部资金不会用于弥补私人损失；基金市场不适用国家担保。",
+          "url": "https://flash.jin10.com/detail/20261007193019132800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "k7nwddex28p5mqcet3xlbo58",
+          "title": "纳指ETF国泰：本基金将于2026年10月8日开市起至当日10:30停牌。",
+          "summary": "纳指ETF国泰：本基金将于2026年10月8日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20261007190542267800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "uicup19hgry6tbm0xnmjot03",
+          "title": "鹰瞳科技-B(02251.HK)10月7日耗资30.2万港元回购3.3万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320850",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "vw2lyrsf9xxutm0r9xnq9g3x",
+          "title": "天星医疗(01609.HK)10月7日耗资22.4万港元回购2950股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320849",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "jb3yxynlwjgp3kuum7xjycm9",
+          "title": "太美医疗科技(02576.HK)10月7日耗资9.5万港元回购2万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320848",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "rvf6av9hu691v143cg1ttklm",
+          "title": "曹操出行(02643.HK)10月7日耗资45.5万港元回购3.63万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320844",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "vj0t8ymj8eilc4250cpalrle",
+          "title": "多点数智(02586.HK)10月7日耗资358.6万港元回购42万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320843",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "gcpjinnz0qjmu1mc7f2v0z72",
+          "title": "新鸿基公司(00086.HK)10月7日耗资1.6万港元回购4000股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320842",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "fx94kppz95kxcdl38lipkau1",
+          "title": "PACIFIC LEGEND(08547.HK)拟发行3300万港元可换股债",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320841",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "swuyzylpkgaqs00cnmtpujbt",
+          "title": "天福(06868.HK)10月7日耗资1.3万港元回购5000股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320840",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "q6nc7nix91ih1rv5l04o96pj",
+          "title": "上美股份(02145.HK)10月7日耗资437.9万港元回购20.82万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320836",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ygl04h2rt14vpkk23eb17zjh",
+          "title": "马钢股份证券变动月报表",
+          "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+          "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600808_20261008_ALQI.pdf",
+          "sourceId": "rss-sse-notices",
+          "sourceName": "上交所 · 上市公司公告",
+          "publishedAt": "2026-10-07T08:17:58.000Z",
+          "score": 52,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
           "id": "khx403rwt7qma17fw2vbxpat",
           "title": "亚股指涨势暂歇，日股收跌，港股走弱，医药生物、半导体股大跌，布油涨超1%",
           "summary": "亚股指涨势暂歇，日股收跌，港股走弱，医药生物、半导体股大跌，布油涨超1%",
@@ -134,13 +681,71 @@
             "市场动态"
           ],
           "entityTags": []
+        },
+        {
+          "id": "hv4y663f0i8e45yyzaw4fx3m",
+          "title": "公告精选：罗曼股份控股子公司签订合计约5.88亿元算力设备合同；北部湾港拟购买恒港码头100%股权",
+          "summary": "公告精选：罗曼股份控股子公司签订合计约5.88亿元算力设备合同；北部湾港拟购买恒港码头100%股权",
+          "url": "https://qzs.stcn.com/article/detail/639362.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-07T11:33:00.000Z",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "igexun5w1rypucuv0011oc3i",
+          "title": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
+          "summary": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
+          "url": "https://qzs.stcn.com/article/detail/639356.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-07T10:17:00.000Z",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "cltvhqsf4ud3jr9m4i21ro4p",
+          "title": "东航空姐下跪事件乘客为上市公司董事长？万年青制药回应",
+          "summary": "东航空姐下跪事件乘客为上市公司董事长？万年青制药回应",
+          "url": "https://www.cls.cn/detail/2498633",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "l6wb2jm54zupq1qyq1rc1mfi",
+          "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+          "summary": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+          "url": "https://www.cls.cn/detail/2498581",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
         }
       ]
     }
   ],
   "stats": {
-    "total": 126,
-    "selected": 8,
+    "total": 254,
+    "selected": 49,
     "llmCalls": 0
   }
 }
