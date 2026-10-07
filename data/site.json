@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:32:22.926Z",
+  "generatedAt": "2026-10-07T12:36:58.529Z",
   "today": "2026-10-07",
   "site": {
     "name": "券业动态",
@@ -59,14 +59,14 @@
   "reports": [
     {
       "day": "2026-10-07",
-      "generatedAt": "2026-10-07T12:32:22.926Z",
+      "generatedAt": "2026-10-07T12:36:58.529Z",
       "lead": {
         "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
         "paragraph": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
         "highlights": [
-          "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
-          "中国证监会严肃查处*ST卓然严重财务造假案件",
-          "中国证监会召开树立和践行正确政绩观学习教育总结会议"
+          "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍金融领域贯彻落实“十五…",
+          "湖北证监局原党委书记、局长王广幼被开除党籍",
+          "中国证监会拟对17起案件线索的“吹哨人”给予奖励"
         ]
       },
       "sections": [
@@ -75,7 +75,7 @@
           "title": "监管政策",
           "items": [
             {
-              "id": "a8vfjqa26upxwl8h9p1wdje3",
+              "id": "qawuv776m38tntbvdsoq5o0q",
               "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
               "summary": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
               "url": "https://www.csrc.gov.cn/csrc/c100028/c7658236/content.shtml",
@@ -90,7 +90,37 @@
               "entityTags": []
             },
             {
-              "id": "onz9z8jnvtmbnhjs6fzsdy0n",
+              "id": "szcxppsut07lm1x1vj25dk0p",
+              "title": "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况",
+              "summary": "新闻发布会现场（刘健&ensp;摄）&ensp;&ensp;&ensp;&ensp;国务院新闻办新闻局局长、新闻发言人寿小丽：女士们、先生们，大家下午好！欢迎…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-10T09:06:28.000Z",
+              "score": 77,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "n533gjf3q2nlevh8eunnrc3v",
+              "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
+              "summary": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7661513/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-28T07:15:26.000Z",
+              "score": 75,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "fwvq34maco02zoxy0ysxorxr",
               "title": "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
               "summary": "近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：（一）沈阳远大智能工业集团股份有限公司信息披露违法违规案（辽宁证监…",
               "url": "https://www.csrc.gov.cn/csrc/c100028/c7659506/content.shtml",
@@ -105,7 +135,7 @@
               "entityTags": []
             },
             {
-              "id": "dzge543dshebhseg919kqdmw",
+              "id": "ddamj7xmqg9cy705w5ofovgb",
               "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
               "summary": "近日，我会对上市公司上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等财务数据存在虚假记载作出行政处罚事先告知。经查，*ST卓然相关年度存在虚增利润…",
               "url": "https://www.csrc.gov.cn/csrc/c100028/c7658185/content.shtml",
@@ -120,7 +150,7 @@
               "entityTags": []
             },
             {
-              "id": "bhzf7mv0gah8pz7u530y9f0f",
+              "id": "xqt37u71ohhlvgojumd344os",
               "title": "中国证监会召开树立和践行正确政绩观学习教育总结会议",
               "summary": "近日，中国证监会召开党委（扩大）会议暨党建工作领导小组会议，传达学习习近平总书记重要指示精神、中央党的建设工作领导小组会议和中央金融工委有关会议精神，总结证监…",
               "url": "https://www.csrc.gov.cn/csrc/c100028/c7656853/content.shtml",
@@ -135,7 +165,7 @@
               "entityTags": []
             },
             {
-              "id": "c2nhgiu96dqc6x04ods1pqz4",
+              "id": "kc0bu77tb0og933juk1yq1c3",
               "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
               "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对私募投资基金募集业务活动监管，促进私募投资基金行业高质量发…",
               "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
@@ -150,7 +180,7 @@
               "entityTags": []
             },
             {
-              "id": "nl0mu5oufxqm888jsszdrxyd",
+              "id": "gqwh7epbbu6v9h5kafuwqzia",
               "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
               "summary": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
               "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
@@ -165,7 +195,7 @@
               "entityTags": []
             },
             {
-              "id": "l2mx8oztzqywwgljyd7a5oef",
+              "id": "sjinrqqvsphno71p4qefuue3",
               "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
               "summary": "深证上〔 202 6 〕 1047 号 各市场参与人： 为了进一步规范 资产支持证券挂牌条件审核 业务 ， 提升审核工作透明度， 本所 对 《深圳证券交易所资…",
               "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
@@ -180,7 +210,7 @@
               "entityTags": []
             },
             {
-              "id": "xylajk4ad2o95wlz0i7sdjii",
+              "id": "kqoyzp59te9gnn1vvzudtc2z",
               "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
               "summary": "深证上〔 202 6 〕 712 号 各市场参与人 ： 为进一步加强债券质押式协议回购（以下简称协议回购）风险管控，保障业务平稳运行，本所对《深圳证券交易所债…",
               "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
@@ -195,7 +225,7 @@
               "entityTags": []
             },
             {
-              "id": "v02qrjx2v9oidanet6j88n2y",
+              "id": "cvmx0v29hh65336mza7f7ldx",
               "title": "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（2026年修订）》的通知",
               "summary": "深证上〔 202 6 〕 548 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
               "url": "http://www.szse.cn/lawrules/rule/stock/supervision/chinext/t20260424_620195.html",
@@ -210,7 +240,7 @@
               "entityTags": []
             },
             {
-              "id": "g9adwy8a3s1w47s8fwep79g2",
+              "id": "kthx6fl4bxkw0z9qi1j3kssy",
               "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
               "summary": "深证上〔 202 6 〕 547 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
               "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
@@ -225,7 +255,7 @@
               "entityTags": []
             },
             {
-              "id": "isq43cu4a3v6lkpxtn3uzyoz",
+              "id": "lmf2jd5qjnx36ekbl0qjngyh",
               "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
               "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -240,7 +270,22 @@
               "entityTags": []
             },
             {
-              "id": "rq0bbr2u7r9kv4awebnzlsoa",
+              "id": "rpoob954zlwzpdjuvmga2pey",
+              "title": "关于修改部分业务规则和业务指南的通知",
+              "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+              "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
+              "sourceId": "rss-sse-rules",
+              "sourceName": "上交所 · 规则发布",
+              "publishedAt": "2025-03-27T16:00:00.000Z",
+              "score": 70,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "nb2jv7alybyvmo1dqblfabif",
               "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
               "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
               "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
@@ -255,7 +300,7 @@
               "entityTags": []
             },
             {
-              "id": "of7vrlmpw5qrgzmjuhrylc0c",
+              "id": "i730rwnkxp8d9mw6olt4co14",
               "title": "关于元道通信股份有限公司股票终止上市的公告",
               "summary": "2026年8月28日， 元道通信 股份有限公司 （以下简称公司） 收到中国证券监督管理委员会 （以下简称证监会） 作出的《行政处罚决定书》（〔 202 6 〕…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260922_622981.html",
@@ -270,7 +315,7 @@
               "entityTags": []
             },
             {
-              "id": "m2vpy6j4jyzmicvytad1wjw8",
+              "id": "ao0x8f5rlnrcmxc10n5notqs",
               "title": "002388，重大资产重组！明起停牌！",
               "summary": "公司股票明起停牌。 新亚制程(002388)10月7日晚公告，公司正在筹划以发行股份及支付现金的方式购买上海启元气体发展有限公司（简称“启元气体”）的控股权并…",
               "url": "https://www.stcn.com/article/detail/4207022.html",
@@ -284,7 +329,22 @@
               "entityTags": []
             },
             {
-              "id": "kilqi8fj9qaz8n3mvh0r6thh",
+              "id": "ld8ztj5ynxvw32cxjzrn6jpq",
+              "title": "吴清主席会见阿曼金融服务管理局执行总裁萨尔米",
+              "summary": "2026年9月7日，中国证监会主席吴清在京会见了阿曼金融服务管理局执行总裁萨尔米（Abdullah&ensp;Bin&ensp;Salem&ensp;Al&e…",
+              "url": "https://www.csrc.gov.cn/csrc/c106311/c7657128/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-07T11:30:58.000Z",
+              "score": 67,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "x0vdqjx8uepy46lme12si07a",
               "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
               "summary": "深证上〔 202 6 〕 841 号 各市场参与人 ： 为规范主动管理交易型开放式基金业务运作，保护投资者合法权益，促进公募基金行业高质量发展，深圳证券交易所…",
               "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
@@ -299,7 +359,7 @@
               "entityTags": []
             },
             {
-              "id": "dl78qrjkiuphzhqcickihewy",
+              "id": "wkx17mogf17bma1ya3c6lea9",
               "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
               "summary": "深证上〔 202 6 〕 700 号 各市场参与人： 为进一步 优化债券做市业务安排，促进 提升债券二级市场流动性， 本 所 对 《深圳证券交易所债券交易业务…",
               "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
@@ -314,7 +374,7 @@
               "entityTags": []
             },
             {
-              "id": "pl0d7r52mtl4gg3fnnntzka6",
+              "id": "ikrdycz83rfd0q9src5fh5as",
               "title": "关于宁波力勤资源科技股份有限公司股票上市交易的公告",
               "summary": "宁波力勤资源科技股份有限公司 人民币普通股股票 将于 2026年9月30日在本所上市。证券简称为 “ 力勤资源 ” ,证券代码为 “ 001246 ” 。公司…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260929_623106.html",
@@ -329,7 +389,7 @@
               "entityTags": []
             },
             {
-              "id": "pgwt0v8kfgh1ihfz7vtx9ogc",
+              "id": "et0xkr45e7rod4xifh7d9x2u",
               "title": "关于深圳市鸿富诚新材料股份有限公司股票上市交易的公告",
               "summary": "深圳市鸿富诚新材料股份有限公司 人民币普通股股票 将于 2026年9月29日在本所上市。证券简称为 “ 鸿富诚 ” ,证券代码为 “ 301716 ” 。公司…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260928_623074.html",
@@ -344,7 +404,7 @@
               "entityTags": []
             },
             {
-              "id": "pqp2imybfrd5r174l2uk5ah3",
+              "id": "ybeqv14lpn6lksad3998k4ue",
               "title": "关于广东中塑新材料股份有限公司股票上市交易的公告",
               "summary": "广东中塑新材料股份有限公司 人民币普通股股票 将于 2026年9月22日在本所上市。证券简称为 “ 中塑股份 ” ,证券代码为 “ 301686 ” 。公司 …",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260921_622945.html",
@@ -359,7 +419,7 @@
               "entityTags": []
             },
             {
-              "id": "h5xehe4fnub6ioaoqt3oxr9p",
+              "id": "p3084sojpx4m794gaj6lsd3u",
               "title": "关于中电科思仪科技股份有限公司股票上市交易的公告",
               "summary": "中电科思仪科技股份有限公司 人民币普通股股票 将于 2026年9月10日在本所上市。证券简称为 “ 电科思仪 ” ,证券代码为 “ 301689 ” 。公司 …",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260909_622782.html",
@@ -374,7 +434,7 @@
               "entityTags": []
             },
             {
-              "id": "qgjmbihpob206loketvqy4k3",
+              "id": "p2wc0jy08uu83ttdzmxx1biy",
               "title": "关于洛阳轴承集团股份有限公司股票上市交易的公告",
               "summary": "洛阳轴承集团股份有限公司 人民币普通股股票 将于 2026年9月9日在本所上市。证券简称为 “ 洛轴股份 ” ,证券代码为 “ 301699 ” 。公司 人民…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260908_622725.html",
@@ -389,7 +449,7 @@
               "entityTags": []
             },
             {
-              "id": "fvgqc40n69ut1bcu18nzkgrc",
+              "id": "prqugsm57d5c4136nnc1m34c",
               "title": "关于格林生物科技股份有限公司股票上市交易的公告",
               "summary": "格林生物科技股份有限公司 人民币普通股股票 将于 2026年9月2日在本所上市。证券简称为“格林生物”,证券代码为“301688”。公司 人民币普通股股份 总…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260901_622630.html",
@@ -404,7 +464,7 @@
               "entityTags": []
             },
             {
-              "id": "sbebuky56vunj9bkvrpb25yb",
+              "id": "wslxa3io6w9jt0rb82z0ttjr",
               "title": "关于苏州市贝特利高分子材料股份有限公司股票上市交易的公告",
               "summary": "苏州市贝特利高分子材料股份有限公司 人民币普通股股票 将于 2026年9月1日在本所上市。证券简称为“贝特利”,证券代码为“301697”。公司 人民币普通股…",
               "url": "http://www.szse.cn/disclosure/notice/company/t20260831_622597.html",
@@ -412,6 +472,21 @@
               "sourceName": "深交所 · 上市公司公告",
               "publishedAt": "2026-08-30T16:00:00.000Z",
               "score": 62,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "au2exjnt0z6pozc8tmtueh9d",
+              "title": "吴清主席会见沙特投资部助理大臣穆巴拉克",
+              "summary": "2026年9月7日，中国证监会主席吴清在京会见了沙特投资部助理大臣穆巴拉克（Ibrahim&ensp;bin&ensp;Yousef&ensp;Al-Muba…",
+              "url": "https://www.csrc.gov.cn/csrc/c106311/c7657131/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-07T11:33:27.000Z",
+              "score": 60,
               "category": "policy",
               "tags": [
                 "监管政策"
@@ -425,7 +500,7 @@
           "title": "市场动态",
           "items": [
             {
-              "id": "gy0olyocgw2tr30t8o2e2a4l",
+              "id": "ppwe9yeh3mojsdehm2pv6xy6",
               "title": "000668，拟易主，明起停牌！",
               "summary": "明起停牌。 荣丰控股(000668)10月7日晚公告，公司于9月30日收到控股股东盛世达投资有限公司（以下简称“盛世达”）通知，控股股东盛世达正在筹划公司控制…",
               "url": "https://www.stcn.com/article/detail/4207038.html",
@@ -439,7 +514,22 @@
               "entityTags": []
             },
             {
-              "id": "lnzrthfa32njsn6bbznj6eiq",
+              "id": "ak037vgabr5ph78wphn9cbk6",
+              "title": "河南证监局原党委书记、局长牛雪峰接受纪律审查和监察调查",
+              "summary": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、河南省纪委监委消息：河南证监局原党委书记、局长牛雪峰涉嫌严重违纪违法，…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7658935/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-16T07:32:57.000Z",
+              "score": 67,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "dogzazfrercjynwvh56cyuu7",
               "title": "H股公告-证券变动月报表",
               "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
               "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600276_20261008_JSN2.pdf",
@@ -454,7 +544,7 @@
               "entityTags": []
             },
             {
-              "id": "y6b5eej6eowcwie8xwit64t6",
+              "id": "hfb8i5nnzoyufyo8or20e14v",
               "title": "南方航空H股公告-月报表",
               "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
               "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600029_20261008_7HZU.pdf",
@@ -469,7 +559,7 @@
               "entityTags": []
             },
             {
-              "id": "rczuca8nqqejjr9gw9e1kcch",
+              "id": "pj3ozjcgwnezg0ra9sm7s0g8",
               "title": "关于董事长、部分董事及高级管理人员增持股份计划时间过半暨增持股份进展公告",
               "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
               "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_M8PA.pdf",
@@ -484,7 +574,7 @@
               "entityTags": []
             },
             {
-              "id": "q7z2seh61rpnnefdyfu7ttl8",
+              "id": "pjo4rhs33kgz80mrs6o5hkh2",
               "title": "关于公司股票被实施退市风险警示及其他风险警示相关事项的进展公告",
               "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
               "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_7HPW.pdf",
@@ -499,7 +589,22 @@
               "entityTags": []
             },
             {
-              "id": "hqisditw30d9h0aasvhf08yv",
+              "id": "xcrvdl6jxu3to1ea9vxw7e2k",
+              "title": "上汽集团2026年9月份产销快报",
+              "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+              "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600104_20261008_6U9R.pdf",
+              "sourceId": "rss-sse-notices",
+              "sourceName": "上交所 · 上市公司公告",
+              "publishedAt": "2026-10-07T07:30:42.000Z",
+              "score": 53,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "z1a6jz53mly0cp1d1rdrm3qy",
               "title": "史上最大IPO，突传“利空”！",
               "summary": "史上最大IPO，突传“利空”！",
               "url": "https://qzs.stcn.com/article/detail/639305.html",
@@ -514,7 +619,7 @@
               "entityTags": []
             },
             {
-              "id": "u4f0zhqf95nowi7kc3g8wicb",
+              "id": "ugplcu14ew615oydg87tlmj5",
               "title": "马钢股份证券变动月报表",
               "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
               "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600808_20261008_ALQI.pdf",
@@ -529,7 +634,7 @@
               "entityTags": []
             },
             {
-              "id": "b6fa6bdyf1zio8itzcwb2yx6",
+              "id": "odqvscxzrmzcntpeup4j4mgy",
               "title": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
               "summary": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
               "url": "https://qzs.stcn.com/article/detail/639356.html",
@@ -542,62 +647,97 @@
                 "市场动态"
               ],
               "entityTags": []
+            },
+            {
+              "id": "lgngff8uyix86s4sv3co25oj",
+              "title": "中国移动：月报表",
+              "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+              "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600941_20261008_W9K6.pdf",
+              "sourceId": "rss-sse-notices",
+              "sourceName": "上交所 · 上市公司公告",
+              "publishedAt": "2026-10-07T08:44:37.000Z",
+              "score": 50,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "juojmy6qnu5h1hnl0gznwva4",
+              "title": "2026年9月份各产品产销数据快报",
+              "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+              "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600166_20261008_TKZB.pdf",
+              "sourceId": "rss-sse-notices",
+              "sourceName": "上交所 · 上市公司公告",
+              "publishedAt": "2026-10-07T07:42:16.000Z",
+              "score": 53,
+              "category": "product",
+              "tags": [
+                "产品更新"
+              ],
+              "entityTags": []
             }
           ]
         }
       ],
       "stats": {
         "total": 180,
-        "selected": 31,
+        "selected": 40,
         "llmCalls": 0
       }
     }
   ],
   "groups": [
     {
-      "id": "ev_cc0073ee8f",
+      "id": "ev_ca6727449d",
       "title": "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（2026年修订）》的通知",
       "category": "policy",
       "tags": [
         "监管政策"
       ],
       "itemIds": [
-        "v02qrjx2v9oidanet6j88n2y",
-        "g9adwy8a3s1w47s8fwep79g2"
+        "cvmx0v29hh65336mza7f7ldx",
+        "kthx6fl4bxkw0z9qi1j3kssy"
       ],
-      "updatedAt": "2026-10-07T12:32:22.926Z"
+      "updatedAt": "2026-10-07T12:36:58.529Z"
     },
     {
-      "id": "ev_68199b709e",
-      "title": "廖岷与英国财政部国际金融事务总司长怀特举行视频通话",
+      "id": "ev_f9c92c0630",
+      "title": "伊朗总统和俄罗斯总统通话 强调加强双边合作",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "gcv4mt156ddkt2zg4ub5j5dr",
-        "mpq3oa8ke8llsdy8kjfcdpdr",
-        "rc9xn85ndxm0y8iut170zj1j"
+        "q62iy8kf6juq4e28cpbhcb7v",
+        "yhjmh39xfvpbsgikdfdv8cek"
       ],
-      "updatedAt": "2026-10-07T12:32:22.926Z"
+      "updatedAt": "2026-10-07T12:36:58.529Z"
     },
     {
-      "id": "ev_e1af256f84",
-      "title": "欧委会贸易和经济安全委员即将访华",
+      "id": "ev_12a98ee3c0",
+      "title": "财政部副部长廖岷与英国财政部国际金融事务总司长怀特举行视频通话",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "y8yrd2d2l3s7caakcdstwz2e",
-        "xpqaa41fxkt6ekyofsqtw37s"
+        "um5oqo22s5g0qzqpwvswsjuh",
+        "fg7hcm7w1mww5fsi12mvq5ro"
       ],
-      "updatedAt": "2026-10-07T12:32:22.926Z"
+      "updatedAt": "2026-10-07T12:36:58.529Z"
     }
   ],
   "items": [
     {
-      "id": "a8vfjqa26upxwl8h9p1wdje3",
+      "id": "qawuv776m38tntbvdsoq5o0q",
       "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
       "summary": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7658236/content.shtml",
@@ -612,7 +752,37 @@
       "entityTags": []
     },
     {
-      "id": "onz9z8jnvtmbnhjs6fzsdy0n",
+      "id": "szcxppsut07lm1x1vj25dk0p",
+      "title": "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况",
+      "summary": "新闻发布会现场（刘健&ensp;摄）&ensp;&ensp;&ensp;&ensp;国务院新闻办新闻局局长、新闻发言人寿小丽：女士们、先生们，大家下午好！欢迎…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-10T09:06:28.000Z",
+      "score": 77,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "n533gjf3q2nlevh8eunnrc3v",
+      "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
+      "summary": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7661513/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-28T07:15:26.000Z",
+      "score": 75,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "fwvq34maco02zoxy0ysxorxr",
       "title": "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
       "summary": "近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：（一）沈阳远大智能工业集团股份有限公司信息披露违法违规案（辽宁证监…",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7659506/content.shtml",
@@ -627,7 +797,7 @@
       "entityTags": []
     },
     {
-      "id": "dzge543dshebhseg919kqdmw",
+      "id": "ddamj7xmqg9cy705w5ofovgb",
       "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
       "summary": "近日，我会对上市公司上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等财务数据存在虚假记载作出行政处罚事先告知。经查，*ST卓然相关年度存在虚增利润…",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7658185/content.shtml",
@@ -642,7 +812,7 @@
       "entityTags": []
     },
     {
-      "id": "bhzf7mv0gah8pz7u530y9f0f",
+      "id": "xqt37u71ohhlvgojumd344os",
       "title": "中国证监会召开树立和践行正确政绩观学习教育总结会议",
       "summary": "近日，中国证监会召开党委（扩大）会议暨党建工作领导小组会议，传达学习习近平总书记重要指示精神、中央党的建设工作领导小组会议和中央金融工委有关会议精神，总结证监…",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7656853/content.shtml",
@@ -657,7 +827,7 @@
       "entityTags": []
     },
     {
-      "id": "c2nhgiu96dqc6x04ods1pqz4",
+      "id": "kc0bu77tb0og933juk1yq1c3",
       "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
       "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对私募投资基金募集业务活动监管，促进私募投资基金行业高质量发…",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
@@ -672,7 +842,7 @@
       "entityTags": []
     },
     {
-      "id": "nl0mu5oufxqm888jsszdrxyd",
+      "id": "gqwh7epbbu6v9h5kafuwqzia",
       "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
       "summary": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
       "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
@@ -687,7 +857,7 @@
       "entityTags": []
     },
     {
-      "id": "l2mx8oztzqywwgljyd7a5oef",
+      "id": "sjinrqqvsphno71p4qefuue3",
       "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
       "summary": "深证上〔 202 6 〕 1047 号 各市场参与人： 为了进一步规范 资产支持证券挂牌条件审核 业务 ， 提升审核工作透明度， 本所 对 《深圳证券交易所资…",
       "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
@@ -702,7 +872,7 @@
       "entityTags": []
     },
     {
-      "id": "xylajk4ad2o95wlz0i7sdjii",
+      "id": "kqoyzp59te9gnn1vvzudtc2z",
       "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
       "summary": "深证上〔 202 6 〕 712 号 各市场参与人 ： 为进一步加强债券质押式协议回购（以下简称协议回购）风险管控，保障业务平稳运行，本所对《深圳证券交易所债…",
       "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
@@ -717,7 +887,7 @@
       "entityTags": []
     },
     {
-      "id": "v02qrjx2v9oidanet6j88n2y",
+      "id": "cvmx0v29hh65336mza7f7ldx",
       "title": "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（2026年修订）》的通知",
       "summary": "深证上〔 202 6 〕 548 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
       "url": "http://www.szse.cn/lawrules/rule/stock/supervision/chinext/t20260424_620195.html",
@@ -732,7 +902,7 @@
       "entityTags": []
     },
     {
-      "id": "g9adwy8a3s1w47s8fwep79g2",
+      "id": "kthx6fl4bxkw0z9qi1j3kssy",
       "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
       "summary": "深证上〔 202 6 〕 547 号 各市场参与人： 为 落实中国证监会《上市公司治理准则》《上市公司董事会秘书监管规则》有关要求，进一步 规范上市公司董事、…",
       "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
@@ -747,7 +917,7 @@
       "entityTags": []
     },
     {
-      "id": "isq43cu4a3v6lkpxtn3uzyoz",
+      "id": "lmf2jd5qjnx36ekbl0qjngyh",
       "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
       "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -762,7 +932,22 @@
       "entityTags": []
     },
     {
-      "id": "rq0bbr2u7r9kv4awebnzlsoa",
+      "id": "rpoob954zlwzpdjuvmga2pey",
+      "title": "关于修改部分业务规则和业务指南的通知",
+      "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
+      "sourceId": "rss-sse-rules",
+      "sourceName": "上交所 · 规则发布",
+      "publishedAt": "2025-03-27T16:00:00.000Z",
+      "score": 70,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "nb2jv7alybyvmo1dqblfabif",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
       "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
@@ -777,7 +962,7 @@
       "entityTags": []
     },
     {
-      "id": "of7vrlmpw5qrgzmjuhrylc0c",
+      "id": "i730rwnkxp8d9mw6olt4co14",
       "title": "关于元道通信股份有限公司股票终止上市的公告",
       "summary": "2026年8月28日， 元道通信 股份有限公司 （以下简称公司） 收到中国证券监督管理委员会 （以下简称证监会） 作出的《行政处罚决定书》（〔 202 6 〕…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260922_622981.html",
@@ -792,7 +977,7 @@
       "entityTags": []
     },
     {
-      "id": "m2vpy6j4jyzmicvytad1wjw8",
+      "id": "ao0x8f5rlnrcmxc10n5notqs",
       "title": "002388，重大资产重组！明起停牌！",
       "summary": "公司股票明起停牌。 新亚制程(002388)10月7日晚公告，公司正在筹划以发行股份及支付现金的方式购买上海启元气体发展有限公司（简称“启元气体”）的控股权并…",
       "url": "https://www.stcn.com/article/detail/4207022.html",
@@ -806,7 +991,7 @@
       "entityTags": []
     },
     {
-      "id": "gy0olyocgw2tr30t8o2e2a4l",
+      "id": "ppwe9yeh3mojsdehm2pv6xy6",
       "title": "000668，拟易主，明起停牌！",
       "summary": "明起停牌。 荣丰控股(000668)10月7日晚公告，公司于9月30日收到控股股东盛世达投资有限公司（以下简称“盛世达”）通知，控股股东盛世达正在筹划公司控制…",
       "url": "https://www.stcn.com/article/detail/4207038.html",
@@ -820,7 +1005,37 @@
       "entityTags": []
     },
     {
-      "id": "kilqi8fj9qaz8n3mvh0r6thh",
+      "id": "ld8ztj5ynxvw32cxjzrn6jpq",
+      "title": "吴清主席会见阿曼金融服务管理局执行总裁萨尔米",
+      "summary": "2026年9月7日，中国证监会主席吴清在京会见了阿曼金融服务管理局执行总裁萨尔米（Abdullah&ensp;Bin&ensp;Salem&ensp;Al&e…",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7657128/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-07T11:30:58.000Z",
+      "score": 67,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ak037vgabr5ph78wphn9cbk6",
+      "title": "河南证监局原党委书记、局长牛雪峰接受纪律审查和监察调查",
+      "summary": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、河南省纪委监委消息：河南证监局原党委书记、局长牛雪峰涉嫌严重违纪违法，…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7658935/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-16T07:32:57.000Z",
+      "score": 67,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "x0vdqjx8uepy46lme12si07a",
       "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
       "summary": "深证上〔 202 6 〕 841 号 各市场参与人 ： 为规范主动管理交易型开放式基金业务运作，保护投资者合法权益，促进公募基金行业高质量发展，深圳证券交易所…",
       "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
@@ -835,7 +1050,7 @@
       "entityTags": []
     },
     {
-      "id": "dl78qrjkiuphzhqcickihewy",
+      "id": "wkx17mogf17bma1ya3c6lea9",
       "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
       "summary": "深证上〔 202 6 〕 700 号 各市场参与人： 为进一步 优化债券做市业务安排，促进 提升债券二级市场流动性， 本 所 对 《深圳证券交易所债券交易业务…",
       "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
@@ -850,7 +1065,7 @@
       "entityTags": []
     },
     {
-      "id": "pl0d7r52mtl4gg3fnnntzka6",
+      "id": "ikrdycz83rfd0q9src5fh5as",
       "title": "关于宁波力勤资源科技股份有限公司股票上市交易的公告",
       "summary": "宁波力勤资源科技股份有限公司 人民币普通股股票 将于 2026年9月30日在本所上市。证券简称为 “ 力勤资源 ” ,证券代码为 “ 001246 ” 。公司…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260929_623106.html",
@@ -865,7 +1080,7 @@
       "entityTags": []
     },
     {
-      "id": "pgwt0v8kfgh1ihfz7vtx9ogc",
+      "id": "et0xkr45e7rod4xifh7d9x2u",
       "title": "关于深圳市鸿富诚新材料股份有限公司股票上市交易的公告",
       "summary": "深圳市鸿富诚新材料股份有限公司 人民币普通股股票 将于 2026年9月29日在本所上市。证券简称为 “ 鸿富诚 ” ,证券代码为 “ 301716 ” 。公司…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260928_623074.html",
@@ -880,7 +1095,7 @@
       "entityTags": []
     },
     {
-      "id": "pqp2imybfrd5r174l2uk5ah3",
+      "id": "ybeqv14lpn6lksad3998k4ue",
       "title": "关于广东中塑新材料股份有限公司股票上市交易的公告",
       "summary": "广东中塑新材料股份有限公司 人民币普通股股票 将于 2026年9月22日在本所上市。证券简称为 “ 中塑股份 ” ,证券代码为 “ 301686 ” 。公司 …",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260921_622945.html",
@@ -895,7 +1110,7 @@
       "entityTags": []
     },
     {
-      "id": "h5xehe4fnub6ioaoqt3oxr9p",
+      "id": "p3084sojpx4m794gaj6lsd3u",
       "title": "关于中电科思仪科技股份有限公司股票上市交易的公告",
       "summary": "中电科思仪科技股份有限公司 人民币普通股股票 将于 2026年9月10日在本所上市。证券简称为 “ 电科思仪 ” ,证券代码为 “ 301689 ” 。公司 …",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260909_622782.html",
@@ -910,7 +1125,7 @@
       "entityTags": []
     },
     {
-      "id": "qgjmbihpob206loketvqy4k3",
+      "id": "p2wc0jy08uu83ttdzmxx1biy",
       "title": "关于洛阳轴承集团股份有限公司股票上市交易的公告",
       "summary": "洛阳轴承集团股份有限公司 人民币普通股股票 将于 2026年9月9日在本所上市。证券简称为 “ 洛轴股份 ” ,证券代码为 “ 301699 ” 。公司 人民…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260908_622725.html",
@@ -925,7 +1140,7 @@
       "entityTags": []
     },
     {
-      "id": "fvgqc40n69ut1bcu18nzkgrc",
+      "id": "prqugsm57d5c4136nnc1m34c",
       "title": "关于格林生物科技股份有限公司股票上市交易的公告",
       "summary": "格林生物科技股份有限公司 人民币普通股股票 将于 2026年9月2日在本所上市。证券简称为“格林生物”,证券代码为“301688”。公司 人民币普通股股份 总…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260901_622630.html",
@@ -940,7 +1155,7 @@
       "entityTags": []
     },
     {
-      "id": "sbebuky56vunj9bkvrpb25yb",
+      "id": "wslxa3io6w9jt0rb82z0ttjr",
       "title": "关于苏州市贝特利高分子材料股份有限公司股票上市交易的公告",
       "summary": "苏州市贝特利高分子材料股份有限公司 人民币普通股股票 将于 2026年9月1日在本所上市。证券简称为“贝特利”,证券代码为“301697”。公司 人民币普通股…",
       "url": "http://www.szse.cn/disclosure/notice/company/t20260831_622597.html",
@@ -955,7 +1170,22 @@
       "entityTags": []
     },
     {
-      "id": "lnzrthfa32njsn6bbznj6eiq",
+      "id": "au2exjnt0z6pozc8tmtueh9d",
+      "title": "吴清主席会见沙特投资部助理大臣穆巴拉克",
+      "summary": "2026年9月7日，中国证监会主席吴清在京会见了沙特投资部助理大臣穆巴拉克（Ibrahim&ensp;bin&ensp;Yousef&ensp;Al-Muba…",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7657131/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-07T11:33:27.000Z",
+      "score": 60,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "dogzazfrercjynwvh56cyuu7",
       "title": "H股公告-证券变动月报表",
       "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
       "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600276_20261008_JSN2.pdf",
@@ -970,7 +1200,7 @@
       "entityTags": []
     },
     {
-      "id": "y6b5eej6eowcwie8xwit64t6",
+      "id": "hfb8i5nnzoyufyo8or20e14v",
       "title": "南方航空H股公告-月报表",
       "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
       "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600029_20261008_7HZU.pdf",
@@ -985,7 +1215,7 @@
       "entityTags": []
     },
     {
-      "id": "rczuca8nqqejjr9gw9e1kcch",
+      "id": "pj3ozjcgwnezg0ra9sm7s0g8",
       "title": "关于董事长、部分董事及高级管理人员增持股份计划时间过半暨增持股份进展公告",
       "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
       "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_M8PA.pdf",
@@ -1000,7 +1230,7 @@
       "entityTags": []
     },
     {
-      "id": "q7z2seh61rpnnefdyfu7ttl8",
+      "id": "pjo4rhs33kgz80mrs6o5hkh2",
       "title": "关于公司股票被实施退市风险警示及其他风险警示相关事项的进展公告",
       "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
       "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600187_20261008_7HPW.pdf",
@@ -1015,7 +1245,22 @@
       "entityTags": []
     },
     {
-      "id": "hqisditw30d9h0aasvhf08yv",
+      "id": "xcrvdl6jxu3to1ea9vxw7e2k",
+      "title": "上汽集团2026年9月份产销快报",
+      "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600104_20261008_6U9R.pdf",
+      "sourceId": "rss-sse-notices",
+      "sourceName": "上交所 · 上市公司公告",
+      "publishedAt": "2026-10-07T07:30:42.000Z",
+      "score": 53,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "z1a6jz53mly0cp1d1rdrm3qy",
       "title": "史上最大IPO，突传“利空”！",
       "summary": "史上最大IPO，突传“利空”！",
       "url": "https://qzs.stcn.com/article/detail/639305.html",
@@ -1030,7 +1275,22 @@
       "entityTags": []
     },
     {
-      "id": "u4f0zhqf95nowi7kc3g8wicb",
+      "id": "juojmy6qnu5h1hnl0gznwva4",
+      "title": "2026年9月份各产品产销数据快报",
+      "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600166_20261008_TKZB.pdf",
+      "sourceId": "rss-sse-notices",
+      "sourceName": "上交所 · 上市公司公告",
+      "publishedAt": "2026-10-07T07:42:16.000Z",
+      "score": 53,
+      "category": "product",
+      "tags": [
+        "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ugplcu14ew615oydg87tlmj5",
       "title": "马钢股份证券变动月报表",
       "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
       "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600808_20261008_ALQI.pdf",
@@ -1045,7 +1305,7 @@
       "entityTags": []
     },
     {
-      "id": "b6fa6bdyf1zio8itzcwb2yx6",
+      "id": "odqvscxzrmzcntpeup4j4mgy",
       "title": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
       "summary": "“肉签”扎堆出现，首日涨幅回落......新股大盘点来了",
       "url": "https://qzs.stcn.com/article/detail/639356.html",
@@ -1053,6 +1313,21 @@
       "sourceName": "券商中国",
       "publishedAt": "2026-10-07T10:17:00.000Z",
       "score": 51,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "lgngff8uyix86s4sv3co25oj",
+      "title": "中国移动：月报表",
+      "summary": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/6…",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-10-08/600941_20261008_W9K6.pdf",
+      "sourceId": "rss-sse-notices",
+      "sourceName": "上交所 · 上市公司公告",
+      "publishedAt": "2026-10-07T08:44:37.000Z",
+      "score": 50,
       "category": "market",
       "tags": [
         "市场动态"
