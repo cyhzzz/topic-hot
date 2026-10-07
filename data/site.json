@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:00:32.695Z",
+  "generatedAt": "2026-10-07T12:28:39.880Z",
   "today": "2026-10-07",
   "site": {
     "name": "券业动态",
@@ -59,14 +59,14 @@
   "reports": [
     {
       "day": "2026-10-07",
-      "generatedAt": "2026-10-07T12:00:32.695Z",
+      "generatedAt": "2026-10-07T12:28:39.880Z",
       "lead": {
-        "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号…",
-        "paragraph": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
+        "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
+        "paragraph": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
         "highlights": [
-          "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注…",
-          "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（…",
-          "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（…"
+          "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
+          "中国证监会严肃查处*ST卓然严重财务造假案件",
+          "中国证监会召开树立和践行正确政绩观学习教育总结会议"
         ]
       },
       "sections": [
@@ -95,6 +95,81 @@
           "category": "policy",
           "title": "监管政策",
           "items": [
+            {
+              "id": "zp2vv7mmnmosndd9rfsym5tm",
+              "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
+              "summary": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7658236/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-11T10:03:38.000Z",
+              "score": 77,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ywakmfhui8ospo6ivi7jwdch",
+              "title": "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
+              "summary": "近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：（一）沈阳远大智能工业集团股份有限公司信息披露违法违规案（辽宁证监…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7659506/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-18T07:27:06.000Z",
+              "score": 75,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "in0nojqztgbqdsysbrshcv7d",
+              "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
+              "summary": "近日，我会对上市公司上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等财务数据存在虚假记载作出行政处罚事先告知。经查，*ST卓然相关年度存在虚增利润…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7658185/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-11T09:13:28.000Z",
+              "score": 75,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "lnlwfgudpp5ili1wekxpp6kj",
+              "title": "中国证监会召开树立和践行正确政绩观学习教育总结会议",
+              "summary": "近日，中国证监会召开党委（扩大）会议暨党建工作领导小组会议，传达学习习近平总书记重要指示精神、中央党的建设工作领导小组会议和中央金融工委有关会议精神，总结证监…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7656853/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-04T10:49:39.000Z",
+              "score": 75,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "d8uj9mwbqfto0fxoiqewol58",
+              "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
+              "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对私募投资基金募集业务活动监管，促进私募投资基金行业高质量发…",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-09-04T07:58:04.000Z",
+              "score": 75,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
             {
               "id": "vjbuh21dgegyoye0h6sx3gd1",
               "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
@@ -171,21 +246,6 @@
               "entityTags": []
             },
             {
-              "id": "l6oojxto5xnfer9dgnpn3ief",
-              "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
-              "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
-              "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
-              "sourceId": "rss-sse-rules",
-              "sourceName": "上交所 · 规则发布",
-              "publishedAt": "2025-03-27T16:00:00.000Z",
-              "score": 70,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
               "id": "f5of2b0fsusz2i366141p6pf",
               "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
               "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -193,21 +253,6 @@
               "sourceId": "rss-szse-rules",
               "sourceName": "深交所 · 业务规则",
               "publishedAt": "+058357-07-22T11:00:00.000Z",
-              "score": 70,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "hblnqkhpl2hdfajrbum3yje3",
-              "title": "关于元道通信股份有限公司股票终止上市的公告",
-              "summary": "2026年8月28日， 元道通信 股份有限公司 （以下简称公司） 收到中国证券监督管理委员会 （以下简称证监会） 作出的《行政处罚决定书》（〔 202 6 〕…",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260922_622981.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-09-21T16:00:00.000Z",
               "score": 70,
               "category": "policy",
               "tags": [
@@ -282,81 +327,6 @@
               "sourceId": "rss-szse-notices",
               "sourceName": "深交所 · 上市公司公告",
               "publishedAt": "2026-09-27T16:00:00.000Z",
-              "score": 62,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "de04c97zmss5mep5j1tbhwj9",
-              "title": "关于广东中塑新材料股份有限公司股票上市交易的公告",
-              "summary": "广东中塑新材料股份有限公司 人民币普通股股票 将于 2026年9月22日在本所上市。证券简称为 “ 中塑股份 ” ,证券代码为 “ 301686 ” 。公司 …",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260921_622945.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-09-20T16:00:00.000Z",
-              "score": 62,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "waxeibr1nlxa2ratr3imx2be",
-              "title": "关于中电科思仪科技股份有限公司股票上市交易的公告",
-              "summary": "中电科思仪科技股份有限公司 人民币普通股股票 将于 2026年9月10日在本所上市。证券简称为 “ 电科思仪 ” ,证券代码为 “ 301689 ” 。公司 …",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260909_622782.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-09-08T16:00:00.000Z",
-              "score": 62,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "n7pj92xkscfqmhdjl1duzjj3",
-              "title": "关于洛阳轴承集团股份有限公司股票上市交易的公告",
-              "summary": "洛阳轴承集团股份有限公司 人民币普通股股票 将于 2026年9月9日在本所上市。证券简称为 “ 洛轴股份 ” ,证券代码为 “ 301699 ” 。公司 人民…",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260908_622725.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-09-07T16:00:00.000Z",
-              "score": 62,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "z0md12lxwc035o2bhagnlita",
-              "title": "关于格林生物科技股份有限公司股票上市交易的公告",
-              "summary": "格林生物科技股份有限公司 人民币普通股股票 将于 2026年9月2日在本所上市。证券简称为“格林生物”,证券代码为“301688”。公司 人民币普通股股份 总…",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260901_622630.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-08-31T16:00:00.000Z",
-              "score": 62,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "hoefbznke8p0nn2pow4cc7vt",
-              "title": "关于苏州市贝特利高分子材料股份有限公司股票上市交易的公告",
-              "summary": "苏州市贝特利高分子材料股份有限公司 人民币普通股股票 将于 2026年9月1日在本所上市。证券简称为“贝特利”,证券代码为“301697”。公司 人民币普通股…",
-              "url": "http://www.szse.cn/disclosure/notice/company/t20260831_622597.html",
-              "sourceId": "rss-szse-notices",
-              "sourceName": "深交所 · 上市公司公告",
-              "publishedAt": "2026-08-30T16:00:00.000Z",
               "score": 62,
               "category": "policy",
               "tags": [
@@ -803,8 +773,8 @@
         }
       ],
       "stats": {
-        "total": 254,
-        "selected": 49,
+        "total": 256,
+        "selected": 47,
         "llmCalls": 0
       }
     }
@@ -821,7 +791,7 @@
         "jwuxyozss21aq8sxtfxtute7",
         "s0ph2x4xrv89vjr9f5kzuq53"
       ],
-      "updatedAt": "2026-10-07T12:00:32.695Z"
+      "updatedAt": "2026-10-07T12:28:39.880Z"
     },
     {
       "id": "ev_4541766a9c",
@@ -835,7 +805,7 @@
         "tdcy1hqmav2ogadlo6w165fr",
         "svoyfuu49mlvvvbh1aen3n45"
       ],
-      "updatedAt": "2026-10-07T12:00:32.695Z"
+      "updatedAt": "2026-10-07T12:28:39.880Z"
     },
     {
       "id": "ev_093cabb26f",
@@ -848,10 +818,85 @@
         "kugj4o6cbmkqnwlf3znvjxug",
         "uwjnch4hihsjjqe73ugghg35"
       ],
-      "updatedAt": "2026-10-07T12:00:32.695Z"
+      "updatedAt": "2026-10-07T12:28:39.880Z"
     }
   ],
   "items": [
+    {
+      "id": "zp2vv7mmnmosndd9rfsym5tm",
+      "title": "中国证监会发布《期货公司监督管理办法》及配套实施公告",
+      "summary": "为贯彻党的二十届四中全会精神，落实新“国九条”和《国务院办公厅转发中国证监会等部门〈关于加强监管防范风险促进期货市场高质量发展的意见〉的通知》（国办发〔202…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7658236/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-11T10:03:38.000Z",
+      "score": 77,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ywakmfhui8ospo6ivi7jwdch",
+      "title": "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
+      "summary": "近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：（一）沈阳远大智能工业集团股份有限公司信息披露违法违规案（辽宁证监…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7659506/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-18T07:27:06.000Z",
+      "score": 75,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "in0nojqztgbqdsysbrshcv7d",
+      "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
+      "summary": "近日，我会对上市公司上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等财务数据存在虚假记载作出行政处罚事先告知。经查，*ST卓然相关年度存在虚增利润…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7658185/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-11T09:13:28.000Z",
+      "score": 75,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "lnlwfgudpp5ili1wekxpp6kj",
+      "title": "中国证监会召开树立和践行正确政绩观学习教育总结会议",
+      "summary": "近日，中国证监会召开党委（扩大）会议暨党建工作领导小组会议，传达学习习近平总书记重要指示精神、中央党的建设工作领导小组会议和中央金融工委有关会议精神，总结证监…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7656853/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-04T10:49:39.000Z",
+      "score": 75,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "d8uj9mwbqfto0fxoiqewol58",
+      "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
+      "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对私募投资基金募集业务活动监管，促进私募投资基金行业高质量发…",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-09-04T07:58:04.000Z",
+      "score": 75,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
     {
       "id": "vjbuh21dgegyoye0h6sx3gd1",
       "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
@@ -928,21 +973,6 @@
       "entityTags": []
     },
     {
-      "id": "l6oojxto5xnfer9dgnpn3ief",
-      "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
-      "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
-      "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
-      "sourceId": "rss-sse-rules",
-      "sourceName": "上交所 · 规则发布",
-      "publishedAt": "2025-03-27T16:00:00.000Z",
-      "score": 70,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "f5of2b0fsusz2i366141p6pf",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -950,21 +980,6 @@
       "sourceId": "rss-szse-rules",
       "sourceName": "深交所 · 业务规则",
       "publishedAt": "+058357-07-22T11:00:00.000Z",
-      "score": 70,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "hblnqkhpl2hdfajrbum3yje3",
-      "title": "关于元道通信股份有限公司股票终止上市的公告",
-      "summary": "2026年8月28日， 元道通信 股份有限公司 （以下简称公司） 收到中国证券监督管理委员会 （以下简称证监会） 作出的《行政处罚决定书》（〔 202 6 〕…",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260922_622981.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
       "score": 70,
       "category": "policy",
       "tags": [
@@ -1083,81 +1098,6 @@
       "sourceId": "rss-szse-notices",
       "sourceName": "深交所 · 上市公司公告",
       "publishedAt": "2026-09-27T16:00:00.000Z",
-      "score": 62,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "de04c97zmss5mep5j1tbhwj9",
-      "title": "关于广东中塑新材料股份有限公司股票上市交易的公告",
-      "summary": "广东中塑新材料股份有限公司 人民币普通股股票 将于 2026年9月22日在本所上市。证券简称为 “ 中塑股份 ” ,证券代码为 “ 301686 ” 。公司 …",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260921_622945.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-09-20T16:00:00.000Z",
-      "score": 62,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "waxeibr1nlxa2ratr3imx2be",
-      "title": "关于中电科思仪科技股份有限公司股票上市交易的公告",
-      "summary": "中电科思仪科技股份有限公司 人民币普通股股票 将于 2026年9月10日在本所上市。证券简称为 “ 电科思仪 ” ,证券代码为 “ 301689 ” 。公司 …",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260909_622782.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "score": 62,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "n7pj92xkscfqmhdjl1duzjj3",
-      "title": "关于洛阳轴承集团股份有限公司股票上市交易的公告",
-      "summary": "洛阳轴承集团股份有限公司 人民币普通股股票 将于 2026年9月9日在本所上市。证券简称为 “ 洛轴股份 ” ,证券代码为 “ 301699 ” 。公司 人民…",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260908_622725.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-09-07T16:00:00.000Z",
-      "score": 62,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "z0md12lxwc035o2bhagnlita",
-      "title": "关于格林生物科技股份有限公司股票上市交易的公告",
-      "summary": "格林生物科技股份有限公司 人民币普通股股票 将于 2026年9月2日在本所上市。证券简称为“格林生物”,证券代码为“301688”。公司 人民币普通股股份 总…",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260901_622630.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "score": 62,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "hoefbznke8p0nn2pow4cc7vt",
-      "title": "关于苏州市贝特利高分子材料股份有限公司股票上市交易的公告",
-      "summary": "苏州市贝特利高分子材料股份有限公司 人民币普通股股票 将于 2026年9月1日在本所上市。证券简称为“贝特利”,证券代码为“301697”。公司 人民币普通股…",
-      "url": "http://www.szse.cn/disclosure/notice/company/t20260831_622597.html",
-      "sourceId": "rss-szse-notices",
-      "sourceName": "深交所 · 上市公司公告",
-      "publishedAt": "2026-08-30T16:00:00.000Z",
       "score": 62,
       "category": "policy",
       "tags": [
@@ -1567,7 +1507,7 @@
     }
   ],
   "meta": {
-    "itemCount": 246,
+    "itemCount": 247,
     "llmCalls": 0
   }
 }

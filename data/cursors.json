@@ -60,5 +60,9 @@
     "lastModified": "Wed, 07 Oct 2026 12:01:31 GMT",
     "configHash": "e5c7d2b2095c0a41",
     "lastFetchedAt": "2026-10-07T12:00:32.695Z"
+  },
+  "web-csrc-news": {
+    "configHash": "99f472af2d593516",
+    "lastFetchedAt": "2026-10-07T12:28:39.880Z"
   }
 }
