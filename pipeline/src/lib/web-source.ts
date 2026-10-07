@@ -140,9 +140,14 @@ function qzsTitle(block: string): string {
 
 function toCandidates(items: RawItem[], limit: number): Candidate[] {
   const now = Date.now();
+  // 稀疏栏目的最新 N 条可能横跨数周（证监会要闻的 10 条能跨三周）。超出保留期的条目入库后会被
+  // publish 按发布时间清掉，下一轮又会被当成"新条目"重新落地、再次出现在当日日报里，来回循环。
+  // 这里按保留期直接过滤，让日报只收真正新的内容。
+  const cutoff = now - config.retentionDays * 24 * 60 * 60 * 1000;
   const candidates: Candidate[] = [];
   const seen = new Set<string>();
   for (const item of items) {
+    if (item.publishedAt && Date.parse(item.publishedAt) < cutoff) continue;
     const url = normalizeUrl(item.url);
     if (!url) continue;
     const identityKey = identityKeyForUrl(url);
