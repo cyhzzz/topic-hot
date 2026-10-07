@@ -6063,5 +6063,1661 @@
       "average": 25
     },
     "selected": false
+  },
+  {
+    "id": "hrpqtqxibzvpatqhgvcxof5y",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207099.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207099.html",
+    "title": "网传董事长为“东航空姐下跪事件”乘客？301111辟谣",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "辟谣。 10月7日， 粤万年青(301111)官微发布《关于网络不实信息侵害公司及相关人员名誉的声明》称，近日，部分网络平台流传“9月28日东航MU6741航班客舱冲突事件涉事旅客为广东万年青制药股份有限公司董事长欧先涛先生”的内容，并引发热议。经公司核实，该内容与事实严重不符，欧先涛及公司其他员工从未乘坐该航班，上述信息系无任何事实依据的恶意捏造，已构成对公司董事长个人名誉及公司商业信誉的侵害。 针对上述侵权行为，欧先涛已向公安机关报案并获受理，公司也同步开展证据留存与保全工作。公司将根据相关法律法规，对造谣者及恶意传播者追究全部法律责任。 据官网介绍，粤万年青拥有101个药品批文，其中10个为独家品种，4个为独家剂型，32个原研产品，16个列入国家基药，39个列入国家医保；涵盖“片剂、小容量注射剂、合剂、颗粒剂”等11个剂型，胆道类、降糖类、补益类等13个用药领域，其中，消炎利胆片、胆石通胶囊、石淋通片和脑力宝丸等多个产品获国优和部优称号。 回溯来看，9月30日，“东航空姐下跪道歉”登上热搜，引发热议。 随后，东航发文回应：公司关注到网传9月28日合肥至大连航班空中服务事件相关视…",
+    "media": [
+      {
+        "url": "https://static-web.stcn.com/upload/2026/1007/23/6ac6495f210a6.png?x-oss-process=image/resize,m_fill,h_116,w_150"
+      }
+    ],
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:22.701Z",
+    "discoveredAt": "2026-10-07T21:19:22.701Z",
+    "category": "product",
+    "summary": "辟谣。 10月7日， 粤万年青(301111)官微发布《关于网络不实信息侵害公司及相关人员名誉的声明》称，近日，部分网络平台流传“9月28日东航MU6741航…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "jfxi6ufioob5y2c4xncsur5b",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783130",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783130",
+    "title": "10年期美债拍卖认购倍数2.77倍创2016年来新高，海外需求接近纪录高位",
+    "language": "zh",
+    "publishedAt": "2026-10-07T21:08:04.000Z",
+    "excerpt": "美国国债市场迎来久违的喘息机会。 10月7日周三， 美国财政部以5.3%的收益率完成390亿美元10年期国债拍卖，是自2000年11月以来的最高水平，推动长端收益率从逾20年高位回落。 此次拍卖成交收益率低于预发行利率约1.88个基点，显示买方主动入场接货。 非交易商投资者认购比例高达97.5%，为历史最高；认购倍数升至2.77倍，为2016年以来最强。 SMBC利率策略师Monty Gandhi表示： 这表明那些资金实力更雄厚的投资者终于发现目前的利率水平具有吸引力。大约在5%附近，一些大型参与者曾表示正在平掉空头头寸，我的判断是他们正在缓慢重新入场。 拍卖结果公布后，10年期收益率较盘中高点下行逾5个基点，至约5.28%、刷新日低。此前一度触及5.36%，这一水平为2002年以来所未见。30年期收益率也从5.73%高位回落至5.66%。 不过反弹较为短暂，收益率随后有所回升，市场人士指出，此次拍卖结果虽然亮眼，但并未改变驱动收益率上行的宏观基本面逻辑。 外资需求异常强劲，引发市场关注 此次拍卖内部结构颇为值得关注。在此之前，市场情绪本已高度紧张，周二的5年期国债拍卖结果欠佳，令投…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/0c519823-b62e-437d-b07d-07867c197ae0.png"
+      }
+    ],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.504Z",
+    "discoveredAt": "2026-10-07T21:19:27.504Z",
+    "category": "market",
+    "summary": "美国国债市场迎来久违的喘息机会。 10月7日周三， 美国财政部以5.3%的收益率完成390亿美元10年期国债拍卖，是自2000年11月以来的最高水平，推动长端…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "uqaqh7z32xplkmqflb51oca9",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783127",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783127",
+    "title": "美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加，暗示10月不急",
+    "language": "zh",
+    "publishedAt": "2026-10-07T19:20:18.000Z",
+    "excerpt": "美联储9月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。 根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要， 19名美联储高级官员均支持将联邦基金利率目标区间上调25个基点 至3.75%至4.00%。这是美联储自2023年7月以来首次加息。 纪要显示，“多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的。”但与会者同时强调，他们对待每一次会议都持开放态度，未来会议的政策决定将取决于届时获得的最新信息。 有 “新美联储通讯社” 之称的记者Nick Timiraos强调美联储会议纪要内容： “关于当前会议之后的货币政策展望，多数与会者认为，在今年年底前再次上调联邦基金利率目标区间可能是合适的。” 随着会后就业数据弱于预期，以及多名官员释放“无需急于加息”的信号，市场目前预计美联储更可能在10月会议按兵不动，并于12月再次加息。 据CME FedWatch工具， 投资者目前对美联储10月27日至28日会议加息25个基点的概率定价不足20%，较9月决议发布后数日的约70%大幅下降 。10月14日公布的美…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/ba176489-34fc-4384-890a-a6452884f95b.png"
+      }
+    ],
+    "tags": [
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.504Z",
+    "discoveredAt": "2026-10-07T21:19:27.504Z",
+    "category": "opinion",
+    "summary": "美联储9月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。 根据周三公布的9月15日至16日联邦公开市场委员会（…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "a3p6hxae190tsxx4znbxf1yk",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783126",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783126",
+    "title": "1亿桶大缩水？报道称欧盟认为释放油储计划主要兑现此前承诺、并非新增份额",
+    "language": "zh",
+    "publishedAt": "2026-10-07T18:33:20.000Z",
+    "excerpt": "国际能源署（IEA）与欧盟成员国周三就释放石油和柴油战略储备展开讨论。市场关注七国集团（G7）上周宣布的最多1亿桶储备释放计划究竟能带来多少新增供应。 欧盟成员国普遍认为，此次行动很大程度上将兑现今年3月已经作出的释放承诺，而非额外释放1亿桶新的石油库存。 据媒体报道，IEA成员国周三下午召开临时会议，讨论加快落实3月宣布的战略石油储备释放计划。IEA会后表示， 成员国支持“加快释放3月宣布的石油库存”，并支持“在可能的情况下优先释放柴油库存”。 与此同时，欧盟能源工作组也于周三举行电话会议，进一步讨论G7上周达成的储备释放安排。 欧盟成员国官员普遍认为，任何进一步释放都应控制在3月已经确定的规模之内。 部分成员国希望IEA先对释放行动可能产生的市场影响进行评估。 柴油价格近期大幅上涨，伊朗战争以及针对俄罗斯炼厂的袭击扰乱炼油和运输活动，并推高燃料成本，进而给运输、农业等行业和通胀带来压力。 G7宣布释放1亿桶，但新增供应规模仍存疑 G7成员国上周五同意释放最多1亿桶原油和柴油储备。 此次行动此前受到美国总统特朗普推动，美国政府曾警告，如果欧洲国家不采取更多措施压低柴油价格，美国可能…",
+    "media": [],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.504Z",
+    "discoveredAt": "2026-10-07T21:19:27.504Z",
+    "category": "market",
+    "summary": "国际能源署（IEA）与欧盟成员国周三就释放石油和柴油战略储备展开讨论。市场关注七国集团（G7）上周宣布的最多1亿桶储备释放计划究竟能带来多少新增供应。 欧盟成…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "g5oqesf4oer2lnhp1w8ku4nw",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783124",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783124",
+    "title": "伊朗高官放话\"永不放弃\"铀浓缩权利、美伊\"没有谈判\"，即将封锁霍尔木兹“非法航道”",
+    "language": "zh",
+    "publishedAt": "2026-10-07T17:19:14.000Z",
+    "excerpt": "布伦特原油突破每桶102美元，美伊核谈判前景再度蒙上阴影。 一名伊朗高级官员周三向路透社表示， 伊朗\"永远不会放弃\"铀浓缩权利，目前与美国之间\"没有任何谈判\"在进行。 该官员同时指出，美国就伊朗核计划提出的方案与伊朗诉求\"相悖\"。消息公布后，布伦特原油价格迅速升破每桶102美元。 同日，据央视新闻，伊朗伊斯兰革命卫队司令顾问纳格迪表示， 霍尔木兹海峡已经关闭，伊朗将很快封锁该海峡的“非法航道”，这种情况将持续到伊朗的合法诉求得到满足为止。 另据央视报道，当地时间7日， 伊朗总统佩泽希齐扬与俄罗斯总统普京举行电话会谈，双方强调应继续加强两国的双边战略合作。 普京表示，俄罗斯支持一些国家为缓和地区紧张局势所做出的外交努力，并强调俄罗斯也随时准备为此发挥作用和提供协助。 核谈判立场强硬，伊朗划定\"红线\" 据路透社报道，伊朗高级官员明确表示，美国承认伊朗铀浓缩权利是德黑兰的\"红线\"，伊朗\"永远不会放弃\"这一权利，但浓缩的具体细节和规模可在此后进行讨论。 该官员同时强调， 华盛顿必须首先满足德黑兰的前提条件，核问题才能被提上议程。他将美国副总统万斯近期阐述的相关方案定性为美国的\"想法和诉求\"，…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/88b48e47-64ba-4b6a-822a-013f58c62579.png"
+      }
+    ],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.504Z",
+    "discoveredAt": "2026-10-07T21:19:27.504Z",
+    "category": "market",
+    "summary": "布伦特原油突破每桶102美元，美伊核谈判前景再度蒙上阴影。 一名伊朗高级官员周三向路透社表示， 伊朗\"永远不会放弃\"铀浓缩权利，目前与美国之间\"没有任何谈判\"…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "oososp8vjdf07vp833gi0idl",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783123",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783123",
+    "title": "美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善",
+    "language": "zh",
+    "publishedAt": "2026-10-07T15:42:21.000Z",
+    "excerpt": "根据纽约联储周三公布的一项调查，美国消费者对短期通胀的预期在上月明显升温；对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。 纽约联储每月发布的《消费者预期调查》显示， 消费者对未来一年通胀率的中值预期从8月的3.6%升至9月的3.9%，创2023年5月以来最高水平； 对未来三年的通胀预期中值从8月的3.2%小幅升至3.3%，而未来五年的通胀预期中值维持在3%不变。 未来一年，消费者预计汽油价格上涨4.8%；食品价格上涨5.5%；医疗费用上涨9.2%；大学教育费用上涨7.5%；租金上涨6.8%。 这项数据发布之际，距离11月中期选举已不到一个月。纽约联储的最新调查进一步显示，美国消费者对经济的悲观情绪仍然持续，尽管美国经济仍在扩张。近几周公布的其他数据显示，9月消费者信心降至四个月低点，失业率小幅上升，但仍处于历史低位附近。 美联储官员9月将基准利率上调25个基点。部分政策制定者表示，这一决定为美联储评估经济状况争取了时间。美联储下一次议息会议将于10月27日至28日在华盛顿举行。 就业市场预期改善 尽管通胀水平仍然较高，但美国家庭对就业市场的看法有所…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/b30cad7f-653e-448e-8eea-30c5cc5328d4.png"
+      }
+    ],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.504Z",
+    "discoveredAt": "2026-10-07T21:19:27.504Z",
+    "category": "market",
+    "summary": "根据纽约联储周三公布的一项调查，美国消费者对短期通胀的预期在上月明显升温；对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。 …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "cw22tc4x5dxpffbvfbc8k5ys",
+    "identityKey": "url:https://wallstreetcn.com/articles/3783110",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3783110",
+    "title": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:27.987Z",
+    "discoveredAt": "2026-10-07T21:19:27.987Z",
+    "category": "market",
+    "summary": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "rks8ztqd4rrqgkguffhz7h2o",
+    "identityKey": "url:https://www.cls.cn/detail/2498406",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2498406",
+    "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.383Z",
+    "discoveredAt": "2026-10-07T21:19:28.383Z",
+    "category": "market",
+    "summary": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "sb4j0wmufc4h7qc804aqh73t",
+    "identityKey": "url:https://www.cls.cn/detail/2498857",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498857",
+    "title": "卡塔尔附近海域一油轮遭袭造成人员伤亡",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "卡塔尔附近海域一油轮遭袭造成人员伤亡",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "qi3ihpx4ghfq0fnhizxcupt8",
+    "identityKey": "url:https://www.cls.cn/detail/2498856",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498856",
+    "title": "财联社10月8日电，COMEX黄金期货收跌1.2%，报4136.7美元/盎司；COMEX白银期货跌2.5%，报60.05美元/盎司。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，COMEX黄金期货收跌1.2%，报4136.7美元/盎司；COMEX白银期货跌2.5%，报60.05美元/盎司。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "vl25bc2pm05ust26u0fk9xyw",
+    "identityKey": "url:https://www.cls.cn/detail/2498855",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498855",
+    "title": "博通为OpenAI定制芯片研发寻求逾500亿美元融资",
+    "language": "zh",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "industry",
+    "summary": "博通为OpenAI定制芯片研发寻求逾500亿美元融资",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "uzkpbb7lihnvqa9j92wbkcv4",
+    "identityKey": "url:https://www.cls.cn/detail/2498854",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498854",
+    "title": "沙特主导联军称在也门萨那摧毁一处弹道导弹发射平台",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "沙特主导联军称在也门萨那摧毁一处弹道导弹发射平台",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "yxhgvsffcz10lfs63vs0iei2",
+    "identityKey": "url:https://www.cls.cn/detail/2498853",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498853",
+    "title": "财联社10月8日电，Rivian从大众集团获得的10亿美元贷款到期日为2036年10月7日。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，Rivian从大众集团获得的10亿美元贷款到期日为2036年10月7日。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "tm3sc3dje8dig9fjtazse4ga",
+    "identityKey": "url:https://www.cls.cn/detail/2498852",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498852",
+    "title": "财联社10月8日电，好市多9月同店销售总额增长11.4%，分析师预期增长9.9%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，好市多9月同店销售总额增长11.4%，分析师预期增长9.9%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "asrqqwrt6y5c4o0ot5z8x7mr",
+    "identityKey": "url:https://www.cls.cn/detail/2498851",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498851",
+    "title": "财联社10月8日电，美国半导体公司Wolfspeed股价盘后上涨28%，此前宣布获得15亿美元贷款承诺。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，美国半导体公司Wolfspeed股价盘后上涨28%，此前宣布获得15亿美元贷款承诺。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "mi3des3rk5zxp7x2erlfavk1",
+    "identityKey": "url:https://www.cls.cn/detail/2498850",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498850",
+    "title": "利弗莫尔中概股龙头指数收跌0.96%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "利弗莫尔中概股龙头指数收跌0.96%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "xged0pbjxja2dyp4es5uhisj",
+    "identityKey": "url:https://www.cls.cn/detail/2498849",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498849",
+    "title": "美股三大指数集体收跌 热门科技股涨跌不一",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "美股三大指数集体收跌 热门科技股涨跌不一",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ze8zlgrqfoheawgqdz32rguj",
+    "identityKey": "url:https://www.cls.cn/detail/2498848",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498848",
+    "title": "财联社10月8日电，杜克能源与北卡罗来纳州达成协议，协议包含针对大负荷客户的独立电价，保护普通用户免于承担数据中心相关成本。数据中心需预先支付电网接入费用。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，杜克能源与北卡罗来纳州达成协议，协议包含针对大负荷客户的独立电价，保护普通用户免于承担数据中心相关成本。数据中心需预先支付电网接入费用。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "gmaknw8pxf6u0e08uuqlndzo",
+    "identityKey": "url:https://www.cls.cn/detail/2498847",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498847",
+    "title": "财联社10月8日电，美国海洋能源管理局（MMA）称，墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，美国海洋能源管理局（MMA）称，墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "a69svvhgm0nhmha6cflchary",
+    "identityKey": "url:https://www.cls.cn/detail/2498846",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498846",
+    "title": "巴基斯坦军队已在沙特开展多领域防务合作",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "巴基斯坦军队已在沙特开展多领域防务合作",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "a38at5na0159swsg2g1keorr",
+    "identityKey": "url:https://www.cls.cn/detail/2498845",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498845",
+    "title": "美元指数7日上涨",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "美元指数7日上涨",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 40,
+      "average": 20
+    },
+    "selected": false
+  },
+  {
+    "id": "o50czjlvpej492ozbr9v3vn6",
+    "identityKey": "url:https://www.cls.cn/detail/2498844",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498844",
+    "title": "日本千叶县东北部发生4.8级地震",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "日本千叶县东北部发生4.8级地震",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "zaby0iq5vsj52tgvegcq8nba",
+    "identityKey": "url:https://www.cls.cn/detail/2498843",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498843",
+    "title": "OpenAI面向全球所有ChatGPT用户全面上线GPT-6",
+    "language": "zh",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "product",
+    "summary": "OpenAI面向全球所有ChatGPT用户全面上线GPT-6",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "vuc0jr90tjr4nyawfnmcxykt",
+    "identityKey": "url:https://www.cls.cn/detail/2498842",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498842",
+    "title": "也门胡塞武装称过去24小时向联军目标发射11枚导弹",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "也门胡塞武装称过去24小时向联军目标发射11枚导弹",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "q1xy6z65yfvcjj6jxyc18kbz",
+    "identityKey": "url:https://www.cls.cn/detail/2498841",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498841",
+    "title": "沙特两座机场遭袭致3死36伤",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "沙特两座机场遭袭致3死36伤",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "nxrcgwuw6dyz4hk168zfeubp",
+    "identityKey": "url:https://www.cls.cn/detail/2498839",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498839",
+    "title": "财联社10月8日电，恒指期货夜盘收跌0.64%，报23962点，低水169点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，恒指期货夜盘收跌0.64%，报23962点，低水169点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "en049i2tmhr7a55ixl32th0c",
+    "identityKey": "url:https://www.cls.cn/detail/2498838",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498838",
+    "title": "财联社10月8日电，美国8月消费信贷82.8亿美元，预期150亿美元，前值由180.62亿美元修正为177.4亿美元。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，美国8月消费信贷82.8亿美元，预期150亿美元，前值由180.62亿美元修正为177.4亿美元。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "r3psrxac87bdnx0p13uyeroz",
+    "identityKey": "url:https://www.cls.cn/detail/2498837",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498837",
+    "title": "英伟达与微软携手以RTX Spark及AI智能体开启Windows PC全新纪元",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "英伟达与微软携手以RTX Spark及AI智能体开启Windows PC全新纪元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "kd5d3r34afmwt8ejnpjev3in",
+    "identityKey": "url:https://www.cls.cn/detail/2498836",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498836",
+    "title": "FOMC会议纪要显示 官员们敦促为市场压力制定预案",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "FOMC会议纪要显示 官员们敦促为市场压力制定预案",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "jkqr0t4kqib8qxpnmks7idcf",
+    "identityKey": "url:https://www.cls.cn/detail/2498835",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498835",
+    "title": "财联社10月8日电，突尼斯央行维持关键利率在8%不变。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，突尼斯央行维持关键利率在8%不变。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "cgli39ciwp3ytl35a0i0rhxj",
+    "identityKey": "url:https://www.cls.cn/detail/2498834",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498834",
+    "title": "财联社10月8日电，WTI原油期货结算价为88.28美元/桶，下跌1.16美元，跌幅1.30%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，WTI原油期货结算价为88.28美元/桶，下跌1.16美元，跌幅1.30%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "d65emyymlq13kona2pcele1f",
+    "identityKey": "url:https://www.cls.cn/detail/2498833",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498833",
+    "title": "美“龙”飞船载4名宇航员脱离空间站 启程返回地球",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "美“龙”飞船载4名宇航员脱离空间站 启程返回地球",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "soqelxdyhv4u3irfy8fhwa92",
+    "identityKey": "url:https://www.cls.cn/detail/2498832",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498832",
+    "title": "财联社10月8日电，SpaceX大规模举债引发市场担忧，信用风险飙升。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，SpaceX大规模举债引发市场担忧，信用风险飙升。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "o2t5a3km8lyibib04ituzqw9",
+    "identityKey": "url:https://www.cls.cn/detail/2498831",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498831",
+    "title": "财联社10月8日电，Anthropic发布最新AI模型Claude Haiku 5.5，用于执行那些对成本敏感的任务。这款模型“到手价”将明显低于4.5版。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，Anthropic发布最新AI模型Claude Haiku 5.5，用于执行那些对成本敏感的任务。这款模型“到手价”将明显低于4.5版。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "pdz9pma8yxqcmiah5d7gnizn",
+    "identityKey": "url:https://www.cls.cn/detail/2498830",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498830",
+    "title": "财联社10月8日电，戴尔推出搭载英伟达RTX SPARK的XPS 16创作者版笔记本电脑。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，戴尔推出搭载英伟达RTX SPARK的XPS 16创作者版笔记本电脑。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "h9wegdep435eai1ejsj1jru0",
+    "identityKey": "url:https://www.cls.cn/detail/2498829",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498829",
+    "title": "美联储纪要显示9月升息获一致支持 多数与会者倾向年内再加一次",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "美联储纪要显示9月升息获一致支持 多数与会者倾向年内再加一次",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ghuz96aiul0ke92w4uggxew4",
+    "identityKey": "url:https://www.cls.cn/detail/2498828",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498828",
+    "title": "财联社10月8日电，谷歌扩大用于检测人工智能使用的工具访问权限，谷歌称能够检测来自谷歌及其合作伙伴的 AI 的工具。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，谷歌扩大用于检测人工智能使用的工具访问权限，谷歌称能够检测来自谷歌及其合作伙伴的 AI 的工具。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "hd9mi2jol2qebygkkngo6klr",
+    "identityKey": "url:https://www.cls.cn/detail/2498827",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498827",
+    "title": "财联社10月8日电，微软高管表示，搭载英伟达芯片的RTX Spark设备将于下周开始发货。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:28.757Z",
+    "discoveredAt": "2026-10-07T21:19:28.757Z",
+    "category": "market",
+    "summary": "财联社10月8日电，微软高管表示，搭载英伟达芯片的RTX Spark设备将于下周开始发货。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "viov15gvw81uq2oequ5vu93t",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008045210185800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008045210185800",
+    "title": "特朗普称其配得上诺贝尔和平奖",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，美国总统特朗普周三表示，他理应获得诺贝尔和平奖，但他也承认对获此奖项的前景持怀疑态度。“我不知道他们最终会如何决定，”特朗普谈到这个将于周五由挪威诺贝尔委员会宣布的2026年奖项时表示，“他们可能以某种方式不将奖项颁给像我这样的人。”自去年重返白宫以来，特朗普一再表示，他理应获得这一奖项。“差不多该到那个时候了，”特朗普在椭圆形办公室对记者说，“我上次很荣幸能通过获奖者间接获得这一荣誉，获奖者称历史上没有人比特朗普更配得上这个奖项。”",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，美国总统特朗普周三表示，他理应获得诺贝尔和平奖，但他也承认对获此奖项的前景持怀疑态度。“我不知道他们最终会如何决定，”特朗普谈到这个将于…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "r8pq3om1yp4eymaj5qjju3c4",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008045150518800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008045150518800",
+    "title": "沙特联军发言人：胡塞武装对沙特境内平民和民用设施发动了一系列袭击，联军不会坐视不理。因此，联军已对胡塞82个军事目标发动打击，包括萨达11处弹道导弹库。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "沙特联军发言人：胡塞武装对沙特境内平民和民用设施发动了一系列袭击，联军不会坐视不理。因此，联军已对胡塞82个军事目标发动打击，包括萨达11处弹道导弹库。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "hwdx2zio32ozce63xmowpsyp",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008044603932800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008044603932800",
+    "title": "沙特主导联军称在也门萨那摧毁一处弹道导弹发射平台",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，当地时间10月7日，沙特阿拉伯主导的多国联军发言人图尔基·马利基表示，联军当天在也门首都萨那实施军事行动，摧毁了一处弹道导弹发射平台。马利基称，该平台曾被用于对沙特首都利雅得发动袭击。联军方面称，此次行动实施时，相关设施正准备对沙特发动袭击。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，当地时间10月7日，沙特阿拉伯主导的多国联军发言人图尔基·马利基表示，联军当天在也门首都萨那实施军事行动，摧毁了一处弹道导弹发射平台。马…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "kq4i9ruxxovn6eu9uii5btq5",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008044039343800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008044039343800",
+    "title": "美“林肯”号航母结束超10个月中东部署 获嘉奖最高荣誉",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，据美联社报道，美国国防部长赫格塞思当地时间周三登上“亚伯拉罕·林肯”号航母，为该航母打击群颁发总统单位嘉奖，表彰其在特朗普政府所谓“史诗狂怒行动”期间开展的作战行动。该航母在结束创纪录的长期部署后返回圣迭戈基地，此次部署持续超过10个月。据五角大楼数据，“林肯”号航母打击群执行了3693次作战任务，投放137万磅弹药，发射450枚“战斧”巡航导弹，击落77架单向攻击无人机，并击沉64艘伊朗军舰、摧毁21枚反舰巡航导弹。赫格塞思表示，外界曾试图将“林肯”号描述为士气低落或任务失败的象征，但他称舰员展现了适应能力和韧性。此前有报道称，该航母在中东部署期间曾面临人员压力、补给困难以及心理健康问题。美国海军官员此前透露，部署期间打击群内有8名水兵尝试自杀。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，据美联社报道，美国国防部长赫格塞思当地时间周三登上“亚伯拉罕·林肯”号航母，为该航母打击群颁发总统单位嘉奖，表彰其在特朗普政府所谓“史诗…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "oi3l9buyphzjznznkkn1ijf6",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008043034744800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008043034744800",
+    "title": "美国消费者借贷增速放缓 循环信贷规模下降",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，受近两年来最大幅度的循环信贷下降影响，8月份美国消费者借贷增幅低于预期。美联储周三公布的数据显示，未偿还信贷总额增加83亿美元，为三个月来最小增幅，此前7月份经修正后的增幅为177亿美元。机构调查的经济学家预计8月中位数为增加150亿美元。该报告未包含住房抵押贷款。信用卡及其他循环债务余额减少了48亿美元，降幅为2024年11月以来最大。8月份，非循环信贷（如购车贷款和学费贷款）增加了131亿美元。据行业数据显示，8月份的汽车销量增速达到去年4月以来的最高水平。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，受近两年来最大幅度的循环信贷下降影响，8月份美国消费者借贷增幅低于预期。美联储周三公布的数据显示，未偿还信贷总额增加83亿美元，为三个月…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "r53lmtwimrlwpermn9w3ysv7",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008042344940800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008042344940800",
+    "title": "美国证券交易委员会文件显示，电动车公司Rivian(RIVN.O)于2026年10月7日从大众汽车集团获得10亿美元、10年期定期贷款融资。",
+    "language": "zh",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "industry",
+    "summary": "美国证券交易委员会文件显示，电动车公司Rivian(RIVN.O)于2026年10月7日从大众汽车集团获得10亿美元、10年期定期贷款融资。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "dp7uzf8jakxaj5rvgez5x7u7",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008042128598800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008042128598800",
+    "title": "伊朗外交部：与阿曼关于海峡航道的磋商进展顺利",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "伊朗外交部：与阿曼关于海峡航道的磋商进展顺利",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "boyknwbtikpdds681xh6xejy",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008042124659800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008042124659800",
+    "title": "金十图示：2026年10月07日（周三）华尔街恐惧与贪婪指数（美盘后）",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十图示：2026年10月07日（周三）华尔街恐惧与贪婪指数（美盘后）",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "dcjtgeo6i1yu23ftuwdh36me",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008041921505800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008041921505800",
+    "title": "美国半导体公司Wolfspeed(WOLF.N)股价盘后上涨27%，此前宣布获得15亿美元贷款承诺。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "美国半导体公司Wolfspeed(WOLF.N)股价盘后上涨27%，此前宣布获得15亿美元贷款承诺。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "m3mvba8yov8xfv0w1pmcb9ib",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008041611106800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008041611106800",
+    "title": "据相关文件显示，特朗普政府提议增加对结婚率和出生率较高地区的公共交通资金支持。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "据相关文件显示，特朗普政府提议增加对结婚率和出生率较高地区的公共交通资金支持。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "qtwwp28pbm6h41v5pzl8j7u6",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008041602653800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008041602653800",
+    "title": "据CNN：万斯的反欺诈工作组、美国劳工部和司法部将于周四举行新闻发布会，公布工作签证项目遭滥用的新发现，包括H-1B和J-1签证。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "据CNN：万斯的反欺诈工作组、美国劳工部和司法部将于周四举行新闻发布会，公布工作签证项目遭滥用的新发现，包括H-1B和J-1签证。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "fzljyw1130hadq2kf8k5o7ew",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008041037763800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008041037763800",
+    "title": "据CNN：据知情人士透露，纽约检方预计将对委内瑞拉前总统尼古拉斯·马杜罗及其妻子提出新的指控，涉及近年来被委内瑞拉政府拘押的美国人据称遭受酷刑一事。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "据CNN：据知情人士透露，纽约检方预计将对委内瑞拉前总统尼古拉斯·马杜罗及其妻子提出新的指控，涉及近年来被委内瑞拉政府拘押的美国人据称遭受酷刑一事。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ydl84mm02yltxdwnrq4sm0h2",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040926369800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040926369800",
+    "title": "ChatGPT免费版将升级为GPT-6模型",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，OpenAI当地时间7日宣布，搭载“智能UI”（Intelligent UI）的GPT-6面向全球Plus、Pro、Business和Enterprise用户推出，并将从明日起向免费版和Go用户开放。ChatGPT中的GPT-6：Plus、Pro、Business和Enterprise版本由GPT-6 Sol提供支持；免费版和Go版本由GPT-6 Luna提供支持。两者均针对日常对话进行了优化。此次更新适用于ChatGPT的“聊天”（Chat）标签页。Work和Codex所使用的模型不会随此次发布而调整。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，OpenAI当地时间7日宣布，搭载“智能UI”（Intelligent UI）的GPT-6面向全球Plus、Pro、Business和E…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "fcd8idxz70v46j8ez0t89p4d",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040642178800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040642178800",
+    "title": "金十图示：2026年10月07日（周三）全球股市指数-美洲市场（收盘）",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十图示：2026年10月07日（周三）全球股市指数-美洲市场（收盘）",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "k60ruf4a2b6pqb627lnt6297",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040639586800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040639586800",
+    "title": "道琼斯指数10月7日（周三）收盘下跌341.41点，跌幅0.66%，报51179.87点；<br/>标普500指数10月7日（周三）收盘下跌17.20点，跌幅0.22%，报7801.73点；<br/>纳斯达克综合指数10月7日（周三）收盘下跌61.20点，跌幅0.22%，报27538.69点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "道琼斯指数10月7日（周三）收盘下跌341.41点，跌幅0.66%，报51179.87点；<br/>标普500指数10月7日（周三）收盘下跌17.20点，跌幅…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 40,
+      "average": 20
+    },
+    "selected": false
+  },
+  {
+    "id": "shrgpauiu72wvbozwqyyxn87",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040637832800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040637832800",
+    "title": "金十图示：2026年10月07日（周三）美股热门股票行情一览（美股收盘）",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十图示：2026年10月07日（周三）美股热门股票行情一览（美股收盘）",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "e7hm3neneug1yg6k01rtu9c3",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040635439800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040635439800",
+    "title": "金十图示：2026年10月07日（周三）热门中概股行情一览（美股收盘）",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十图示：2026年10月07日（周三）热门中概股行情一览（美股收盘）",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "nim1ikawijx4o4ttu98pev5v",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040203569800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040203569800",
+    "title": "美股收盘：三大股指收跌 美光涨4%",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，美股周三收盘，道指初步收跌0.66%，标普500指数跌0.22%、纳指跌0.22%。美光科技(MU.O)涨4%，SK海力士(SKHY.O)和SpaceX(SPCX.O)跌超2%。纳斯达克中国金龙指数收涨0.12%，京东(JD.O)涨2%。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，美股周三收盘，道指初步收跌0.66%，标普500指数跌0.22%、纳指跌0.22%。美光科技(MU.O)涨4%，SK海力士(SKHY.O…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "grxme52sv5zq1zhpmr8tvdo3",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008040138084800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008040138084800",
+    "title": "杜克能源达成一项和解协议，以加强监管保护，使美国北卡罗来纳州客户免受与数据中心相关成本的影响。",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "policy",
+    "summary": "杜克能源达成一项和解协议，以加强监管保护，使美国北卡罗来纳州客户免受与数据中心相关成本的影响。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ic3ng6e1gvurh11ok3h5dv90",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008035958235800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008035958235800",
+    "title": "伊朗外交部发言人巴加埃：今天与巴基斯坦大使伊姆兰·艾哈迈德·西迪基进行了富有成果的会谈。伊朗与巴基斯坦的关系建立在深厚的历史共同点和持久的友好纽带之上。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "伊朗外交部发言人巴加埃：今天与巴基斯坦大使伊姆兰·艾哈迈德·西迪基进行了富有成果的会谈。伊朗与巴基斯坦的关系建立在深厚的历史共同点和持久的友好纽带之上。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "p3ou1sfrk6z1jdxs2h8bhnpj",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008034852714800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008034852714800",
+    "title": "美官员：特朗普政府不反对叙军赴也门 可减少美军直接介入",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，据Axios援引美国官员报道，特朗普政府已就沙特与叙利亚讨论向也门派遣叙利亚军队一事接受双方磋商，并原则上不反对这一方案。美国官员称，叙利亚军队参战可为沙特支持的对胡塞军事行动提供更多力量，同时避免美国自身更深度卷入也门战事。特朗普政府官员还认为，此举有助于加强沙特和叙利亚这两个美国盟友之间的关系。两名美国官员透露，美国中央司令部也已参与有关叙利亚军队如何部署至也门的讨论。不过，白宫和美国中央司令部均拒绝对此发表评论。",
+    "tags": [
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "opinion",
+    "summary": "金十数据10月8日讯，据Axios援引美国官员报道，特朗普政府已就沙特与叙利亚讨论向也门派遣叙利亚军队一事接受双方磋商，并原则上不反对这一方案。美国官员称，叙…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "swkf7t1kyvc4cf4s7ux2z1vz",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008034659729800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008034659729800",
+    "title": "据Axios：特朗普政府原则上不反对叙利亚派兵对抗胡塞武装。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "据Axios：特朗普政府原则上不反对叙利亚派兵对抗胡塞武装。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "orv75b2e7yvleio31y3a9mbk",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008034343401800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008034343401800",
+    "title": "美元指数7日上涨",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，衡量美元对六种主要货币的美元指数当天上涨0.4%，在汇市尾市收于102.242。截至纽约汇市尾市，1欧元兑换1.1199美元，低于前一交易日的1.1261美元；1英镑兑换1.3219美元，低于前一交易日的1.3277美元。1美元兑换157.96日元，低于前一交易日的158.12日元；1美元兑换0.8330瑞士法郎，高于前一交易日的0.8313瑞士法郎；1美元兑换1.4256加元，高于前一交易日的1.4209加元；1美元兑换9.9992瑞典克朗，高于前一交易日的9.9861瑞典克朗。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，衡量美元对六种主要货币的美元指数当天上涨0.4%，在汇市尾市收于102.242。截至纽约汇市尾市，1欧元兑换1.1199美元，低于前一交…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 59,
+      "average": 30
+    },
+    "selected": false
+  },
+  {
+    "id": "nmvsuzyqvs7sx5wlqg83cl63",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008034217686800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008034217686800",
+    "title": "国际油价7日下跌",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，截至当天收盘，纽约商品交易所11月交货的轻质原油期货价格下跌1.16美元，收于每桶88.28美元，跌幅为1.3%；12月交货的伦敦布伦特原油期货价格下跌38美分，收于每桶100.20美元，跌幅为0.38%。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "policy",
+    "summary": "金十数据10月8日讯，截至当天收盘，纽约商品交易所11月交货的轻质原油期货价格下跌1.16美元，收于每桶88.28美元，跌幅为1.3%；12月交货的伦敦布伦特…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 44,
+      "average": 22
+    },
+    "selected": false
+  },
+  {
+    "id": "y99p29llq30i5cvbh368hc9h",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008034205091800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008034205091800",
+    "title": "英国海上贸易行动办公室：已收到关于卡塔尔马迪纳特阿什沙马尔以北51海里的事件报告。一艘油轮报告称遭到多枚炮弹袭击；已报告伤亡情况。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "英国海上贸易行动办公室：已收到关于卡塔尔马迪纳特阿什沙马尔以北51海里的事件报告。一艘油轮报告称遭到多枚炮弹袭击；已报告伤亡情况。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "mnndik72rllhi11dd8frijp2",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008033922930800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008033922930800",
+    "title": "巴西国家石油公司（Petrobras）在巴西石油监管机构举行的拍卖中获得坎波斯盆地8个区块。",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "policy",
+    "summary": "巴西国家石油公司（Petrobras）在巴西石油监管机构举行的拍卖中获得坎波斯盆地8个区块。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "kdlbg4g2q77rfl592eaqypte",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008033910683800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008033910683800",
+    "title": "美国海洋能源管理局（MMA）：墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "美国海洋能源管理局（MMA）：墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "s1dxti39g76gxmnfdwdd4t09",
+    "identityKey": "url:https://flash.jin10.com/detail/20261008033735244800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261008033735244800",
+    "title": "巴基斯坦军队已在沙特开展多领域防务合作",
+    "language": "zh",
+    "excerpt": "金十数据10月8日讯，据巴基斯坦方面消息，巴基斯坦三军新闻局局长艾哈迈德·沙里夫·乔杜里7日表示，巴基斯坦军队目前已经在沙特阿拉伯以多种能力、在多个领域开展防务合作。乔杜里表示，“麦加联盟”并非“凭空出现”，而是建立在巴基斯坦、沙特阿拉伯和土耳其之间长期存在的外交、政治、军事以及民间交往关系基础之上。此前，巴基斯坦军队已经在沙特阿拉伯驻扎数十年。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.142Z",
+    "discoveredAt": "2026-10-07T21:19:29.142Z",
+    "category": "market",
+    "summary": "金十数据10月8日讯，据巴基斯坦方面消息，巴基斯坦三军新闻局局长艾哈迈德·沙里夫·乔杜里7日表示，巴基斯坦军队目前已经在沙特阿拉伯以多种能力、在多个领域开展防…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "xhip9rr52phywr5kn2sd7k87",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4386942_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4386942_1",
+    "title": "企业价值与市值：净负债怎样改变每股估值",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T21:19:29.848Z",
+    "discoveredAt": "2026-10-07T21:19:29.848Z",
+    "category": "market",
+    "summary": "企业价值与市值：净负债怎样改变每股估值",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
   }
 ]
