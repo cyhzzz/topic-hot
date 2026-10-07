@@ -129,13 +129,12 @@ function isBlockedIpv6(address: string): boolean {
   const first = groups[0]!;
   if (groups.every((g) => g === 0n)) return true; // ::
   if (groups.every((g, i) => (i === 7 ? g === 1n : g === 0n))) return true; // ::1
-  // IPv4 映射段（::ffff:0:0/96）与 NAT64（64:ff9b::/96）：看末尾 32 位
+  // IPv4 映射段（::ffff:0:0/96，前 5 组全零）与 NAT64（64:ff9b::/96，中间 4 组全零）：看末尾 32 位
   const trailing32 = (groups[6]! << 16n) | groups[7]!;
-  const head32 = (groups[0]! << 16n) | groups[1]!;
-  if (head32 === 0xffffn) return isBlockedIpv4Number(trailing32);
-  if (head32 === 0x64ff9bn) return isBlockedIpv4Number(trailing32);
-  // Teredo（2001::/32）：客户端 IPv4 在第 3、4 组且按位取反
-  if (first === 0x2001n && groups[1] === 0n) return isBlockedIpv4Number(~((groups[2]! << 16n) | groups[3]!));
+  if (groups.slice(0, 5).every((g) => g === 0n) && groups[5] === 0xffffn) return isBlockedIpv4Number(trailing32);
+  if (groups[0] === 0x64n && groups[1] === 0xff9bn && groups.slice(2, 6).every((g) => g === 0n)) return isBlockedIpv4Number(trailing32);
+  // Teredo（2001::/32）：废弃的过渡隧道段，整体不放行
+  if (groups[0] === 0x2001n && groups[1] === 0n) return true;
   // 6to4（2002::/16）：内嵌 IPv4 在第 1、2 组
   if (first === 0x2002n) return isBlockedIpv4Number((groups[1]! << 16n) | groups[2]!);
   if (first === 0x100n && groups.slice(1, 4).every((g) => g === 0n)) return true; // 100::/64 discard-only
@@ -144,8 +143,12 @@ function isBlockedIpv6(address: string): boolean {
   return false;
 }
 
+// 域名本身不是地址：这里只拦字面量 IP，域名交给连接时的 DNS 守卫（guardedLookup）。
+// 不能用 `?? -1` 之类的哨兵值：-1 的补码恰好落进 240.0.0.0/4 的掩码，会把所有域名误判成保留地址。
 export function isBlockedAddress(address: string): boolean {
-  return address.includes(":") ? isBlockedIpv6(address) : isBlockedIpv4Range(ipv4ToInt(address) ?? -1);
+  if (address.includes(":")) return isBlockedIpv6(address);
+  const value = ipv4ToInt(address);
+  return value !== null && isBlockedIpv4Range(value);
 }
 
 /** 连接时的 DNS 守卫：解析结果里出现内网地址就整体拒绝（undici Agent 的 connect.lookup 直接用）。 */
