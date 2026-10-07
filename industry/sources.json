@@ -155,7 +155,7 @@
         "feedUrl": "https://dedicated.wallstreetcn.com/rss.xml",
         "backfillLimit": 8
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "editorial",
@@ -173,7 +173,7 @@
       "config": {
         "platform": "wallstreetcn-hot"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
@@ -191,7 +191,7 @@
       "config": {
         "platform": "cls-hot"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
@@ -210,7 +210,7 @@
       "config": {
         "platform": "cls"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
@@ -229,7 +229,7 @@
       "config": {
         "platform": "jin10"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
@@ -248,7 +248,7 @@
       "config": {
         "platform": "gelonghui"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
@@ -267,7 +267,7 @@
       "config": {
         "platform": "fastbull-news"
       },
-      "tier": "T2",
+      "tier": "T3",
       "first_party": false,
       "owner_entity_id": null,
       "participation_mode": "aggregated",
