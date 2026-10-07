@@ -4113,5 +4113,1955 @@
       "average": 23
     },
     "selected": false
+  },
+  {
+    "id": "ast0qpk459ue7lgkayxqbxuw",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639383.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639383.html",
+    "title": "外围全线大涨！A股开盘前夜，“三重底牌”彻底曝光",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:38:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "外围全线大涨！A股开盘前夜，“三重底牌”彻底曝光",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "kwymrdpq4dw0bw75z1rdgpe2",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639372.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639372.html",
+    "title": "假期重磅！港股，利好来了！",
+    "language": "zh",
+    "publishedAt": "2026-10-07T13:03:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "假期重磅！港股，利好来了！",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": true
+  },
+  {
+    "id": "x0e7y5wcutnak6ntquo4576w",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639384.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639384.html",
+    "title": "我国科学家研发出新型高效碳捕集膜",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:48:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "我国科学家研发出新型高效碳捕集膜",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "y9hm6sath8ygi6y42cgo06to",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639380.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639380.html",
+    "title": "上海国庆假期线上线下消费762.4亿元",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:18:00.000Z",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "product",
+    "summary": "上海国庆假期线上线下消费762.4亿元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ie4qk4tw65b1ugrxpa4fe1ux",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639379.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639379.html",
+    "title": "国庆假期北京地区重点商圈客流量突破6000万人次",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:15:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "国庆假期北京地区重点商圈客流量突破6000万人次",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "fdyfoyo6s69zmut3fi3r10f9",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639382.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639382.html",
+    "title": "罕见一幕！这家券商最新公告：锁筹三年",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:38:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "罕见一幕！这家券商最新公告：锁筹三年",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "tegj18v7568gesnma8jhw0he",
+    "identityKey": "url:https://qzs.stcn.com/article/detail/639381.html",
+    "sourceId": "web-qzs",
+    "via": "web:web-qzs",
+    "url": "https://qzs.stcn.com/article/detail/639381.html",
+    "title": "【十大券商一周策略】节后A股有望“量价齐升”，科技或重新占优",
+    "language": "zh",
+    "publishedAt": "2026-10-07T14:38:00.000Z",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:50.221Z",
+    "discoveredAt": "2026-10-07T15:34:50.221Z",
+    "category": "market",
+    "summary": "【十大券商一周策略】节后A股有望“量价齐升”，科技或重新占优",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": true
+  },
+  {
+    "id": "p1eylnve4psd5f0ckq9seek8",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207097.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207097.html",
+    "title": "洪田股份控股国兴智能，落子特种机器人：一场“资本+智造”的双向奔赴",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "9月29日，以“国启新篇·兴创未来”为主题的2026国兴智能新品发布会在山东烟台举行。11款面向消防灭火、应急救援、智慧巡检等高危场景的特种机器人集中亮相，其中耐高温消防灭火机器人可深入1100℃火场持续作业30分钟以上，重载防爆具身智能机器人单臂负载超100公斤，具备“破、攻、灭、救”核心功能，填补具身智能机器人在特殊高危环境下的应用空白，多款产品实现从0到1的跨越。这是洪田股份(603800)完成对国兴智能战略控股后，国兴智能首次向外界完整展示其产品矩阵。 这场发布会的分量，不仅在于产品本身，更在于其背后的资本动作——上市公司洪田股份近期以股权转让及增资的方式，通过全资子公司洪田研究院合计直接和间接持有国兴智能51%股权，并控制国兴智能62.87%的表决权，交易总金额为26520万元，已完成对国兴智能的战略控股。一场新品发布会，由此成为观察上市公司成长逻辑与特种机器人赛道价值的重要窗口。 为什么是特种机器人？ 从产业逻辑看，特种机器人正处于需求与政策共振的窗口期。消防、核电、油气化工、矿山、储能等领域存在大量“人不能去、人不宜去”的作业场景，“机器换人”已从单纯的效率问题升级为安…",
+    "media": [
+      {
+        "url": "https://static-web.stcn.com/upload/2026/1007/23/6ac6570f548ca752e4b9.png?x-oss-process=image/resize,m_fill,h_116,w_150"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:55.458Z",
+    "discoveredAt": "2026-10-07T15:34:55.458Z",
+    "category": "industry",
+    "summary": "9月29日，以“国启新篇·兴创未来”为主题的2026国兴智能新品发布会在山东烟台举行。11款面向消防灭火、应急救援、智慧巡检等高危场景的特种机器人集中亮相，其…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "geq7ftniyys7emy6d1sm6y45",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207085.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207085.html",
+    "title": "安踏集团完成收购彪马29.06%股权，正式成为最大股东",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "10月7日，安踏体育用品有限公司（02020.HK，含旗下附属公司统称“安踏集团”）宣布，已顺利完成对PUMA SE相关股权的收购交易。本次交易完成后，安踏集团正式成为知名国际运动品牌彪马（PUMA）母公司PUMA SE的第一大股东，实现全球化战略布局再度升级。 据公告，安踏集团本次交易对手为Pinault家族旗下投资公司Artémis SAS，交易对价为15.055亿欧元现金。本次股权收购已取得所有相关监管机构的审批许可，且交易所需的各项惯例交割条件均已满足，安踏集团成功持有PUMA SE 29.06%股权，跻身其第一大股东席位。 在安踏集团看来，此次投资是推进“单聚焦、多品牌、全球化”发展战略的重要里程碑，也将进一步提升其在全球体育用品市场的国际影响力、市场覆盖及竞争力。安踏集团表示，将依托多年沉淀的多品牌管理、零售及全球资源整合能力，为彪马提供协同赋能。 安踏集团董事局主席丁世忠表示，当前全球体育用品市场在运动参与度提升和消费需求增长的双重驱动下持续稳健发展，蕴含巨大机遇。安踏集团作为一家多品牌赋能型的企业，多品牌战略的价值是通过集团赋能，激活优秀品牌的价值和潜力。其表示，对彪…",
+    "media": [
+      {
+        "url": "https://static-web.stcn.com/upload/2026/1007/22/6ac650ffa8f028631fbd.jpg?x-oss-process=image/resize,m_fill,h_116,w_150"
+      }
+    ],
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:55.458Z",
+    "discoveredAt": "2026-10-07T15:34:55.458Z",
+    "category": "policy",
+    "summary": "10月7日，安踏体育用品有限公司（02020.HK，含旗下附属公司统称“安踏集团”）宣布，已顺利完成对PUMA SE相关股权的收购交易。本次交易完成后，安踏集…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "l9y0i3v1pzvm6qfzyoyh7vjn",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207068.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207068.html",
+    "title": "华海药业预计前三季度净利润增长超170% 创新转型迎“兑现时刻”",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "10月7日晚间，华海药业(600521)披露2026年前三季度业绩预告。公司预计归属于上市公司股东的净利润在10.28亿元至11.03亿元之间，同比增长170%到190%；扣非净利润在6.62亿元至7.43亿元之间，同比增幅为145%至175%，主营业务盈利能力大幅提升。 华海药业表示，业绩大幅预增来源于主业回暖与部分非经常性收益的共同加持。原料药业务抢抓全球市场机会，拓宽海外销售渠道，扩充客户群体，新产品加速上量，推动板块营收显著增长；国内制剂业务借力集采接续政策窗口期，在守住既有中标产品市场份额的前提下，新增12个集采中选产品，实现存量稳住、增量扩容，新产品逐步成为国内制剂新增长动力；美国制剂业务落实提量增利策略，经营质量改善，本期实现扭亏为盈。与此同时，缬沙坦欧洲仲裁胜诉后收到山德士支付的仲裁、律师相关费用，叠加美国关税退回，进一步增厚当期利润。 尽管近年来原料药行业整体承压，华海药业仍展现出较强盈利韧性。根据公司半年度业绩说明会公开信息，自2022年起，公司核心原料药毛利率始终保持在45%以上。面对2026年化工原料、能源成本上涨压力，公司对部分工艺成熟、竞争格局稳定的低毛利…",
+    "media": [],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:55.458Z",
+    "discoveredAt": "2026-10-07T15:34:55.458Z",
+    "category": "industry",
+    "summary": "10月7日晚间，华海药业(600521)披露2026年前三季度业绩预告。公司预计归属于上市公司股东的净利润在10.28亿元至11.03亿元之间，同比增长170…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "t94hai1cfkkq471hl89bl2pr",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207061.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207061.html",
+    "title": "实探国庆武汉楼市：政策落地见效，武汉多个优质楼盘迎来看房热",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "10月1日，武汉市发布《关于贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》，落地了“8·28”新政实施细则，这也让武汉成为全国第四个落实该细则的城市。国庆期间，证券时报记者探访武汉多个楼盘看到，系列政策“组合拳”带动市场预期修复，多个主城区核心品质盘客户到访量出现明显抬升。 10月5日中午，记者来到武汉经开区一处楼盘营销中心，现场洽谈区域座无虚席。据项目营销人员介绍，该盘9月28日首次开盘，推出的242套住宅房源已全部去化。国庆假期项目主推小高层产品，日均到访客户可达百组上下，客流高峰时段，意向客户参观样板间需要排队等候。 市场热度体现在其他第四代住宅产品上。10月6日，东湖高新区某项目营销中心内，置业顾问始终处于满负荷接待状态，到访客群以年轻三口之家居多。据该楼盘销售人员介绍，该项目紧邻小米武汉总部、光谷人工智能产业园等产业载体，看房者大多从事光通信、半导体相关行业，以自住和改善居住条件为主要诉求，假期日均来访同样突破百组。 此外，为降低购房者选房看房的时间成本，武汉在国庆期间举办秋季购房“家”年华主题活动。现场设置15个城区主题微缩体验展区，集中展出75个优质楼盘、合计2…",
+    "media": [
+      {
+        "url": "https://static-web.stcn.com/upload/2026/1007/21/6ac63b8877b4975fca41.png?x-oss-process=image/resize,m_fill,h_116,w_150"
+      }
+    ],
+    "tags": [
+      "获客展业"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:55.458Z",
+    "discoveredAt": "2026-10-07T15:34:55.458Z",
+    "category": "acquisition",
+    "summary": "10月1日，武汉市发布《关于贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》，落地了“8·28”新政实施细则，这也让武汉成为全国第四个落实该细则的城市。…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "cvw04rjsmidnhf97oou48jip",
+    "identityKey": "url:https://www.stcn.com/article/detail/4207056.html",
+    "sourceId": "rss-stcn-company",
+    "via": "rss:rss-stcn-company",
+    "url": "https://www.stcn.com/article/detail/4207056.html",
+    "title": "*ST未名收购鲁铭新材 跨界新材料构建双主业格局",
+    "author": "证券时报网",
+    "language": "zh",
+    "excerpt": "10月7日晚，*ST未名(002581)公告，公司与山东鲁铭新型材料股份有限公司27名股东签署《股份转让协议》，拟以现金合计约4348.74万元受让对方持有的鲁铭新材2558.08万股股份，占其总股本的50.69%。同时，公司与鲁铭新材股东傅修文签署《一致行动协议》，交易完成后，公司及一致行动人合计持有鲁铭新材90.47%股权，将取得其控制权并纳入合并报表范围。 本次交易每股转让价格为1.7元，标的股份包含2308.08万股无限售流通股与250万股限售股。为保障交易履约，傅修文出具《关于不谋求公司控制权的承诺函》，同时将其持有的250万股限售股质押给上市公司，为股份交割义务提供担保。根据公告，本次交易不构成关联交易，也不构成重大资产重组。 资料显示，鲁铭新材为新三板挂牌企业（证券代码：873286），主营业务为节能耐火材料的研发、生产、销售及窑炉工程设计安装，核心技术覆盖回转窑砖料混砌、镁铝尖晶石抗侵蚀砌筑等领域，产品广泛应用于钢铁、有色金属、建材等高温工业。截至2025年末，公司拥有授权专利37项，其中发明专利19项，为国家级专精特新“小巨人”企业。业绩方面，2025年鲁铭新材实现…",
+    "media": [
+      {
+        "url": "https://static-web.stcn.com/upload/2026/1007/21/6ac6390977c4182bed41.png?x-oss-process=image/resize,m_fill,h_116,w_150"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:55.458Z",
+    "discoveredAt": "2026-10-07T15:34:55.458Z",
+    "category": "industry",
+    "summary": "10月7日晚，*ST未名(002581)公告，公司与山东鲁铭新型材料股份有限公司27名股东签署《股份转让协议》，拟以现金合计约4348.74万元受让对方持有的…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "n1gugm7i2eev1jwze9b7ka8t",
+    "identityKey": "url:https://www.cls.cn/detail/2498701",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2498701",
+    "title": "国庆假期后A股市场怎么走？十大券商策略来了",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:59.806Z",
+    "discoveredAt": "2026-10-07T15:34:59.806Z",
+    "category": "market",
+    "summary": "国庆假期后A股市场怎么走？十大券商策略来了",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "sn5jqjs4xzxpw9m4yzybyww5",
+    "identityKey": "url:https://www.cls.cn/detail/2498541",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2498541",
+    "title": "曾经的“江湖哥”锒铛入狱，妙瓦底赌诈头目佘智江引渡回国全记录",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:59.806Z",
+    "discoveredAt": "2026-10-07T15:34:59.806Z",
+    "category": "market",
+    "summary": "曾经的“江湖哥”锒铛入狱，妙瓦底赌诈头目佘智江引渡回国全记录",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ntfdj7llj54r8cu2r7jfztw8",
+    "identityKey": "url:https://www.cls.cn/detail/2498611",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2498611",
+    "title": "A股能否开门红？券商集体研判10月行情，哪些板块有望率先启动？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:34:59.806Z",
+    "discoveredAt": "2026-10-07T15:34:59.806Z",
+    "category": "market",
+    "summary": "A股能否开门红？券商集体研判10月行情，哪些板块有望率先启动？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "k4cjj04xrtox04wuiowc0e0t",
+    "identityKey": "url:https://www.cls.cn/detail/2498786",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498786",
+    "title": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "h422ya5qmdexocomqcbf9hor",
+    "identityKey": "url:https://www.cls.cn/detail/2498785",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498785",
+    "title": "科研人员发现特定细菌具有调节胆固醇代谢的功能",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "科研人员发现特定细菌具有调节胆固醇代谢的功能",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "i4j8swhklorsnhh1lp7q7517",
+    "identityKey": "url:https://www.cls.cn/detail/2498784",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498784",
+    "title": "财联社10月7日电，美国财政部周四将回购至多60亿美元的长期债券。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，美国财政部周四将回购至多60亿美元的长期债券。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "ohq1gn3z0jzm5bbvupmb5mzo",
+    "identityKey": "url:https://www.cls.cn/detail/2498783",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498783",
+    "title": "财联社10月7日电，美国9月纽约联储1年通胀预期报3.9%，预期3.64%，前值3.58%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，美国9月纽约联储1年通胀预期报3.9%，预期3.64%，前值3.58%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "xj0dima9uxvnpsa9mrp7d71j",
+    "identityKey": "url:https://www.cls.cn/detail/2498782",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498782",
+    "title": "我国科学家研发出新型高效碳捕集膜",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "我国科学家研发出新型高效碳捕集膜",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "rvj5re8vx3drrhykrofp8y9t",
+    "identityKey": "url:https://www.cls.cn/detail/2498781",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498781",
+    "title": "财联社10月7日电，据美国能源信息署，美国原油产量上周再度升至历史新高，为连续第二周创纪录。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，据美国能源信息署，美国原油产量上周再度升至历史新高，为连续第二周创纪录。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "lofiwsertqtkpry8aezuxt25",
+    "identityKey": "url:https://www.cls.cn/detail/2498780",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498780",
+    "title": "金饰克价已暴跌约150元 金价大跌水贝掀买金热潮",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "金饰克价已暴跌约150元 金价大跌水贝掀买金热潮",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "v6shfw7boi7mr7ker59wrdb7",
+    "identityKey": "url:https://www.cls.cn/detail/2498779",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498779",
+    "title": "财联社10月7日电，芝加哥期权交易所欧洲清算公司将证券融资交易清算服务拓展至美国股票领域。",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "policy",
+    "summary": "财联社10月7日电，芝加哥期权交易所欧洲清算公司将证券融资交易清算服务拓展至美国股票领域。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "esxxop2cl0z7fqsiftrp5klb",
+    "identityKey": "url:https://www.cls.cn/detail/2498776",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498776",
+    "title": "财联社10月7日电，国际能源署（IEA）表示，若完全释放3月以来已承诺但尚未投放的所有库存，将向市场提供约1亿桶原油。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，国际能源署（IEA）表示，若完全释放3月以来已承诺但尚未投放的所有库存，将向市场提供约1亿桶原油。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "y8sf0cukh1wcch33z0itfkx0",
+    "identityKey": "url:https://www.cls.cn/detail/2498775",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498775",
+    "title": "财联社10月7日电，美国上周EIA原油库存下降319万桶。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，美国上周EIA原油库存下降319万桶。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "i2cummz5g0jh4nxn045i82da",
+    "identityKey": "url:https://www.cls.cn/detail/2498773",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498773",
+    "title": "财联社10月7日电，美股存储芯片板块拉升，闪迪涨超2%，美光科技涨1%，SK海力士跌幅收窄至1%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，美股存储芯片板块拉升，闪迪涨超2%，美光科技涨1%，SK海力士跌幅收窄至1%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "gmk1vb2f31ncisyn2u35d2s9",
+    "identityKey": "url:https://www.cls.cn/detail/2498772",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498772",
+    "title": "财联社10月7日电，迈威尔科技CEO表示，数据中心业务收入到2028年有望突破300亿美元。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，迈威尔科技CEO表示，数据中心业务收入到2028年有望突破300亿美元。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "w3y65jjiopqsdrsqjuvvlf4d",
+    "identityKey": "url:https://www.cls.cn/detail/2498771",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498771",
+    "title": "SpaceX信用风险指标创新高",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "SpaceX信用风险指标创新高",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "t6w1j6qvq5pmvgqbsyef6lpv",
+    "identityKey": "url:https://www.cls.cn/detail/2498770",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498770",
+    "title": "财联社10月7日电，卡特彼勒股价下跌超过5%，为道琼斯指数中表现最差的成分股。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，卡特彼勒股价下跌超过5%，为道琼斯指数中表现最差的成分股。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "vt27rus40r35fphoxn3acjab",
+    "identityKey": "url:https://www.cls.cn/detail/2498769",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498769",
+    "title": "财联社10月7日电，高通与OKSI达成合作，部署Omniscience自主软件组合。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，高通与OKSI达成合作，部署Omniscience自主软件组合。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "jplp951crs7to15eo58lqbh7",
+    "identityKey": "url:https://www.cls.cn/detail/2498768",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498768",
+    "title": "财联社10月7日电，谷歌宣布，其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供。该工具用于识别由AI生成的内容。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，谷歌宣布，其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供。该工具用于识别由AI生成的内容。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ovkhlzak4j0owzep6gp2z5f6",
+    "identityKey": "url:https://www.cls.cn/detail/2498762",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498762",
+    "title": "本周（10月8日-11日）资本市场大事提醒：A股明起开市；应用材料、三星电子将公布财报",
+    "language": "zh",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "industry",
+    "summary": "本周（10月8日-11日）资本市场大事提醒：A股明起开市；应用材料、三星电子将公布财报",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "adz3c276sr920hr5df0amp2r",
+    "identityKey": "url:https://www.cls.cn/detail/2498723",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498723",
+    "title": "【公告全知道】芯片+算力+光纤+AIDC+华为+CPO！公司光通信产品预计获客户斥资5亿美元采购",
+    "language": "zh",
+    "tags": [
+      "获客展业"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "acquisition",
+    "summary": "【公告全知道】芯片+算力+光纤+AIDC+华为+CPO！公司光通信产品预计获客户斥资5亿美元采购",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "w7n38m5g0z2w1mrihssm8rcg",
+    "identityKey": "url:https://www.cls.cn/detail/2498766",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498766",
+    "title": "财联社10月7日电，道琼斯指数、罗素2000指数跌幅扩大至1%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，道琼斯指数、罗素2000指数跌幅扩大至1%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "r8mxewa5op3nkwvkifov2yq1",
+    "identityKey": "url:https://www.cls.cn/detail/2498765",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498765",
+    "title": "财联社10月7日电，波兰央行将主要利率维持在3.75%，预期为3.75%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，波兰央行将主要利率维持在3.75%，预期为3.75%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "on0321xr5kggd21wmv93v6x4",
+    "identityKey": "url:https://www.cls.cn/detail/2498764",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498764",
+    "title": "财联社10月7日电，美股医疗保健板块盘初逆势上涨，礼来涨超2%，诺和诺德涨近1%，联合健康涨0.6%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，美股医疗保健板块盘初逆势上涨，礼来涨超2%，诺和诺德涨近1%，联合健康涨0.6%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "voljgd8p2wh7xadz8u88zpli",
+    "identityKey": "url:https://www.cls.cn/detail/2498560",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498560",
+    "title": "【风口研报·洞察】三星电机进入下一代大尺寸玻璃基板封装级验证，与多家全球大型企业展开合作，目标在2027年底前实现生产线投产，玻璃基板产业化进入决策前夜；国庆间海外市场的交易逻辑",
+    "language": "zh",
+    "tags": [
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "opinion",
+    "summary": "【风口研报·洞察】三星电机进入下一代大尺寸玻璃基板封装级验证，与多家全球大型企业展开合作，目标在2027年底前实现生产线投产，玻璃基板产业化进入决策前夜；国庆…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "ge02e8mxzrj6ht49qx675f5m",
+    "identityKey": "url:https://www.cls.cn/detail/2498763",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498763",
+    "title": "财联社10月7日电，布伦特原油期货涨幅扩大至2%，报102.59美元/桶。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，布伦特原油期货涨幅扩大至2%，报102.59美元/桶。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "r7gwjtbr3iugzuwhyt2rif9r",
+    "identityKey": "url:https://www.cls.cn/detail/2498761",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498761",
+    "title": "财联社10月7日电，Webull股价大跌21%，创2025年4月以来最大日内跌幅。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，Webull股价大跌21%，创2025年4月以来最大日内跌幅。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "s92ezdtpomh1993s0jma1ka9",
+    "identityKey": "url:https://www.cls.cn/detail/2498760",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498760",
+    "title": "财联社10月7日电，纳斯达克100指数触及盘中低点，下跌1%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，纳斯达克100指数触及盘中低点，下跌1%。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "aol05zyqzv9r99rnfvisjubo",
+    "identityKey": "url:https://www.cls.cn/detail/2498759",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498759",
+    "title": "小崧股份：股东会审议通过罢免董事徐驰职务",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "小崧股份：股东会审议通过罢免董事徐驰职务",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "jko8q6pl0f7f4veb35b644zw",
+    "identityKey": "url:https://www.cls.cn/detail/2498758",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498758",
+    "title": "以军称近三年打击中东约10万个目标",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "以军称近三年打击中东约10万个目标",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "e43n56t657mupl7pln8v90gt",
+    "identityKey": "url:https://www.cls.cn/detail/2498757",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498757",
+    "title": "财联社10月7日电，英国30年期国债收益率升至6.034%，创下自1998年以来的最高水平，当日上涨超过12个基点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，英国30年期国债收益率升至6.034%，创下自1998年以来的最高水平，当日上涨超过12个基点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "xe19r6d145e4rrs3qju2u5kp",
+    "identityKey": "url:https://www.cls.cn/detail/2498756",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498756",
+    "title": "财联社10月7日电，费城半导体指数开盘下跌2%，报12944.57点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "财联社10月7日电，费城半导体指数开盘下跌2%，报12944.57点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "pz79f1t07l79rfkep9s7t4jp",
+    "identityKey": "url:https://www.cls.cn/detail/2498754",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2498754",
+    "title": "利弗莫尔中概股龙头指数盘初下跌1%",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.173Z",
+    "discoveredAt": "2026-10-07T15:35:00.173Z",
+    "category": "market",
+    "summary": "利弗莫尔中概股龙头指数盘初下跌1%",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "xp2sqm3c4vx4qaps9xkf1g2f",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230505746800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230505746800",
+    "title": "纽约联储：美国9月纽约联储3年通胀预期为3.3%，8月份为3.2%；5年期通胀预期维持在3.9%不变。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "纽约联储：美国9月纽约联储3年通胀预期为3.3%，8月份为3.2%；5年期通胀预期维持在3.9%不变。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ke18eoroxj660sdpoo1z6aky",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230441438800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230441438800",
+    "title": "油回来了沙特也降价，布油为何跌破100又秒回？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "油回来了沙特也降价，布油为何跌破100又秒回？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "r1r4srgorcdcagt9yu8yhsn6",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230357705800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230357705800",
+    "title": "纽约联储：美国9月纽约联储1年通胀预期为3.9%，为2023年5月以来最高水平。",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "cia83vc97g4fajc7amflc69o",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230211390800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230211390800",
+    "title": "美国财政部周四将回购至多60亿美元的长期债券。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国财政部周四将回购至多60亿美元的长期债券。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 46,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "b7t2li0smx1tj4wghkzs85rf",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230134303800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230134303800",
+    "title": "纽约联储：九月份对多种商品价格的预期上升。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "纽约联储：九月份对多种商品价格的预期上升。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "z3swmk78o0l35cv3ezj1k9y1",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230105967800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230105967800",
+    "title": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+    "language": "zh",
+    "excerpt": "金十数据10月7日讯，日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探测和基础物理研究等开辟新的技术路径。国际期刊《自然》今天刊发该项研究成果。“核光钟”被视为继原子微波钟和原子光钟之后的新一代时间频率标准，是当前量子精密测量领域前沿攻关方向。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "金十数据10月7日讯，日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "s34fgzr55s7g12xonee3aaps",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230049582800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230049582800",
+    "title": "纽约联储：九月份劳动市场预期大多持积极态度。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "纽约联储：九月份劳动市场预期大多持积极态度。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "c1a6pgy8vf8q089fpr4nblao",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230038150800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230038150800",
+    "title": "纽约联储：九月份家庭对当前和未来的财务状况更加悲观。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "纽约联储：九月份家庭对当前和未来的财务状况更加悲观。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "dnwudff8r7ufupg013jal2mz",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007230016709800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007230016709800",
+    "title": "美国9月纽约联储1年通胀预期 3.9%，预期3.64%，前值3.58%。",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "cgjbx421z8yl4oydwtacr5w1",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007225723548800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007225723548800",
+    "title": "据伊朗学生通讯社：伊斯兰革命卫队副政治主任称，近期事态表明，伊朗和抵抗阵线已成为地区内的决定性力量，而波斯湾依靠地区国家的能力，正在成为新的地区乃至全球秩序的起点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "据伊朗学生通讯社：伊斯兰革命卫队副政治主任称，近期事态表明，伊朗和抵抗阵线已成为地区内的决定性力量，而波斯湾依靠地区国家的能力，正在成为新的地区乃至全球秩序的…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "viq5gzgd2ripfa23ia7hr16i",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007225441310800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007225441310800",
+    "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-10-07）",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "bh0wzjmk2foydsjwe0wd258i",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007225000001800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007225000001800",
+    "title": "美国9月纽约联储1年通胀预期将于十分钟后公布。",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "v30wvy5x6c2hye0vphvay3xd",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224751966800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224751966800",
+    "title": "美国能源信息署：美国原油产量上周再度升至历史新高，为连续第二周创纪录。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国能源信息署：美国原油产量上周再度升至历史新高，为连续第二周创纪录。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "yx50ufeqd2ijxzs7jrqoqyhx",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224634414800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224634414800",
+    "title": "雪佛龙(CVX.N)：雪佛龙运营的资产在美洲湾平台的生产保持在正常水平。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "雪佛龙(CVX.N)：雪佛龙运营的资产在美洲湾平台的生产保持在正常水平。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "zaaxzuoo3717w7uu5adwjt9v",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224613621800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224613621800",
+    "title": "雪佛龙(CVX.N)：密切关注热带风暴伊萨亚斯的预期路径。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "雪佛龙(CVX.N)：密切关注热带风暴伊萨亚斯的预期路径。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "mbncrohhdp15cak6q0nvi9j9",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224431439800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224431439800",
+    "title": "美国联邦贸易委员会与农业部调查农业设备领域可能存在的“反竞争行为”。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国联邦贸易委员会与农业部调查农业设备领域可能存在的“反竞争行为”。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "btyxy5gt23sacbff8mrcfjrl",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224215646800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224215646800",
+    "title": "美国能源信息署：美国从尼日利亚的原油进口上周升至2025年6月以来的最高水平。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国能源信息署：美国从尼日利亚的原油进口上周升至2025年6月以来的最高水平。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "nd6hv62qw9zhby9o6pfgml2q",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224026139800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224026139800",
+    "title": "美债越救越崩！贝森特回购政策被斥添乱",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "hqtoe09g3lolc4iko3xmbpwk",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007224018079800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007224018079800",
+    "title": "IEA支持加快释放约1亿桶既定储备，优先投放柴油",
+    "language": "zh",
+    "excerpt": "金十数据10月7日讯，国际能源署（IEA）成员国政府在周三会议上表示，支持加快落实今年3月集体行动中已经宣布的石油储备释放计划，并争取尽快完成全部投放。鉴于目前柴油市场供应紧张，各成员国还支持在条件允许的情况下，优先释放柴油储备。截至目前，IEA成员国根据3月集体行动已经释放约3.25亿桶石油，其中部分国家实际释放规模超过此前承诺。IEA明确表示，如果把3月行动中已经承诺、但尚未投放的全部石油储备完全释放，预计还将有约1亿桶进入市场。这意味着，近期市场关注的约1亿桶释放规模，主要是加快执行3月已经作出的储备释放承诺，而非新增1亿桶紧急投放计划。目前，IEA成员国仍持有大量政府控制的紧急石油储备，总规模约11亿桶，其中包括超过2亿桶柴油。IEA表示，如果市场情况需要，已准备进一步向市场释放这些储备。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "金十数据10月7日讯，国际能源署（IEA）成员国政府在周三会议上表示，支持加快落实今年3月集体行动中已经宣布的石油储备释放计划，并争取尽快完成全部投放。鉴于目…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 80,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "v3iriyvwmx4wxxhicvo0tbd2",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223954551800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223954551800",
+    "title": "圭亚那8月石油产量平均为83.2万桶/日。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "圭亚那8月石油产量平均为83.2万桶/日。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ub1lcpgdh2j557sfsp50pp61",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223908881800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223908881800",
+    "title": "德国两年期国债收益率下跌6个基点，报3.02%。欧洲其他国家国债收益率上涨，法国两年期国债收益率上升6个基点，达到3.61%；意大利两年期国债收益率同样上升6个基点，达到3.48%。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "德国两年期国债收益率下跌6个基点，报3.02%。欧洲其他国家国债收益率上涨，法国两年期国债收益率上升6个基点，达到3.61%；意大利两年期国债收益率同样上升6…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 40,
+      "average": 20
+    },
+    "selected": false
+  },
+  {
+    "id": "a5k6zjqwfc9adaysz4uah4u4",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223758751800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223758751800",
+    "title": "美国汽油期货在美国汽油库存意外增加后回吐部分涨幅。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国汽油期货在美国汽油库存意外增加后回吐部分涨幅。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ff7kmk3syp34u9idn6jlwwnl",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223742792800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223742792800",
+    "title": "美国能源信息署：美国墨西哥湾沿岸汽油库存上周下降至2017年9月以来最低水平。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国能源信息署：美国墨西哥湾沿岸汽油库存上周下降至2017年9月以来最低水平。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "gltbg8z4c76exmnjtujp3hh7",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223656954800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223656954800",
+    "title": "美国能源信息署：美国中西部汽油库存上周降至历史低点。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "美国能源信息署：美国中西部汽油库存上周降至历史低点。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ms97b991q4ra4kf79xg32ry1",
+    "identityKey": "url:https://flash.jin10.com/detail/20261007223454509800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261007223454509800",
+    "title": "国际能源署（IEA）成员同意在下周的理事会定期会议上继续评估和审查形势。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.450Z",
+    "discoveredAt": "2026-10-07T15:35:00.450Z",
+    "category": "market",
+    "summary": "国际能源署（IEA）成员同意在下周的理事会定期会议上继续评估和审查形势。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "yj5pqa8pjdqlbadvxl41lt1r",
+    "identityKey": "url:https://www.gelonghui.com/news/5320869",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320869",
+    "title": "乐动机器人(01236.HK)附属拟不超过600万欧元收购德国园林器械制造商SABO-Maschinenfabrik全部股权",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "tmcklzr6dlytype83glapgbz",
+    "identityKey": "url:https://www.gelonghui.com/news/5320868",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320868",
+    "title": "途虎－Ｗ(09690.HK)10月7日耗资149.3万港元回购12.62万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "xz4jwdqe411t34t54dos1ne2",
+    "identityKey": "url:https://www.gelonghui.com/news/5320867",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320867",
+    "title": "晶泰控股(02228.HK)获董事会主席温书豪增持130万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "nfn0zjxjx5vqiee3h8imapg1",
+    "identityKey": "url:https://www.gelonghui.com/news/5320866",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320866",
+    "title": "至源控股(00990.HK)：马来西亚槟城AI数据中心项目规划IT容量67兆瓦 订立十年期托管服务协议",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "foml5mmatl1m7khl5vviautq",
+    "identityKey": "url:https://www.gelonghui.com/news/5320865",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320865",
+    "title": "新秀丽(01910.HK)授出44.15万份受限制股份单位",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "kn0f5ofk69coegsu3jaf9r7i",
+    "identityKey": "url:https://www.gelonghui.com/news/5320864",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320864",
+    "title": "美因基因(06667.HK)10月7日耗资116.94万港元回购16.14万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "t6x636ppap2ete1lrmvvi90p",
+    "identityKey": "url:https://www.gelonghui.com/news/5320863",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320863",
+    "title": "遇见小面(02408.HK)10月7日耗资40.75万港元回购9.85万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "jvizsxn9cg2nx4z4dyd3aswv",
+    "identityKey": "url:https://www.gelonghui.com/news/5320862",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320862",
+    "title": "极兔速递-W(01519.HK)10月7日耗资1581.7万港元回购175万股",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 56,
+      "understand": 50,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "as6em4yb5507b20mhl49ca79",
+    "identityKey": "url:https://www.gelonghui.com/news/5320861",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5320861",
+    "title": "绿城中国(03900.HK)前9个月总合同销售额1421亿元",
+    "language": "zh",
+    "excerpt": "港股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-07T15:35:00.782Z",
+    "discoveredAt": "2026-10-07T15:35:00.782Z",
+    "category": "market",
+    "summary": "港股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
   }
 ]
