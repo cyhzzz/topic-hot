@@ -1,14 +1,14 @@
 {
-  "lastRunAt": "2026-10-07T07:26:12.051Z",
-  "lastSuccessAt": "2026-10-07T07:26:16.406Z",
+  "lastRunAt": "2026-10-07T07:38:38.967Z",
+  "lastSuccessAt": "2026-10-07T07:38:39.028Z",
   "llmCallsUsed": 0,
-  "fetchedFeeds": 7,
-  "newItems": 126,
+  "fetchedFeeds": 0,
+  "newItems": 0,
   "selectedToday": 8,
   "errors": [
-    "fetch rss-sse-rules: HTTP 429：https://rsshub.ktachibana.party/sse/sselawsrules",
-    "fetch rss-sse-notices: HTTP 429：https://rsshub.ktachibana.party/sse/disclosure",
-    "fetch rss-szse-rules: HTTP 429：https://rsshub.ktachibana.party/szse/rule",
-    "fetch rss-szse-notices: HTTP 429：https://rsshub.ktachibana.party/szse/notice"
+    "fetch rss-sse-rules: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
+    "fetch rss-sse-notices: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
+    "fetch rss-szse-rules: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party",
+    "fetch rss-szse-notices: 目标指向内网/保留地址，已拦截：rsshub.ktachibana.party"
   ]
 }
