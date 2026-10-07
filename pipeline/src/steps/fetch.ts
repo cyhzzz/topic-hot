@@ -1,7 +1,8 @@
-// 第 1 步：按信源抓取（RSS 订阅 / NewsNow 热榜）。间隔没到的源直接跳过；凭据写回 cursors。
+// 第 1 步：按信源抓取（RSS 订阅 / NewsNow 热榜 / 无 feed 的网页源）。间隔没到的源直接跳过；凭据写回 cursors。
 import { config } from "../config.ts";
 import { fetchNewsnow } from "../lib/newsnow.ts";
 import { fetchRss } from "../lib/rss.ts";
+import { fetchWeb } from "../lib/web-source.ts";
 import type { Cursors, MaterialInput, SourceRow } from "../lib/types.ts";
 
 export type FetchOutcome = { materials: MaterialInput[]; fetchedFeeds: number; errors: string[] };
@@ -18,7 +19,9 @@ export async function fetchAll(sources: SourceRow[], cursors: Cursors, now: Date
     try {
       const result = source.kind === "newsnow"
         ? await fetchNewsnow(source, cursor)
-        : await fetchRss(source, cursor, {});
+        : source.kind === "web"
+          ? await fetchWeb(source, cursor)
+          : await fetchRss(source, cursor, {});
       cursors[source.id] = { ...result.validator, lastFetchedAt: now.toISOString() };
       outcome.fetchedFeeds += 1;
       for (const candidate of result.candidates) {

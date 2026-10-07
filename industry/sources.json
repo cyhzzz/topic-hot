@@ -1,6 +1,28 @@
 {
-  "$comment": "信源列表：采集管线每小时按这里的顺序抓取。rss-* 中来自 rsshub.ktachibana.party 的是经 RSSHub 生成的交易所一手源，该公共实例不可用时对应信源会以非致命错误记录、不影响其余采集；实例可换（改 feedUrl 域名即可）。证监会/中证协官方无现成 feed，接一手源需自定义适配器（待站点主人确认）。当前为证券行业临时配置，正式信源名单需站点主人确认。字段说明见 docs/customize.md。",
+  "$comment": "信源列表：采集管线每小时按这里的顺序抓取。kind=rss 走 RSSHub 等 feed（rsshub.ktachibana.party 是公共实例，不可用或被限流时该信源记入 meta.json 的 errors、不影响其余采集，实例可换：改 feedUrl 域名即可）；kind=newsnow 走 NewsNow 聚合；kind=web 是官方没有 feed 的网页源，由 pipeline 里的适配器解析（证监会走站内 JSON 接口，券商中国解析首页卡片）。证监会/中证协无现成 feed：证监会已接一手栏目，中证协官网实测不稳定（ECONNRESET、偶发 15s+）暂未接入。当前为证券行业临时配置，正式信源名单需站点主人确认。字段说明见 docs/customize.md。",
   "sources": [
+    {
+      "id": "web-csrc-news",
+      "name": "证监会 · 要闻",
+      "kind": "web",
+      "config": {
+        "adapter": "csrc",
+        "url": "https://www.csrc.gov.cn/csrc/c100028/common_xq_list.shtml",
+        "limit": 10
+      },
+      "tier": "T1",
+      "first_party": true,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 60,
+      "tags": [
+        "监管",
+        "证监会",
+        "一手"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
     {
       "id": "rss-sse-rules",
       "name": "上交所 · 规则发布",
@@ -79,6 +101,48 @@
       "tags": [
         "交易所",
         "公告"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "web-qzs",
+      "name": "券商中国",
+      "kind": "web",
+      "config": {
+        "adapter": "stcn-qzs",
+        "url": "https://qzs.stcn.com/",
+        "limit": 10
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 60,
+      "tags": [
+        "券商",
+        "媒体"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "rss-stcn-company",
+      "name": "证券时报 · 公司",
+      "kind": "rss",
+      "config": {
+        "feedUrl": "https://rsshub.ktachibana.party/stcn/article/list/company",
+        "backfillLimit": 8
+      },
+      "tier": "T2",
+      "first_party": false,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 120,
+      "tags": [
+        "券商",
+        "媒体",
+        "公司"
       ],
       "site_fulltext": false,
       "syndicate_fulltext": false

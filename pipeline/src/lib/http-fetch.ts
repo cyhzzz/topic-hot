@@ -84,6 +84,8 @@ export async function guardedFetch(input: string | URL, opts: GuardedFetchOption
     }
 
     if (response.statusCode >= 300 && response.statusCode < 400 && headers.location) {
+      // 丢弃这一跳的响应体。undici 在 destroy 时会往流上抛 error 事件，不接住会以未捕获异常终止整个采集进程。
+      response.body.on("error", () => {});
       response.body.destroy();
       if (redirect >= maxRedirects) throw new Error(`重定向次数超过上限 ${maxRedirects}：${input}`);
       url = assertPublicUrl(new URL(headers.location, url).toString(), config.allowPrivateNetworkFetch);

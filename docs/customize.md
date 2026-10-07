@@ -37,10 +37,13 @@
 | --- | --- |
 | `id` | 稳定标识，游标按它存，不要中途改 |
 | `name` | 页面上显示的来源名 |
-| `kind` | `"rss"`（订阅源）或 `"newsnow"`（热榜源） |
+| `kind` | `"rss"`（订阅源）、`"newsnow"`（热榜源）或 `"web"`（官网没有 feed 的网页源） |
 | `config.feedUrl` | RSS 地址（`kind: "rss"` 时必填） |
 | `config.backfillLimit` | 首次抓取回溯多少条（仅 RSS） |
 | `config.platform` | NewsNow 平台 id，如 `ithome`、`juejin`、`hackernews`（仅热榜源） |
+| `config.adapter` | 网页源适配器：`"csrc"`（证监会栏目，读页面 `channelid` 后调站内 JSON 接口）或 `"stcn-qzs"`（券商中国首页卡片）（仅 `kind: "web"`） |
+| `config.url` | 网页源入口地址（仅 `kind: "web"`） |
+| `config.limit` | 网页源每次最多取多少条，默认 10（仅 `kind: "web"`） |
 | `tier` | 信源分级：`T1` 官方一手 / `T1_5` 官方账号、准官方 / `T2` 媒体与个人；分级直接决定精选门槛 |
 | `owner_entity_id` | 发布方，引用 `taxonomy.ts` 的 `ENTITIES` id |
 | `interval_minutes` | 抓取间隔（分钟）；游标未到期就跳过 |

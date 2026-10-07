@@ -30,7 +30,7 @@ export type MaterialInput = {
 /** 信源产出、还没挂 sourceId/via 的候选。 */
 export type Candidate = Omit<MaterialInput, "sourceId" | "via"> & { categories?: string[] };
 
-/** sources.json 里的一条信源：基础字段两种 kind 共用，config 按 kind 取不同形态。 */
+/** sources.json 里的一条信源：基础字段各 kind 共用，config 按 kind 取不同形态。 */
 export type SourceRow = {
   id: string;
   name: string;
@@ -45,6 +45,7 @@ export type SourceRow = {
 } & (
   | { kind: "rss"; config: { feedUrl: string; backfillLimit?: number } }
   | { kind: "newsnow"; config: { platform: string } }
+  | { kind: "web"; config: { adapter: "csrc" | "stcn-qzs"; url: string; limit?: number } }
 );
 
 /** 条件请求用的协商缓存凭据，按信源存在 cursors.json。 */
