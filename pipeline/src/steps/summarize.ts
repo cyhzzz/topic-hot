@@ -93,13 +93,15 @@ function normalizeTagList(raw: unknown, allowed: ReadonlySet<string> | readonly 
 
 // ── 规则降级路径 ────────────────────────────────────────────────────────────────────────
 
-function ruleAttention(record: ItemRecord, tier: string): number {
+function ruleAttention(record: ItemRecord, tier: string, firstParty: boolean): number {
   const hay = `${record.title} ${record.excerpt ?? ""}`;
   // 行业相关性闸门：噪声、或标题既未命中行业词表也不在券商名录里的条目，注意力分直接归零——
   // 两分平均最高只有可理解性上限的一半（92/2 = 46），必然低于所有档位的精选门槛。
+  // 官方一手源（证监会、交易所官网）不设这道闸门：它们的内容天然属于本行业，而标题常常
+  // 只有机构名加事由（如"湖北证监局原局长被开除党籍"），词表命中不了、会被误杀。
   if (
     NOISE_RE.test(hay) ||
-    !(RELEVANCE_RE.test(record.title) || matchEntities(record.title).length > 0)
+    (!firstParty && !(RELEVANCE_RE.test(record.title) || matchEntities(record.title).length > 0))
   ) {
     return 0;
   }
@@ -251,6 +253,7 @@ export async function summarize(items: LandedItem[], sources: Map<string, Source
     const source = sources.get(item.record.sourceId);
     const tier = source?.tier ?? "T2";
     const threshold = SELECTION.thresholds[tier] ?? SELECTION.thresholds.T2;
+    const firstParty = source?.first_party ?? false;
     const sourceText = `${item.record.title}\n${item.body}`;
 
     let attention: number;
@@ -259,11 +262,11 @@ export async function summarize(items: LandedItem[], sources: Map<string, Source
         attention = await llmAttention(item, source, tier);
         stats.llmAttention += 1;
       } catch {
-        attention = ruleAttention(item.record, tier);
+        attention = ruleAttention(item.record, tier, firstParty);
         stats.degraded += 1;
       }
     } else {
-      attention = ruleAttention(item.record, tier);
+      attention = ruleAttention(item.record, tier, firstParty);
     }
 
     const understand = ruleUnderstand(item.record, item.body);
