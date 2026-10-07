@@ -1,6 +1,88 @@
 {
-  "$comment": "信源列表：采集管线每小时按这里的顺序抓取。当前为证券行业临时配置，正式信源名单（尤其是官方一手源）需站点主人确认。字段说明见 docs/customize.md。",
+  "$comment": "信源列表：采集管线每小时按这里的顺序抓取。rss-* 中来自 rsshub.ktachibana.party 的是经 RSSHub 生成的交易所一手源，该公共实例不可用时对应信源会以非致命错误记录、不影响其余采集；实例可换（改 feedUrl 域名即可）。证监会/中证协官方无现成 feed，接一手源需自定义适配器（待站点主人确认）。当前为证券行业临时配置，正式信源名单需站点主人确认。字段说明见 docs/customize.md。",
   "sources": [
+    {
+      "id": "rss-sse-rules",
+      "name": "上交所 · 规则发布",
+      "kind": "rss",
+      "config": {
+        "feedUrl": "https://rsshub.ktachibana.party/sse/sselawsrules",
+        "backfillLimit": 8
+      },
+      "tier": "T2",
+      "first_party": true,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 120,
+      "tags": [
+        "监管",
+        "交易所",
+        "规则"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "rss-sse-notices",
+      "name": "上交所 · 上市公司公告",
+      "kind": "rss",
+      "config": {
+        "feedUrl": "https://rsshub.ktachibana.party/sse/disclosure",
+        "backfillLimit": 8
+      },
+      "tier": "T2",
+      "first_party": true,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 120,
+      "tags": [
+        "交易所",
+        "公告"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "rss-szse-rules",
+      "name": "深交所 · 业务规则",
+      "kind": "rss",
+      "config": {
+        "feedUrl": "https://rsshub.ktachibana.party/szse/rule",
+        "backfillLimit": 8
+      },
+      "tier": "T2",
+      "first_party": true,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 120,
+      "tags": [
+        "监管",
+        "交易所",
+        "规则"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
+    {
+      "id": "rss-szse-notices",
+      "name": "深交所 · 上市公司公告",
+      "kind": "rss",
+      "config": {
+        "feedUrl": "https://rsshub.ktachibana.party/szse/notice",
+        "backfillLimit": 8
+      },
+      "tier": "T2",
+      "first_party": true,
+      "owner_entity_id": null,
+      "participation_mode": "editorial",
+      "interval_minutes": 120,
+      "tags": [
+        "交易所",
+        "公告"
+      ],
+      "site_fulltext": false,
+      "syndicate_fulltext": false
+    },
     {
       "id": "rss-wallstreetcn",
       "name": "华尔街见闻",

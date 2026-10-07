@@ -1,10 +1,146 @@
 {
   "day": "2026-10-07",
-  "generatedAt": "2026-10-07T07:33:51.522Z",
-  "sections": [],
+  "generatedAt": "2026-10-07T07:26:12.051Z",
+  "lead": {
+    "title": "“AI硬件第一股”IPO搁浅了",
+    "paragraph": "智能戒指制造商Oura上市受挫，揭示出一个投资市场的老命题：叫自己\"平台\"，不等于被市场当平台估值。 Oura上月底试图赴美上市，却因无法在预期价格区间找到足…",
+    "highlights": [
+      "中国央行连续第23个月增持黄金，9月购金节奏进一步加快",
+      "点夺技术冲击IPO，专注于半导体工艺排气系统领域，研发人员人均薪酬低于同行",
+      "名创优品(09896.HK)10月6日耗资24.5万美元回购11.08万股"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "klh43km3qrkkwq246fnbvncq",
+          "title": "中国央行连续第23个月增持黄金，9月购金节奏进一步加快",
+          "summary": "随着国际金价持续震荡，中国央行购金节奏仍在加快。 10月7日，中国人民银行数据显示， 中国9月末黄金储备报7747万盎司（约2409.59吨），环比增加74万…",
+          "url": "https://wallstreetcn.com/articles/3783099",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T02:28:42.000Z",
+          "score": 68,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "csa7hjw655ujg4ttckddwgoc",
+          "title": "“AI硬件第一股”IPO搁浅了",
+          "summary": "智能戒指制造商Oura上市受挫，揭示出一个投资市场的老命题：叫自己\"平台\"，不等于被市场当平台估值。 Oura上月底试图赴美上市，却因无法在预期价格区间找到足…",
+          "url": "https://wallstreetcn.com/articles/3783098",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T02:57:14.000Z",
+          "score": 70,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "a5tjuhtoihz1in9a3g7el3en",
+          "title": "点夺技术冲击IPO，专注于半导体工艺排气系统领域，研发人员人均薪酬低于同行",
+          "summary": "新股掘金",
+          "url": "https://www.gelonghui.com/news/5320735",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 55,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "sv3xtx6pk4l037eglxr5s1k4",
+          "title": "名创优品(09896.HK)10月6日耗资24.5万美元回购11.08万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320737",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "gxmqaov14q8zfqbepcldld2t",
+          "title": "中通快递-W(02057.HK)10月6日耗资804.5万美元回购40.81万股",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320733",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "qahjh294xbooww2sibc59dx8",
+          "title": "传音控股(02636.HK)拟全球发售8664.83万股H股 预计10月15日上市",
+          "summary": "港股公告摘要",
+          "url": "https://www.gelonghui.com/news/5320728",
+          "sourceId": "hot-gelonghui",
+          "sourceName": "格隆汇",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "plyuwz9vooceg8t7ufraks4o",
+          "title": "清明上河园IPO财务拆解：客流增23%，利润为何降23.6%？",
+          "summary": "清明上河园IPO财务拆解：客流增23%，利润为何降23.6%？",
+          "url": "https://www.fastbull.com/cn/newsdetail/4386878_1",
+          "sourceId": "hot-fastbull",
+          "sourceName": "FastBull · 快讯",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "khx403rwt7qma17fw2vbxpat",
+          "title": "亚股指涨势暂歇，日股收跌，港股走弱，医药生物、半导体股大跌，布油涨超1%",
+          "summary": "亚股指涨势暂歇，日股收跌，港股走弱，医药生物、半导体股大跌，布油涨超1%",
+          "url": "https://wallstreetcn.com/articles/3783096",
+          "sourceId": "hot-wallstreetcn",
+          "sourceName": "华尔街见闻 · 热榜",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
   "stats": {
-    "total": 0,
-    "selected": 0,
+    "total": 126,
+    "selected": 8,
     "llmCalls": 0
   }
 }
