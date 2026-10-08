@@ -1,6 +1,6 @@
 {
   "day": "2026-10-08",
-  "generatedAt": "2026-10-08T01:56:16.073Z",
+  "generatedAt": "2026-10-08T08:58:55.354Z",
   "lead": {
     "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
     "paragraph": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
@@ -11,6 +11,27 @@
     ]
   },
   "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "d4xfrx8trd739wdmjgw5p4fj",
+          "title": "美光目标价被投行大幅上调，最高3000美元",
+          "summary": "在美光科技发布又一份创纪录业绩后，投行DA Davidson将其目标价从2100美元大幅上调至3000美元，成为华尔街最高预期。这一目标价隐含约176%的上行…",
+          "url": "https://wallstreetcn.com/articles/3783174",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-08T07:30:19.000Z",
+          "score": 68,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
     {
       "category": "policy",
       "title": "监管政策",
@@ -121,7 +142,7 @@
           "entityTags": []
         },
         {
-          "id": "sdyzyotswl6gwo3ix4fkhti0",
+          "id": "ey3uhs7tqcglx9d2fyixeasd",
           "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
           "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -136,7 +157,7 @@
           "entityTags": []
         },
         {
-          "id": "krlmr0azozgejq5qy8pxffz7",
+          "id": "mnfi4cfonf42x47xrvb8jnhs",
           "title": "关于修改部分业务规则和业务指南的通知",
           "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -245,6 +266,21 @@
             "市场动态"
           ],
           "entityTags": []
+        },
+        {
+          "id": "hg5dvno7r01a5mbwgqd9en2t",
+          "title": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+          "summary": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+          "url": "https://qzs.stcn.com/article/detail/639615.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-08T08:57:00.000Z",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
         }
       ]
     },
@@ -270,8 +306,8 @@
     }
   ],
   "stats": {
-    "total": 230,
-    "selected": 16,
+    "total": 336,
+    "selected": 18,
     "llmCalls": 0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:56:16.073Z",
+  "generatedAt": "2026-10-08T08:58:55.354Z",
   "today": "2026-10-08",
   "site": {
     "name": "券业动态",
@@ -59,7 +59,7 @@
   "reports": [
     {
       "day": "2026-10-08",
-      "generatedAt": "2026-10-08T01:56:16.073Z",
+      "generatedAt": "2026-10-08T08:58:55.354Z",
       "lead": {
         "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
         "paragraph": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
@@ -70,6 +70,27 @@
         ]
       },
       "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "d4xfrx8trd739wdmjgw5p4fj",
+              "title": "美光目标价被投行大幅上调，最高3000美元",
+              "summary": "在美光科技发布又一份创纪录业绩后，投行DA Davidson将其目标价从2100美元大幅上调至3000美元，成为华尔街最高预期。这一目标价隐含约176%的上行…",
+              "url": "https://wallstreetcn.com/articles/3783174",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-08T07:30:19.000Z",
+              "score": 68,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
         {
           "category": "policy",
           "title": "监管政策",
@@ -180,7 +201,7 @@
               "entityTags": []
             },
             {
-              "id": "sdyzyotswl6gwo3ix4fkhti0",
+              "id": "ey3uhs7tqcglx9d2fyixeasd",
               "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
               "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -195,7 +216,7 @@
               "entityTags": []
             },
             {
-              "id": "krlmr0azozgejq5qy8pxffz7",
+              "id": "mnfi4cfonf42x47xrvb8jnhs",
               "title": "关于修改部分业务规则和业务指南的通知",
               "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -304,6 +325,21 @@
                 "市场动态"
               ],
               "entityTags": []
+            },
+            {
+              "id": "hg5dvno7r01a5mbwgqd9en2t",
+              "title": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+              "summary": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+              "url": "https://qzs.stcn.com/article/detail/639615.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-08T08:57:00.000Z",
+              "score": 51,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
             }
           ]
         },
@@ -329,8 +365,8 @@
         }
       ],
       "stats": {
-        "total": 230,
-        "selected": 16,
+        "total": 336,
+        "selected": 18,
         "llmCalls": 0
       }
     }
@@ -347,7 +383,7 @@
         "bd61eiw2nkd8mxqnfypxsp10",
         "rd8llivrvko452eo6do42hk3"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_7a04a86891",
@@ -360,7 +396,20 @@
         "pj58wk9oj192q1g6hpr8o9b9",
         "j119gkva967153lrbiazrljb"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
+    },
+    {
+      "id": "ev_7c3057596d",
+      "title": "中证指数：中证1000和中证500等指数样本临时调整",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "g8fsfa8xlmcfc9iws4f0flth",
+        "ay4ldmeb62mozrbzx82kmk1o"
+      ],
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_21a29a2185",
@@ -373,7 +422,7 @@
         "ntedi05tx47yp8rm2jtcphml",
         "o4hnb550wjvcnhxe0g2n9yl7"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_60fa326086",
@@ -386,7 +435,33 @@
         "kkseiq4cjbw0tokpshqxkwao",
         "hhja2e68fralp4co8do4axoi"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
+    },
+    {
+      "id": "ev_54e1d8468b",
+      "title": "中天科技：截至2026年9月底 公司已累计回购股份200.13万股",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "sxjcp5m6ze0y07bguu5xzstj",
+        "mxhw8ubs8bjwi5f73vteq2v8"
+      ],
+      "updatedAt": "2026-10-08T08:58:55.354Z"
+    },
+    {
+      "id": "ev_4d0e8b5587",
+      "title": "万华化学(600309.SH)：烟台产业园乙烯二期装置停产检修",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "x7eaqlwlbjcpanpgcti8z1da",
+        "mavf9xk0skxhn2i4ptlfku7q"
+      ],
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_f7ea392917",
@@ -399,7 +474,7 @@
         "lhouf1e5ocvhngtwf3xdsnq6",
         "vt0qmwsxfj0cuja7a0ecryq0"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_5296f2833a",
@@ -412,7 +487,7 @@
         "en61l2g2b9ia432jy3meh3lp",
         "o1hou2igwqjjdqhx452iaa67"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_870a0fbc04",
@@ -425,7 +500,7 @@
         "jr3jk436rodfxo1zw6cb3pw3",
         "hlwsui7kichysk3vvro8erl3"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_dcbb2e4d6c",
@@ -438,7 +513,7 @@
         "aogoltmmjgx2jkhrb1nrx5rp",
         "hbrt7b0g7y52lj8srk2hk47r"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_5ccd61cb35",
@@ -451,7 +526,20 @@
         "clmhn09b833oe3pqelph2t6j",
         "i4ivsa5w4o1ycy4rh98hpj0e"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
+    },
+    {
+      "id": "ev_dd6e4ca5fd",
+      "title": "财政部发行中央金融机构注资特别国债",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "u58x0vp9ul3wu3bo4524zqqa",
+        "jarzz39h667ctt2uxe3cy3di"
+      ],
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_b0896c9bc5",
@@ -464,7 +552,7 @@
         "mesdqf8miqplsw9w2soxs5rm",
         "iaex46qhstu4dkper7u1m6zk"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_ae6705a4e1",
@@ -477,7 +565,20 @@
         "g6hpz1yih884zsvdqd05ebks",
         "c29gkoq98bhtifjz37jlqanx"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
+    },
+    {
+      "id": "ev_81ed2bea0d",
+      "title": "财联社10月8日电，在岸人民币兑美元收盘报6.7014，较上一交易日上涨39点。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "xe4vuqh9intrs3veg1jmacnm",
+        "va0jgttn2avojpke5sb8l6e1"
+      ],
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     },
     {
       "id": "ev_40433f8dcd",
@@ -490,7 +591,7 @@
         "yxrdx2gk34x7isufaedop61i",
         "x3wkif90miye73xm7gaovjc1"
       ],
-      "updatedAt": "2026-10-08T01:56:16.073Z"
+      "updatedAt": "2026-10-08T08:58:55.354Z"
     }
   ],
   "items": [
@@ -600,7 +701,7 @@
       "entityTags": []
     },
     {
-      "id": "sdyzyotswl6gwo3ix4fkhti0",
+      "id": "ey3uhs7tqcglx9d2fyixeasd",
       "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
       "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -615,7 +716,7 @@
       "entityTags": []
     },
     {
-      "id": "krlmr0azozgejq5qy8pxffz7",
+      "id": "mnfi4cfonf42x47xrvb8jnhs",
       "title": "关于修改部分业务规则和业务指南的通知",
       "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -626,6 +727,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "d4xfrx8trd739wdmjgw5p4fj",
+      "title": "美光目标价被投行大幅上调，最高3000美元",
+      "summary": "在美光科技发布又一份创纪录业绩后，投行DA Davidson将其目标价从2100美元大幅上调至3000美元，成为华尔街最高预期。这一目标价隐含约176%的上行…",
+      "url": "https://wallstreetcn.com/articles/3783174",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-08T07:30:19.000Z",
+      "score": 68,
+      "category": "industry",
+      "tags": [
+        "券商经营"
       ],
       "entityTags": []
     },
@@ -732,10 +848,25 @@
         "市场动态"
       ],
       "entityTags": []
+    },
+    {
+      "id": "hg5dvno7r01a5mbwgqd9en2t",
+      "title": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+      "summary": "北京：支持超高清企业在境内主板、科创板、创业板、北交所上市",
+      "url": "https://qzs.stcn.com/article/detail/639615.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-08T08:57:00.000Z",
+      "score": 51,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
     }
   ],
   "meta": {
-    "itemCount": 228,
+    "itemCount": 334,
     "llmCalls": 0
   }
 }
