@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T08:58:55.354Z",
-  "today": "2026-10-08",
+  "generatedAt": "2026-10-08T16:29:15.512Z",
+  "today": "2026-10-09",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,104 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-09",
+      "generatedAt": "2026-10-08T16:29:15.512Z",
+      "lead": {
+        "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项…",
+        "paragraph": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+        "highlights": [
+          "关于修改部分业务规则和业务指南的通知",
+          "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
+          "万亿头部公募宣布，这一业务迁移！有何影响？"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "mzdd1wzs8n57ylpb3oebqwjw",
+              "title": "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
+              "summary": "张雪机车在国际赛场夺冠走红后，其创始人张雪曾经的老东家走到了资本市场的聚光灯下。 近日，浙江阿波罗运动科技股份有限公司（下称“浙阿波罗”）向北交所发起上市冲刺…",
+              "url": "https://wallstreetcn.com/articles/3783212",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-08T13:38:20.000Z",
+              "score": 68,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "bz8mr5sbihvgutqyqqgyht7z",
+              "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
+              "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+              "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
+              "sourceId": "rss-sse-rules",
+              "sourceName": "上交所 · 规则发布",
+              "publishedAt": "2025-03-27T16:00:00.000Z",
+              "score": 70,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "qw62ow48vur1x7mu33n0lp5q",
+              "title": "关于修改部分业务规则和业务指南的通知",
+              "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+              "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
+              "sourceId": "rss-sse-rules",
+              "sourceName": "上交所 · 规则发布",
+              "publishedAt": "2025-03-27T16:00:00.000Z",
+              "score": 70,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "na86d6e6ca3831pfwxvnc5ef",
+              "title": "万亿头部公募宣布，这一业务迁移！有何影响？",
+              "summary": "万亿头部公募宣布，这一业务迁移！有何影响？",
+              "url": "https://qzs.stcn.com/article/detail/639747.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-08T14:57:00.000Z",
+              "score": 51,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 102,
+        "selected": 4,
+        "llmCalls": 0
+      }
+    },
     {
       "day": "2026-10-08",
       "generatedAt": "2026-10-08T08:58:55.354Z",
@@ -383,7 +481,7 @@
         "bd61eiw2nkd8mxqnfypxsp10",
         "rd8llivrvko452eo6do42hk3"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_7a04a86891",
@@ -396,7 +494,7 @@
         "pj58wk9oj192q1g6hpr8o9b9",
         "j119gkva967153lrbiazrljb"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_7c3057596d",
@@ -409,7 +507,7 @@
         "g8fsfa8xlmcfc9iws4f0flth",
         "ay4ldmeb62mozrbzx82kmk1o"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_21a29a2185",
@@ -422,7 +520,7 @@
         "ntedi05tx47yp8rm2jtcphml",
         "o4hnb550wjvcnhxe0g2n9yl7"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_60fa326086",
@@ -435,7 +533,7 @@
         "kkseiq4cjbw0tokpshqxkwao",
         "hhja2e68fralp4co8do4axoi"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_54e1d8468b",
@@ -448,7 +546,7 @@
         "sxjcp5m6ze0y07bguu5xzstj",
         "mxhw8ubs8bjwi5f73vteq2v8"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_4d0e8b5587",
@@ -461,7 +559,7 @@
         "x7eaqlwlbjcpanpgcti8z1da",
         "mavf9xk0skxhn2i4ptlfku7q"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_f7ea392917",
@@ -474,7 +572,7 @@
         "lhouf1e5ocvhngtwf3xdsnq6",
         "vt0qmwsxfj0cuja7a0ecryq0"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_5296f2833a",
@@ -487,7 +585,7 @@
         "en61l2g2b9ia432jy3meh3lp",
         "o1hou2igwqjjdqhx452iaa67"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_870a0fbc04",
@@ -500,7 +598,7 @@
         "jr3jk436rodfxo1zw6cb3pw3",
         "hlwsui7kichysk3vvro8erl3"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_dcbb2e4d6c",
@@ -513,7 +611,7 @@
         "aogoltmmjgx2jkhrb1nrx5rp",
         "hbrt7b0g7y52lj8srk2hk47r"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_5ccd61cb35",
@@ -526,7 +624,7 @@
         "clmhn09b833oe3pqelph2t6j",
         "i4ivsa5w4o1ycy4rh98hpj0e"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_dd6e4ca5fd",
@@ -539,7 +637,7 @@
         "u58x0vp9ul3wu3bo4524zqqa",
         "jarzz39h667ctt2uxe3cy3di"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_b0896c9bc5",
@@ -552,7 +650,7 @@
         "mesdqf8miqplsw9w2soxs5rm",
         "iaex46qhstu4dkper7u1m6zk"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_ae6705a4e1",
@@ -565,7 +663,7 @@
         "g6hpz1yih884zsvdqd05ebks",
         "c29gkoq98bhtifjz37jlqanx"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_81ed2bea0d",
@@ -578,7 +676,33 @@
         "xe4vuqh9intrs3veg1jmacnm",
         "va0jgttn2avojpke5sb8l6e1"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
+    },
+    {
+      "id": "ev_36e3b50fdd",
+      "title": "财联社10月8日电，韩国外交部8日表示，韩国决定召回驻乌克兰大使。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "pivqfsokapax5v5g7i2fq03d",
+        "ldcn7a7y7ftp78irfdem7x0v"
+      ],
+      "updatedAt": "2026-10-08T16:29:15.512Z"
+    },
+    {
+      "id": "ev_e68f4c5855",
+      "title": "财联社10月8日电，墨西哥比索兑美元跌幅扩大至1.3%，报18.2090。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ixm50zkwj1bcrj6mwqj7zl25",
+        "a3p069au3dte2cer9omebvow"
+      ],
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     },
     {
       "id": "ev_40433f8dcd",
@@ -591,7 +715,7 @@
         "yxrdx2gk34x7isufaedop61i",
         "x3wkif90miye73xm7gaovjc1"
       ],
-      "updatedAt": "2026-10-08T08:58:55.354Z"
+      "updatedAt": "2026-10-08T16:29:15.512Z"
     }
   ],
   "items": [
@@ -686,6 +810,36 @@
       "entityTags": []
     },
     {
+      "id": "bz8mr5sbihvgutqyqqgyht7z",
+      "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
+      "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
+      "sourceId": "rss-sse-rules",
+      "sourceName": "上交所 · 规则发布",
+      "publishedAt": "2025-03-27T16:00:00.000Z",
+      "score": 70,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "qw62ow48vur1x7mu33n0lp5q",
+      "title": "关于修改部分业务规则和业务指南的通知",
+      "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
+      "sourceId": "rss-sse-rules",
+      "sourceName": "上交所 · 规则发布",
+      "publishedAt": "2025-03-27T16:00:00.000Z",
+      "score": 70,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "f63f0husb9skbvfhjed3kdsr",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -727,6 +881,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "mzdd1wzs8n57ylpb3oebqwjw",
+      "title": "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
+      "summary": "张雪机车在国际赛场夺冠走红后，其创始人张雪曾经的老东家走到了资本市场的聚光灯下。 近日，浙江阿波罗运动科技股份有限公司（下称“浙阿波罗”）向北交所发起上市冲刺…",
+      "url": "https://wallstreetcn.com/articles/3783212",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-08T13:38:20.000Z",
+      "score": 68,
+      "category": "industry",
+      "tags": [
+        "券商经营"
       ],
       "entityTags": []
     },
@@ -835,6 +1004,21 @@
       "entityTags": []
     },
     {
+      "id": "na86d6e6ca3831pfwxvnc5ef",
+      "title": "万亿头部公募宣布，这一业务迁移！有何影响？",
+      "summary": "万亿头部公募宣布，这一业务迁移！有何影响？",
+      "url": "https://qzs.stcn.com/article/detail/639747.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-08T14:57:00.000Z",
+      "score": 51,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ztu57mqbk0h4ks0lspq29v9x",
       "title": "私募策略转向均衡 “轻指数重个股”渐成共识",
       "summary": "私募策略转向均衡 “轻指数重个股”渐成共识",
@@ -866,7 +1050,7 @@
     }
   ],
   "meta": {
-    "itemCount": 334,
+    "itemCount": 434,
     "llmCalls": 0
   }
 }
