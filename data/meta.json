@@ -1,9 +1,11 @@
 {
-  "lastRunAt": "2026-10-07T23:16:56.021Z",
-  "lastSuccessAt": "2026-10-07T23:17:07.233Z",
+  "lastRunAt": "2026-10-08T01:56:16.073Z",
+  "lastSuccessAt": "2026-10-08T01:56:50.137Z",
   "llmCallsUsed": 0,
-  "fetchedFeeds": 11,
-  "newItems": 148,
-  "selectedToday": 14,
-  "errors": []
+  "fetchedFeeds": 10,
+  "newItems": 84,
+  "selectedToday": 16,
+  "errors": [
+    "fetch web-csrc-news: Connect Timeout Error (attempted addresses: 210.38.3.55:443, 210.38.3.56:443, 210.38.3.49:443, 210.38.3.51:443, 210.38.3.53:443, 210.38.3.50:443, 210.38.3.54:443, 210.38.3.52:443, timeout: 15000ms)"
+  ]
 }

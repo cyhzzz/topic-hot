@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:16:56.021Z",
+  "generatedAt": "2026-10-08T01:56:16.073Z",
   "today": "2026-10-08",
   "site": {
     "name": "券业动态",
@@ -59,7 +59,7 @@
   "reports": [
     {
       "day": "2026-10-08",
-      "generatedAt": "2026-10-07T23:16:56.021Z",
+      "generatedAt": "2026-10-08T01:56:16.073Z",
       "lead": {
         "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
         "paragraph": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
@@ -165,7 +165,22 @@
               "entityTags": []
             },
             {
-              "id": "xjqsxtj69enpofnrpqj5zl15",
+              "id": "f63f0husb9skbvfhjed3kdsr",
+              "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
+              "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
+              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
+              "sourceId": "rss-szse-rules",
+              "sourceName": "深交所 · 业务规则",
+              "publishedAt": "+058357-07-22T11:00:00.000Z",
+              "score": 70,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "sdyzyotswl6gwo3ix4fkhti0",
               "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
               "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -180,28 +195,13 @@
               "entityTags": []
             },
             {
-              "id": "cvfzflqivutgdzxiufdrtxbt",
+              "id": "krlmr0azozgejq5qy8pxffz7",
               "title": "关于修改部分业务规则和业务指南的通知",
               "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
               "sourceId": "rss-sse-rules",
               "sourceName": "上交所 · 规则发布",
               "publishedAt": "2025-03-27T16:00:00.000Z",
-              "score": 70,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "f63f0husb9skbvfhjed3kdsr",
-              "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
-              "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
-              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058357-07-22T11:00:00.000Z",
               "score": 70,
               "category": "policy",
               "tags": [
@@ -276,6 +276,21 @@
               "entityTags": []
             },
             {
+              "id": "i6663sb1nw6a1rtgieo33tnh",
+              "title": "构建科技金融“生态圈”！渤海证券，“五投联动”打造科创服务新范式",
+              "summary": "构建科技金融“生态圈”！渤海证券，“五投联动”打造科创服务新范式",
+              "url": "https://qzs.stcn.com/article/detail/639409.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-07T23:52:00.000Z",
+              "score": 53,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
               "id": "ztu57mqbk0h4ks0lspq29v9x",
               "title": "私募策略转向均衡 “轻指数重个股”渐成共识",
               "summary": "私募策略转向均衡 “轻指数重个股”渐成共识",
@@ -291,11 +306,31 @@
               "entityTags": []
             }
           ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "or594omnrq1qxrh9ejgm4tms",
+              "title": "从ETF募集冷热分化看公募行业转型",
+              "summary": "金十数据10月8日讯，2026年以来，ETF发行市场呈现鲜明反差。前三季度，公募基金市场233份延长募集期公告中，116份来自ETF；同期，近百只ETF提前结…",
+              "url": "https://flash.jin10.com/detail/20261008092529034800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 62,
+              "category": "product",
+              "tags": [
+                "产品更新"
+              ],
+              "entityTags": []
+            }
+          ]
         }
       ],
       "stats": {
-        "total": 148,
-        "selected": 14,
+        "total": 230,
+        "selected": 16,
         "llmCalls": 0
       }
     }
@@ -312,7 +347,7 @@
         "bd61eiw2nkd8mxqnfypxsp10",
         "rd8llivrvko452eo6do42hk3"
       ],
-      "updatedAt": "2026-10-07T23:16:56.021Z"
+      "updatedAt": "2026-10-08T01:56:16.073Z"
     },
     {
       "id": "ev_7a04a86891",
@@ -325,7 +360,33 @@
         "pj58wk9oj192q1g6hpr8o9b9",
         "j119gkva967153lrbiazrljb"
       ],
-      "updatedAt": "2026-10-07T23:16:56.021Z"
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_21a29a2185",
+      "title": "中国央行：根据公开市场业务一级交易商的需求，2026年10月8日7天期逆回购操作量为零。同时，开展了6060亿元隔夜逆…",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ntedi05tx47yp8rm2jtcphml",
+        "o4hnb550wjvcnhxe0g2n9yl7"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_60fa326086",
+      "title": "剑桥科技(603083.SH)：拟配售1844.6万股新H股及同步建议发行39.6亿元可转换债券",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "kkseiq4cjbw0tokpshqxkwao",
+        "hhja2e68fralp4co8do4axoi"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
     },
     {
       "id": "ev_f7ea392917",
@@ -338,7 +399,7 @@
         "lhouf1e5ocvhngtwf3xdsnq6",
         "vt0qmwsxfj0cuja7a0ecryq0"
       ],
-      "updatedAt": "2026-10-07T23:16:56.021Z"
+      "updatedAt": "2026-10-08T01:56:16.073Z"
     },
     {
       "id": "ev_5296f2833a",
@@ -351,7 +412,7 @@
         "en61l2g2b9ia432jy3meh3lp",
         "o1hou2igwqjjdqhx452iaa67"
       ],
-      "updatedAt": "2026-10-07T23:16:56.021Z"
+      "updatedAt": "2026-10-08T01:56:16.073Z"
     },
     {
       "id": "ev_870a0fbc04",
@@ -364,7 +425,72 @@
         "jr3jk436rodfxo1zw6cb3pw3",
         "hlwsui7kichysk3vvro8erl3"
       ],
-      "updatedAt": "2026-10-07T23:16:56.021Z"
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_dcbb2e4d6c",
+      "title": "美媒称美军获令做好再打伊朗准备",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "aogoltmmjgx2jkhrb1nrx5rp",
+        "hbrt7b0g7y52lj8srk2hk47r"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_5ccd61cb35",
+      "title": "甲醇期货主力合约日内触及涨停",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "clmhn09b833oe3pqelph2t6j",
+        "i4ivsa5w4o1ycy4rh98hpj0e"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_b0896c9bc5",
+      "title": "燃油主力合约涨幅日内扩大至12%",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "mesdqf8miqplsw9w2soxs5rm",
+        "iaex46qhstu4dkper7u1m6zk"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_ae6705a4e1",
+      "title": "甲醇期货主力合约日内涨幅扩大至7%",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "g6hpz1yih884zsvdqd05ebks",
+        "c29gkoq98bhtifjz37jlqanx"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
+    },
+    {
+      "id": "ev_40433f8dcd",
+      "title": "股指期货早盘开盘",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "yxrdx2gk34x7isufaedop61i",
+        "x3wkif90miye73xm7gaovjc1"
+      ],
+      "updatedAt": "2026-10-08T01:56:16.073Z"
     }
   ],
   "items": [
@@ -459,7 +585,22 @@
       "entityTags": []
     },
     {
-      "id": "xjqsxtj69enpofnrpqj5zl15",
+      "id": "f63f0husb9skbvfhjed3kdsr",
+      "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
+      "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
+      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
+      "sourceId": "rss-szse-rules",
+      "sourceName": "深交所 · 业务规则",
+      "publishedAt": "+058357-07-22T11:00:00.000Z",
+      "score": 70,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "sdyzyotswl6gwo3ix4fkhti0",
       "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
       "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -474,28 +615,13 @@
       "entityTags": []
     },
     {
-      "id": "cvfzflqivutgdzxiufdrtxbt",
+      "id": "krlmr0azozgejq5qy8pxffz7",
       "title": "关于修改部分业务规则和业务指南的通知",
       "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
       "sourceId": "rss-sse-rules",
       "sourceName": "上交所 · 规则发布",
       "publishedAt": "2025-03-27T16:00:00.000Z",
-      "score": 70,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "f63f0husb9skbvfhjed3kdsr",
-      "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
-      "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
-      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058357-07-22T11:00:00.000Z",
       "score": 70,
       "category": "policy",
       "tags": [
@@ -534,6 +660,20 @@
       "entityTags": []
     },
     {
+      "id": "or594omnrq1qxrh9ejgm4tms",
+      "title": "从ETF募集冷热分化看公募行业转型",
+      "summary": "金十数据10月8日讯，2026年以来，ETF发行市场呈现鲜明反差。前三季度，公募基金市场233份延长募集期公告中，116份来自ETF；同期，近百只ETF提前结…",
+      "url": "https://flash.jin10.com/detail/20261008092529034800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 62,
+      "category": "product",
+      "tags": [
+        "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "jwze9u19fcngkl05xauf3g7a",
       "title": "罕见一幕！这家券商最新公告：锁筹三年",
       "summary": "罕见一幕！这家券商最新公告：锁筹三年",
@@ -564,6 +704,21 @@
       "entityTags": []
     },
     {
+      "id": "i6663sb1nw6a1rtgieo33tnh",
+      "title": "构建科技金融“生态圈”！渤海证券，“五投联动”打造科创服务新范式",
+      "summary": "构建科技金融“生态圈”！渤海证券，“五投联动”打造科创服务新范式",
+      "url": "https://qzs.stcn.com/article/detail/639409.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-07T23:52:00.000Z",
+      "score": 53,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ztu57mqbk0h4ks0lspq29v9x",
       "title": "私募策略转向均衡 “轻指数重个股”渐成共识",
       "summary": "私募策略转向均衡 “轻指数重个股”渐成共识",
@@ -580,7 +735,7 @@
     }
   ],
   "meta": {
-    "itemCount": 146,
+    "itemCount": 228,
     "llmCalls": 0
   }
 }
