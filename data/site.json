@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:04:50.216Z",
+  "generatedAt": "2026-10-09T02:10:48.692Z",
   "today": "2026-10-09",
   "site": {
     "name": "券业动态",
@@ -59,14 +59,14 @@
   "reports": [
     {
       "day": "2026-10-09",
-      "generatedAt": "2026-10-08T22:04:50.216Z",
+      "generatedAt": "2026-10-09T02:10:48.692Z",
       "lead": {
         "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项…",
         "paragraph": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
         "highlights": [
           "关于修改部分业务规则和业务指南的通知",
           "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
-          "万亿头部公募宣布，这一业务迁移！有何影响？"
+          "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露"
         ]
       },
       "sections": [
@@ -96,7 +96,7 @@
           "title": "监管政策",
           "items": [
             {
-              "id": "bjbcf3qfynvemdusviclcat4",
+              "id": "f64r36oy3prrez7lowz7i7q4",
               "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
               "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -111,7 +111,7 @@
               "entityTags": []
             },
             {
-              "id": "dcqt8qcfrddjunwt2vgjqjn0",
+              "id": "bmrzldeybj0cbgqm79hhrzqq",
               "title": "关于修改部分业务规则和业务指南的通知",
               "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
               "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -132,6 +132,21 @@
           "title": "市场动态",
           "items": [
             {
+              "id": "nf06de48hzkow4ffe8es5mu3",
+              "title": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+              "summary": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+              "url": "https://qzs.stcn.com/article/detail/639823.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-09T02:10:00.000Z",
+              "score": 53,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
               "id": "na86d6e6ca3831pfwxvnc5ef",
               "title": "万亿头部公募宣布，这一业务迁移！有何影响？",
               "summary": "万亿头部公募宣布，这一业务迁移！有何影响？",
@@ -150,8 +165,8 @@
         }
       ],
       "stats": {
-        "total": 165,
-        "selected": 4,
+        "total": 266,
+        "selected": 5,
         "llmCalls": 0
       }
     },
@@ -481,7 +496,7 @@
         "bd61eiw2nkd8mxqnfypxsp10",
         "rd8llivrvko452eo6do42hk3"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_7a04a86891",
@@ -494,7 +509,7 @@
         "pj58wk9oj192q1g6hpr8o9b9",
         "j119gkva967153lrbiazrljb"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_7c3057596d",
@@ -507,7 +522,7 @@
         "g8fsfa8xlmcfc9iws4f0flth",
         "ay4ldmeb62mozrbzx82kmk1o"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_e0b2838544",
@@ -520,7 +535,7 @@
         "rqsxcrpvam98sno4fdw17xvj",
         "fgvrsr4nf4u6dbygtu266ems"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_21a29a2185",
@@ -533,7 +548,7 @@
         "ntedi05tx47yp8rm2jtcphml",
         "o4hnb550wjvcnhxe0g2n9yl7"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_60fa326086",
@@ -546,7 +561,7 @@
         "kkseiq4cjbw0tokpshqxkwao",
         "hhja2e68fralp4co8do4axoi"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_54e1d8468b",
@@ -559,7 +574,7 @@
         "sxjcp5m6ze0y07bguu5xzstj",
         "mxhw8ubs8bjwi5f73vteq2v8"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_4d0e8b5587",
@@ -572,7 +587,7 @@
         "x7eaqlwlbjcpanpgcti8z1da",
         "mavf9xk0skxhn2i4ptlfku7q"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_f7ea392917",
@@ -585,7 +600,7 @@
         "lhouf1e5ocvhngtwf3xdsnq6",
         "vt0qmwsxfj0cuja7a0ecryq0"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_5296f2833a",
@@ -598,7 +613,7 @@
         "en61l2g2b9ia432jy3meh3lp",
         "o1hou2igwqjjdqhx452iaa67"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_870a0fbc04",
@@ -611,7 +626,7 @@
         "jr3jk436rodfxo1zw6cb3pw3",
         "hlwsui7kichysk3vvro8erl3"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_617e7a59b4",
@@ -622,9 +637,10 @@
       ],
       "itemIds": [
         "zj77xdgbslpd79gs6wjnawns",
-        "bda567tm9ezmb1izvbu508pt"
+        "bda567tm9ezmb1izvbu508pt",
+        "ffcngd60ct2u75wzf8hi2mia"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_dcbb2e4d6c",
@@ -637,7 +653,20 @@
         "aogoltmmjgx2jkhrb1nrx5rp",
         "hbrt7b0g7y52lj8srk2hk47r"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
+    },
+    {
+      "id": "ev_790142d494",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月8日",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "tzyyo89hfivu7br6191k2o1c",
+        "qkt8gpol2k0lvwguljn7e9q2"
+      ],
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_5ccd61cb35",
@@ -650,7 +679,7 @@
         "clmhn09b833oe3pqelph2t6j",
         "i4ivsa5w4o1ycy4rh98hpj0e"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_dd6e4ca5fd",
@@ -663,7 +692,7 @@
         "u58x0vp9ul3wu3bo4524zqqa",
         "jarzz39h667ctt2uxe3cy3di"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_b0896c9bc5",
@@ -676,7 +705,7 @@
         "mesdqf8miqplsw9w2soxs5rm",
         "iaex46qhstu4dkper7u1m6zk"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_ae6705a4e1",
@@ -689,7 +718,7 @@
         "g6hpz1yih884zsvdqd05ebks",
         "c29gkoq98bhtifjz37jlqanx"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_81ed2bea0d",
@@ -702,7 +731,7 @@
         "xe4vuqh9intrs3veg1jmacnm",
         "va0jgttn2avojpke5sb8l6e1"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_36e3b50fdd",
@@ -715,7 +744,20 @@
         "pivqfsokapax5v5g7i2fq03d",
         "ldcn7a7y7ftp78irfdem7x0v"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
+    },
+    {
+      "id": "ev_f604336923",
+      "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "r3x0y3rln28qllmhnv3ezvyy",
+        "xat0ltvj4az2b9qsff4qogcm"
+      ],
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_e68f4c5855",
@@ -728,7 +770,7 @@
         "ixm50zkwj1bcrj6mwqj7zl25",
         "a3p069au3dte2cer9omebvow"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_4dcfdd6057",
@@ -741,7 +783,7 @@
         "oufqke301mjz7u3qhoygp1ww",
         "uwowj21zibh73hwmakxtxm2a"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     },
     {
       "id": "ev_40433f8dcd",
@@ -752,9 +794,37 @@
       ],
       "itemIds": [
         "yxrdx2gk34x7isufaedop61i",
-        "x3wkif90miye73xm7gaovjc1"
+        "x3wkif90miye73xm7gaovjc1",
+        "voy7weuxt5bbl1j1qvrr8lfd",
+        "ny7vrnkzvgfc89fyw7f7998b"
       ],
-      "updatedAt": "2026-10-08T22:04:50.216Z"
+      "updatedAt": "2026-10-09T02:10:48.692Z"
+    },
+    {
+      "id": "ev_30ac422b27",
+      "title": "流动性指标",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "kfcvahglrf2stpm0czxjqauk",
+        "r1tr9qom1z76abxoua6rfp2n"
+      ],
+      "updatedAt": "2026-10-09T02:10:48.692Z"
+    },
+    {
+      "id": "ev_34bea51f47",
+      "title": "竞价看龙头",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ualvf3w3b2k0mqgxtb0q1tvj",
+        "et3qaevso2etdum20wpfgufs"
+      ],
+      "updatedAt": "2026-10-09T02:10:48.692Z"
     }
   ],
   "items": [
@@ -849,7 +919,7 @@
       "entityTags": []
     },
     {
-      "id": "bjbcf3qfynvemdusviclcat4",
+      "id": "f64r36oy3prrez7lowz7i7q4",
       "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
       "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -864,7 +934,7 @@
       "entityTags": []
     },
     {
-      "id": "dcqt8qcfrddjunwt2vgjqjn0",
+      "id": "bmrzldeybj0cbgqm79hhrzqq",
       "title": "关于修改部分业务规则和业务指南的通知",
       "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
       "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -998,6 +1068,21 @@
       "entityTags": []
     },
     {
+      "id": "nf06de48hzkow4ffe8es5mu3",
+      "title": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+      "summary": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+      "url": "https://qzs.stcn.com/article/detail/639823.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-09T02:10:00.000Z",
+      "score": 53,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "jwze9u19fcngkl05xauf3g7a",
       "title": "罕见一幕！这家券商最新公告：锁筹三年",
       "summary": "罕见一幕！这家券商最新公告：锁筹三年",
@@ -1089,7 +1174,7 @@
     }
   ],
   "meta": {
-    "itemCount": 497,
+    "itemCount": 598,
     "llmCalls": 0
   }
 }

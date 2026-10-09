@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-10-08T22:04:50.216Z",
-  "lastSuccessAt": "2026-10-08T22:05:12.179Z",
+  "lastRunAt": "2026-10-09T02:10:48.692Z",
+  "lastSuccessAt": "2026-10-09T02:11:09.738Z",
   "llmCallsUsed": 0,
   "fetchedFeeds": 11,
-  "newItems": 65,
-  "selectedToday": 4,
+  "newItems": 103,
+  "selectedToday": 5,
   "errors": []
 }

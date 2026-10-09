@@ -1,13 +1,13 @@
 {
   "day": "2026-10-09",
-  "generatedAt": "2026-10-08T22:04:50.216Z",
+  "generatedAt": "2026-10-09T02:10:48.692Z",
   "lead": {
     "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项…",
     "paragraph": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
     "highlights": [
       "关于修改部分业务规则和业务指南的通知",
       "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
-      "万亿头部公募宣布，这一业务迁移！有何影响？"
+      "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露"
     ]
   },
   "sections": [
@@ -37,7 +37,7 @@
       "title": "监管政策",
       "items": [
         {
-          "id": "bjbcf3qfynvemdusviclcat4",
+          "id": "f64r36oy3prrez7lowz7i7q4",
           "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
           "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
@@ -52,7 +52,7 @@
           "entityTags": []
         },
         {
-          "id": "dcqt8qcfrddjunwt2vgjqjn0",
+          "id": "bmrzldeybj0cbgqm79hhrzqq",
           "title": "关于修改部分业务规则和业务指南的通知",
           "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
@@ -73,6 +73,21 @@
       "title": "市场动态",
       "items": [
         {
+          "id": "nf06de48hzkow4ffe8es5mu3",
+          "title": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+          "summary": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
+          "url": "https://qzs.stcn.com/article/detail/639823.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-09T02:10:00.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
           "id": "na86d6e6ca3831pfwxvnc5ef",
           "title": "万亿头部公募宣布，这一业务迁移！有何影响？",
           "summary": "万亿头部公募宣布，这一业务迁移！有何影响？",
@@ -91,8 +106,8 @@
     }
   ],
   "stats": {
-    "total": 165,
-    "selected": 4,
+    "total": 266,
+    "selected": 5,
     "llmCalls": 0
   }
 }
