@@ -1,4 +1,4 @@
-# 每小时采集一次并发布到 GitHub Pages：一个工作流、两个 job。
+# 每天采集一次并发布到 GitHub Pages：一个工作流、两个 job。
 # 采集 → 把 data/ 提交回仓库（JSON 就是“数据库”）→ 构建 web → 部署 Pages。
 # 模型可选：仓库 Secrets 里没配 LLM_* 时管线自动走规则打分，没有任何密钥也能跑。
 name: Collect and deploy
@@ -9,7 +9,7 @@ on:
     paths-ignore:
       - "data/**"
   schedule:
-    - cron: "13 * * * *" # 每小时跑一次；避开整点（GitHub 整点档期拥堵，调度延迟大）
+    - cron: "13 1 * * *" # 每天跑一次（UTC 01:13 = 北京时间 09:13）；避开整点（GitHub 整点档期拥堵，调度延迟大）
   workflow_dispatch:
 
 permissions:
