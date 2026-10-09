@@ -5772,5 +5772,29 @@
       "average": 49
     },
     "selected": false
+  },
+  {
+    "id": "g987o3ss50n3rhk51k4tx2oo",
+    "identityKey": "url:https://www.cls.cn/detail/2500250",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2500250",
+    "title": "日租金从万元跌至不足千元：国庆假期机器人告别\"表演经济\" 真实场景试炼开启商业化闯关",
+    "language": "zh",
+    "tags": [
+      "非证券/宏观"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-09T07:43:16.120Z",
+    "discoveredAt": "2026-10-09T07:43:16.120Z",
+    "category": "market",
+    "summary": "国庆假期后机器人租赁市场日租金从万元跌至不足千元，告别\"表演经济\"，开始向真实场景转型并开启商业化闯关。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 54,
+      "understand": 46,
+      "average": 50
+    },
+    "selected": false
   }
 ]

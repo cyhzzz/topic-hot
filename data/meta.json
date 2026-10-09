@@ -1,12 +1,9 @@
 {
-  "lastRunAt": "2026-10-09T07:21:59.454Z",
-  "lastSuccessAt": "2026-10-09T07:38:17.121Z",
-  "llmCallsUsed": 95,
-  "fetchedFeeds": 7,
-  "newItems": 86,
+  "lastRunAt": "2026-10-09T07:43:15.398Z",
+  "lastSuccessAt": "2026-10-09T07:43:48.449Z",
+  "llmCallsUsed": 3,
+  "fetchedFeeds": 2,
+  "newItems": 1,
   "selectedToday": 15,
-  "errors": [
-    "fetch hot-wallstreetcn: Connect Timeout Error (attempted addresses: 2606:4700:20::681a:9aa:443, timeout: 15000ms)",
-    "fetch hot-cls: Connect Timeout Error (attempted addresses: 2606:4700:20::681a:9aa:443, timeout: 15000ms)"
-  ]
+  "errors": []
 }
