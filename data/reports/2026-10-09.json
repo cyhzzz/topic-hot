@@ -1,18 +1,39 @@
 {
   "day": "2026-10-09",
-  "generatedAt": "2026-10-09T07:05:24.386Z",
+  "generatedAt": "2026-10-09T07:21:59.454Z",
   "lead": {
-    "title": "深交所密集修订债券业务规则，王广幼被开除党籍",
-    "paragraph": "深交所今日密集发布多项债券业务规则修订版，涵盖发行审核、质押式协议回购、做市及资产支持证券等核心环节，旨在提升审核效率与市场流动性。同日，湖北证监局原党委书记、局长王广幼因严重违纪违法被开除党籍。",
+    "title": "深交所密集修订债券与基金业务指引，债券ETF可参与质押式协议回购",
+    "paragraph": "深交所今日集中发布多项业务指引修订，涵盖公司债券审核、债券做市、质押式协议回购、主动管理ETF等领域，旨在优化审核安排、提升二级市场流动性。与此同时，债券ETF正式纳入债券质押式协议回购交易。A股三大股指集体翻红，券商板块再度发力，恒科指涨近3%。",
     "highlights": [
-      "深交所修订公司债券发行上市审核指引第3号，2023年版同步废止",
-      "修订债券质押式协议回购风险控制指引，对国债等质押券采取鼓励支持措施",
-      "修订主板上市公司规范运作指引，规范董事、高管及控股股东行为",
-      "深交所修订资产支持证券挂牌条件审核指引，提升审核透明度",
-      "湖北证监局原局长王广幼违规收受礼品礼金、插手监管执法被开除党籍"
+      "深交所修订公司债券审核指引，2023年版本同步废止，新规即日起施行",
+      "债券质押式协议回购新规明确鼓励措施：公布质押券出资人名单、提高折算比例",
+      "债券ETF正式纳入质押式协议回购交易范围，促进市场发展",
+      "深交所修订债券做市指引，优化二级市场流动性支持安排",
+      "A股三大股指翻红，券商板块强势；宝能集团120亿元股权被冻结"
     ]
   },
   "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "z2xbla09pc8w35drcz8loamh",
+          "title": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
+          "summary": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本…",
+          "url": "https://wallstreetcn.com/articles/3783252",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T06:26:13.000Z",
+          "score": 64,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
     {
       "category": "policy",
       "title": "监管政策",
@@ -41,21 +62,6 @@
           "sourceName": "深交所 · 业务规则",
           "publishedAt": "+058357-07-24T00:30:00.000Z",
           "score": 82,
-          "category": "policy",
-          "tags": [
-            "监管政策"
-          ],
-          "entityTags": []
-        },
-        {
-          "id": "exhs3zl4mlmjolw01frnhjuz",
-          "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
-          "summary": "湖北证监局原党委书记、局长王广幼因严重违纪违法被开除党籍并涉嫌受贿犯罪。其违规收受礼品礼金、接受宴请旅游安排、违规买卖股票，并插手证券监管执法活动为他人谋利。",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7661513/content.shtml",
-          "sourceId": "web-csrc-news",
-          "sourceName": "证监会 · 要闻",
-          "publishedAt": "2026-09-28T07:15:26.000Z",
-          "score": 78,
           "category": "policy",
           "tags": [
             "监管政策"
@@ -189,6 +195,51 @@
           "entityTags": []
         },
         {
+          "id": "auzephz1o94wwoahz6hxgrrt",
+          "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
+          "summary": "花旗10月7日报告指出，全球电池产业链进入第二轮产能扩张周期，2026-2027年产能增速预计46%和24%，需求增速将放缓。与2022-2024年周期相比，本轮供需更均衡、价格战风险低，建议关注电池整机>零部件>LFP正极等优先级。",
+          "url": "https://wallstreetcn.com/articles/3783259",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T07:04:22.000Z",
+          "score": 66,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "观点/评论"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ck8i8xu87m5w4fr81z2zbyi2",
+          "title": "宝能集团所持120亿元股权被冻结",
+          "summary": "宝能集团所持价值120亿元股权被冻结，冻结原因及申请人信息尚未披露。",
+          "url": "https://www.cls.cn/detail/2500392",
+          "sourceId": "feed-cls",
+          "sourceName": "财联社 · 电报",
+          "score": 63,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "mbnf0lhlz642c1krjylhkno5",
+          "title": "科创50ETF华夏连续2天放量成交",
+          "summary": "科创50ETF华夏（588000）成交额突破100亿元，为2025年8月19日以来首次，连续2天放量；早盘一度跌超4%，午后翻红，收盘涨0.59%。",
+          "url": "https://flash.jin10.com/detail/20261009142941318800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "数据/榜单"
+          ],
+          "entityTags": []
+        },
+        {
           "id": "lxwa71rqgjiz71b5pfaa8rzg",
           "title": "今日新股，盘中涨超528%！",
           "summary": "今日新股盘中涨幅超528%。",
@@ -207,8 +258,8 @@
     }
   ],
   "stats": {
-    "total": 147,
-    "selected": 12,
-    "llmCalls": 0
+    "total": 233,
+    "selected": 15,
+    "llmCalls": 94
   }
 }

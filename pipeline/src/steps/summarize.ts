@@ -259,8 +259,14 @@ export async function summarize(items: LandedItem[], sources: Map<string, Source
     const firstParty = source?.first_party ?? false;
     const sourceText = `${item.record.title}\n${item.body}`;
 
+    // 新鲜度闸门：发生日期（发布时间，缺失时按发现时间算）超过 SELECTION.maxAgeDays 的不参与精选，
+    // 也不走模型打分（回填的旧闻分数再高也不进日报，没必要花模型钱）；条目仍在池子里参与归组。
+    const occurredRaw = Date.parse(item.record.publishedAt ?? "");
+    const occurred = Number.isFinite(occurredRaw) ? occurredRaw : Date.parse(item.record.discoveredAt);
+    const fresh = Number.isFinite(occurred) && Date.now() - occurred <= SELECTION.maxAgeDays * 86_400_000;
+
     let attention: number;
-    if (llmReady()) {
+    if (fresh && llmReady()) {
       try {
         attention = await llmAttention(item, source, tier);
         stats.llmAttention += 1;
@@ -274,7 +280,7 @@ export async function summarize(items: LandedItem[], sources: Map<string, Source
 
     const understand = ruleUnderstand(item.record, item.body);
     let understanding: Understanding;
-    if (attention >= SELECTION.understandFloor && llmReady()) {
+    if (fresh && attention >= SELECTION.understandFloor && llmReady()) {
       try {
         understanding = await llmUnderstanding(item, source, sourceText);
         stats.llmUnderstanding += 1;
@@ -289,7 +295,7 @@ export async function summarize(items: LandedItem[], sources: Map<string, Source
     applyUnderstanding(item.record, understanding);
     const average = Math.round((attention + understand) / 2);
     item.record.score = { attention, understand, average };
-    item.record.selected = average >= threshold;
+    item.record.selected = fresh && average >= threshold;
   }
   return stats;
 }

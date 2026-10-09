@@ -2,12 +2,12 @@
   "day": "2026-10-08",
   "generatedAt": "2026-10-08T08:58:55.354Z",
   "lead": {
-    "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
-    "paragraph": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
+    "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号—",
+    "paragraph": "深证上〔 202 6 〕 1227 号 各市场参与人： 为进一步提升交易所债券市场服务实体经济质效，加大对优质企业融资支持力度，提升审核效率，本所 对 《深圳…",
     "highlights": [
-      "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2…",
-      "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注…",
-      "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（…"
+      "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事",
+      "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2",
+      "关于发布《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作（2"
     ]
   },
   "sections": [
@@ -36,21 +36,6 @@
       "category": "policy",
       "title": "监管政策",
       "items": [
-        {
-          "id": "wngk2gkdzhj59504az9sujbe",
-          "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
-          "summary": "中央纪委国家监委网站讯&ensp;据中央纪委国家监委驻中国证券监督管理委员会纪检监察组、湖北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中…",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7661513/content.shtml",
-          "sourceId": "web-csrc-news",
-          "sourceName": "证监会 · 要闻",
-          "publishedAt": "2026-09-28T07:15:26.000Z",
-          "score": 75,
-          "category": "policy",
-          "tags": [
-            "监管政策"
-          ],
-          "entityTags": []
-        },
         {
           "id": "x6wljhry4pahm1tytw47vfox",
           "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
@@ -134,36 +119,6 @@
           "sourceId": "rss-szse-rules",
           "sourceName": "深交所 · 业务规则",
           "publishedAt": "+058357-07-22T11:00:00.000Z",
-          "score": 70,
-          "category": "policy",
-          "tags": [
-            "监管政策"
-          ],
-          "entityTags": []
-        },
-        {
-          "id": "ey3uhs7tqcglx9d2fyixeasd",
-          "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
-          "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
-          "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
-          "sourceId": "rss-sse-rules",
-          "sourceName": "上交所 · 规则发布",
-          "publishedAt": "2025-03-27T16:00:00.000Z",
-          "score": 70,
-          "category": "policy",
-          "tags": [
-            "监管政策"
-          ],
-          "entityTags": []
-        },
-        {
-          "id": "mnfi4cfonf42x47xrvb8jnhs",
-          "title": "关于修改部分业务规则和业务指南的通知",
-          "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
-          "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
-          "sourceId": "rss-sse-rules",
-          "sourceName": "上交所 · 规则发布",
-          "publishedAt": "2025-03-27T16:00:00.000Z",
           "score": 70,
           "category": "policy",
           "tags": [
@@ -307,7 +262,7 @@
   ],
   "stats": {
     "total": 336,
-    "selected": 18,
+    "selected": 15,
     "llmCalls": 0
   }
 }
