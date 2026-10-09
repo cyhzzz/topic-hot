@@ -1,50 +1,31 @@
 {
   "day": "2026-10-09",
-  "generatedAt": "2026-10-09T02:10:48.692Z",
+  "generatedAt": "2026-10-09T06:17:26.497Z",
   "lead": {
-    "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项…",
-    "paragraph": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+    "title": "沪深密集修订业务规则，王广幼被开除党籍",
+    "paragraph": "今日沪深交易所同步推出多轮业务规则修订，覆盖科创板、公司债、ETF、资产支持证券等核心板块。湖北证监局原局长王广幼被开除党籍。市场方面，A股三大股指集体翻红，券商板块与新股表现活跃。",
     "highlights": [
-      "关于修改部分业务规则和业务指南的通知",
-      "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
-      "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露"
+      "上交所修订科创板询价转让、B转H等5项业务规则，自2025年3月28日起施行。",
+      "深交所发布公司债审核、债券做市、ABS挂牌条件等4项指引修订版，均自发布之日起施行。",
+      "深交所修订债券质押式协议回购风险控制指引，对国债等优质质押券采取鼓励支持措施。",
+      "上交所同步修改23项业务规则落实新《公司法》，涉及发行承销、信息披露等重点领域。",
+      "湖北证监局原党委书记、局长王广幼因严重违纪违法被开除党籍并涉嫌受贿犯罪。"
     ]
   },
   "sections": [
-    {
-      "category": "industry",
-      "title": "券商经营",
-      "items": [
-        {
-          "id": "mzdd1wzs8n57ylpb3oebqwjw",
-          "title": "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",
-          "summary": "张雪机车在国际赛场夺冠走红后，其创始人张雪曾经的老东家走到了资本市场的聚光灯下。 近日，浙江阿波罗运动科技股份有限公司（下称“浙阿波罗”）向北交所发起上市冲刺…",
-          "url": "https://wallstreetcn.com/articles/3783212",
-          "sourceId": "rss-wallstreetcn",
-          "sourceName": "华尔街见闻",
-          "publishedAt": "2026-10-08T13:38:20.000Z",
-          "score": 68,
-          "category": "industry",
-          "tags": [
-            "券商经营"
-          ],
-          "entityTags": []
-        }
-      ]
-    },
     {
       "category": "policy",
       "title": "监管政策",
       "items": [
         {
-          "id": "f64r36oy3prrez7lowz7i7q4",
+          "id": "y9zfhv2z52abn6gzwbcr9p5p",
           "title": "关于修改《上海市场首次公开发行股票网上发行实施细则》等5项业务规则的通知",
-          "summary": "上证发〔2025〕43号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+          "summary": "上海证券交易所与中国证券登记结算有限责任公司修订《上海市场首次公开发行股票网上发行实施细则》等5项业务规则，自2025年3月28日起施行，涉及科创板询价转让、B转H、股票质押回购及约定购回等业务。",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776510.shtml",
           "sourceId": "rss-sse-rules",
           "sourceName": "上交所 · 规则发布",
           "publishedAt": "2025-03-27T16:00:00.000Z",
-          "score": 70,
+          "score": 84,
           "category": "policy",
           "tags": [
             "监管政策"
@@ -52,14 +33,150 @@
           "entityTags": []
         },
         {
-          "id": "bmrzldeybj0cbgqm79hhrzqq",
+          "id": "bbnf2x1jxwljqpq1sqi3ddn2",
+          "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
+          "summary": "深交所发布《公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》，优化审核安排以提升审核效率，2023年修订版同时废止，新规自发布之日起施行。",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058644-11-01T11:53:20.000Z",
+          "score": 82,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "g5ocghcbx5m0bp1troim0k5k",
+          "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
+          "summary": "深交所发布2026年修订版债券质押式协议回购风险控制指引，对使用国债、地方债、AAA级公司债等开展协议的投资者，采取公布质押券出资人名单、鼓励标准期限交易、适当提高折算比例等鼓励支持措施。",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-24T00:30:00.000Z",
+          "score": 82,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "exhs3zl4mlmjolw01frnhjuz",
+          "title": "湖北证监局原党委书记、局长王广幼被开除党籍",
+          "summary": "湖北证监局原党委书记、局长王广幼因严重违纪违法被开除党籍并涉嫌受贿犯罪。其违规收受礼品礼金、接受宴请旅游安排、违规买卖股票，并插手证券监管执法活动为他人谋利。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7661513/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-09-28T07:15:26.000Z",
+          "score": 78,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "gcrptuucfkuxxvy1gasob4tk",
+          "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
+          "summary": "深交所发布修订后的《资产支持证券挂牌条件审核业务指引第2号》，自发布之日起施行，原2024年12月版本同时废止，旨在规范审核业务并提升审核工作透明度。",
+          "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058530-07-13T13:26:40.000Z",
+          "score": 76,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "psap92nblpo621cs4nkl3ytl",
+          "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
+          "summary": "深交所发布《主板上市公司规范运作指引（2026年修订）》，规范董事、高管及控股股东等关键少数行为，保障董秘履职，原2025年版同步废止，新规部分条款自2026年5月24日起实施。",
+          "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058281-10-29T10:20:00.000Z",
+          "score": 75,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "hy4kdre1b5ueedhx469kuot2",
+          "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
+          "summary": "深交所发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》，自发布之日起施行，旨在规范主动管理ETF业务运作，保护投资者合法权益，促进公募基金行业高质量发展。",
+          "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058429-02-09T07:40:00.000Z",
+          "score": 73,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "b4uetubdu5fkd0zw2acmz6i3",
           "title": "关于修改部分业务规则和业务指南的通知",
-          "summary": "上证发〔2025〕42号 各市场参与人： 为了贯彻落实新修订的《中华人民共和国公司法》和《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》，…",
+          "summary": "上交所发布上证发〔2025〕42号通知，为落实新《公司法》及注册资本登记管理规定，对23项业务规则和部分业务指南进行修改，主要涉及证券发行承销、信息披露、停复牌及重大资产重组等领域，通知自发布之日起施行。",
           "url": "https://www.sse.com.cn/lawandrules/sselawsrules/other/c/c_20250328_10776508.shtml",
           "sourceId": "rss-sse-rules",
           "sourceName": "上交所 · 规则发布",
           "publishedAt": "2025-03-27T16:00:00.000Z",
-          "score": 70,
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策",
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "pohld9fyn5semrvl2xxe2uj6",
+          "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
+          "summary": "深交所修订发布《债券交易业务指引第3号——债券做市（2026年修订）》，优化债券做市业务安排，促进提升债券二级市场流动性，2022年版同步废止。",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-17T21:33:20.000Z",
+          "score": 72,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "brhlluztifhi9llb6e0kcf3u",
+          "title": "广期所公开征求意见！氢氧化锂期货及期权将上市",
+          "summary": "广州期货交易所公开征求意见，氢氧化锂期货及期权即将上市。",
+          "url": "https://qzs.stcn.com/article/detail/639852.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-09T03:50:00.000Z",
+          "score": 64,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "jz3nnjhgi7e2s501hlxp8m0y",
+          "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
+          "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
+          "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
+          "sourceId": "rss-szse-rules",
+          "sourceName": "深交所 · 业务规则",
+          "publishedAt": "+058357-07-22T11:00:00.000Z",
+          "score": 56,
           "category": "policy",
           "tags": [
             "监管政策"
@@ -73,14 +190,14 @@
       "title": "市场动态",
       "items": [
         {
-          "id": "nf06de48hzkow4ffe8es5mu3",
-          "title": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
-          "summary": "券业净佣金降至万分之1.71，第一大收入来源生变！中证协披露",
-          "url": "https://qzs.stcn.com/article/detail/639823.html",
-          "sourceId": "web-qzs",
-          "sourceName": "券商中国",
-          "publishedAt": "2026-10-09T02:10:00.000Z",
-          "score": 53,
+          "id": "h2cn3dg7s04nm4a1omtagicx",
+          "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
+          "summary": "AI产业与欧美政府同时争夺全球资本，债券市场面临双重融资需求挤压，资本成本有望系统性抬升，日本资金流出加速加剧竞争。",
+          "url": "https://wallstreetcn.com/articles/3783240",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T04:10:07.000Z",
+          "score": 75,
           "category": "market",
           "tags": [
             "市场动态"
@@ -88,14 +205,29 @@
           "entityTags": []
         },
         {
-          "id": "na86d6e6ca3831pfwxvnc5ef",
-          "title": "万亿头部公募宣布，这一业务迁移！有何影响？",
-          "summary": "万亿头部公募宣布，这一业务迁移！有何影响？",
-          "url": "https://qzs.stcn.com/article/detail/639747.html",
+          "id": "dmz7m121u7bxsbgklrewusra",
+          "title": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%",
+          "summary": "10月9日A股三大股指集体翻红，沪指涨0.20%，深成指涨0.22%，创业板指涨0.30%；券商板块强势发力。港股恒指涨1.80%，恒科指涨2.90%，小米涨超8%。",
+          "url": "https://wallstreetcn.com/articles/3783237",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T06:13:53.000Z",
+          "score": 69,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "lxwa71rqgjiz71b5pfaa8rzg",
+          "title": "今日新股，盘中涨超528%！",
+          "summary": "今日新股盘中涨幅超528%。",
+          "url": "https://qzs.stcn.com/article/detail/639853.html",
           "sourceId": "web-qzs",
           "sourceName": "券商中国",
-          "publishedAt": "2026-10-08T14:57:00.000Z",
-          "score": 51,
+          "publishedAt": "2026-10-09T03:49:00.000Z",
+          "score": 52,
           "category": "market",
           "tags": [
             "市场动态"
@@ -106,8 +238,8 @@
     }
   ],
   "stats": {
-    "total": 266,
-    "selected": 5,
-    "llmCalls": 0
+    "total": 149,
+    "selected": 14,
+    "llmCalls": 163
   }
 }
