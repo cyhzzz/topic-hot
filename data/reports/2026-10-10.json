@@ -1,0 +1,184 @@
+{
+  "day": "2026-10-10",
+  "generatedAt": "2026-10-10T06:59:28.642Z",
+  "lead": {
+    "title": "公募运作新规征求意见，美债收益率逼近5.4%",
+    "paragraph": "证监会就公募基金的运作管理新规公开征求意见，拟支持权益类基金发展并提高运作灵活度。海外市场方面，十年期美债收益率逼近5.4%创24年新高，标普500指数虽创新高但市场广度恶化。",
+    "highlights": [
+      "证监会就公募运作管理办法及配套规则公开征求意见，落实《推动公募基金高质量发展行动方案》。",
+      "十年期美债收益率逼近5.4%，创2002年以来新高，标普500仅约30%成分股交易于50日均线之上。",
+      "9月A股新开户191万户，市场活跃度提升，投资者入场意愿增强。",
+      "ASML宣布对韩国客户零部件价格全线上调10%，三星SK海力士已接受，明年1月起生效。",
+      "国泰海通被险资巨头举牌，券商股权发生重大变动。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "bbc893xe3ns2a6omqztz1mch",
+          "title": "券业重磅！国泰海通，被险资巨头举牌！",
+          "summary": "国泰海通被险资巨头举牌，券商股权发生重大变动。",
+          "url": "https://qzs.stcn.com/article/detail/640175.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-10T02:49:00.000Z",
+          "score": 51,
+          "category": "industry",
+          "tags": [
+            "券商经营",
+            "并购重组"
+          ],
+          "entityTags": [
+            "国泰海通"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "vtwhnmjpjzz38ljmqex9jcpq",
+          "title": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见",
+          "summary": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见，拟规范公募基金投资运作、支持权益类基金发展、提高运作灵活度，落实《推动公募基金高质量发展行动方案》。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7663393/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-09T08:59:43.000Z",
+          "score": 81,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "uufx6r4a6xqwufcvysi0znkx",
+          "title": "深夜！美联储，突发大消息！",
+          "summary": "2026年10月9日深夜，美联储发布重大政策消息，具体内容需待原文补充。",
+          "url": "https://qzs.stcn.com/article/detail/640112.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-09T23:44:00.000Z",
+          "score": 51,
+          "category": "policy",
+          "tags": [
+            "非证券/宏观",
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "otyzmxc4l068a047ipryujqa",
+          "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
+          "summary": "十年期美债收益率逼近5.4%创2002年以来新高，标普500指数虽创新高但仅约30%成分股交易于50日均线之上，市场广度创历史最差，罗素2000小盘股累计跌幅约8.5%逼近技术性回调区间。",
+          "url": "https://wallstreetcn.com/articles/3783317",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T03:54:42.000Z",
+          "score": 69,
+          "category": "market",
+          "tags": [
+            "非证券/宏观",
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "j58l2q2qvqxd0wesen40bxay",
+          "title": "9月A股新开户191万户",
+          "summary": "9月A股新开户191万户，显示市场活跃度提升，投资者入场意愿增强。",
+          "url": "https://qzs.stcn.com/article/detail/640205.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-10T05:38:00.000Z",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "d6ql9kgn24uzss9w9x11cfdd",
+          "title": "跟跌不跟涨！白银陷入困境",
+          "summary": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性…",
+          "url": "https://wallstreetcn.com/articles/3783312",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T02:09:28.000Z",
+          "score": 64,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "kjglhv5w0izfu6byftfog3wy",
+          "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
+          "summary": "金十数据10月10日讯，10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京共同主持召开中欧贸易投资磋商机制第二次例会。…",
+          "url": "https://flash.jin10.com/detail/20261010133445317800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 63,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "gs6q7mvnsvc44lm75p7l3649",
+          "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
+          "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备…",
+          "url": "https://wallstreetcn.com/articles/3783320",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T06:01:44.000Z",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "acquisition",
+      "title": "获客展业",
+      "items": [
+        {
+          "id": "wakcd3e7oofglnaugbdqtdlh",
+          "title": "北京：增加人工智能手机和电脑、智能机器人等新一代智能终端产品有效供给",
+          "summary": "金十数据10月10日讯，北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》。其中指出，深入推进“人工智能+消费”。扩大数字产品消费，增加人…",
+          "url": "https://flash.jin10.com/detail/20261010140847242800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 62,
+          "category": "acquisition",
+          "tags": [
+            "获客展业"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 115,
+    "selected": 9,
+    "llmCalls": 111
+  }
+}
