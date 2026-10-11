@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T06:59:28.642Z",
-  "today": "2026-10-10",
+  "generatedAt": "2026-10-11T07:05:50.156Z",
+  "today": "2026-10-11",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,122 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-11",
+      "generatedAt": "2026-10-11T07:05:50.156Z",
+      "lead": {
+        "title": "证监会召开资本市场座谈会，三星锁定AI芯片产能",
+        "paragraph": "今日监管面与产业面同步聚焦。证监会主席吴清主持召开专家座谈会，释放稳市信号；产业端三星明年80%存储产能已被科技巨头长协锁定，AI算力需求持续旺盛。",
+        "highlights": [
+          "证监会召开座谈会，建议加强稳市机制、推动分红回购",
+          "三星明年存储产能80%已被英伟达、谷歌等锁定",
+          "高盛：AI投资叙事从硬件转向应用层",
+          "德银：美股科技股反弹已到顶，警惕倒V反转"
+        ]
+      },
+      "sections": [
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "ibd6xjeeacnf65c03etrekls",
+              "title": "中国证监会召开资本市场和金融形势专家座谈会",
+              "summary": "10月10日，证监会主席吴清在京召开座谈会，与上市公司负责人及证券基金机构专家交流资本市场形势。与会者建议加强稳市机制、拓宽中长期资金入市、推动上市公司分红回购、优化发行上市制度、强化交易与跨境风险监管。",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7663814/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-10-10T10:18:09.000Z",
+              "score": 74,
+              "category": "policy",
+              "tags": [
+                "监管政策",
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "yav6fbnpazxuyobjnhx0c7hw",
+              "title": "【早报】证监会召开重磅座谈会，吴清发声；沙特利雅得机场遭袭造成12人死亡309人受伤",
+              "summary": "证监会召开重磅座谈会，吴清在会上发声，就资本市场相关议题作出表态；同时报道沙特利雅得机场遭袭致12死309伤事件。",
+              "url": "https://www.cls.cn/detail/2501397",
+              "sourceId": "hot-cls",
+              "sourceName": "财联社 · 热榜",
+              "score": 60,
+              "category": "policy",
+              "tags": [
+                "监管政策",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "xylmwlpp3hihue6qh6jg1js9",
+              "title": "三星明年存储产量的80%已被长协锁定",
+              "summary": "三星电子明年约80%的存储芯片产能已通过长期供应协议锁定，英伟达、谷歌、微软等科技巨头已完成签约，争夺剩余约20%产能的格局折射出AI基础设施军备竞赛的白热化。",
+              "url": "https://wallstreetcn.com/articles/3783361",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-11T05:11:42.000Z",
+              "score": 74,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "r7nzf8c26klncknzhgci1nhx",
+              "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
+              "summary": "自7月29日启动的这轮美股科技股反弹，在52个交易日内累计跑赢大盘18.1个百分点。但在德意志银行看来，这轮行情已经到顶。 据追风交易台消息，10月9日，该行…",
+              "url": "https://wallstreetcn.com/articles/3783359",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-11T03:46:15.000Z",
+              "score": 67,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "opinion",
+          "title": "观点分析",
+          "items": [
+            {
+              "id": "idyxlexsprw6jfw1iyo84eng",
+              "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
+              "summary": "高盛认为AI投资叙事正从芯片军备竞赛转向\"推理经济\"与应用层，市场渴望下一个增长点。半导体板块估值压缩，资金向应用端迁移。",
+              "url": "https://wallstreetcn.com/articles/3783363",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-11T05:50:10.000Z",
+              "score": 70,
+              "category": "opinion",
+              "tags": [
+                "观点/评论",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 116,
+        "selected": 5,
+        "llmCalls": 112
+      }
+    },
     {
       "day": "2026-10-10",
       "generatedAt": "2026-10-10T06:59:28.642Z",
@@ -785,7 +901,21 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_d3af3036b1",
+      "title": "中国证监会召开资本市场和金融形势专家座谈会",
+      "category": "policy",
+      "tags": [
+        "监管政策",
+        "市场动态"
+      ],
+      "itemIds": [
+        "ibd6xjeeacnf65c03etrekls",
+        "na3dce8k01lez1s23eev00q6"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -798,7 +928,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -811,7 +941,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -825,7 +955,7 @@
         "qt7lzpwye79t63nlgjvfxt0y",
         "ttxdf7bfqalup9pky2vef248"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -840,7 +970,7 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_7010598462",
@@ -853,7 +983,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -866,7 +996,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -879,7 +1009,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -892,7 +1022,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -905,7 +1035,7 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_5069ef8aca",
@@ -918,7 +1048,20 @@
         "ajlks084u7sfkj3gzxmcl5vq",
         "lvee2uv6z5fazmuljgqtckyb"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_301045330e",
+      "title": "俄主要搜索引擎服务商数据中心再次遭袭",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ej2g8a43fq8jb2qs4q4i3l8d",
+        "umer7d6kdv005q4tkm80l06x"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -931,7 +1074,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -944,7 +1087,60 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_616fddbb42",
+      "title": "世卫：俄不明原因肺炎事件无持续传播证据",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "vfn24c813iqvwlwtriyspksh",
+        "pkhu6ede5n39wb9gdgftqgrp"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_1693c515a1",
+      "title": "沙特利雅得所有学校11日至15日改为线上学习",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "n2d620iymoecp36pu4ks9u1i",
+        "y7g2w557uzu26swtrwvdxbm0"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_dbb6a11680",
+      "title": "俄国防部：击中乌克兰南部一数据中心",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "xbbh6ukl3kio3wuzs86ycpj0",
+        "l3lpneotiit7w7gmg4piid4i",
+        "oxya51nxtzzzgf8bnu921vhc"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
+    },
+    {
+      "id": "ev_d3d48dbf36",
+      "title": "印尼西爪哇省附近海域发生5.7级地震 暂无海啸风险",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "e9rq8vwvr14nmzyb5v2ws00o",
+        "ixcpccb7hqrhphr3kiaa8i1l"
+      ],
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -957,7 +1153,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -970,7 +1166,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -983,7 +1179,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-10T06:59:28.642Z"
+      "updatedAt": "2026-10-11T07:05:50.156Z"
     }
   ],
   "items": [
@@ -1074,6 +1270,37 @@
       "category": "market",
       "tags": [
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ibd6xjeeacnf65c03etrekls",
+      "title": "中国证监会召开资本市场和金融形势专家座谈会",
+      "summary": "10月10日，证监会主席吴清在京召开座谈会，与上市公司负责人及证券基金机构专家交流资本市场形势。与会者建议加强稳市机制、拓宽中长期资金入市、推动上市公司分红回购、优化发行上市制度、强化交易与跨境风险监管。",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7663814/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-10-10T10:18:09.000Z",
+      "score": 74,
+      "category": "policy",
+      "tags": [
+        "监管政策",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "xylmwlpp3hihue6qh6jg1js9",
+      "title": "三星明年存储产量的80%已被长协锁定",
+      "summary": "三星电子明年约80%的存储芯片产能已通过长期供应协议锁定，英伟达、谷歌、微软等科技巨头已完成签约，争夺剩余约20%产能的格局折射出AI基础设施军备竞赛的白热化。",
+      "url": "https://wallstreetcn.com/articles/3783361",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-11T05:11:42.000Z",
+      "score": 74,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -1183,6 +1410,22 @@
       "entityTags": []
     },
     {
+      "id": "idyxlexsprw6jfw1iyo84eng",
+      "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
+      "summary": "高盛认为AI投资叙事正从芯片军备竞赛转向\"推理经济\"与应用层，市场渴望下一个增长点。半导体板块估值压缩，资金向应用端迁移。",
+      "url": "https://wallstreetcn.com/articles/3783363",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-11T05:50:10.000Z",
+      "score": 70,
+      "category": "opinion",
+      "tags": [
+        "观点/评论",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "f63f0husb9skbvfhjed3kdsr",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -1255,6 +1498,21 @@
       "category": "industry",
       "tags": [
         "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "r7nzf8c26klncknzhgci1nhx",
+      "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
+      "summary": "自7月29日启动的这轮美股科技股反弹，在52个交易日内累计跑赢大盘18.1个百分点。但在德意志银行看来，这轮行情已经到顶。 据追风交易台消息，10月9日，该行…",
+      "url": "https://wallstreetcn.com/articles/3783359",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-11T03:46:15.000Z",
+      "score": 67,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -1436,6 +1694,21 @@
       "entityTags": []
     },
     {
+      "id": "yav6fbnpazxuyobjnhx0c7hw",
+      "title": "【早报】证监会召开重磅座谈会，吴清发声；沙特利雅得机场遭袭造成12人死亡309人受伤",
+      "summary": "证监会召开重磅座谈会，吴清在会上发声，就资本市场相关议题作出表态；同时报道沙特利雅得机场遭袭致12死309伤事件。",
+      "url": "https://www.cls.cn/detail/2501397",
+      "sourceId": "hot-cls",
+      "sourceName": "财联社 · 热榜",
+      "score": 60,
+      "category": "policy",
+      "tags": [
+        "监管政策",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "jz3nnjhgi7e2s501hlxp8m0y",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -1576,7 +1849,7 @@
     }
   ],
   "meta": {
-    "itemCount": 347,
-    "llmCalls": 126
+    "itemCount": 461,
+    "llmCalls": 129
   }
 }
