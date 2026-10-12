@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T07:05:50.156Z",
-  "today": "2026-10-11",
+  "generatedAt": "2026-10-12T07:17:44.813Z",
+  "today": "2026-10-12",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,135 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-12",
+      "generatedAt": "2026-10-12T07:17:44.813Z",
+      "lead": {
+        "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组…",
+        "paragraph": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
+        "highlights": [
+          "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
+          "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏…",
+          "低风险、稳收益ETF产品布局持续提速"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "jkriowzvobm9p4mcvkyirgs0",
+              "title": "跌破8000人！保代数量8年来首降，投行“金领”褪色",
+              "summary": "保荐代表人数量跌破8000人，为8年来首次下降，投行业务景气度下滑导致岗位收缩。",
+              "url": "https://qzs.stcn.com/article/detail/640504.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-12T04:28:00.000Z",
+              "score": 50,
+              "category": "industry",
+              "tags": [
+                "数据/榜单",
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "drpyo8vc75mjep2teh98kg6w",
+              "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组件首次转由美国生产",
+              "summary": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
+              "url": "https://wallstreetcn.com/articles/3783407",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-12T03:15:38.000Z",
+              "score": 69,
+              "category": "market",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "zp38nlfyiwxl4a0550luqxp3",
+              "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
+              "summary": "美股期货周一涨0.3%，韩股收跌3.6%，油价回落，投资者淡化中东地缘风险。高盛将美国股票评级上调至增持，美联储主席沃什本周预计就加息节奏发声。",
+              "url": "https://wallstreetcn.com/articles/3783408",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-12T07:09:21.000Z",
+              "score": 66,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "g9oyoge52tlnd79tv17ausvo",
+              "title": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
+              "summary": "标普500屡创新高，但对冲基金净杠杆率仅46.9%处于一年第2百分位，多空比跌至五年第1百分位；Mag 7持仓创历史新高同时科技股遭连续净卖出，VIX衍生品显示市场信心不足。",
+              "url": "https://wallstreetcn.com/articles/3783421",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-12T06:49:27.000Z",
+              "score": 66,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "i8a8kf2jslqnzyu6izip63tk",
+              "title": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
+              "summary": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，…",
+              "url": "https://wallstreetcn.com/articles/3783404",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-12T06:47:50.000Z",
+              "score": 64,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "mprhcrqe0hf1ddm9j1vtlklb",
+              "title": "低风险、稳收益ETF产品布局持续提速",
+              "summary": "国庆长假前后沪市股票ETF合计净流入369亿元，宽基ETF净流入252亿元，科创50ETF净流入150亿元；节前8只中证红利增长ETF等多只产品集中上报，低风险稳收益ETF布局持续提速。",
+              "url": "https://flash.jin10.com/detail/20261012145412980800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 65,
+              "category": "product",
+              "tags": [
+                "产品更新",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 123,
+        "selected": 6,
+        "llmCalls": 114
+      }
+    },
     {
       "day": "2026-10-11",
       "generatedAt": "2026-10-11T07:05:50.156Z",
@@ -901,7 +1030,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -915,7 +1044,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -928,7 +1057,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -941,7 +1070,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -955,7 +1084,7 @@
         "qt7lzpwye79t63nlgjvfxt0y",
         "ttxdf7bfqalup9pky2vef248"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -970,7 +1099,7 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_7010598462",
@@ -983,7 +1112,20 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
+    },
+    {
+      "id": "ev_c20498e2aa",
+      "title": "美驻沙特使馆发布安全警示",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "m6wyj79ki9lphvtvfjx9ply0",
+        "my2bzktwj8phr9t3qouwysto"
+      ],
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -996,7 +1138,21 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
+    },
+    {
+      "id": "ev_48e8b237c4",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月12日",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "urly6s2gcvj7xi6a99oxvktz",
+        "ajlks084u7sfkj3gzxmcl5vq",
+        "lvee2uv6z5fazmuljgqtckyb"
+      ],
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1009,7 +1165,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1022,7 +1178,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1035,20 +1191,33 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
-      "id": "ev_5069ef8aca",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月9日",
+      "id": "ev_eed51d734a",
+      "title": "金十数据整理：每日电动车行业动态汇总（2026-10-09）",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "ajlks084u7sfkj3gzxmcl5vq",
-        "lvee2uv6z5fazmuljgqtckyb"
+        "i7v30g4h5d9uhyrf8d2vqr6e",
+        "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
+    },
+    {
+      "id": "ev_eb6a470ebd",
+      "title": "王毅将作为习近平主席特别代表出席亚信峰会 并访问阿塞拜疆、克罗地亚、黑山、保加利亚",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "i3ur9y86cbedf1idai5p86k0",
+        "n7ngreobna89f56l1bldyw77"
+      ],
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_301045330e",
@@ -1061,7 +1230,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -1074,7 +1243,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -1087,7 +1256,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -1100,7 +1269,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -1113,7 +1282,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -1127,7 +1296,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -1140,7 +1309,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -1153,7 +1322,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -1166,7 +1335,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -1179,7 +1348,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-11T07:05:50.156Z"
+      "updatedAt": "2026-10-12T07:17:44.813Z"
     }
   ],
   "items": [
@@ -1441,6 +1610,21 @@
       "entityTags": []
     },
     {
+      "id": "drpyo8vc75mjep2teh98kg6w",
+      "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组件首次转由美国生产",
+      "summary": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
+      "url": "https://wallstreetcn.com/articles/3783407",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-12T03:15:38.000Z",
+      "score": 69,
+      "category": "market",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "otyzmxc4l068a047ipryujqa",
       "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
       "summary": "十年期美债收益率逼近5.4%创2002年以来新高，标普500指数虽创新高但仅约30%成分股交易于50日均线之上，市场广度创历史最差，罗素2000小盘股累计跌幅约8.5%逼近技术性回调区间。",
@@ -1517,6 +1701,36 @@
       "entityTags": []
     },
     {
+      "id": "zp38nlfyiwxl4a0550luqxp3",
+      "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
+      "summary": "美股期货周一涨0.3%，韩股收跌3.6%，油价回落，投资者淡化中东地缘风险。高盛将美国股票评级上调至增持，美联储主席沃什本周预计就加息节奏发声。",
+      "url": "https://wallstreetcn.com/articles/3783408",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-12T07:09:21.000Z",
+      "score": 66,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "g9oyoge52tlnd79tv17ausvo",
+      "title": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
+      "summary": "标普500屡创新高，但对冲基金净杠杆率仅46.9%处于一年第2百分位，多空比跌至五年第1百分位；Mag 7持仓创历史新高同时科技股遭连续净卖出，VIX衍生品显示市场信心不足。",
+      "url": "https://wallstreetcn.com/articles/3783421",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-12T06:49:27.000Z",
+      "score": 66,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "auzephz1o94wwoahz6hxgrrt",
       "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
       "summary": "花旗10月7日报告指出，全球电池产业链进入第二轮产能扩张周期，2026-2027年产能增速预计46%和24%，需求增速将放缓。与2022-2024年周期相比，本轮供需更均衡、价格战风险低，建议关注电池整机>零部件>LFP正极等优先级。",
@@ -1529,6 +1743,21 @@
       "tags": [
         "市场动态",
         "观点/评论"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "mprhcrqe0hf1ddm9j1vtlklb",
+      "title": "低风险、稳收益ETF产品布局持续提速",
+      "summary": "国庆长假前后沪市股票ETF合计净流入369亿元，宽基ETF净流入252亿元，科创50ETF净流入150亿元；节前8只中证红利增长ETF等多只产品集中上报，低风险稳收益ETF布局持续提速。",
+      "url": "https://flash.jin10.com/detail/20261012145412980800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 65,
+      "category": "product",
+      "tags": [
+        "产品更新",
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -1559,6 +1788,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "i8a8kf2jslqnzyu6izip63tk",
+      "title": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
+      "summary": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，…",
+      "url": "https://wallstreetcn.com/articles/3783404",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-12T06:47:50.000Z",
+      "score": 64,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -1846,10 +2090,26 @@
         "市场动态"
       ],
       "entityTags": []
+    },
+    {
+      "id": "jkriowzvobm9p4mcvkyirgs0",
+      "title": "跌破8000人！保代数量8年来首降，投行“金领”褪色",
+      "summary": "保荐代表人数量跌破8000人，为8年来首次下降，投行业务景气度下滑导致岗位收缩。",
+      "url": "https://qzs.stcn.com/article/detail/640504.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-12T04:28:00.000Z",
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "数据/榜单",
+        "券商经营"
+      ],
+      "entityTags": []
     }
   ],
   "meta": {
-    "itemCount": 461,
-    "llmCalls": 129
+    "itemCount": 581,
+    "llmCalls": 133
   }
 }
