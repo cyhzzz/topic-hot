@@ -1,0 +1,121 @@
+{
+  "day": "2026-10-13",
+  "generatedAt": "2026-10-13T07:39:40.590Z",
+  "lead": {
+    "title": "长鑫突破震全球存储链，AI交易重挫韩股，A股午后逆转翻红",
+    "paragraph": "长鑫存储宣布4F²架构关键进展，2026年底前将推DDR5服务器内存，引发海外存储芯片板块抛售，费城半导体指数跌2.7%创三周新低。同日，AI交易热潮降温，韩股KOSPI单日暴跌5.47%，SK海力士重挫超10%；A股却走出午后大逆转，三大指数集体翻红。",
+    "highlights": [
+      "长鑫4F²架构突破，2026年推DDR5服务器内存，美股存储芯片遭抛售",
+      "韩国KOSPI收跌5.47%，SK海力士暴跌10.09%",
+      "现货黄金突破4200美元/盎司",
+      "A股三大指数午后翻红，覆铜板与军工板块领涨",
+      "茶百道遭香港证监会勒令停牌，上市两年半市值缩水近八成"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "id92u40l410d7cbshrylr9lu",
+          "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+          "summary": "长鑫存储宣布在4F²存储单元架构上取得关键进展，计划2026年底前推出DDR5服务器内存产品，引发美股芯片板块抛售，费城半导体指数下跌2.7%创三周新低，马斯克评论中国规模化制造能力超过全球其他地区总和。",
+          "url": "https://wallstreetcn.com/articles/3783500",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-13T04:57:14.000Z",
+          "score": 75,
+          "category": "industry",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "w9bw1vu9ivftc5eefkz16vbw",
+          "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
+          "summary": "茶百道（02555.HK）被香港证监会指令停牌，具体原因尚未披露。该公司2024年4月以17.50港元/股登陆港交所，募资约25.86亿港元。",
+          "url": "https://wallstreetcn.com/articles/3783516",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-13T06:42:04.000Z",
+          "score": 73,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "t5gx2owfet0k39xt3t6k7n8o",
+          "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
+          "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
+          "url": "https://wallstreetcn.com/articles/3783492",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-13T06:39:32.000Z",
+          "score": 71,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "infdl1f7ep2rh2es826up9dk",
+          "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
+          "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
+          "url": "https://wallstreetcn.com/articles/3783494",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-13T05:39:08.000Z",
+          "score": 69,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "product",
+      "title": "产品与工具",
+      "items": [
+        {
+          "id": "estj7pwzp217d06ocegvpipg",
+          "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
+          "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
+          "url": "https://wallstreetcn.com/articles/3783496",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-13T04:04:09.000Z",
+          "score": 63,
+          "category": "product",
+          "tags": [
+            "产品更新"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 115,
+    "selected": 5,
+    "llmCalls": 109
+  }
+}

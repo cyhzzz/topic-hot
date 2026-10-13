@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T07:17:44.813Z",
-  "today": "2026-10-12",
+  "generatedAt": "2026-10-13T07:39:40.590Z",
+  "today": "2026-10-13",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,127 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-13",
+      "generatedAt": "2026-10-13T07:39:40.590Z",
+      "lead": {
+        "title": "长鑫突破震全球存储链，AI交易重挫韩股，A股午后逆转翻红",
+        "paragraph": "长鑫存储宣布4F²架构关键进展，2026年底前将推DDR5服务器内存，引发海外存储芯片板块抛售，费城半导体指数跌2.7%创三周新低。同日，AI交易热潮降温，韩股KOSPI单日暴跌5.47%，SK海力士重挫超10%；A股却走出午后大逆转，三大指数集体翻红。",
+        "highlights": [
+          "长鑫4F²架构突破，2026年推DDR5服务器内存，美股存储芯片遭抛售",
+          "韩国KOSPI收跌5.47%，SK海力士暴跌10.09%",
+          "现货黄金突破4200美元/盎司",
+          "A股三大指数午后翻红，覆铜板与军工板块领涨",
+          "茶百道遭香港证监会勒令停牌，上市两年半市值缩水近八成"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "id92u40l410d7cbshrylr9lu",
+              "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+              "summary": "长鑫存储宣布在4F²存储单元架构上取得关键进展，计划2026年底前推出DDR5服务器内存产品，引发美股芯片板块抛售，费城半导体指数下跌2.7%创三周新低，马斯克评论中国规模化制造能力超过全球其他地区总和。",
+              "url": "https://wallstreetcn.com/articles/3783500",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-13T04:57:14.000Z",
+              "score": 75,
+              "category": "industry",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "w9bw1vu9ivftc5eefkz16vbw",
+              "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
+              "summary": "茶百道（02555.HK）被香港证监会指令停牌，具体原因尚未披露。该公司2024年4月以17.50港元/股登陆港交所，募资约25.86亿港元。",
+              "url": "https://wallstreetcn.com/articles/3783516",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-13T06:42:04.000Z",
+              "score": 73,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "t5gx2owfet0k39xt3t6k7n8o",
+              "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
+              "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
+              "url": "https://wallstreetcn.com/articles/3783492",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-13T06:39:32.000Z",
+              "score": 71,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "infdl1f7ep2rh2es826up9dk",
+              "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
+              "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
+              "url": "https://wallstreetcn.com/articles/3783494",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-13T05:39:08.000Z",
+              "score": 69,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "estj7pwzp217d06ocegvpipg",
+              "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
+              "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
+              "url": "https://wallstreetcn.com/articles/3783496",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-13T04:04:09.000Z",
+              "score": 63,
+              "category": "product",
+              "tags": [
+                "产品更新"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 115,
+        "selected": 5,
+        "llmCalls": 109
+      }
+    },
     {
       "day": "2026-10-12",
       "generatedAt": "2026-10-12T07:17:44.813Z",
@@ -1030,7 +1151,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -1044,7 +1165,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1057,7 +1178,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1070,7 +1191,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1084,7 +1205,20 @@
         "qt7lzpwye79t63nlgjvfxt0y",
         "ttxdf7bfqalup9pky2vef248"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_ec38a3add5",
+      "title": "沪深两市今日成交额合计15378.31亿元，中际旭创成交额居首",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "oa232u46k9wzce0mhxf9v8ex",
+        "f84ujrtr209q0d5kj8c5e4e6"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -1099,7 +1233,47 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_892b2927de",
+      "title": "股指期货午盘收盘",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "upwkn1ijvgsi8m4vwkh91yut",
+        "gr66a4wejxqgnx51y9uz6n11",
+        "rwo5kzhi7jkji551um35g9gb"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_5d604eb0c8",
+      "title": "金十图示：2026年10月13日（周二）投机情绪指数",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "er79m5g62bry7ht7jm706apd",
+        "yyvq68m0786l6q4ol84ea7hk"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_0fcc67a1e1",
+      "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-10-09）",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "udyf3x551fce855ehtehzddb",
+        "cbg4bd4hqgeay1p0k9yavyu2"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_7010598462",
@@ -1112,7 +1286,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -1125,7 +1299,35 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_e52b1721b2",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月13日",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "n9uhkzo8z3zouz36vffvf2tm",
+        "urly6s2gcvj7xi6a99oxvktz",
+        "ajlks084u7sfkj3gzxmcl5vq",
+        "lvee2uv6z5fazmuljgqtckyb"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_c6359a8879",
+      "title": "金十图示：北京时间10月9日22:00将有欧元、瑞郎、英镑、澳元等外汇期权大单到期，8个行权价10亿以上大单，敬请管理…",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "tgxs58s0rbw1ekmk94ivk0du",
+        "uzis1k6bsr6r5ychnuf18ru7"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -1138,21 +1340,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
-    },
-    {
-      "id": "ev_48e8b237c4",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月12日",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "urly6s2gcvj7xi6a99oxvktz",
-        "ajlks084u7sfkj3gzxmcl5vq",
-        "lvee2uv6z5fazmuljgqtckyb"
-      ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1165,7 +1353,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1178,7 +1366,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1191,7 +1379,21 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_90d90b2e4e",
+      "title": "10月12日全国农产品批发市场猪肉平均价格为15.98元/公斤 比上周六下降0.7%",
+      "category": "product",
+      "tags": [
+        "产品更新"
+      ],
+      "itemIds": [
+        "e0cg4xm43lf1rwnem5qyoy1m",
+        "z3pdd7d1f91el41c8ethoidc",
+        "pv3fddoyso5ifj31dj9phwn4"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -1204,7 +1406,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -1217,7 +1419,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_301045330e",
@@ -1230,7 +1432,20 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
+    },
+    {
+      "id": "ev_55eaa8ddad",
+      "title": "财联社10月13日电，博通发布面向VMware云平台的VMware HyperArmor安全方案。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "v25z3ijjeop1uysk0o5qm6y4",
+        "popoab0i00y7l1m5k8k2c50i"
+      ],
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -1243,7 +1458,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -1256,7 +1471,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -1269,7 +1484,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -1282,7 +1497,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -1296,7 +1511,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -1309,7 +1524,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -1322,7 +1537,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -1335,7 +1550,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -1348,7 +1563,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-12T07:17:44.813Z"
+      "updatedAt": "2026-10-13T07:39:40.590Z"
     }
   ],
   "items": [
@@ -1413,6 +1628,21 @@
       "entityTags": []
     },
     {
+      "id": "id92u40l410d7cbshrylr9lu",
+      "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+      "summary": "长鑫存储宣布在4F²存储单元架构上取得关键进展，计划2026年底前推出DDR5服务器内存产品，引发美股芯片板块抛售，费城半导体指数下跌2.7%创三周新低，马斯克评论中国规模化制造能力超过全球其他地区总和。",
+      "url": "https://wallstreetcn.com/articles/3783500",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-13T04:57:14.000Z",
+      "score": 75,
+      "category": "industry",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "psap92nblpo621cs4nkl3ytl",
       "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
       "summary": "深交所发布《主板上市公司规范运作指引（2026年修订）》，规范董事、高管及控股股东等关键少数行为，保障董秘履职，原2025年版同步废止，新规部分条款自2026年5月24日起实施。",
@@ -1470,6 +1700,21 @@
       "category": "market",
       "tags": [
         "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "w9bw1vu9ivftc5eefkz16vbw",
+      "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
+      "summary": "茶百道（02555.HK）被香港证监会指令停牌，具体原因尚未披露。该公司2024年4月以17.50港元/股登陆港交所，募资约25.86亿港元。",
+      "url": "https://wallstreetcn.com/articles/3783516",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-13T06:42:04.000Z",
+      "score": 73,
+      "category": "policy",
+      "tags": [
+        "监管政策"
       ],
       "entityTags": []
     },
@@ -1579,6 +1824,21 @@
       "entityTags": []
     },
     {
+      "id": "t5gx2owfet0k39xt3t6k7n8o",
+      "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
+      "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
+      "url": "https://wallstreetcn.com/articles/3783492",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-13T06:39:32.000Z",
+      "score": 71,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "idyxlexsprw6jfw1iyo84eng",
       "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
       "summary": "高盛认为AI投资叙事正从芯片军备竞赛转向\"推理经济\"与应用层，市场渴望下一个增长点。半导体板块估值压缩，资金向应用端迁移。",
@@ -1606,6 +1866,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "infdl1f7ep2rh2es826up9dk",
+      "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
+      "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
+      "url": "https://wallstreetcn.com/articles/3783494",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-13T05:39:08.000Z",
+      "score": 69,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -1848,6 +2123,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "estj7pwzp217d06ocegvpipg",
+      "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
+      "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
+      "url": "https://wallstreetcn.com/articles/3783496",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-13T04:04:09.000Z",
+      "score": 63,
+      "category": "product",
+      "tags": [
+        "产品更新"
       ],
       "entityTags": []
     },
@@ -2109,7 +2399,7 @@
     }
   ],
   "meta": {
-    "itemCount": 581,
-    "llmCalls": 133
+    "itemCount": 694,
+    "llmCalls": 127
   }
 }
