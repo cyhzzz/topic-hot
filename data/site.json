@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T07:39:40.590Z",
-  "today": "2026-10-13",
+  "generatedAt": "2026-10-14T06:05:03.499Z",
+  "today": "2026-10-14",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,112 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-14",
+      "generatedAt": "2026-10-14T06:05:03.499Z",
+      "lead": {
+        "title": "AI算力战下半场：电力散热网络成新战场；美债收益率破5%",
+        "paragraph": "AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场。BondBloxx策略师认为美债收益率突破5%并非异常，财政赤字与发债规模正推高期限溢价。",
+        "highlights": [
+          "AI算力战下半场：AMD上月AI token消耗量增幅达95倍，电力散热网络成新战场",
+          "美债收益率破5%：BondBloxx称财政赤字与发债规模推高期限溢价",
+          "信银理财贺晋：理财公司需提升权益投资能力，做好耐心资本枢纽",
+          "某券商持续处置资产，进行业务与资源配置调整"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "hfcx37yewb83c96jnq365097",
+              "title": "卖卖卖！这家券商，持续处置资产",
+              "summary": "某券商持续处置资产，进行业务与资源配置调整。",
+              "url": "https://qzs.stcn.com/article/detail/641162.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-14T04:38:00.000Z",
+              "score": 50,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "gdn7pzb6upfmnyvkmqfmaldq",
+              "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
+              "summary": "美银证券报告称，AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场，AMD上月AI token消耗量增幅达95倍。",
+              "url": "https://wallstreetcn.com/articles/3783589",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-14T03:09:58.000Z",
+              "score": 69,
+              "category": "market",
+              "tags": [
+                "其他",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "xd4v5bgmlyi2acqiy48w557d",
+              "title": "理财公司如何当好耐心资本枢纽？信银理财贺晋：立足多元产品供给，提升权益投资能力",
+              "summary": "信银理财贺晋认为理财公司要做好耐心资本枢纽，需立足多元产品供给、提升权益投资能力。",
+              "url": "https://qzs.stcn.com/article/detail/641160.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-14T04:38:00.000Z",
+              "score": 51,
+              "category": "product",
+              "tags": [
+                "财富管理",
+                "产品更新"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "opinion",
+          "title": "观点分析",
+          "items": [
+            {
+              "id": "z5unj7ld22bd59766bt33o4z",
+              "title": "BondBloxx策略师：美债收益率突破5%并非异常，财政赤字与发债规模推高期限溢价",
+              "summary": "BondBloxx高级策略师比安科认为美债收益率突破5%并不异常，美国财政赤字扩大、国债供应增加推高期限溢价，投资者要求更高补偿以持有长期美债。",
+              "url": "https://flash.jin10.com/detail/20261014133839384800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 67,
+              "category": "opinion",
+              "tags": [
+                "其他"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 108,
+        "selected": 4,
+        "llmCalls": 95
+      }
+    },
     {
       "day": "2026-10-13",
       "generatedAt": "2026-10-13T07:39:40.590Z",
@@ -1151,7 +1257,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -1165,7 +1271,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1178,7 +1284,20 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
+    },
+    {
+      "id": "ev_13601c7786",
+      "title": "今日重点关注的财经数据与事件：2026年10月14日 周三",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "dd3655aextngqggwnd682qsc",
+        "aryj7be2pnduzn0l2d0s74xp"
+      ],
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1191,7 +1310,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1203,9 +1322,12 @@
       "itemIds": [
         "xlvxcq4st7y1e1n5udih4oo2",
         "qt7lzpwye79t63nlgjvfxt0y",
+        "egz8payohskwz39ajmwdsn1f",
+        "hng28hbbaeys4r6179vy40dp",
+        "maedz20a2155qih4aja5fe3s",
         "ttxdf7bfqalup9pky2vef248"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1218,7 +1340,23 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
+    },
+    {
+      "id": "ev_210ee611c7",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "k6i4b2si2udz9spugse8ex8g",
+        "n9uhkzo8z3zouz36vffvf2tm",
+        "urly6s2gcvj7xi6a99oxvktz",
+        "ajlks084u7sfkj3gzxmcl5vq",
+        "lvee2uv6z5fazmuljgqtckyb"
+      ],
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -1233,7 +1371,7 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1247,7 +1385,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1260,7 +1398,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_0fcc67a1e1",
@@ -1273,7 +1411,7 @@
         "udyf3x551fce855ehtehzddb",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_7010598462",
@@ -1286,7 +1424,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -1299,22 +1437,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
-    },
-    {
-      "id": "ev_e52b1721b2",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月13日",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "n9uhkzo8z3zouz36vffvf2tm",
-        "urly6s2gcvj7xi6a99oxvktz",
-        "ajlks084u7sfkj3gzxmcl5vq",
-        "lvee2uv6z5fazmuljgqtckyb"
-      ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_c6359a8879",
@@ -1327,7 +1450,7 @@
         "tgxs58s0rbw1ekmk94ivk0du",
         "uzis1k6bsr6r5ychnuf18ru7"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -1340,7 +1463,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1353,7 +1476,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1366,7 +1489,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1379,7 +1502,7 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -1393,7 +1516,7 @@
         "z3pdd7d1f91el41c8ethoidc",
         "pv3fddoyso5ifj31dj9phwn4"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -1406,7 +1529,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -1419,7 +1542,46 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
+    },
+    {
+      "id": "ev_f36739e3de",
+      "title": "​煤炭板块再度异动 安泰集团5天3板",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ttozonuoefvhqxw6yalk4prl",
+        "bbn7b493i8s3o72n0rjicvet"
+      ],
+      "updatedAt": "2026-10-14T06:05:03.499Z"
+    },
+    {
+      "id": "ev_ea10e5070f",
+      "title": "何立峰会见法国总统外事顾问博纳",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "dfhkw40c4dolsfxylmp2pi4i",
+        "yq1aak0jx928fn0uf612sjic"
+      ],
+      "updatedAt": "2026-10-14T06:05:03.499Z"
+    },
+    {
+      "id": "ev_e9ab99de9c",
+      "title": "苏州4宗宅地10.6亿元底价成交",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "lwt49ylg1qcfrktesxiwr547",
+        "miw1n32ezesg7zyww0yek24b"
+      ],
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_301045330e",
@@ -1432,7 +1594,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -1445,7 +1607,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -1458,7 +1620,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -1471,7 +1633,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -1484,7 +1646,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -1497,7 +1659,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -1511,7 +1673,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -1524,7 +1686,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -1537,7 +1699,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -1550,7 +1712,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -1563,7 +1725,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-13T07:39:40.590Z"
+      "updatedAt": "2026-10-14T06:05:03.499Z"
     }
   ],
   "items": [
@@ -1870,6 +2032,22 @@
       "entityTags": []
     },
     {
+      "id": "gdn7pzb6upfmnyvkmqfmaldq",
+      "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
+      "summary": "美银证券报告称，AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场，AMD上月AI token消耗量增幅达95倍。",
+      "url": "https://wallstreetcn.com/articles/3783589",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-14T03:09:58.000Z",
+      "score": 69,
+      "category": "market",
+      "tags": [
+        "其他",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "infdl1f7ep2rh2es826up9dk",
       "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
       "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
@@ -1957,6 +2135,20 @@
       "category": "industry",
       "tags": [
         "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "z5unj7ld22bd59766bt33o4z",
+      "title": "BondBloxx策略师：美债收益率突破5%并非异常，财政赤字与发债规模推高期限溢价",
+      "summary": "BondBloxx高级策略师比安科认为美债收益率突破5%并不异常，美国财政赤字扩大、国债供应增加推高期限溢价，投资者要求更高补偿以持有长期美债。",
+      "url": "https://flash.jin10.com/detail/20261014133839384800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 67,
+      "category": "opinion",
+      "tags": [
+        "其他"
       ],
       "entityTags": []
     },
@@ -2318,6 +2510,22 @@
       "entityTags": []
     },
     {
+      "id": "xd4v5bgmlyi2acqiy48w557d",
+      "title": "理财公司如何当好耐心资本枢纽？信银理财贺晋：立足多元产品供给，提升权益投资能力",
+      "summary": "信银理财贺晋认为理财公司要做好耐心资本枢纽，需立足多元产品供给、提升权益投资能力。",
+      "url": "https://qzs.stcn.com/article/detail/641160.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-14T04:38:00.000Z",
+      "score": 51,
+      "category": "product",
+      "tags": [
+        "财富管理",
+        "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "bbc893xe3ns2a6omqztz1mch",
       "title": "券业重磅！国泰海通，被险资巨头举牌！",
       "summary": "国泰海通被险资巨头举牌，券商股权发生重大变动。",
@@ -2382,6 +2590,21 @@
       "entityTags": []
     },
     {
+      "id": "hfcx37yewb83c96jnq365097",
+      "title": "卖卖卖！这家券商，持续处置资产",
+      "summary": "某券商持续处置资产，进行业务与资源配置调整。",
+      "url": "https://qzs.stcn.com/article/detail/641162.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-14T04:38:00.000Z",
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "jkriowzvobm9p4mcvkyirgs0",
       "title": "跌破8000人！保代数量8年来首降，投行“金领”褪色",
       "summary": "保荐代表人数量跌破8000人，为8年来首次下降，投行业务景气度下滑导致岗位收缩。",
@@ -2399,7 +2622,7 @@
     }
   ],
   "meta": {
-    "itemCount": 694,
-    "llmCalls": 127
+    "itemCount": 802,
+    "llmCalls": 119
   }
 }

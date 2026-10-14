@@ -1,9 +1,11 @@
 {
-  "lastRunAt": "2026-10-13T07:39:40.590Z",
-  "lastSuccessAt": "2026-10-13T07:55:06.463Z",
-  "llmCallsUsed": 127,
-  "fetchedFeeds": 11,
-  "newItems": 115,
-  "selectedToday": 5,
-  "errors": []
+  "lastRunAt": "2026-10-14T06:05:03.499Z",
+  "lastSuccessAt": "2026-10-14T06:16:51.679Z",
+  "llmCallsUsed": 119,
+  "fetchedFeeds": 10,
+  "newItems": 108,
+  "selectedToday": 4,
+  "errors": [
+    "fetch rss-sse-rules: The operation was aborted due to timeout"
+  ]
 }

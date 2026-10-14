@@ -1,0 +1,106 @@
+{
+  "day": "2026-10-14",
+  "generatedAt": "2026-10-14T06:05:03.499Z",
+  "lead": {
+    "title": "AI算力战下半场：电力散热网络成新战场；美债收益率破5%",
+    "paragraph": "AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场。BondBloxx策略师认为美债收益率突破5%并非异常，财政赤字与发债规模正推高期限溢价。",
+    "highlights": [
+      "AI算力战下半场：AMD上月AI token消耗量增幅达95倍，电力散热网络成新战场",
+      "美债收益率破5%：BondBloxx称财政赤字与发债规模推高期限溢价",
+      "信银理财贺晋：理财公司需提升权益投资能力，做好耐心资本枢纽",
+      "某券商持续处置资产，进行业务与资源配置调整"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "hfcx37yewb83c96jnq365097",
+          "title": "卖卖卖！这家券商，持续处置资产",
+          "summary": "某券商持续处置资产，进行业务与资源配置调整。",
+          "url": "https://qzs.stcn.com/article/detail/641162.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-14T04:38:00.000Z",
+          "score": 50,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "gdn7pzb6upfmnyvkmqfmaldq",
+          "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
+          "summary": "美银证券报告称，AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场，AMD上月AI token消耗量增幅达95倍。",
+          "url": "https://wallstreetcn.com/articles/3783589",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-14T03:09:58.000Z",
+          "score": 69,
+          "category": "market",
+          "tags": [
+            "其他",
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "product",
+      "title": "产品与工具",
+      "items": [
+        {
+          "id": "xd4v5bgmlyi2acqiy48w557d",
+          "title": "理财公司如何当好耐心资本枢纽？信银理财贺晋：立足多元产品供给，提升权益投资能力",
+          "summary": "信银理财贺晋认为理财公司要做好耐心资本枢纽，需立足多元产品供给、提升权益投资能力。",
+          "url": "https://qzs.stcn.com/article/detail/641160.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-14T04:38:00.000Z",
+          "score": 51,
+          "category": "product",
+          "tags": [
+            "财富管理",
+            "产品更新"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "z5unj7ld22bd59766bt33o4z",
+          "title": "BondBloxx策略师：美债收益率突破5%并非异常，财政赤字与发债规模推高期限溢价",
+          "summary": "BondBloxx高级策略师比安科认为美债收益率突破5%并不异常，美国财政赤字扩大、国债供应增加推高期限溢价，投资者要求更高补偿以持有长期美债。",
+          "url": "https://flash.jin10.com/detail/20261014133839384800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 67,
+          "category": "opinion",
+          "tags": [
+            "其他"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 108,
+    "selected": 4,
+    "llmCalls": 95
+  }
+}
