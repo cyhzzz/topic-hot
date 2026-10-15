@@ -1,0 +1,57 @@
+{
+  "day": "2026-10-15",
+  "generatedAt": "2026-10-15T05:51:02.238Z",
+  "lead": {
+    "title": "美联储加息预期升温叠加AI泡沫担忧，市场全线承压",
+    "paragraph": "今日市场主线聚焦于美联储加息预期升温与AI板块估值担忧。亚太半导体与存储产业链遭遇重挫，CoreWeave债券价格跌破面值80%引发关注；GMO高管预警股票超供与AI基建放缓将引爆AI泡沫。",
+    "highlights": [
+      "CoreWeave债券跌破面值80%，五年违约概率突破50%",
+      "GMO高管称股票超供与AI基建放缓将引爆AI泡沫",
+      "美联储加息预期升温，亚太半导体与存储产业链全线重挫",
+      "市场全线承压，今日需重点关注AI基建与债券风险"
+    ]
+  },
+  "sections": [
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "ypz7hvv5iqbfjvx4w56qgnl2",
+          "title": "GMO高管：股票超供和AI基建放缓，将共同引爆这轮AI泡沫",
+          "summary": "10月15日，美国通胀黏性推升加息预期，亚太半导体与存储产业链遭遇全线重挫，AI算力独角兽CoreWeave债券跌破面值80%、五年违约概率突破50%。 在这…",
+          "url": "https://wallstreetcn.com/articles/3783680",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-15T03:43:18.000Z",
+          "score": 62,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "rxs3r9pt38z8mqskr8bxg0lm",
+          "title": "利空突袭，全线跳水！美联储，加息大消息！",
+          "summary": "美联储加息消息突袭市场，引发全线跳水。",
+          "url": "https://qzs.stcn.com/article/detail/641347.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-15T13:13:00.000Z",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 118,
+    "selected": 2,
+    "llmCalls": 95
+  }
+}
