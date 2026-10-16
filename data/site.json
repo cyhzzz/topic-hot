@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T05:51:02.238Z",
-  "today": "2026-10-15",
+  "generatedAt": "2026-10-16T05:47:23.700Z",
+  "today": "2026-10-16",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,101 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-16",
+      "generatedAt": "2026-10-16T05:47:23.700Z",
+      "lead": {
+        "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市…",
+        "paragraph": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
+        "highlights": [
+          "隔夜美股涨势提振亚太，日股涨近2%，韩股一度涨超3%，印尼股市暴跌11%",
+          "建行把大模型送进银行间市场",
+          "让资本长出根系！招商证券构建“农耕式”培育机制，养护新质生产力之林"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "ugsunnait4jiljqysjgzsgwp",
+              "title": "建行把大模型送进银行间市场",
+              "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
+              "url": "https://wallstreetcn.com/articles/3783760",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-16T03:17:59.000Z",
+              "score": 65,
+              "category": "industry",
+              "tags": [
+                "金融科技"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "zcbmy6v25pcn15c28dclvhio",
+              "title": "让资本长出根系！招商证券构建“农耕式”培育机制，养护新质生产力之林",
+              "summary": "招商证券构建",
+              "url": "https://qzs.stcn.com/article/detail/641836.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-16T03:16:00.000Z",
+              "score": 52,
+              "category": "industry",
+              "tags": [
+                "券商经营",
+                "投行业务"
+              ],
+              "entityTags": [
+                "招商证券"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "zlrmdeaoie8eoynidc2ldwlu",
+              "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
+              "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
+              "url": "https://flash.jin10.com/detail/20261016133906880800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 68,
+              "category": "market",
+              "tags": [
+                "市场动态",
+                "产品更新"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "e8o9r6nbzubaxfmklbroaf0h",
+              "title": "隔夜美股涨势提振亚太，日股涨近2%，韩股一度涨超3%，印尼股市暴跌11%",
+              "summary": "隔夜美股涨势提振亚太股市，日经225涨约1.7%，韩综指早盘一度涨超3%；印尼股市因MSCI降级消息暴跌逾11%触发熔断。英伟达CEO黄仁勋为CoreWeave财务状况背书缓解AI融资担忧。",
+              "url": "https://wallstreetcn.com/articles/3783755",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-16T03:24:37.000Z",
+              "score": 66,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 117,
+        "selected": 4,
+        "llmCalls": 111
+      }
+    },
     {
       "day": "2026-10-15",
       "generatedAt": "2026-10-15T05:51:02.238Z",
@@ -1314,7 +1409,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -1328,7 +1423,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1341,7 +1436,20 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_84e96edb7e",
+      "title": "沪深两市成交额连续第3个交易日突破1.5万亿元。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "adu9z9ipacvwbzfas6t43we9",
+        "goamk5slpra8alqax3bhricv"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1354,7 +1462,7 @@
         "dd3655aextngqggwnd682qsc",
         "aryj7be2pnduzn0l2d0s74xp"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1367,7 +1475,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1380,7 +1488,7 @@
         "bl5rpv2o8dnjf6wys2c957f1",
         "xmvltady5nxhaw1wchmr3cum"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1400,7 +1508,7 @@
         "ce4ub25mx5r60cx8002dxi7k",
         "jyws9vt11ygvvajlhadpekfa"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_890366d991",
@@ -1411,10 +1519,11 @@
       ],
       "itemIds": [
         "dy3qnkjcz2allxof7mr269sl",
+        "rjq9ccyj3hmzgeuph08bynvz",
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_920de07728",
@@ -1427,7 +1536,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1440,7 +1549,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1451,13 +1560,27 @@
       ],
       "itemIds": [
         "k6i4b2si2udz9spugse8ex8g",
+        "drjn5ih8bkk826fz9vd29wg2",
         "bigyzcouasba6f6u9d8559nu",
         "n9uhkzo8z3zouz36vffvf2tm",
         "urly6s2gcvj7xi6a99oxvktz",
         "ajlks084u7sfkj3gzxmcl5vq",
         "lvee2uv6z5fazmuljgqtckyb"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_538028f10e",
+      "title": "日本误报称发生9.9级地震",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "svnito0zzirwj72e8b3meeyq",
+        "qcqgcia4xet3fjn9clx5xjcd"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -1472,7 +1595,20 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_17e9f8ade9",
+      "title": "叙利亚油气管道接连遭破坏",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "wzbnj0mg03lgnbxegtwigxz9",
+        "k8x96wz40dxaduaertttorty"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1486,7 +1622,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1499,7 +1635,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_0fcc67a1e1",
@@ -1512,7 +1648,7 @@
         "udyf3x551fce855ehtehzddb",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_7010598462",
@@ -1525,7 +1661,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -1538,7 +1674,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_c6359a8879",
@@ -1551,7 +1687,7 @@
         "tgxs58s0rbw1ekmk94ivk0du",
         "uzis1k6bsr6r5ychnuf18ru7"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -1564,7 +1700,20 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_7044af8608",
+      "title": "中科海钠与武汉市江夏区签约建设10GWh钠离子电池生产线项目",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "ek7xr43o63lac3i2s5k4xy7h",
+        "ub0mf9zq86w4qm45tal8xym7"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1577,7 +1726,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1590,7 +1739,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1603,7 +1752,20 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_8f49574cf5",
+      "title": "澳大利亚一架轻型飞机坠毁 2人受重伤",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "xu4cao0rcbstlo6545kzpuu7",
+        "gd0smfiwueuupb6svumyk8u5"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -1617,7 +1779,7 @@
         "z3pdd7d1f91el41c8ethoidc",
         "pv3fddoyso5ifj31dj9phwn4"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -1630,7 +1792,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -1643,7 +1805,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -1656,7 +1818,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_ea10e5070f",
@@ -1669,7 +1831,7 @@
         "dfhkw40c4dolsfxylmp2pi4i",
         "yq1aak0jx928fn0uf612sjic"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -1682,7 +1844,20 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
+    },
+    {
+      "id": "ev_7ef9eb8193",
+      "title": "Anthropic联合创始人Jack Clark：我们对我们的人工智能系统进行测试，并分享相关信息，但这不应完全基于自…",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "s1okilw4djsrih08b9jyap97",
+        "lnfguqlri9sx0rneh8k3qmu0"
+      ],
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_301045330e",
@@ -1695,7 +1870,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -1708,7 +1883,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -1721,7 +1896,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -1734,7 +1909,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -1747,7 +1922,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -1760,7 +1935,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -1774,7 +1949,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -1787,7 +1962,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -1800,7 +1975,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -1813,7 +1988,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -1826,7 +2001,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -1839,7 +2014,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-15T05:51:02.238Z"
+      "updatedAt": "2026-10-16T05:47:23.700Z"
     }
   ],
   "items": [
@@ -2223,6 +2398,21 @@
       "entityTags": []
     },
     {
+      "id": "zlrmdeaoie8eoynidc2ldwlu",
+      "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
+      "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
+      "url": "https://flash.jin10.com/detail/20261016133906880800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 68,
+      "category": "market",
+      "tags": [
+        "市场动态",
+        "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "j58l2q2qvqxd0wesen40bxay",
       "title": "9月A股新开户191万户",
       "summary": "9月A股新开户191万户，显示市场活跃度提升，投资者入场意愿增强。",
@@ -2282,6 +2472,21 @@
       "entityTags": []
     },
     {
+      "id": "e8o9r6nbzubaxfmklbroaf0h",
+      "title": "隔夜美股涨势提振亚太，日股涨近2%，韩股一度涨超3%，印尼股市暴跌11%",
+      "summary": "隔夜美股涨势提振亚太股市，日经225涨约1.7%，韩综指早盘一度涨超3%；印尼股市因MSCI降级消息暴跌逾11%触发熔断。英伟达CEO黄仁勋为CoreWeave财务状况背书缓解AI融资担忧。",
+      "url": "https://wallstreetcn.com/articles/3783755",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-16T03:24:37.000Z",
+      "score": 66,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "zp38nlfyiwxl4a0550luqxp3",
       "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
       "summary": "美股期货周一涨0.3%，韩股收跌3.6%，油价回落，投资者淡化中东地缘风险。高盛将美国股票评级上调至增持，美联储主席沃什本周预计就加息节奏发声。",
@@ -2324,6 +2529,21 @@
       "tags": [
         "市场动态",
         "观点/评论"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ugsunnait4jiljqysjgzsgwp",
+      "title": "建行把大模型送进银行间市场",
+      "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
+      "url": "https://wallstreetcn.com/articles/3783760",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-16T03:17:59.000Z",
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "金融科技"
       ],
       "entityTags": []
     },
@@ -2624,6 +2844,24 @@
       "entityTags": []
     },
     {
+      "id": "zcbmy6v25pcn15c28dclvhio",
+      "title": "让资本长出根系！招商证券构建“农耕式”培育机制，养护新质生产力之林",
+      "summary": "招商证券构建",
+      "url": "https://qzs.stcn.com/article/detail/641836.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-16T03:16:00.000Z",
+      "score": 52,
+      "category": "industry",
+      "tags": [
+        "券商经营",
+        "投行业务"
+      ],
+      "entityTags": [
+        "招商证券"
+      ]
+    },
+    {
       "id": "lxwa71rqgjiz71b5pfaa8rzg",
       "title": "今日新股，盘中涨超528%！",
       "summary": "今日新股盘中涨幅超528%。",
@@ -2766,7 +3004,7 @@
     }
   ],
   "meta": {
-    "itemCount": 918,
-    "llmCalls": 132
+    "itemCount": 1033,
+    "llmCalls": 130
   }
 }

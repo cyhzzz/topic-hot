@@ -1,0 +1,95 @@
+{
+  "day": "2026-10-16",
+  "generatedAt": "2026-10-16T05:47:23.700Z",
+  "lead": {
+    "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市…",
+    "paragraph": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
+    "highlights": [
+      "隔夜美股涨势提振亚太，日股涨近2%，韩股一度涨超3%，印尼股市暴跌11%",
+      "建行把大模型送进银行间市场",
+      "让资本长出根系！招商证券构建“农耕式”培育机制，养护新质生产力之林"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "ugsunnait4jiljqysjgzsgwp",
+          "title": "建行把大模型送进银行间市场",
+          "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
+          "url": "https://wallstreetcn.com/articles/3783760",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T03:17:59.000Z",
+          "score": 65,
+          "category": "industry",
+          "tags": [
+            "金融科技"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "zcbmy6v25pcn15c28dclvhio",
+          "title": "让资本长出根系！招商证券构建“农耕式”培育机制，养护新质生产力之林",
+          "summary": "招商证券构建",
+          "url": "https://qzs.stcn.com/article/detail/641836.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-16T03:16:00.000Z",
+          "score": 52,
+          "category": "industry",
+          "tags": [
+            "券商经营",
+            "投行业务"
+          ],
+          "entityTags": [
+            "招商证券"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "zlrmdeaoie8eoynidc2ldwlu",
+          "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
+          "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
+          "url": "https://flash.jin10.com/detail/20261016133906880800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "产品更新"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "e8o9r6nbzubaxfmklbroaf0h",
+          "title": "隔夜美股涨势提振亚太，日股涨近2%，韩股一度涨超3%，印尼股市暴跌11%",
+          "summary": "隔夜美股涨势提振亚太股市，日经225涨约1.7%，韩综指早盘一度涨超3%；印尼股市因MSCI降级消息暴跌逾11%触发熔断。英伟达CEO黄仁勋为CoreWeave财务状况背书缓解AI融资担忧。",
+          "url": "https://wallstreetcn.com/articles/3783755",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T03:24:37.000Z",
+          "score": 66,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 117,
+    "selected": 4,
+    "llmCalls": 111
+  }
+}
