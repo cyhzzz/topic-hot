@@ -1,0 +1,140 @@
+{
+  "day": "2026-10-17",
+  "generatedAt": "2026-10-17T05:32:24.902Z",
+  "lead": {
+    "title": "牛散内幕交易罚没超5亿，海外AI抛售蔓延债市",
+    "paragraph": "证监会近日连开两张巨额罚单，3名自然人因内幕交易和市场操纵被合计罚没逾5亿元，彰显监管高压态势。海外市场同样波澜迭起，纳斯达克100本周累跌5.5%，恐慌指数骤升21.45%，AI概念股抛售潮蔓延至债市，贵金属也同步承压。",
+    "highlights": [
+      "证监会罚没3名牛散近5.1亿元，内幕+操纵双重重拳落地。",
+      "纳斯达克100本周累跌5.5%，半导体板块八连跌，AI债市抛售蔓延。",
+      "黄金较1月高点跌超27%，白银价格腰斩，实物市场结构性失衡加剧。",
+      "VIX恐慌指数狂飙21.45%，布伦特原油收于约110美元。",
+      "多家部门联合发布风险提示，覆盖就业、网络、教育等多领域。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "hhzf2qupn33z5mrzwkplfbho",
+          "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+          "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
+          "url": "https://www.cls.cn/detail/2507088",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 61,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "rapl2jrfho80tcx7n16y54km",
+          "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
+          "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
+          "url": "https://qzs.stcn.com/article/detail/642095.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-17T02:21:00.000Z",
+          "score": 57,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "fp62e97vl4ukx428i2m2lb4r",
+          "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
+          "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
+          "url": "https://qzs.stcn.com/article/detail/642108.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-17T04:48:00.000Z",
+          "score": 55,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "uttghfpn6pegut9ph560cv4d",
+          "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
+          "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
+          "url": "https://wallstreetcn.com/articles/3783826",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-17T01:13:15.000Z",
+          "score": 70,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "海外同业"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "c21uuuomv1zj3koi32gxalzc",
+          "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+          "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
+          "url": "https://wallstreetcn.com/articles/3783830",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-17T02:58:22.000Z",
+          "score": 69,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "fbsnbgbnjiqpvfp6v1zkjstw",
+          "title": "突然！恐慌指数，狂飙21.45%！",
+          "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
+          "url": "https://qzs.stcn.com/article/detail/642107.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-17T04:47:00.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ma3xw960wjmoa2wy77of1p44",
+          "title": "这家券商副总经理，拟任地级市副市长！",
+          "summary": "这家券商副总经理，拟任地级市副市长！",
+          "url": "https://qzs.stcn.com/article/detail/642106.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-17T04:47:00.000Z",
+          "score": 53,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 120,
+    "selected": 7,
+    "llmCalls": 99
+  }
+}

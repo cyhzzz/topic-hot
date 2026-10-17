@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T05:47:23.700Z",
-  "today": "2026-10-16",
+  "generatedAt": "2026-10-17T05:32:24.902Z",
+  "today": "2026-10-17",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,146 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-17",
+      "generatedAt": "2026-10-17T05:32:24.902Z",
+      "lead": {
+        "title": "牛散内幕交易罚没超5亿，海外AI抛售蔓延债市",
+        "paragraph": "证监会近日连开两张巨额罚单，3名自然人因内幕交易和市场操纵被合计罚没逾5亿元，彰显监管高压态势。海外市场同样波澜迭起，纳斯达克100本周累跌5.5%，恐慌指数骤升21.45%，AI概念股抛售潮蔓延至债市，贵金属也同步承压。",
+        "highlights": [
+          "证监会罚没3名牛散近5.1亿元，内幕+操纵双重重拳落地。",
+          "纳斯达克100本周累跌5.5%，半导体板块八连跌，AI债市抛售蔓延。",
+          "黄金较1月高点跌超27%，白银价格腰斩，实物市场结构性失衡加剧。",
+          "VIX恐慌指数狂飙21.45%，布伦特原油收于约110美元。",
+          "多家部门联合发布风险提示，覆盖就业、网络、教育等多领域。"
+        ]
+      },
+      "sections": [
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "hhzf2qupn33z5mrzwkplfbho",
+              "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+              "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
+              "url": "https://www.cls.cn/detail/2507088",
+              "sourceId": "hot-cls",
+              "sourceName": "财联社 · 热榜",
+              "score": 61,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "rapl2jrfho80tcx7n16y54km",
+              "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
+              "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
+              "url": "https://qzs.stcn.com/article/detail/642095.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-17T02:21:00.000Z",
+              "score": 57,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "fp62e97vl4ukx428i2m2lb4r",
+              "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
+              "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
+              "url": "https://qzs.stcn.com/article/detail/642108.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-17T04:48:00.000Z",
+              "score": 55,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "uttghfpn6pegut9ph560cv4d",
+              "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
+              "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
+              "url": "https://wallstreetcn.com/articles/3783826",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-17T01:13:15.000Z",
+              "score": 70,
+              "category": "market",
+              "tags": [
+                "市场动态",
+                "海外同业"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "c21uuuomv1zj3koi32gxalzc",
+              "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+              "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
+              "url": "https://wallstreetcn.com/articles/3783830",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-17T02:58:22.000Z",
+              "score": 69,
+              "category": "market",
+              "tags": [
+                "市场动态",
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "fbsnbgbnjiqpvfp6v1zkjstw",
+              "title": "突然！恐慌指数，狂飙21.45%！",
+              "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
+              "url": "https://qzs.stcn.com/article/detail/642107.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-17T04:47:00.000Z",
+              "score": 53,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ma3xw960wjmoa2wy77of1p44",
+              "title": "这家券商副总经理，拟任地级市副市长！",
+              "summary": "这家券商副总经理，拟任地级市副市长！",
+              "url": "https://qzs.stcn.com/article/detail/642106.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-17T04:47:00.000Z",
+              "score": 53,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 120,
+        "selected": 7,
+        "llmCalls": 99
+      }
+    },
     {
       "day": "2026-10-16",
       "generatedAt": "2026-10-16T05:47:23.700Z",
@@ -1409,7 +1549,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -1423,7 +1563,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1436,7 +1576,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_84e96edb7e",
@@ -1449,7 +1589,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1462,7 +1602,7 @@
         "dd3655aextngqggwnd682qsc",
         "aryj7be2pnduzn0l2d0s74xp"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1475,7 +1615,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1488,7 +1628,7 @@
         "bl5rpv2o8dnjf6wys2c957f1",
         "xmvltady5nxhaw1wchmr3cum"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1501,14 +1641,30 @@
         "xlvxcq4st7y1e1n5udih4oo2",
         "qt7lzpwye79t63nlgjvfxt0y",
         "egz8payohskwz39ajmwdsn1f",
+        "e4or3wcgmgc0ymx35uwu06kr",
+        "si7ka36rz01lzlinrpcve3iu",
         "hng28hbbaeys4r6179vy40dp",
         "maedz20a2155qih4aja5fe3s",
         "ttxdf7bfqalup9pky2vef248",
         "tlsmg8wmvt7di0z33qce3atq",
         "ce4ub25mx5r60cx8002dxi7k",
-        "jyws9vt11ygvvajlhadpekfa"
+        "jyws9vt11ygvvajlhadpekfa",
+        "xakh95lkjplapmxw1whct5ht"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
+    },
+    {
+      "id": "ev_2b884ab4dd",
+      "title": "多方判断电价拐点已现",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "z1hi6z1xvpxh2k29uq40iie4",
+        "iissn02o1rue1lgpei08lfti"
+      ],
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_890366d991",
@@ -1523,7 +1679,7 @@
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_920de07728",
@@ -1536,7 +1692,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1549,7 +1705,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1565,9 +1721,10 @@
         "n9uhkzo8z3zouz36vffvf2tm",
         "urly6s2gcvj7xi6a99oxvktz",
         "ajlks084u7sfkj3gzxmcl5vq",
-        "lvee2uv6z5fazmuljgqtckyb"
+        "lvee2uv6z5fazmuljgqtckyb",
+        "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1580,7 +1737,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -1595,7 +1752,21 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
+    },
+    {
+      "id": "ev_ef554a74a0",
+      "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "isylixani5q01gd8n01gr287",
+        "mf77ud2mpj8q6ki5aet8te2r",
+        "utvrcmhauspfu1mli8zhtslw"
+      ],
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1608,7 +1779,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1622,7 +1793,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1635,7 +1806,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_0fcc67a1e1",
@@ -1648,7 +1819,7 @@
         "udyf3x551fce855ehtehzddb",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_7010598462",
@@ -1661,7 +1832,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -1674,7 +1845,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_c6359a8879",
@@ -1687,7 +1858,7 @@
         "tgxs58s0rbw1ekmk94ivk0du",
         "uzis1k6bsr6r5ychnuf18ru7"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -1700,7 +1871,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1713,7 +1884,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1726,7 +1897,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1739,7 +1910,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1752,7 +1923,7 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_8f49574cf5",
@@ -1765,7 +1936,7 @@
         "xu4cao0rcbstlo6545kzpuu7",
         "gd0smfiwueuupb6svumyk8u5"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -1779,7 +1950,20 @@
         "z3pdd7d1f91el41c8ethoidc",
         "pv3fddoyso5ifj31dj9phwn4"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
+    },
+    {
+      "id": "ev_ce40593ccc",
+      "title": "破解跨域协同瓶颈 智能体互联平台发布",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "zxt5307frej9c08mwgj4j7es",
+        "joggjwjo581s5mig47h2daxj"
+      ],
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -1792,7 +1976,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -1805,7 +1989,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -1818,7 +2002,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_ea10e5070f",
@@ -1831,7 +2015,7 @@
         "dfhkw40c4dolsfxylmp2pi4i",
         "yq1aak0jx928fn0uf612sjic"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -1844,7 +2028,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -1857,7 +2041,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_301045330e",
@@ -1870,7 +2054,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -1883,7 +2067,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -1896,7 +2080,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -1909,7 +2093,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -1922,7 +2106,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -1935,7 +2119,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -1949,7 +2133,20 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
+    },
+    {
+      "id": "ev_43a0448082",
+      "title": "全国秋粮收获过七成",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "xxd2ilcwu5q281gx7juyaawi",
+        "a2rwgklqqq8ppzpy8rlex894"
+      ],
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -1962,7 +2159,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -1975,7 +2172,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -1988,7 +2185,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -2001,7 +2198,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -2014,7 +2211,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-16T05:47:23.700Z"
+      "updatedAt": "2026-10-17T05:32:24.902Z"
     }
   ],
   "items": [
@@ -2290,6 +2487,22 @@
       "entityTags": []
     },
     {
+      "id": "uttghfpn6pegut9ph560cv4d",
+      "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
+      "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
+      "url": "https://wallstreetcn.com/articles/3783826",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-17T01:13:15.000Z",
+      "score": 70,
+      "category": "market",
+      "tags": [
+        "市场动态",
+        "海外同业"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "idyxlexsprw6jfw1iyo84eng",
       "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
       "summary": "高盛认为AI投资叙事正从芯片军备竞赛转向\"推理经济\"与应用层，市场渴望下一个增长点。半导体板块估值压缩，资金向应用端迁移。",
@@ -2317,6 +2530,22 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "c21uuuomv1zj3koi32gxalzc",
+      "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+      "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
+      "url": "https://wallstreetcn.com/articles/3783830",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-17T02:58:22.000Z",
+      "score": 69,
+      "category": "market",
+      "tags": [
+        "市场动态",
+        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -2739,6 +2968,20 @@
       "entityTags": []
     },
     {
+      "id": "hhzf2qupn33z5mrzwkplfbho",
+      "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+      "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
+      "url": "https://www.cls.cn/detail/2507088",
+      "sourceId": "hot-cls",
+      "sourceName": "财联社 · 热榜",
+      "score": 61,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "gs6q7mvnsvc44lm75p7l3649",
       "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
       "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备…",
@@ -2784,6 +3027,21 @@
       "entityTags": []
     },
     {
+      "id": "rapl2jrfho80tcx7n16y54km",
+      "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
+      "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
+      "url": "https://qzs.stcn.com/article/detail/642095.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-17T02:21:00.000Z",
+      "score": 57,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "jz3nnjhgi7e2s501hlxp8m0y",
       "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
       "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
@@ -2795,6 +3053,51 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "fp62e97vl4ukx428i2m2lb4r",
+      "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
+      "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
+      "url": "https://qzs.stcn.com/article/detail/642108.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-17T04:48:00.000Z",
+      "score": 55,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "fbsnbgbnjiqpvfp6v1zkjstw",
+      "title": "突然！恐慌指数，狂飙21.45%！",
+      "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
+      "url": "https://qzs.stcn.com/article/detail/642107.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-17T04:47:00.000Z",
+      "score": 53,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ma3xw960wjmoa2wy77of1p44",
+      "title": "这家券商副总经理，拟任地级市副市长！",
+      "summary": "这家券商副总经理，拟任地级市副市长！",
+      "url": "https://qzs.stcn.com/article/detail/642106.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-17T04:47:00.000Z",
+      "score": 53,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3004,7 +3307,7 @@
     }
   ],
   "meta": {
-    "itemCount": 1033,
-    "llmCalls": 130
+    "itemCount": 1151,
+    "llmCalls": 133
   }
 }

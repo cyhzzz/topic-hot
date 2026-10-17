@@ -1,11 +1,11 @@
 {
-  "lastRunAt": "2026-10-16T05:47:23.700Z",
-  "lastSuccessAt": "2026-10-16T06:02:38.999Z",
-  "llmCallsUsed": 130,
+  "lastRunAt": "2026-10-17T05:32:24.902Z",
+  "lastSuccessAt": "2026-10-17T05:44:14.708Z",
+  "llmCallsUsed": 133,
   "fetchedFeeds": 10,
-  "newItems": 117,
-  "selectedToday": 4,
+  "newItems": 120,
+  "selectedToday": 7,
   "errors": [
-    "fetch rss-szse-rules: The operation was aborted due to timeout"
+    "fetch web-csrc-news: Connect Timeout Error (attempted addresses: 45.253.17.38:443, 45.253.17.33:443, 45.253.17.34:443, 45.253.17.35:443, 45.253.17.31:443, 45.253.17.32:443, 45.253.17.36:443, 45.253.17.37:443, timeout: 15000ms)"
   ]
 }
