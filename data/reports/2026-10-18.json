@@ -1,0 +1,78 @@
+{
+  "day": "2026-10-18",
+  "generatedAt": "2026-10-18T05:48:33.492Z",
+  "lead": {
+    "title": "Hartnett预警科技股11月重启，CoreWeave遭遇股债双杀",
+    "paragraph": "美银Hartnett表示此前精准预测科技股大跌的卖出信号已终止，但明确不等于买入信号，11月中旬能否重返科技股取决于芯片价格走势。同时，AI云计算公司CoreWeave成为本轮AI回调的风暴眼，股价单周重挫25%，债券收益率飙升至15%。",
+    "highlights": [
+      "美银Hartnett卖出信号已终止，但重申不等于买入信号，关键观察芯片价格",
+      "CoreWeAVE股价单周暴跌25%，债券收益率飙升至15%，五年违约概率超60%",
+      "IMF罕见为日本货币政策正常化背书，年内加息预期升温",
+      "费城半导体指数跌11%，纳斯达克100跌5.5%，AI投资风险加速积聚"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "cgk2hw7jtf48pm0v7blr30qj",
+          "title": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
+          "summary": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其\"卖出信号\"指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中…",
+          "url": "https://wallstreetcn.com/articles/3783850",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-18T03:14:17.000Z",
+          "score": 75,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "zwmmio8do2f3b3p8hyr99kpc",
+          "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+          "summary": "IMF罕见为日本货币政策正常化背书，警告若通胀超预期日本央行可能加快加息；日本央行行长植田和男重申将锚定2%通胀目标，年内再加息预期升温，全球债市承压加剧。",
+          "url": "https://wallstreetcn.com/articles/3783840",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-17T09:44:22.000Z",
+          "score": 72,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "vhmz7d3rzoi61bgkrvmatm1o",
+          "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+          "summary": "AI云计算公司CoreWeave股价单周重挫25%，债券收益率飙升至15%，五年违约概率超60%；费城半导体指数跌11%、纳斯达克100跌5.5%，反映AI投资热潮中风险加速积聚。",
+          "url": "https://wallstreetcn.com/articles/3783851",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-18T03:54:30.000Z",
+          "score": 67,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 106,
+    "selected": 3,
+    "llmCalls": 81
+  }
+}

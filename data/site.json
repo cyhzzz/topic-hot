@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T05:32:24.902Z",
-  "today": "2026-10-17",
+  "generatedAt": "2026-10-18T05:48:33.492Z",
+  "today": "2026-10-18",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,84 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-18",
+      "generatedAt": "2026-10-18T05:48:33.492Z",
+      "lead": {
+        "title": "Hartnett预警科技股11月重启，CoreWeave遭遇股债双杀",
+        "paragraph": "美银Hartnett表示此前精准预测科技股大跌的卖出信号已终止，但明确不等于买入信号，11月中旬能否重返科技股取决于芯片价格走势。同时，AI云计算公司CoreWeave成为本轮AI回调的风暴眼，股价单周重挫25%，债券收益率飙升至15%。",
+        "highlights": [
+          "美银Hartnett卖出信号已终止，但重申不等于买入信号，关键观察芯片价格",
+          "CoreWeAVE股价单周暴跌25%，债券收益率飙升至15%，五年违约概率超60%",
+          "IMF罕见为日本货币政策正常化背书，年内加息预期升温",
+          "费城半导体指数跌11%，纳斯达克100跌5.5%，AI投资风险加速积聚"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "cgk2hw7jtf48pm0v7blr30qj",
+              "title": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
+              "summary": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其\"卖出信号\"指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中…",
+              "url": "https://wallstreetcn.com/articles/3783850",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-18T03:14:17.000Z",
+              "score": 75,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "zwmmio8do2f3b3p8hyr99kpc",
+              "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+              "summary": "IMF罕见为日本货币政策正常化背书，警告若通胀超预期日本央行可能加快加息；日本央行行长植田和男重申将锚定2%通胀目标，年内再加息预期升温，全球债市承压加剧。",
+              "url": "https://wallstreetcn.com/articles/3783840",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-17T09:44:22.000Z",
+              "score": 72,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "vhmz7d3rzoi61bgkrvmatm1o",
+              "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+              "summary": "AI云计算公司CoreWeave股价单周重挫25%，债券收益率飙升至15%，五年违约概率超60%；费城半导体指数跌11%、纳斯达克100跌5.5%，反映AI投资热潮中风险加速积聚。",
+              "url": "https://wallstreetcn.com/articles/3783851",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-18T03:54:30.000Z",
+              "score": 67,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 106,
+        "selected": 3,
+        "llmCalls": 81
+      }
+    },
     {
       "day": "2026-10-17",
       "generatedAt": "2026-10-17T05:32:24.902Z",
@@ -1549,7 +1627,7 @@
         "psap92nblpo621cs4nkl3ytl",
         "dnwjv2b3vyfw2bw7njse1lnm"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_d3af3036b1",
@@ -1563,7 +1641,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1576,7 +1654,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_84e96edb7e",
@@ -1589,7 +1667,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1602,7 +1680,7 @@
         "dd3655aextngqggwnd682qsc",
         "aryj7be2pnduzn0l2d0s74xp"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1615,7 +1693,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1628,7 +1706,7 @@
         "bl5rpv2o8dnjf6wys2c957f1",
         "xmvltady5nxhaw1wchmr3cum"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1651,7 +1729,7 @@
         "jyws9vt11ygvvajlhadpekfa",
         "xakh95lkjplapmxw1whct5ht"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1664,7 +1742,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_890366d991",
@@ -1679,7 +1757,7 @@
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_920de07728",
@@ -1692,7 +1770,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1705,7 +1783,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1724,7 +1802,7 @@
         "lvee2uv6z5fazmuljgqtckyb",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1737,7 +1815,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_b24bb7ef10",
@@ -1752,7 +1830,7 @@
         "zaiz4zofmbpddja7o0drazq3",
         "hei7u4pfne721c2a2j81ajmo"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -1766,7 +1844,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1779,7 +1857,20 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_dc42558d81",
+      "title": "中国稀土集团与哈电集团签署战略合作框架协议",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "vz0a2h8sgen95ph1022klwbc",
+        "qy91lh41oj0zqtth79wj3a8w"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1793,7 +1884,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1806,7 +1897,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_0fcc67a1e1",
@@ -1819,7 +1910,7 @@
         "udyf3x551fce855ehtehzddb",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_7010598462",
@@ -1832,7 +1923,7 @@
         "c3t9i5yy1g74ce4p5nuikghr",
         "bv3fjgpwfbpehm14zskyj9ld"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -1845,7 +1936,20 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_dea2ce678b",
+      "title": "阿根廷将获德法33.55亿美元融资购买潜艇",
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "itemIds": [
+        "uk02ow9ncli9qbbes5pzb8ke",
+        "v32t2lohq08j6nmzn9ib9akf"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_c6359a8879",
@@ -1858,7 +1962,7 @@
         "tgxs58s0rbw1ekmk94ivk0du",
         "uzis1k6bsr6r5ychnuf18ru7"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -1871,7 +1975,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1884,7 +1988,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -1897,7 +2001,20 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_62c8fded62",
+      "title": "法国多地发生大规模抗议 数百人被捕",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "jhi9q7v7bklvw6aqww0pdm0c",
+        "zzmkr6t1anfie0lalpe6y4tp"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_81569cdd8d",
@@ -1910,7 +2027,7 @@
         "zh0ypw7avwx847n7mu257jto",
         "wmzx0ilrik0glh1vem4liaq5"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_14359dbbd3",
@@ -1923,7 +2040,20 @@
         "x9f06nfpzd1drpjdk2se0uup",
         "t99omvssa5iqk79hddospigx"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_d8531af50a",
+      "title": "沙特称一直升机坠毁2人死亡",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "jcwumg0rj6yj2cjqed2ces9w",
+        "tz4bzq0o2nyk95285eifew1l"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_8f49574cf5",
@@ -1936,7 +2066,7 @@
         "xu4cao0rcbstlo6545kzpuu7",
         "gd0smfiwueuupb6svumyk8u5"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -1950,7 +2080,7 @@
         "z3pdd7d1f91el41c8ethoidc",
         "pv3fddoyso5ifj31dj9phwn4"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -1963,7 +2093,20 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_2c085a6716",
+      "title": "今年前三季度全国铁路发送旅客37.1亿人次 创历史同期新高",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "fj5i1wz7idxafle5ubl16073",
+        "gmkmhvdo6qqwb8ljriuo4pa4"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -1976,7 +2119,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -1989,7 +2132,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2002,7 +2145,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_ea10e5070f",
@@ -2015,7 +2158,7 @@
         "dfhkw40c4dolsfxylmp2pi4i",
         "yq1aak0jx928fn0uf612sjic"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2028,7 +2171,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2041,7 +2184,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_301045330e",
@@ -2054,7 +2197,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -2067,7 +2210,20 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_3a797c0f40",
+      "title": "涉嫌严重职务违法 广西壮族自治区政协原副主席黄日波被查",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "wx7u27mtu70x4la9p1gv80lo",
+        "m94zesbfjlqphuyigrcvoaba"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_3be865ca0a",
@@ -2080,7 +2236,7 @@
         "cbp7n5p544fue4z3eyuyap1n",
         "o018ulzxnxku9a1q38au8gvs"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -2093,7 +2249,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -2106,7 +2262,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -2119,7 +2275,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -2133,7 +2289,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2146,7 +2302,20 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_e79abcc407",
+      "title": "巴西亚马孙地区毁林面积降至38年最低",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "tp38oatvcxd03hwwl0svpsz5",
+        "d2zlzgwrijhpxrvf785kzjvm"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -2159,7 +2328,20 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
+    },
+    {
+      "id": "ev_120ebf1fc3",
+      "title": "黄金投资者周报上新！",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "v8mf6vqacp1cpt78zhtnf5dd",
+        "kkroj1xogf4s6wjq1r8eq7vm"
+      ],
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2172,7 +2354,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_2ea90d1712",
@@ -2185,7 +2367,7 @@
         "a85lyoc1njqi2upsple94sov",
         "tygn88nlkvkvmkbio70mffn4"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -2198,7 +2380,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -2211,7 +2393,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-17T05:32:24.902Z"
+      "updatedAt": "2026-10-18T05:48:33.492Z"
     }
   ],
   "items": [
@@ -2272,6 +2454,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "cgk2hw7jtf48pm0v7blr30qj",
+      "title": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
+      "summary": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其\"卖出信号\"指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中…",
+      "url": "https://wallstreetcn.com/articles/3783850",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-18T03:14:17.000Z",
+      "score": 75,
+      "category": "industry",
+      "tags": [
+        "券商经营"
       ],
       "entityTags": []
     },
@@ -2378,6 +2575,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "zwmmio8do2f3b3p8hyr99kpc",
+      "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+      "summary": "IMF罕见为日本货币政策正常化背书，警告若通胀超预期日本央行可能加快加息；日本央行行长植田和男重申将锚定2%通胀目标，年内再加息预期升温，全球债市承压加剧。",
+      "url": "https://wallstreetcn.com/articles/3783840",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-17T09:44:22.000Z",
+      "score": 72,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -2668,6 +2880,21 @@
       "category": "industry",
       "tags": [
         "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "vhmz7d3rzoi61bgkrvmatm1o",
+      "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+      "summary": "AI云计算公司CoreWeave股价单周重挫25%，债券收益率飙升至15%，五年违约概率超60%；费城半导体指数跌11%、纳斯达克100跌5.5%，反映AI投资热潮中风险加速积聚。",
+      "url": "https://wallstreetcn.com/articles/3783851",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-18T03:54:30.000Z",
+      "score": 67,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3307,7 +3534,7 @@
     }
   ],
   "meta": {
-    "itemCount": 1151,
-    "llmCalls": 133
+    "itemCount": 1255,
+    "llmCalls": 108
   }
 }
