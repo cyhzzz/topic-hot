@@ -1,0 +1,83 @@
+{
+  "day": "2026-10-19",
+  "generatedAt": "2026-10-19T06:05:36.382Z",
+  "lead": {
+    "title": "大摩看多SpaceX，两家A股券商终止上市",
+    "paragraph": "摩根士丹利重申对SpaceX超配评级，目标价300美元，指出Roadster大部分BOM价值来自SpaceX，技术融合远超市场预期。同日，两家A股券商终止上市引发关注。",
+    "highlights": [
+      "大摩重申SpaceX超配，认为当前股价存在明显低估",
+      "两大A股券商今日终止上市",
+      "文化传媒板块反弹，凡拓数创20%涨停"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "i0hli379qk1yn1740l4kxn3a",
+          "title": "两大A股券商，今日终止上市！",
+          "summary": "两大A股券商于今日终止上市。",
+          "url": "https://qzs.stcn.com/article/detail/642320.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-19T01:01:00.000Z",
+          "score": 55,
+          "category": "industry",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "egh4i1ryqcx04a0hsmv0mh8m",
+          "title": "文化传媒板块反弹，凡拓数创20%涨停",
+          "summary": "10月19日，文化传媒板块反弹，凡拓数创股价20%涨停。",
+          "url": "https://qzs.stcn.com/article/detail/642441.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-19T06:05:00.000Z",
+          "score": 51,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "oa55e94smwmwk2bt5etm0l1f",
+          "title": "Roadster秀的是SpaceX的实力！大摩：大部分BOM价值源于SpaceX，技术融合远超预期",
+          "summary": "摩根士丹利重申对SpaceX超配评级，目标价300美元，指出Roadster大部分BOM价值来自SpaceX，技术融合远超市场预期，当前股价存在明显低估。",
+          "url": "https://wallstreetcn.com/articles/3783884",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-19T03:20:03.000Z",
+          "score": 69,
+          "category": "opinion",
+          "tags": [
+            "观点/评论"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 121,
+    "selected": 3,
+    "llmCalls": 112
+  }
+}
