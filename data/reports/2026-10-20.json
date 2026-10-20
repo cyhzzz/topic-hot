@@ -1,0 +1,142 @@
+{
+  "day": "2026-10-20",
+  "generatedAt": "2026-10-20T05:57:36.544Z",
+  "lead": {
+    "title": "吴清发声资本市场十五五高质量发展 潘功胜提两项金融基建改革",
+    "paragraph": "证监会主席吴清在2026金融街论坛年会强调统筹发展和安全、坚持开放与合作，推进资本市场“十五五”高质量发展；央行行长潘功胜同日表示拟设非银机构大额赎回流动性支持工具，并以市场化利率指标替代存贷款基准利率。与此同时，证监会发布《违规转让证券案件行政处罚实施规则》，明确四类违规转让行为认定标准，将于2026年12月1日起施行。",
+    "highlights": [
+      "吴清：上市公司上半年营收37.7万亿元、净利润同比增长19.5%创近三年新高，将完善违规减持处罚规则",
+      "潘功胜：央行拟设非银机构大额赎回流动性支持工具，推进存贷款基准利率退出历史进程",
+      "韩国最大IPO首日暴跌32%：AI算力基础设施IPO定价逻辑从增长预期转向资本开支审视",
+      "证监会发布《违规转让证券案件行政处罚实施规则》，自2026年12月1日起施行",
+      "证监会就《证券市场先行赔付指导意见》公开征求意见，拟将其纳入行政许可与处罚裁量考量"
+    ]
+  },
+  "sections": [
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "k6gxopn837vggs522qqnrmbh",
+          "title": "统筹发展和安全 坚持开放与合作 奋力谱写资本市场“十五五”高质量发展新篇章——吴清主席在2026金融街论坛年会上的主题演讲",
+          "summary": "证监会主席吴清在2026金融街论坛年会发表主题演讲，强调统筹发展和安全、坚持开放与合作，推进资本市场“十五五”高质量发展，上市公司上半年营收37.7万亿元、净利润同比增长19.5%创近三年新高。",
+          "url": "https://www.csrc.gov.cn/csrc/c106311/c7665578/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-19T09:37:05.000Z",
+          "score": 81,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "a8uhay84ezgoyy6hrzrltkfm",
+          "title": "中国证监会就《证券市场先行赔付指导意见》公开征求意见",
+          "summary": "中国证监会起草《证券市场先行赔付指导意见》并向社会公开征求意见，拟将先行赔付情况作为行政许可审查、行政处罚裁量及诚信监督管理的考量因素。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7665462/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-19T03:52:26.000Z",
+          "score": 79,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "wmmykbri2fdqx0vpa6oa7mu6",
+          "title": "中国证监会有关部门负责人就《违规转让证券案件行政处罚实施规则》答记者问",
+          "summary": "中国证监会发布《违规转让证券案件行政处罚实施规则》，规范违规转让证券案件的行政处罚裁量，严厉打击各类违规减持行为，为证券行政执法提供依据。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7665427/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-19T01:55:38.000Z",
+          "score": 78,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "vgz414a4zdx0m3nd2d1h989a",
+          "title": "中国证监会发布《违规转让证券案件行政处罚实施规则》",
+          "summary": "中国证监会发布《违规转让证券案件行政处罚实施规则》，明确违规转让证券的认定标准与四种类别，自2026年12月1日起施行。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7665425/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-19T01:54:17.000Z",
+          "score": 74,
+          "category": "policy",
+          "tags": [
+            "监管政策",
+            "券商经营"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "r83ii4h0gkgn9fsaex1syyry",
+          "title": "潘功胜：央行拟设非银机构大额赎回流动性支持工具，用市场化利率指标替代存贷款基准利率",
+          "summary": "潘功胜表示央行拟设立非银机构大额赎回流动性支持工具，并计划用市场化利率指标替代存贷款基准利率。",
+          "url": "https://wallstreetcn.com/articles/3783926",
+          "sourceId": "hot-wallstreetcn",
+          "sourceName": "华尔街见闻 · 热榜",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "w6h68c1cwftsp5lhwq9k75kd",
+          "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
+          "summary": "证监会主席吴清表示，监管层将全力应对多重超预期输入性风险挑战，近期推出四项举措，重点完善违规减持处罚规则，强化市场约束机制。",
+          "url": "https://wallstreetcn.com/articles/3783929",
+          "sourceId": "hot-wallstreetcn",
+          "sourceName": "华尔街见闻 · 热榜",
+          "score": 62,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": [
+            "东方财富",
+            "同花顺"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "i3crn3j6dj6xqfbxn9kr7j9b",
+          "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
+          "summary": "韩国数据中心公司Elice在Kosdaq上市首日暴跌32%，散户认购超400倍后开盘即崩，市值半小时内蒸发约3000亿韩元，反映市场对AI算力基础设施IPO定价逻辑已从增长预期转向资本开支审视。",
+          "url": "https://wallstreetcn.com/articles/3783991",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T04:26:44.000Z",
+          "score": 79,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "其他"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 118,
+    "selected": 7,
+    "llmCalls": 130
+  }
+}
