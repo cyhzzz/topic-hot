@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T05:57:36.544Z",
-  "today": "2026-10-20",
+  "generatedAt": "2026-10-21T05:58:03.572Z",
+  "today": "2026-10-21",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,156 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-21",
+      "generatedAt": "2026-10-21T05:58:03.572Z",
+      "lead": {
+        "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大…",
+        "paragraph": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
+        "highlights": [
+          "看好明年需求，宁德时代还要回答哪些问题？",
+          "Ken Griffin详解“AI大跌”：算力类似航空，“边际定价”、“折旧期限…",
+          "营收狂奔、利润失速，宁德时代怎么了？"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "j30o572bz6n6pxdn5msg37rf",
+              "title": "3个月，5个“门外汉”，20万美元预算，Claude加持！“网红研究所”Citrini设计出了“抗蝎毒蛋白”",
+              "summary": "一个被忽视的行业，一群门外汉，一个35页提示词，一万小时H100，一张实验室账单，211个蛋白设计，17个阳性结果。 故事从投资问题开始，落在了试管里的新蛋白…",
+              "url": "https://wallstreetcn.com/articles/3784096",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-21T04:00:11.000Z",
+              "score": 61,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "vz7af6guy1b4kgdj7qgknzps",
+              "title": "证监会亮出三大举措，北交所、新三板一体化改革提速",
+              "summary": "证监会发布三大举措推进北交所与新三板一体化改革，改革提速旨在提升市场服务创新型中小企业能力与运行效率。",
+              "url": "https://qzs.stcn.com/article/detail/643163.html",
+              "sourceId": "web-qzs",
+              "sourceName": "券商中国",
+              "publishedAt": "2026-10-21T03:14:00.000Z",
+              "score": 58,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "hszlhdoshphwhy34zpkky2jy",
+              "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大跌10%，恒科指高开低走转跌，芯片股拉升",
+              "summary": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
+              "url": "https://wallstreetcn.com/articles/3784091",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-21T04:06:06.000Z",
+              "score": 75,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "pr5colcie4eag9ku86iw1rli",
+              "title": "看好明年需求，宁德时代还要回答哪些问题？",
+              "summary": "宁德时代预计明年全球动力及储能电池需求增长20%至30%，但业绩会次日A股低开5%、盘中跌超10%；三季度毛利率降至20.69%，盈利改善仍需观察。",
+              "url": "https://wallstreetcn.com/articles/3784099",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-21T03:59:13.000Z",
+              "score": 73,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ijgnyoiz70xykgrtj1jqjf5k",
+              "title": "营收狂奔、利润失速，宁德时代怎么了？",
+              "summary": "宁德时代第三季度营收约1652亿元同比增长59%，但归母净利润约212亿元同比仅增15%，单位净利润降至82元/kWh低于投行预期，市场担忧转向利润质量。",
+              "url": "https://wallstreetcn.com/articles/3784088",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-21T02:16:12.000Z",
+              "score": 66,
+              "category": "market",
+              "tags": [
+                "市场动态",
+                "观点/评论"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "bplavj7x9ibgnhrhxlv9zr95",
+              "title": "Allspring：印尼优质股面临超乎寻常的抛售压力",
+              "summary": "金十数据10月21日讯，Allspring全球投资公司指出，印尼的银行和电信股可能面临进一步下跌。尽管这些企业是印尼经营状况最稳健的公司，但在MSCI（明晟公…",
+              "url": "https://flash.jin10.com/detail/20261021131401833800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 61,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "opinion",
+          "title": "观点分析",
+          "items": [
+            {
+              "id": "qitnk7qvhux27vizgzby2vm5",
+              "title": "Ken Griffin详解“AI大跌”：算力类似航空，“边际定价”、“折旧期限”与“企业预算”三大陷阱",
+              "summary": "Ken Griffin在Citadel年度峰会上警告AI算力泡沫风险，将GPU比作航空公司，称边际定价机制下算力供过于求将导致现货租赁与API价格崩塌，可能重演2000年\"暗光纤\"覆辙。",
+              "url": "https://wallstreetcn.com/articles/3784098",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-21T03:51:40.000Z",
+              "score": 69,
+              "category": "opinion",
+              "tags": [
+                "市场动态",
+                "观点/评论"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 116,
+        "selected": 7,
+        "llmCalls": 111
+      }
+    },
     {
       "day": "2026-10-20",
       "generatedAt": "2026-10-20T05:57:36.544Z",
@@ -1842,19 +1992,6 @@
   ],
   "groups": [
     {
-      "id": "ev_f2e159dbb2",
-      "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "itemIds": [
-        "psap92nblpo621cs4nkl3ytl",
-        "dnwjv2b3vyfw2bw7njse1lnm"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
       "id": "ev_d3af3036b1",
       "title": "中国证监会召开资本市场和金融形势专家座谈会",
       "category": "policy",
@@ -1866,7 +2003,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1879,7 +2016,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_84e96edb7e",
@@ -1892,7 +2029,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1904,10 +2041,9 @@
       "itemIds": [
         "dd3655aextngqggwnd682qsc",
         "ma1flcwm6too4ezwwghtwedl",
-        "aryj7be2pnduzn0l2d0s74xp",
         "xqxe8gh5f5zfvxbi8sq2kmx8"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1920,7 +2056,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1933,7 +2069,7 @@
         "bl5rpv2o8dnjf6wys2c957f1",
         "xmvltady5nxhaw1wchmr3cum"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1949,8 +2085,11 @@
         "e4or3wcgmgc0ymx35uwu06kr",
         "si7ka36rz01lzlinrpcve3iu",
         "hng28hbbaeys4r6179vy40dp",
+        "igiuz289mpul4iamyz5opva8",
+        "x4gslclcjazmwieeqr3bnfjb",
         "maedz20a2155qih4aja5fe3s",
         "ttxdf7bfqalup9pky2vef248",
+        "esdde3rexcale2s1e94iecxb",
         "tlsmg8wmvt7di0z33qce3atq",
         "eg19c7zna8id6s475rn3q361",
         "ce4ub25mx5r60cx8002dxi7k",
@@ -1959,7 +2098,7 @@
         "xakh95lkjplapmxw1whct5ht",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1972,7 +2111,20 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
+    },
+    {
+      "id": "ev_0ad02f682d",
+      "title": "交易所数据显示，印度信实工业旗下Jio Platforms规模32亿美元的IPO在申购首日即获全额认购。",
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "itemIds": [
+        "x9lqy91gzcgrg0k8kpksfgy3",
+        "cz1i9fco1v9d629z2n6nk1a5"
+      ],
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_890366d991",
@@ -1983,13 +2135,14 @@
       ],
       "itemIds": [
         "dy3qnkjcz2allxof7mr269sl",
+        "ra10s6jjaoi1zgzn9p9nwjgh",
         "g3nna2ph1tpmczseg1q8xgkm",
         "rjq9ccyj3hmzgeuph08bynvz",
         "jinljylpa1dwk8trrhnb2tm0",
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_920de07728",
@@ -2002,7 +2155,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -2016,7 +2169,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -2029,7 +2182,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -2042,7 +2195,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -2054,16 +2207,16 @@
       "itemIds": [
         "k6i4b2si2udz9spugse8ex8g",
         "drjn5ih8bkk826fz9vd29wg2",
+        "vruan380oeifttgz7708ldq5",
         "bigyzcouasba6f6u9d8559nu",
         "n9uhkzo8z3zouz36vffvf2tm",
         "urly6s2gcvj7xi6a99oxvktz",
-        "ajlks084u7sfkj3gzxmcl5vq",
         "lvee2uv6z5fazmuljgqtckyb",
         "tpektdnddvifpwrjvmaruiuu",
         "rdnaw3xexnhu3cyqh44dhufr",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_538028f10e",
@@ -2076,22 +2229,33 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
-      "id": "ev_b24bb7ef10",
-      "title": "日本10年期国债收益率下跌7.5个基点，至3.005%。",
+      "id": "ev_15b21aaf71",
+      "title": "【数读IPO】国内军用特种线缆细分“小巨人”今日申购",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "sj297px1gfhdz83we43uy2fp",
-        "rnbarayvbhzdx0ocip60opu4",
-        "zaiz4zofmbpddja7o0drazq3",
-        "hei7u4pfne721c2a2j81ajmo"
+        "um03e83pupeayjphg8aij8da",
+        "fv8vzd1lo96co64tpzlw8lra"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
+    },
+    {
+      "id": "ev_59e694802e",
+      "title": "如何看待特朗普频频公开提及台积电？国台办回应",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "rzurh0zlp12u17jvzoc8gr6b",
+        "g1bwa79uqsge8i92thmwmq8h"
+      ],
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -2105,7 +2269,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -2118,7 +2282,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -2131,7 +2295,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -2144,7 +2308,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_892b2927de",
@@ -2158,7 +2322,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -2171,7 +2335,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -2184,7 +2348,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_0fcc67a1e1",
@@ -2194,26 +2358,13 @@
         "市场动态"
       ],
       "itemIds": [
-        "udyf3x551fce855ehtehzddb",
+        "yxumbzg7wgwmccpzz1nf5eu3",
         "qi4v9ejd1ho615h1gfpvrdu9",
         "almhbzck4g2wtzdsxi0dcuto",
         "xsh2l0p00pral3a6gpu119lz",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
-      "id": "ev_7010598462",
-      "title": "巴西总统卢拉调整竞选策略以提振选情",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "c3t9i5yy1g74ce4p5nuikghr",
-        "bv3fjgpwfbpehm14zskyj9ld"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -2226,7 +2377,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -2239,7 +2390,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_c6359a8879",
@@ -2252,7 +2403,7 @@
         "tgxs58s0rbw1ekmk94ivk0du",
         "uzis1k6bsr6r5ychnuf18ru7"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -2265,7 +2416,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_7044af8608",
@@ -2278,7 +2429,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -2291,7 +2442,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -2304,33 +2455,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
-      "id": "ev_81569cdd8d",
-      "title": "财联社10月9日电，SK集团会长崔泰源表示，光州芯片园区规模约为龙仁园区的三分之二。",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "zh0ypw7avwx847n7mu257jto",
-        "wmzx0ilrik0glh1vem4liaq5"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
-      "id": "ev_14359dbbd3",
-      "title": "AI前沿日报-10月10日",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "x9f06nfpzd1drpjdk2se0uup",
-        "t99omvssa5iqk79hddospigx"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2343,7 +2468,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_8f49574cf5",
@@ -2356,7 +2481,7 @@
         "xu4cao0rcbstlo6545kzpuu7",
         "gd0smfiwueuupb6svumyk8u5"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -2370,7 +2495,7 @@
         "z3pdd7d1f91el41c8ethoidc",
         "pv3fddoyso5ifj31dj9phwn4"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2383,7 +2508,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2396,7 +2521,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2409,7 +2534,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_eed51d734a",
@@ -2422,7 +2547,7 @@
         "i7v30g4h5d9uhyrf8d2vqr6e",
         "n4uthbh80x756kgvmntmkoc2"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -2435,7 +2560,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2448,7 +2573,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_ea10e5070f",
@@ -2461,7 +2586,7 @@
         "dfhkw40c4dolsfxylmp2pi4i",
         "yq1aak0jx928fn0uf612sjic"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2474,7 +2599,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2487,7 +2612,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_301045330e",
@@ -2500,7 +2625,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -2513,7 +2638,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2526,20 +2651,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
-      "id": "ev_3be865ca0a",
-      "title": "大行评级丨大和：三星电子第三季初步业绩保持稳固，维持“买入”评级",
-      "category": "industry",
-      "tags": [
-        "券商经营"
-      ],
-      "itemIds": [
-        "cbp7n5p544fue4z3eyuyap1n",
-        "o018ulzxnxku9a1q38au8gvs"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_2e805c0fba",
@@ -2552,7 +2664,7 @@
         "sxdjmq1w77339ov1cin5fxm8",
         "ih5hkio0o9tgvjdzoq0al0fq"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -2565,7 +2677,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -2578,7 +2690,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -2592,7 +2704,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2605,7 +2717,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2618,7 +2730,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -2631,7 +2743,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_120ebf1fc3",
@@ -2644,7 +2756,7 @@
         "v8mf6vqacp1cpt78zhtnf5dd",
         "kkroj1xogf4s6wjq1r8eq7vm"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2657,20 +2769,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
-    },
-    {
-      "id": "ev_2ea90d1712",
-      "title": "美媒：美方将在美乌新一轮会谈中提出停火“新点子”",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "a85lyoc1njqi2upsple94sov",
-        "tygn88nlkvkvmkbio70mffn4"
-      ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -2683,7 +2782,20 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
+    },
+    {
+      "id": "ev_909a60678b",
+      "title": "据塔斯社：美国总统特使威特科夫抵达俄罗斯圣彼得堡。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "lqsi0wzfm9x12o7pdjeefjx6",
+        "yyh8xp74c0x3j3p3vc35m6rt"
+      ],
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -2696,7 +2808,7 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-20T05:57:36.544Z"
+      "updatedAt": "2026-10-21T05:58:03.572Z"
     }
   ],
   "items": [
@@ -2822,6 +2934,21 @@
       "entityTags": []
     },
     {
+      "id": "hszlhdoshphwhy34zpkky2jy",
+      "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大跌10%，恒科指高开低走转跌，芯片股拉升",
+      "summary": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
+      "url": "https://wallstreetcn.com/articles/3784091",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-21T04:06:06.000Z",
+      "score": 75,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "cgk2hw7jtf48pm0v7blr30qj",
       "title": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
       "summary": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其\"卖出信号\"指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中…",
@@ -2922,6 +3049,21 @@
       "sourceName": "华尔街见闻",
       "publishedAt": "2026-10-11T05:11:42.000Z",
       "score": 74,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "pr5colcie4eag9ku86iw1rli",
+      "title": "看好明年需求，宁德时代还要回答哪些问题？",
+      "summary": "宁德时代预计明年全球动力及储能电池需求增长20%至30%，但业绩会次日A股低开5%、盘中跌超10%；三季度毛利率降至20.69%，盈利改善仍需观察。",
+      "url": "https://wallstreetcn.com/articles/3784099",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-21T03:59:13.000Z",
+      "score": 73,
       "category": "market",
       "tags": [
         "非证券/宏观"
@@ -3126,6 +3268,22 @@
       "entityTags": []
     },
     {
+      "id": "qitnk7qvhux27vizgzby2vm5",
+      "title": "Ken Griffin详解“AI大跌”：算力类似航空，“边际定价”、“折旧期限”与“企业预算”三大陷阱",
+      "summary": "Ken Griffin在Citadel年度峰会上警告AI算力泡沫风险，将GPU比作航空公司，称边际定价机制下算力供过于求将导致现货租赁与API价格崩塌，可能重演2000年\"暗光纤\"覆辙。",
+      "url": "https://wallstreetcn.com/articles/3784098",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-21T03:51:40.000Z",
+      "score": 69,
+      "category": "opinion",
+      "tags": [
+        "市场动态",
+        "观点/评论"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "oa55e94smwmwk2bt5etm0l1f",
       "title": "Roadster秀的是SpaceX的实力！大摩：大部分BOM价值源于SpaceX，技术融合远超预期",
       "summary": "摩根士丹利重申对SpaceX超配评级，目标价300美元，指出Roadster大部分BOM价值来自SpaceX，技术融合远超市场预期，当前股价存在明显低估。",
@@ -3319,6 +3477,22 @@
       "category": "market",
       "tags": [
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ijgnyoiz70xykgrtj1jqjf5k",
+      "title": "营收狂奔、利润失速，宁德时代怎么了？",
+      "summary": "宁德时代第三季度营收约1652亿元同比增长59%，但归母净利润约212亿元同比仅增15%，单位净利润降至82元/kWh低于投行预期，市场担忧转向利润质量。",
+      "url": "https://wallstreetcn.com/articles/3784088",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-21T02:16:12.000Z",
+      "score": 66,
+      "category": "market",
+      "tags": [
+        "市场动态",
+        "观点/评论"
       ],
       "entityTags": []
     },
@@ -3621,6 +3795,35 @@
       "entityTags": []
     },
     {
+      "id": "j30o572bz6n6pxdn5msg37rf",
+      "title": "3个月，5个“门外汉”，20万美元预算，Claude加持！“网红研究所”Citrini设计出了“抗蝎毒蛋白”",
+      "summary": "一个被忽视的行业，一群门外汉，一个35页提示词，一万小时H100，一张实验室账单，211个蛋白设计，17个阳性结果。 故事从投资问题开始，落在了试管里的新蛋白…",
+      "url": "https://wallstreetcn.com/articles/3784096",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-21T04:00:11.000Z",
+      "score": 61,
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "bplavj7x9ibgnhrhxlv9zr95",
+      "title": "Allspring：印尼优质股面临超乎寻常的抛售压力",
+      "summary": "金十数据10月21日讯，Allspring全球投资公司指出，印尼的银行和电信股可能面临进一步下跌。尽管这些企业是印尼经营状况最稳健的公司，但在MSCI（明晟公…",
+      "url": "https://flash.jin10.com/detail/20261021131401833800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 61,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "hhzf2qupn33z5mrzwkplfbho",
       "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
       "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
@@ -3676,6 +3879,21 @@
       "tags": [
         "监管政策",
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "vz7af6guy1b4kgdj7qgknzps",
+      "title": "证监会亮出三大举措，北交所、新三板一体化改革提速",
+      "summary": "证监会发布三大举措推进北交所与新三板一体化改革，改革提速旨在提升市场服务创新型中小企业能力与运行效率。",
+      "url": "https://qzs.stcn.com/article/detail/643163.html",
+      "sourceId": "web-qzs",
+      "sourceName": "券商中国",
+      "publishedAt": "2026-10-21T03:14:00.000Z",
+      "score": 58,
+      "category": "policy",
+      "tags": [
+        "监管政策"
       ],
       "entityTags": []
     },
@@ -3990,7 +4208,7 @@
     }
   ],
   "meta": {
-    "itemCount": 1490,
-    "llmCalls": 134
+    "itemCount": 1500,
+    "llmCalls": 129
   }
 }

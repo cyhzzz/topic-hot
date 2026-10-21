@@ -1,0 +1,150 @@
+{
+  "day": "2026-10-21",
+  "generatedAt": "2026-10-21T05:58:03.572Z",
+  "lead": {
+    "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大…",
+    "paragraph": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
+    "highlights": [
+      "看好明年需求，宁德时代还要回答哪些问题？",
+      "Ken Griffin详解“AI大跌”：算力类似航空，“边际定价”、“折旧期限…",
+      "营收狂奔、利润失速，宁德时代怎么了？"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "j30o572bz6n6pxdn5msg37rf",
+          "title": "3个月，5个“门外汉”，20万美元预算，Claude加持！“网红研究所”Citrini设计出了“抗蝎毒蛋白”",
+          "summary": "一个被忽视的行业，一群门外汉，一个35页提示词，一万小时H100，一张实验室账单，211个蛋白设计，17个阳性结果。 故事从投资问题开始，落在了试管里的新蛋白…",
+          "url": "https://wallstreetcn.com/articles/3784096",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T04:00:11.000Z",
+          "score": 61,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "vz7af6guy1b4kgdj7qgknzps",
+          "title": "证监会亮出三大举措，北交所、新三板一体化改革提速",
+          "summary": "证监会发布三大举措推进北交所与新三板一体化改革，改革提速旨在提升市场服务创新型中小企业能力与运行效率。",
+          "url": "https://qzs.stcn.com/article/detail/643163.html",
+          "sourceId": "web-qzs",
+          "sourceName": "券商中国",
+          "publishedAt": "2026-10-21T03:14:00.000Z",
+          "score": 58,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "hszlhdoshphwhy34zpkky2jy",
+          "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大跌10%，恒科指高开低走转跌，芯片股拉升",
+          "summary": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
+          "url": "https://wallstreetcn.com/articles/3784091",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T04:06:06.000Z",
+          "score": 75,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "pr5colcie4eag9ku86iw1rli",
+          "title": "看好明年需求，宁德时代还要回答哪些问题？",
+          "summary": "宁德时代预计明年全球动力及储能电池需求增长20%至30%，但业绩会次日A股低开5%、盘中跌超10%；三季度毛利率降至20.69%，盈利改善仍需观察。",
+          "url": "https://wallstreetcn.com/articles/3784099",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T03:59:13.000Z",
+          "score": 73,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ijgnyoiz70xykgrtj1jqjf5k",
+          "title": "营收狂奔、利润失速，宁德时代怎么了？",
+          "summary": "宁德时代第三季度营收约1652亿元同比增长59%，但归母净利润约212亿元同比仅增15%，单位净利润降至82元/kWh低于投行预期，市场担忧转向利润质量。",
+          "url": "https://wallstreetcn.com/articles/3784088",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T02:16:12.000Z",
+          "score": 66,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "观点/评论"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "bplavj7x9ibgnhrhxlv9zr95",
+          "title": "Allspring：印尼优质股面临超乎寻常的抛售压力",
+          "summary": "金十数据10月21日讯，Allspring全球投资公司指出，印尼的银行和电信股可能面临进一步下跌。尽管这些企业是印尼经营状况最稳健的公司，但在MSCI（明晟公…",
+          "url": "https://flash.jin10.com/detail/20261021131401833800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "qitnk7qvhux27vizgzby2vm5",
+          "title": "Ken Griffin详解“AI大跌”：算力类似航空，“边际定价”、“折旧期限”与“企业预算”三大陷阱",
+          "summary": "Ken Griffin在Citadel年度峰会上警告AI算力泡沫风险，将GPU比作航空公司，称边际定价机制下算力供过于求将导致现货租赁与API价格崩塌，可能重演2000年\"暗光纤\"覆辙。",
+          "url": "https://wallstreetcn.com/articles/3784098",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T03:51:40.000Z",
+          "score": 69,
+          "category": "opinion",
+          "tags": [
+            "市场动态",
+            "观点/评论"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 116,
+    "selected": 7,
+    "llmCalls": 111
+  }
+}
