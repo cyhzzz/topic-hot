@@ -1,0 +1,123 @@
+{
+  "day": "2026-10-22",
+  "generatedAt": "2026-10-22T06:04:08.242Z",
+  "lead": {
+    "title": "A股创业板跌近3%失守，DeepSeek千亿元融资落地",
+    "paragraph": "今日A股低开低走，创业板指跌近3%领跌，沪指失守3700点；港股恒科指跌超4%，算力硬件与科网股齐跌，机器人板块逆势拉升。市场主线之外，AI赛道再传大消息——DeepSeek完成约1000亿元融资，宁德时代与腾讯参投，累计融资规模将达1500亿元。",
+    "highlights": [
+      "银河基金郑巍山因个人原因卸任三只产品，管理规模超210亿元，代表作任职回报超284%。",
+      "DeepSeek完成约1000亿元融资，宁德时代和腾讯参投，累计融资规模将达约1500亿元。",
+      "英伟达柏林GTC深化与ASE/SPIL、KYEC、Amkor合作，合计涉及资金超40亿美元，加速CPO部署。",
+      "A股机器人板块逆势走强，银行股稳健；特斯拉Q3财报显示汽车主业承压，资本支出低于市场预期。",
+      "南向资金今日净卖出40亿港元，多只宽基ETF集中放量，中证500ETF南方半小时成交超30亿元。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "tfwhqzmbhoy21rp2uqbmo5ly",
+          "title": "知名基金经理郑巍山“卸任”全部产品，投研高才流动“常态化”",
+          "summary": "银河基金公告，基金经理郑巍山因个人原因卸任银河创新成长等三只产品职务，其管理规模超210亿元，代表作任职回报超284%。",
+          "url": "https://wallstreetcn.com/articles/3784183",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T04:20:28.000Z",
+          "score": 77,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "xh9u4au24wahnvhcug0pfh2d",
+          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
+          "summary": "AI大模型公司DeepSeek完成约1000亿元融资，宁德时代和腾讯参投，本轮融资后累计融资规模将达约1500亿元。",
+          "url": "https://wallstreetcn.com/articles/3784177",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T03:02:57.000Z",
+          "score": 72,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "f13yyoydo8zlfu71519k7v88",
+          "title": "英伟达“柏林GTC”对供应链的影响：后端产能受限、CPO加速",
+          "summary": "英伟达在柏林GTC大会上宣布与ASE/SPIL、KYEC及Amkor等封测厂商深化合作，合计涉及资金规模逾40亿美元，以缓解AI芯片后端产能瓶颈并加速CPO技术部署。",
+          "url": "https://wallstreetcn.com/articles/3784179",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T04:07:31.000Z",
+          "score": 67,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "zwyik75ub55gyfyn6tp0wrkz",
+          "title": "创业板跌近3%，机器人逆势爆发，工行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超4%，科网股集体走低",
+          "summary": "10月22日A股低开低走，沪指跌0.89%失守3700点，创业板指跌2.77%领跌；AI硬件、芯片半导体再度调整，机器人逆势拉升，银行整体稳健。港股恒指跌2.87%，恒科指跌4.64%逼近3800点。多只宽基ETF集中放量，中证500ETF南方半小时成交超30亿。",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T04:04:44.000Z",
+          "score": 67,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "zi39q3inw0u40bg8fqq0v04r",
+          "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
+          "summary": "特斯拉发布Q3财报，加码AI和机器人业务，汽车主业承压，资本支出低于市场预期。",
+          "url": "https://www.cls.cn/detail/2511667",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "t4di3pw0vdt6qqsq2pin5su8",
+          "title": "财联社10月22日电，截至目前，南向资金净卖出额达40亿港元。",
+          "summary": "10月22日，南向资金净卖出额累计达40亿港元，为当日资金流向数据。",
+          "url": "https://www.cls.cn/detail/2512043",
+          "sourceId": "feed-cls",
+          "sourceName": "财联社 · 电报",
+          "score": 60,
+          "category": "market",
+          "tags": [
+            "市场动态",
+            "数据/榜单"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 108,
+    "selected": 6,
+    "llmCalls": 110
+  }
+}
