@@ -1,225 +1,5 @@
 [
   {
-    "id": "zy21tfzr74ye5idlbxh7hrgo",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142815821800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142815821800",
-    "title": "泽连斯基怒批美国“不愿意”帮乌克兰：俄军猛攻之际，美俄却讨论经济合作",
-    "language": "zh",
-    "excerpt": "✰",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "✰",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 10,
-      "understand": 50,
-      "average": 30
-    },
-    "selected": false
-  },
-  {
-    "id": "h6ao2sy1hm89iavhogeb9zss",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142755932800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142755932800",
-    "title": "OpenAI回应安全研究人员离职：因敏感信息违规，并非压制安全质疑",
-    "language": "zh",
-    "excerpt": "金十数据10月9日讯，OpenAI研究负责人表示，公司已在完成内部调查后，与Jasmine、Mikita和Tomek三名安全研究人员结束合作，原因是其违反了处理敏感信息的相关政策。OpenAI称，调查发现的问题超出三人在公开信中披露的内容，因此坚持终止雇佣关系的决定。公司强调，此举并非因三人提出AI安全担忧或表达不同意见，内部安全讨论和研究争论一直是日常工作的一部分。针对三人在公开信中提出的外部监督问题，OpenAI表示正推进与第三方安全评估机构的合作，并将在未来几周公布细节。公司认同确保前沿模型的可监控性需要全行业的共同承诺，可监控性长期以来一直是研究计划的核心。",
-    "tags": [
-      "券商经营"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "industry",
-    "summary": "金十数据10月9日讯，OpenAI研究负责人表示，公司已在完成内部调查后，与Jasmine、Mikita和Tomek三名安全研究人员结束合作，原因是其违反了处…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 65,
-      "average": 35
-    },
-    "selected": false
-  },
-  {
-    "id": "y1ry94k1kakimf9hyaw2362n",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142747395800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142747395800",
-    "title": "伊朗革命卫队海军政治事务官员：特朗普和媒体援引的关于途经霍尔木兹海峡石油运输量的数据不准确。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "伊朗革命卫队海军政治事务官员：特朗普和媒体援引的关于途经霍尔木兹海峡石油运输量的数据不准确。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "vrkhqkk3jnzl22e4sr7yr9bv",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142720382800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142720382800",
-    "title": "A股寒武纪成交额超100亿元，现涨0.73%。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "寒武纪单日成交额突破100亿元，当前股价上涨0.73%。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 52,
-      "understand": 46,
-      "average": 49
-    },
-    "selected": false
-  },
-  {
-    "id": "qyq73epdacjurw9vsuf18sgq",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142708677800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142708677800",
-    "title": "俄罗斯国防部：击中了乌克兰尼古拉耶夫港的一艘货船。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "俄罗斯国防部：击中了乌克兰尼古拉耶夫港的一艘货船。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 10,
-      "understand": 46,
-      "average": 28
-    },
-    "selected": false
-  },
-  {
-    "id": "xlc3bu98ycftbrwr9ketvmr9",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142546648800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142546648800",
-    "title": "伊朗革命卫队海军政治事务官员：我们对霍尔木兹海峡拥有完全控制权，以捍卫本国人民的利益。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "伊朗革命卫队海军政治事务官员：我们对霍尔木兹海峡拥有完全控制权，以捍卫本国人民的利益。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 2,
-      "understand": 46,
-      "average": 24
-    },
-    "selected": false
-  },
-  {
-    "id": "zkre9c3ca9c3ibn2sreovw4j",
-    "identityKey": "url:https://flash.jin10.com/detail/20261009142359387800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261009142359387800",
-    "title": "OpenAI：上周，在经过彻底调查并确认Jasmine、Mikita和Tomek违反了关于处理敏感信息的明确规定后，我们终止了与他们的雇佣关系。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.582Z",
-    "discoveredAt": "2026-10-09T07:22:36.582Z",
-    "category": "market",
-    "summary": "OpenAI：上周，在经过彻底调查并确认Jasmine、Mikita和Tomek违反了关于处理敏感信息的明确规定后，我们终止了与他们的雇佣关系。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "fbdi8nf5tqr4wvvx0ptf81sc",
-    "identityKey": "url:https://www.gelonghui.com/news/5321764",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5321764",
-    "title": "大摩下调标普全球目标价至477美元",
-    "language": "zh",
-    "excerpt": "大行评级",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.892Z",
-    "discoveredAt": "2026-10-09T07:22:36.892Z",
-    "category": "market",
-    "summary": "大行评级",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 28,
-      "understand": 50,
-      "average": 39
-    },
-    "selected": false
-  },
-  {
-    "id": "s6ie99odd2pp3gfk200ihzz3",
-    "identityKey": "url:https://www.gelonghui.com/news/5321763",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5321763",
-    "title": "东山精密(002384.SZ)：未来不排除进一步扩大在美国产能布局",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-09T07:22:36.892Z",
-    "discoveredAt": "2026-10-09T07:22:36.892Z",
-    "category": "market",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 28,
-      "understand": 50,
-      "average": 39
-    },
-    "selected": false
-  },
-  {
     "id": "vo9u2fzrpzwjeu03lfg2cmtl",
     "identityKey": "url:https://www.gelonghui.com/news/5321762",
     "sourceId": "hot-gelonghui",
@@ -37051,5 +36831,269 @@
       "average": 29
     },
     "selected": false
+  },
+  {
+    "id": "k5eqtpcjneulgy69tkck9hx8",
+    "identityKey": "url:https://www.csrc.gov.cn/csrc/c106311/c7666065/content.shtml",
+    "sourceId": "web-csrc-news",
+    "via": "web:web-csrc-news",
+    "url": "https://www.csrc.gov.cn/csrc/c106311/c7666065/content.shtml",
+    "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委员会主席洛戈泰斯",
+    "language": "zh",
+    "publishedAt": "2026-10-22T06:46:06.000Z",
+    "excerpt": "2026年10月14日，中国证监会主席吴清、财政部副部长郭婷婷在京共同会见了美国公众公司会计监督委员会（PCAOB）主席德梅特里奥斯·洛戈泰斯（Demetrios&ensp;Logothetis）。双方就持续推进中美审计监管合作、增进资本市场审计监管交流等议题深入交换了意见。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T05:59:34.175Z",
+    "discoveredAt": "2026-10-23T05:59:34.175Z",
+    "category": "policy",
+    "summary": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 75,
+      "understand": 65,
+      "average": 70
+    },
+    "selected": true
+  },
+  {
+    "id": "ah57kryjkdck84aarny805p9",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784290",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784290",
+    "title": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常",
+    "language": "zh",
+    "publishedAt": "2026-10-23T05:36:21.000Z",
+    "excerpt": "10月23日，A股三大股指午后集体拉升，创业板涨超2%，光模块龙头“易中天”翻红：截至发稿，新易盛微跌0.11%，天孚通信涨1.13%，中际旭创涨2.20%。 消息面，中际旭创、天孚通信、源杰科技、联讯仪器等光模块产业链核心企业周三午间密集披露经营公告，异口同声确认在手订单充足、生产经营正常，并对未来需求前景给出明确正向指引。 其中，中际旭创披露的数据最为亮眼：2026年上半年营业收入达417.78亿元，同比增长182.49%；归属于上市公司股东的净利润136.51亿元，同比增长241.70%。该公司同时透露，海外主要客户订单已排至2027年，部分重点客户已给出2028年需求的明确指引，1.6T、800G等高端光模块需求预计将保持快速增长。 分析认为，多家企业的集中表态，为近期市场对光模块板块景气持续性的疑虑提供了直接回应，亦对相关个股形成支撑。 中际旭创：业绩高增，订单能见度延伸至2028年 中际旭创在公告中披露了一组 跨越近十年的业绩数据： 2017年至2025年，公司营业收入从23.57亿元增长至382.40亿元，年均复合增长率41.67%；净利润从1.62亿元增至107.97…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/82491647-97d5-4e4d-9abb-db7ea76f8896.png"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "industry",
+    "summary": "10月23日，A股三大股指午后集体拉升，创业板涨超2%，光模块龙头“易中天”翻红：截至发稿，新易盛微跌0.11%，天孚通信涨1.13%，中际旭创涨2.20%。…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 35,
+      "understand": 80,
+      "average": 58
+    },
+    "selected": false
+  },
+  {
+    "id": "kwra3ttmhgi6wr0rt9tfer2w",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784272",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784272",
+    "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
+    "language": "zh",
+    "publishedAt": "2026-10-23T05:11:52.000Z",
+    "excerpt": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等纷纷大跌。宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。 10月23日，A股午后拉升，沪指收窄跌幅至0.5%，深成指转涨，创业板指涨幅扩大至2%，深成指涨逾1%，早盘一度跌超3%、盘中失守2500点整数关口。贵金属、算力硬件、半导体芯片等方向跌幅居前。机器人再度活跃，保险、白酒等板块走强。微盘股跌幅收窄至3%以内，早盘一度跌近5%。 港股高开高走，恒科指盘初一度涨近2%，盘中恒指、恒科指纷纷转跌，随后再度上涨，权重科网股震荡上涨，小米一度回吐涨幅，午盘涨超5%。AI大模型反弹，智谱、MINIMAX齐涨，MiniMax盘中一度涨近6%。债市方面，国债期货多数上涨。商品方面，国内商品期货多数走高，贵金属期货逆势下跌。核心市场走势： A股 ：截至发稿，沪指跌0.62%，深成指涨0.17%，创业板指涨0.71%。 港股 ：截至发稿，恒指涨0.65%，恒科指涨1.39%。 …",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/7e7d1f89-b920-4fe1-a99b-4401c0448716.png"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "industry",
+    "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 48,
+      "understand": 80,
+      "average": 64
+    },
+    "selected": true
+  },
+  {
+    "id": "y92a8k3nze5w212krku59g93",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784286",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784286",
+    "title": "高端美妆回暖，欧莱雅三季度销售超预期",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:21:25.000Z",
+    "excerpt": "欧莱雅的增长正在加快。 10月22日，欧莱雅公布2026年前三季度销售业绩。其中，第三季度销售额115.61亿欧元，同比增长11.9%，超过市场预计的112.3亿欧元；剔除汇率、合并范围及IT系统切换节奏影响后，调整后可比增长7.7%。 市场此前已对复苏有所期待。瑞银在10月12日的研报摘要中，将三季度视为检验欧莱雅能否持续实现约6%增长的关键季度。实际表现超过这一水平，也让增长恢复的判断获得了更多支撑。 高档化妆品是这次超预期的重要来源。该部门三季度调整后可比增长7%，高于市场预计的4.5%。路透社指出，香水需求和中国销售改善共同推动了增长。 这意味着，欧莱雅正在获得香水之外的更多增长动力。过去一段时间，公司加快护肤创新，试图推动这一重要品类恢复。赫莲娜、修丽可和理肤泉等品牌的表现，让高端及功效护肤需求的改善逐渐体现在销售中。 路透社援引管理层表述称，赫莲娜实现较高的双位数增长，修丽可和理肤泉也保持双位数增长。 中国是观察这轮变化的重要市场。第三季度，欧莱雅北亚销售额22.29亿欧元，可比增长7.8%。公司称，中国市场仍主要由高端美妆带动，欧莱雅在当地的增速接近市场的三倍，线上和线…",
+    "media": [],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "industry",
+    "summary": "欧莱雅的增长正在加快。 10月22日，欧莱雅公布2026年前三季度销售业绩。其中，第三季度销售额115.61亿欧元，同比增长11.9%，超过市场预计的112.…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 80,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "zls0wqmlyl5ufdnrg490yfxa",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784281",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784281",
+    "title": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:18:49.000Z",
+    "excerpt": "围绕同一家公司的融资缺口，华尔街两大机构给出了相差逾三倍的答案，将AI算力租赁商CoreWeave再度推至市场争议的风口浪尖。 伯恩斯坦分析师Madison Rezaei周四（10月22日）发布报告，将CoreWeave目标价从74美元下调至51美元，并估算该公司 仅为履行现有合同承诺就需筹集850亿美元，扣除已有融资安排后，净融资缺口高达760亿美元 。这与高盛三天前给出的230亿美元估算相差超过三倍。 CoreWeave股价周四再跌约10%至55.70美元，抹去高盛升级评级后的全部涨幅。 高盛分析师Gabriela Borges周一将CoreWeave评级上调至“买入”，并于周三发布后续报告，将 融资缺口定性为“约230亿美元” 。然而，伯恩斯坦的报告随即指出高盛模型存在多处乐观假设，且颇具讽刺意味的是， 高盛自身的现金流模型所隐含的新增债务规模，实际上与伯恩斯坦的估算更为接近 。 与此同时，高盛在报告披露中承认，其正担任CoreWeave一项待定承销业务的管理人或联席管理人，并持有该公司逾1%的股份。 伯恩斯坦：850亿缺口，亏损延续至2029年 伯恩斯坦的报告标题直白犀利——…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/c6057cd5-41d5-42f0-b1eb-52ef5735bd85.png"
+      }
+    ],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "industry",
+    "summary": "围绕同一家公司的融资缺口，华尔街两大机构给出了相差逾三倍的答案，将AI算力租赁商CoreWeave再度推至市场争议的风口浪尖。 伯恩斯坦分析师Madison …",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 18,
+      "understand": 80,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "jm7x29lsypftx0b57u4jw8kg",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784280",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784280",
+    "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:11:18.000Z",
+    "excerpt": "日本9月通胀数据全面超越日本央行政策目标，深层价格压力加速扩散，市场对年内加息的预期进一步升温。 10月23日， 日本总务省公布的数据显示， 日本9月核心CPI同比上涨2.1%，九个月来首次突破日本央行2%的目标 ，数据符合经济学家预期中值，较8月的1.7%明显加速。 更受日本央行关注的剔除生鲜食品和能源的深层通胀指标同比上涨2.4%，大幅高于8月的1.9%，显示需求驱动型价格压力正在持续积聚。 据彭博调查， 超过80%的经济学家预计日本央行将在12月加息，无一人预计下周会议将采取行动 。据路透援引知情人士称，日本央行下周预计维持政策不变，但可能上调通胀预测，并暗示准备继续推高仍处低位的借贷成本。据彭博援引知情人士称，日本央行可能在10月30日政策会议上首次表态，认为潜在通胀已达到2013年以来设定的2%目标。 深层通胀加速，服务业价格创七个月新高 本次数据的核心亮点在于通胀的广度与深度均有所提升。 剔除生鲜食品和能源的核心指标从8月的1.9%跳升至2.4% ，是衡量需求驱动型价格压力的关键指标，其加速上行表明通胀并非单纯由能源或食品等外部冲击驱动。 服务业价格同比上涨1.5%，为今…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/a18f6477-8c65-4d22-bc0f-0c6a5babcbd5.png"
+      }
+    ],
+    "tags": [
+      "非证券/宏观",
+      "海外同业"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "market",
+    "summary": "日本9月核心CPI同比上涨2.1%，为九个月来首次突破央行2%目标，深层通胀指标升至2.4%，超80%经济学家预计日本央行将在12月加息。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 53,
+      "understand": 80,
+      "average": 67
+    },
+    "selected": true
+  },
+  {
+    "id": "dckatnmh8hlwp94nic6d5mxv",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784284",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784284",
+    "title": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:09:13.000Z",
+    "excerpt": "印度卢比刚刚创下六周新高，转眼间就面临一场压力测试。全球资金涌向美债和日元等避险资产，叠加布伦特原油逼近每桶115美元，正在从两个方向同时挤压这个高度依赖能源进口的经济体。 周五开盘，交易员预计美元兑印度卢比将在94.84-94.88区间波动，此前一交易日收于94.8175。就在前一个交易日，卢比还一度升至94.30附近的逾六周高点，随后迅速回吐涨幅。 银行人士表示，此番逆转的速度之快及其与大盘走势的背离令市场感到意外，进一步加大了卢比前景的不确定性。在避险资金加速流动与油价持续走高的双重夹击下，卢比所承受的压力正在累积。 避险交易回归，美债收益率与股市同步转向 触发这轮避险情绪的直接导火索，是市场对AI支出前景的疑虑。 美国股市遭遇抛售，资金涌入美债和日元，10年期美债收益率重新跌回5%下方。值得注意的是，10年期美债收益率已较近期峰值回落40个基点，这一降幅出现在油价持续上行的背景下，显得尤为反常。 ING在报告中指出，市场似乎正在经历一场“微妙的体制切换” ：更高的能源价格不再意味着利率将永远维持高位，相反，长端利率开始表达更多对经济增长的担忧。 换句话说，市场定价逻辑正从“通…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/4105c1a5-022f-43f2-a477-bcad93bf9ece.png"
+      }
+    ],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "market",
+    "summary": "印度卢比刚刚创下六周新高，转眼间就面临一场压力测试。全球资金涌向美债和日元等避险资产，叠加布伦特原油逼近每桶115美元，正在从两个方向同时挤压这个高度依赖能源…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 30,
+      "understand": 80,
+      "average": 55
+    },
+    "selected": false
+  },
+  {
+    "id": "bhjq4rnkuu7qzdi79t2lhjix",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784278",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784278",
+    "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:04:13.000Z",
+    "excerpt": "今年春天，AI取代人类工作的恐慌情绪一度达到顶峰。但随着美国经济展现出超预期的韧性，这股焦虑已明显降温——AI相关裁员公告数量从高点大幅回落，媒体关于AI导致失业的报道也退潮至年初水平。然而，高盛提醒市场：冷静不等于安全，AI对劳动力市场的冲击远未结束，只是在等待一个更合适的时机爆发。 据追风交易台，高盛全球投资研究在10月22日发布的报告中给出结论： 如果AI最终带来15%的生产率提升，历史经验显示，过渡期内最多约9%的员工可能暂时离开现有岗位；在技术让劳动岗位变得冗余的职业中，就业人数五年平均下降约25%。 当前影响仍可见，但范围较窄。高盛称， AI暴露度最高行业过去三个月就业增长较长期趋势少约1万人，不过这一缺口大体被AI相关建筑岗位招聘增加所抵消。 服务业横截面数据开始显示压力，AI采用率与失业率的相关性已转正且具统计显著性，AI采用率与就业增长的相关性略为负值，但统计显著性不足。 市场关注点也已转向投资回报。高盛称，当前资本开支预期意味着，AI用户每年需在AI应用上支出约1万亿美元，才能让超大规模云厂商和应用供应商实现市场似乎已计入的利润。对投资者来说，关键变量在于AI节省…",
+    "media": [],
+    "tags": [
+      "观点/评论",
+      "非证券/宏观"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "opinion",
+    "summary": "高盛10月22日报告指出，若AI带来15%生产率提升，过渡期内最多约9%员工可能暂时离开岗位；技术让劳动岗位变冗余的职业五年平均就业人数下降约25%。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 57,
+      "understand": 80,
+      "average": 69
+    },
+    "selected": true
+  },
+  {
+    "id": "e3qejplv6sdpdo12d1ahcvcv",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784283",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784283",
+    "title": "野村：AI增长恐慌取代通胀叙事，美债重获对冲功能",
+    "language": "zh",
+    "publishedAt": "2026-10-23T04:03:56.000Z",
+    "excerpt": "美国国债与科技股之间的传统负相关关系，正在以戏剧性的方式重新确立。 隔夜10年期美债收益率单日暴跌逾15个基点，一度跌破5.00%关口，创一个月新低；与此同时，纳斯达克综合指数重挫2.60%，费城半导体指数单日跌幅高达6.72%。 野村跨资产策略师Charlie McElligott在最新报告中指出， 市场正在快速\"重新定价左尾风险\"——驱动力已从此前的通胀叙事切换为对AI驱动增长前景的系统性重估。 这一转变意味着，在过去大半年里令持有者\"两头亏损\"的美债久期头寸，正重新发挥股票组合对冲工具的功能。 McElligott明确表示，此轮美债上涨已不再是单纯的空头回补，而是市场开始将AI板块的抛售定性为增长问题，并据此进行对冲布局。高盛Delta One业务负责人Rich Privorotsky亦持相同判断，据其表述： \"债券随AI抛售而坚定走强……AI的疲软重新定价了资本支出周期，并日益演变为一场增长冲击。\" 行情转折：从右尾恐惧到左尾定价 仅仅两周前，McElligott还在描述一个市场唯一担忧是\"踏空上涨\"的环境。而其最新报告的标题已变为\"快速重新定价左尾\"。 就在48小时前，他在…",
+    "media": [],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-23T06:00:12.743Z",
+    "discoveredAt": "2026-10-23T06:00:12.743Z",
+    "category": "market",
+    "summary": "美国国债与科技股之间的传统负相关关系，正在以戏剧性的方式重新确立。 隔夜10年期美债收益率单日暴跌逾15个基点，一度跌破5.00%关口，创一个月新低；与此同时…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 47,
+      "understand": 80,
+      "average": 64
+    },
+    "selected": true
   }
 ]

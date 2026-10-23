@@ -1,19 +1,19 @@
 {
   "web-csrc-news": {
     "configHash": "99f472af2d593516",
-    "lastFetchedAt": "2026-10-22T06:04:08.242Z"
+    "lastFetchedAt": "2026-10-23T05:59:31.597Z"
   },
   "rss-sse-rules": {
     "etag": "W/\"7d74-KqBMwOD7orF3e3Y8FvPO0iDOc5Y\"",
-    "lastModified": "Thu, 22 Oct 2026 06:04:23 GMT",
+    "lastModified": "Fri, 23 Oct 2026 05:59:38 GMT",
     "configHash": "ebe1f59a2acf86af",
-    "lastFetchedAt": "2026-10-22T06:04:08.242Z"
+    "lastFetchedAt": "2026-10-23T05:59:31.597Z"
   },
   "rss-szse-rules": {
     "etag": "W/\"df073-0bGTIQdwf4xvukyCqgIuFA1R40U\"",
-    "lastModified": "Wed, 21 Oct 2026 05:58:21 GMT",
+    "lastModified": "Fri, 23 Oct 2026 05:59:51 GMT",
     "configHash": "9c26031e70026c9f",
-    "lastFetchedAt": "2026-10-21T05:58:03.572Z"
+    "lastFetchedAt": "2026-10-23T05:59:31.597Z"
   },
   "web-qzs": {
     "configHash": "9f35edcd72148af1",
@@ -21,7 +21,7 @@
   },
   "rss-wallstreetcn": {
     "configHash": "71a2e642bfc44427",
-    "lastFetchedAt": "2026-10-22T06:04:08.242Z"
+    "lastFetchedAt": "2026-10-23T05:59:31.597Z"
   },
   "hot-wallstreetcn": {
     "configHash": "6e76a2ca01510352",

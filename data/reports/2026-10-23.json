@@ -1,0 +1,121 @@
+{
+  "day": "2026-10-23",
+  "generatedAt": "2026-10-23T05:59:31.597Z",
+  "lead": {
+    "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委…",
+    "paragraph": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+    "highlights": [
+      "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+      "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+      "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股…"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "kwra3ttmhgi6wr0rt9tfer2w",
+          "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
+          "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等…",
+          "url": "https://wallstreetcn.com/articles/3784272",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T05:11:52.000Z",
+          "score": 64,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "k5eqtpcjneulgy69tkck9hx8",
+          "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委员会主席洛戈泰斯",
+          "summary": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+          "url": "https://www.csrc.gov.cn/csrc/c106311/c7666065/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-22T06:46:06.000Z",
+          "score": 70,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "jm7x29lsypftx0b57u4jw8kg",
+          "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+          "summary": "日本9月核心CPI同比上涨2.1%，为九个月来首次突破央行2%目标，深层通胀指标升至2.4%，超80%经济学家预计日本央行将在12月加息。",
+          "url": "https://wallstreetcn.com/articles/3784280",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T04:11:18.000Z",
+          "score": 67,
+          "category": "market",
+          "tags": [
+            "非证券/宏观",
+            "海外同业"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "e3qejplv6sdpdo12d1ahcvcv",
+          "title": "野村：AI增长恐慌取代通胀叙事，美债重获对冲功能",
+          "summary": "美国国债与科技股之间的传统负相关关系，正在以戏剧性的方式重新确立。 隔夜10年期美债收益率单日暴跌逾15个基点，一度跌破5.00%关口，创一个月新低；与此同时…",
+          "url": "https://wallstreetcn.com/articles/3784283",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T04:03:56.000Z",
+          "score": 64,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "bhjq4rnkuu7qzdi79t2lhjix",
+          "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+          "summary": "高盛10月22日报告指出，若AI带来15%生产率提升，过渡期内最多约9%员工可能暂时离开岗位；技术让劳动岗位变冗余的职业五年平均就业人数下降约25%。",
+          "url": "https://wallstreetcn.com/articles/3784278",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T04:04:13.000Z",
+          "score": 69,
+          "category": "opinion",
+          "tags": [
+            "观点/评论",
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 19,
+    "selected": 5,
+    "llmCalls": 12
+  }
+}

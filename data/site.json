@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T06:04:08.242Z",
-  "today": "2026-10-22",
+  "generatedAt": "2026-10-23T05:59:31.597Z",
+  "today": "2026-10-23",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,127 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-23",
+      "generatedAt": "2026-10-23T05:59:31.597Z",
+      "lead": {
+        "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委…",
+        "paragraph": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+        "highlights": [
+          "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+          "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+          "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股…"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "kwra3ttmhgi6wr0rt9tfer2w",
+              "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
+              "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等…",
+              "url": "https://wallstreetcn.com/articles/3784272",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-23T05:11:52.000Z",
+              "score": 64,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "k5eqtpcjneulgy69tkck9hx8",
+              "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委员会主席洛戈泰斯",
+              "summary": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+              "url": "https://www.csrc.gov.cn/csrc/c106311/c7666065/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-10-22T06:46:06.000Z",
+              "score": 70,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "jm7x29lsypftx0b57u4jw8kg",
+              "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+              "summary": "日本9月核心CPI同比上涨2.1%，为九个月来首次突破央行2%目标，深层通胀指标升至2.4%，超80%经济学家预计日本央行将在12月加息。",
+              "url": "https://wallstreetcn.com/articles/3784280",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-23T04:11:18.000Z",
+              "score": 67,
+              "category": "market",
+              "tags": [
+                "非证券/宏观",
+                "海外同业"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "e3qejplv6sdpdo12d1ahcvcv",
+              "title": "野村：AI增长恐慌取代通胀叙事，美债重获对冲功能",
+              "summary": "美国国债与科技股之间的传统负相关关系，正在以戏剧性的方式重新确立。 隔夜10年期美债收益率单日暴跌逾15个基点，一度跌破5.00%关口，创一个月新低；与此同时…",
+              "url": "https://wallstreetcn.com/articles/3784283",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-23T04:03:56.000Z",
+              "score": 64,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "opinion",
+          "title": "观点分析",
+          "items": [
+            {
+              "id": "bhjq4rnkuu7qzdi79t2lhjix",
+              "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+              "summary": "高盛10月22日报告指出，若AI带来15%生产率提升，过渡期内最多约9%员工可能暂时离开岗位；技术让劳动岗位变冗余的职业五年平均就业人数下降约25%。",
+              "url": "https://wallstreetcn.com/articles/3784278",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-23T04:04:13.000Z",
+              "score": 69,
+              "category": "opinion",
+              "tags": [
+                "观点/评论",
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 19,
+        "selected": 5,
+        "llmCalls": 12
+      }
+    },
     {
       "day": "2026-10-22",
       "generatedAt": "2026-10-22T06:04:08.242Z",
@@ -1580,269 +1701,6 @@
         "selected": 9,
         "llmCalls": 111
       }
-    },
-    {
-      "day": "2026-10-09",
-      "generatedAt": "2026-10-09T07:43:15.398Z",
-      "lead": {
-        "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号…",
-        "paragraph": "深交所发布《公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》，优化审核安排以提升审核效率，2023年修订版同时废止，新规自发布之日起施行。",
-        "highlights": [
-          "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（…",
-          "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注…",
-          "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2…"
-        ]
-      },
-      "sections": [
-        {
-          "category": "industry",
-          "title": "券商经营",
-          "items": [
-            {
-              "id": "z2xbla09pc8w35drcz8loamh",
-              "title": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
-              "summary": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本…",
-              "url": "https://wallstreetcn.com/articles/3783252",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-09T06:26:13.000Z",
-              "score": 64,
-              "category": "industry",
-              "tags": [
-                "券商经营"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "policy",
-          "title": "监管政策",
-          "items": [
-            {
-              "id": "bbnf2x1jxwljqpq1sqi3ddn2",
-              "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
-              "summary": "深交所发布《公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》，优化审核安排以提升审核效率，2023年修订版同时废止，新规自发布之日起施行。",
-              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058644-11-01T11:53:20.000Z",
-              "score": 82,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "g5ocghcbx5m0bp1troim0k5k",
-              "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
-              "summary": "深交所发布2026年修订版债券质押式协议回购风险控制指引，对使用国债、地方债、AAA级公司债等开展协议的投资者，采取公布质押券出资人名单、鼓励标准期限交易、适当提高折算比例等鼓励支持措施。",
-              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058357-07-24T00:30:00.000Z",
-              "score": 82,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "gcrptuucfkuxxvy1gasob4tk",
-              "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
-              "summary": "深交所发布修订后的《资产支持证券挂牌条件审核业务指引第2号》，自发布之日起施行，原2024年12月版本同时废止，旨在规范审核业务并提升审核工作透明度。",
-              "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058530-07-13T13:26:40.000Z",
-              "score": 76,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "psap92nblpo621cs4nkl3ytl",
-              "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
-              "summary": "深交所发布《主板上市公司规范运作指引（2026年修订）》，规范董事、高管及控股股东等关键少数行为，保障董秘履职，原2025年版同步废止，新规部分条款自2026年5月24日起实施。",
-              "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058281-10-29T10:20:00.000Z",
-              "score": 75,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "hy4kdre1b5ueedhx469kuot2",
-              "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
-              "summary": "深交所发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》，自发布之日起施行，旨在规范主动管理ETF业务运作，保护投资者合法权益，促进公募基金行业高质量发展。",
-              "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058429-02-09T07:40:00.000Z",
-              "score": 73,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "pohld9fyn5semrvl2xxe2uj6",
-              "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
-              "summary": "深交所修订发布《债券交易业务指引第3号——债券做市（2026年修订）》，优化债券做市业务安排，促进提升债券二级市场流动性，2022年版同步废止。",
-              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058357-07-17T21:33:20.000Z",
-              "score": 72,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "brhlluztifhi9llb6e0kcf3u",
-              "title": "广期所公开征求意见！氢氧化锂期货及期权将上市",
-              "summary": "广州期货交易所公开征求意见，氢氧化锂期货及期权即将上市。",
-              "url": "https://qzs.stcn.com/article/detail/639852.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-09T03:50:00.000Z",
-              "score": 64,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "jz3nnjhgi7e2s501hlxp8m0y",
-              "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
-              "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
-              "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
-              "sourceId": "rss-szse-rules",
-              "sourceName": "深交所 · 业务规则",
-              "publishedAt": "+058357-07-22T11:00:00.000Z",
-              "score": 56,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "h2cn3dg7s04nm4a1omtagicx",
-              "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
-              "summary": "AI产业与欧美政府同时争夺全球资本，债券市场面临双重融资需求挤压，资本成本有望系统性抬升，日本资金流出加速加剧竞争。",
-              "url": "https://wallstreetcn.com/articles/3783240",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-09T04:10:07.000Z",
-              "score": 75,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "dmz7m121u7bxsbgklrewusra",
-              "title": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%",
-              "summary": "10月9日A股三大股指集体翻红，沪指涨0.20%，深成指涨0.22%，创业板指涨0.30%；券商板块强势发力。港股恒指涨1.80%，恒科指涨2.90%，小米涨超8%。",
-              "url": "https://wallstreetcn.com/articles/3783237",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-09T06:13:53.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "auzephz1o94wwoahz6hxgrrt",
-              "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
-              "summary": "花旗10月7日报告指出，全球电池产业链进入第二轮产能扩张周期，2026-2027年产能增速预计46%和24%，需求增速将放缓。与2022-2024年周期相比，本轮供需更均衡、价格战风险低，建议关注电池整机>零部件>LFP正极等优先级。",
-              "url": "https://wallstreetcn.com/articles/3783259",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-09T07:04:22.000Z",
-              "score": 66,
-              "category": "market",
-              "tags": [
-                "市场动态",
-                "观点/评论"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "ck8i8xu87m5w4fr81z2zbyi2",
-              "title": "宝能集团所持120亿元股权被冻结",
-              "summary": "宝能集团所持价值120亿元股权被冻结，冻结原因及申请人信息尚未披露。",
-              "url": "https://www.cls.cn/detail/2500392",
-              "sourceId": "feed-cls",
-              "sourceName": "财联社 · 电报",
-              "score": 63,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "mbnf0lhlz642c1krjylhkno5",
-              "title": "科创50ETF华夏连续2天放量成交",
-              "summary": "科创50ETF华夏（588000）成交额突破100亿元，为2025年8月19日以来首次，连续2天放量；早盘一度跌超4%，午后翻红，收盘涨0.59%。",
-              "url": "https://flash.jin10.com/detail/20261009142941318800",
-              "sourceId": "hot-jin10",
-              "sourceName": "金十数据",
-              "score": 61,
-              "category": "market",
-              "tags": [
-                "市场动态",
-                "数据/榜单"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "lxwa71rqgjiz71b5pfaa8rzg",
-              "title": "今日新股，盘中涨超528%！",
-              "summary": "今日新股盘中涨幅超528%。",
-              "url": "https://qzs.stcn.com/article/detail/639853.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-09T03:49:00.000Z",
-              "score": 52,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 234,
-        "selected": 15,
-        "llmCalls": 2
-      }
     }
   ],
   "groups": [
@@ -1858,7 +1716,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_99ca4d7d30",
@@ -1871,7 +1729,7 @@
         "kjglhv5w0izfu6byftfog3wy",
         "fv7yy58up78b62p59uyb48vh"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_84e96edb7e",
@@ -1884,7 +1742,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1899,7 +1757,7 @@
         "ma1flcwm6too4ezwwghtwedl",
         "xqxe8gh5f5zfvxbi8sq2kmx8"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_b9cc3c64d5",
@@ -1912,7 +1770,7 @@
         "k3tce2urw7en02rtrtm3n2nn",
         "hz7k1woivvmtil5kryijfnr3"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1926,7 +1784,7 @@
         "xmvltady5nxhaw1wchmr3cum",
         "n22b5m5uicf6jvful1k49hr9"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1958,7 +1816,7 @@
         "xakh95lkjplapmxw1whct5ht",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1971,7 +1829,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1984,7 +1842,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_890366d991",
@@ -2003,7 +1861,7 @@
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_920de07728",
@@ -2016,7 +1874,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -2030,7 +1888,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -2043,7 +1901,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -2056,7 +1914,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -2078,7 +1936,7 @@
         "rdnaw3xexnhu3cyqh44dhufr",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -2091,7 +1949,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_538028f10e",
@@ -2104,7 +1962,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_15b21aaf71",
@@ -2117,7 +1975,7 @@
         "um03e83pupeayjphg8aij8da",
         "fv8vzd1lo96co64tpzlw8lra"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_59e694802e",
@@ -2130,7 +1988,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -2144,7 +2002,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -2157,7 +2015,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -2170,7 +2028,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -2183,7 +2041,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -2197,7 +2055,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_892b2927de",
@@ -2211,7 +2069,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -2224,7 +2082,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -2237,7 +2095,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -2250,7 +2108,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -2263,7 +2121,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_74f3ec0b0c",
@@ -2276,7 +2134,7 @@
         "jj6tej14grxw06godwugxzcu",
         "u83w5b517u3uc1mfxy1whzy0"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_7044af8608",
@@ -2289,7 +2147,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -2305,7 +2163,7 @@
         "xsh2l0p00pral3a6gpu119lz",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_0a341da11f",
@@ -2318,7 +2176,7 @@
         "iw68v9ftyl2029daxccti32j",
         "euj9qx1ep1opj3hn5m42lcl4"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -2331,7 +2189,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2344,7 +2202,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_8f49574cf5",
@@ -2357,7 +2215,7 @@
         "xu4cao0rcbstlo6545kzpuu7",
         "gd0smfiwueuupb6svumyk8u5"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -2370,7 +2228,7 @@
         "e0cg4xm43lf1rwnem5qyoy1m",
         "z3pdd7d1f91el41c8ethoidc"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2383,7 +2241,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2396,7 +2254,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2409,7 +2267,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2422,7 +2280,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -2435,7 +2293,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2448,7 +2306,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_ea10e5070f",
@@ -2461,7 +2319,7 @@
         "dfhkw40c4dolsfxylmp2pi4i",
         "yq1aak0jx928fn0uf612sjic"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2474,7 +2332,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2487,7 +2345,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_301045330e",
@@ -2500,7 +2358,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -2513,7 +2371,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2526,7 +2384,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -2539,7 +2397,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -2552,7 +2410,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -2566,7 +2424,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2579,7 +2437,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2592,7 +2450,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -2605,7 +2463,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_120ebf1fc3",
@@ -2618,7 +2476,7 @@
         "v8mf6vqacp1cpt78zhtnf5dd",
         "kkroj1xogf4s6wjq1r8eq7vm"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2631,7 +2489,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_f8524334fb",
@@ -2644,7 +2502,7 @@
         "vw76hba2zxxh2eewuzsofkx6",
         "tfngnrcdb7h4hgu72fmbigh3"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2657,7 +2515,7 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     },
     {
       "id": "ev_306a4f3596",
@@ -2670,40 +2528,10 @@
         "qv5kmejx69hkjhduvkyju9hi",
         "shl8opsh6p81qyukbp9mp2hb"
       ],
-      "updatedAt": "2026-10-22T06:04:08.242Z"
+      "updatedAt": "2026-10-23T05:59:31.597Z"
     }
   ],
   "items": [
-    {
-      "id": "bbnf2x1jxwljqpq1sqi3ddn2",
-      "title": "关于发布《深圳证券交易所公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》的通知",
-      "summary": "深交所发布《公司债券发行上市审核业务指引第3号——优化审核安排（2026年修订）》，优化审核安排以提升审核效率，2023年修订版同时废止，新规自发布之日起施行。",
-      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/list/t20260904_622687.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058644-11-01T11:53:20.000Z",
-      "score": 82,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "g5ocghcbx5m0bp1troim0k5k",
-      "title": "关于发布《深圳证券交易所债券交易业务指引第4号——债券质押式协议回购风险控制（2026年修订）》及有关事项的通知",
-      "summary": "深交所发布2026年修订版债券质押式协议回购风险控制指引，对使用国债、地方债、AAA级公司债等开展协议的投资者，采取公布质押券出资人名单、鼓励标准期限交易、适当提高折算比例等鼓励支持措施。",
-      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620635.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058357-07-24T00:30:00.000Z",
-      "score": 82,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
     {
       "id": "k6gxopn837vggs522qqnrmbh",
       "title": "统筹发展和安全 坚持开放与合作 奋力谱写资本市场“十五五”高质量发展新篇章——吴清主席在2026金融街论坛年会上的主题演讲",
@@ -2796,21 +2624,6 @@
       "entityTags": []
     },
     {
-      "id": "gcrptuucfkuxxvy1gasob4tk",
-      "title": "关于发布《深圳证券交易所资产支持证券挂牌条件审核业务指引第2号——审核重点关注事项（2026年修订）》的通知",
-      "summary": "深交所发布修订后的《资产支持证券挂牌条件审核业务指引第2号》，自发布之日起施行，原2024年12月版本同时废止，旨在规范审核业务并提升审核工作透明度。",
-      "url": "http://www.szse.cn/lawrules/rule/bond/abs/t20260724_621835.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058530-07-13T13:26:40.000Z",
-      "score": 76,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "hszlhdoshphwhy34zpkky2jy",
       "title": "创业板跌超1%，光模块、光通信一度拉升，宁德时代AH股均大跌10%，恒科指高开低走转跌，芯片股拉升",
       "summary": "创业板指跌超1%一度跌破2700点，宁德时代AH股均跌10%。光模块、光通信、芯片股等算力硬件板块盘中一度拉升，恒科指高开低走转跌。",
@@ -2852,36 +2665,6 @@
       "category": "industry",
       "tags": [
         "非证券/宏观"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "psap92nblpo621cs4nkl3ytl",
-      "title": "关于发布《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作（2026年修订）》的通知",
-      "summary": "深交所发布《主板上市公司规范运作指引（2026年修订）》，规范董事、高管及控股股东等关键少数行为，保障董秘履职，原2025年版同步废止，新规部分条款自2026年5月24日起实施。",
-      "url": "http://www.szse.cn/lawrules/rule/stock/supervision/mb/t20260424_620194.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058281-10-29T10:20:00.000Z",
-      "score": 75,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "h2cn3dg7s04nm4a1omtagicx",
-      "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
-      "summary": "AI产业与欧美政府同时争夺全球资本，债券市场面临双重融资需求挤压，资本成本有望系统性抬升，日本资金流出加速加剧竞争。",
-      "url": "https://wallstreetcn.com/articles/3783240",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-09T04:10:07.000Z",
-      "score": 75,
-      "category": "market",
-      "tags": [
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -2963,21 +2746,6 @@
       "entityTags": []
     },
     {
-      "id": "hy4kdre1b5ueedhx469kuot2",
-      "title": "关于发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》的通知",
-      "summary": "深交所发布《深圳证券交易所证券投资基金业务指引第5号——主动管理交易型开放式基金》，自发布之日起施行，旨在规范主动管理ETF业务运作，保护投资者合法权益，促进公募基金行业高质量发展。",
-      "url": "http://www.szse.cn/lawrules/rule/fund/list/t20260617_621085.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058429-02-09T07:40:00.000Z",
-      "score": 73,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "xh9u4au24wahnvhcug0pfh2d",
       "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
       "summary": "AI大模型公司DeepSeek完成约1000亿元融资，宁德时代和腾讯参投，本轮融资后累计融资规模将达约1500亿元。",
@@ -3008,21 +2776,6 @@
       "entityTags": []
     },
     {
-      "id": "pohld9fyn5semrvl2xxe2uj6",
-      "title": "关于发布《深圳证券交易所债券交易业务指引第3号——债券做市（2026年修订）》的通知",
-      "summary": "深交所修订发布《债券交易业务指引第3号——债券做市（2026年修订）》，优化债券做市业务安排，促进提升债券二级市场流动性，2022年版同步废止。",
-      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620632.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058357-07-17T21:33:20.000Z",
-      "score": 72,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "t5gx2owfet0k39xt3t6k7n8o",
       "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
       "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
@@ -3034,6 +2787,21 @@
       "category": "market",
       "tags": [
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "k5eqtpcjneulgy69tkck9hx8",
+      "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委员会主席洛戈泰斯",
+      "summary": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7666065/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-10-22T06:46:06.000Z",
+      "score": 70,
+      "category": "policy",
+      "tags": [
+        "监管政策"
       ],
       "entityTags": []
     },
@@ -3066,6 +2834,22 @@
       "tags": [
         "观点/评论",
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "bhjq4rnkuu7qzdi79t2lhjix",
+      "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
+      "summary": "高盛10月22日报告指出，若AI带来15%生产率提升，过渡期内最多约9%员工可能暂时离开岗位；技术让劳动岗位变冗余的职业五年平均就业人数下降约25%。",
+      "url": "https://wallstreetcn.com/articles/3784278",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-23T04:04:13.000Z",
+      "score": 69,
+      "category": "opinion",
+      "tags": [
+        "观点/评论",
+        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -3179,21 +2963,6 @@
       "entityTags": []
     },
     {
-      "id": "dmz7m121u7bxsbgklrewusra",
-      "title": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%",
-      "summary": "10月9日A股三大股指集体翻红，沪指涨0.20%，深成指涨0.22%，创业板指涨0.30%；券商板块强势发力。港股恒指涨1.80%，恒科指涨2.90%，小米涨超8%。",
-      "url": "https://wallstreetcn.com/articles/3783237",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-09T06:13:53.000Z",
-      "score": 69,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "zlrmdeaoie8eoynidc2ldwlu",
       "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
       "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
@@ -3220,6 +2989,22 @@
       "category": "market",
       "tags": [
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "jm7x29lsypftx0b57u4jw8kg",
+      "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
+      "summary": "日本9月核心CPI同比上涨2.1%，为九个月来首次突破央行2%目标，深层通胀指标升至2.4%，超80%经济学家预计日本央行将在12月加息。",
+      "url": "https://wallstreetcn.com/articles/3784280",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-23T04:11:18.000Z",
+      "score": 67,
+      "category": "market",
+      "tags": [
+        "非证券/宏观",
+        "海外同业"
       ],
       "entityTags": []
     },
@@ -3359,22 +3144,6 @@
       "entityTags": []
     },
     {
-      "id": "auzephz1o94wwoahz6hxgrrt",
-      "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
-      "summary": "花旗10月7日报告指出，全球电池产业链进入第二轮产能扩张周期，2026-2027年产能增速预计46%和24%，需求增速将放缓。与2022-2024年周期相比，本轮供需更均衡、价格战风险低，建议关注电池整机>零部件>LFP正极等优先级。",
-      "url": "https://wallstreetcn.com/articles/3783259",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-09T07:04:22.000Z",
-      "score": 66,
-      "category": "market",
-      "tags": [
-        "市场动态",
-        "观点/评论"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "ugsunnait4jiljqysjgzsgwp",
       "title": "建行把大模型送进银行间市场",
       "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
@@ -3400,6 +3169,36 @@
       "category": "product",
       "tags": [
         "产品更新",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "kwra3ttmhgi6wr0rt9tfer2w",
+      "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
+      "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等…",
+      "url": "https://wallstreetcn.com/articles/3784272",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-23T05:11:52.000Z",
+      "score": 64,
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "e3qejplv6sdpdo12d1ahcvcv",
+      "title": "野村：AI增长恐慌取代通胀叙事，美债重获对冲功能",
+      "summary": "美国国债与科技股之间的传统负相关关系，正在以戏剧性的方式重新确立。 隔夜10年期美债收益率单日暴跌逾15个基点，一度跌破5.00%关口，创一个月新低；与此同时…",
+      "url": "https://wallstreetcn.com/articles/3784283",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-23T04:03:56.000Z",
+      "score": 64,
+      "category": "market",
+      "tags": [
         "市场动态"
       ],
       "entityTags": []
@@ -3435,36 +3234,6 @@
       "entityTags": []
     },
     {
-      "id": "z2xbla09pc8w35drcz8loamh",
-      "title": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
-      "summary": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本…",
-      "url": "https://wallstreetcn.com/articles/3783252",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-09T06:26:13.000Z",
-      "score": 64,
-      "category": "industry",
-      "tags": [
-        "券商经营"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "brhlluztifhi9llb6e0kcf3u",
-      "title": "广期所公开征求意见！氢氧化锂期货及期权将上市",
-      "summary": "广州期货交易所公开征求意见，氢氧化锂期货及期权即将上市。",
-      "url": "https://qzs.stcn.com/article/detail/639852.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-09T03:50:00.000Z",
-      "score": 64,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "estj7pwzp217d06ocegvpipg",
       "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
       "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
@@ -3486,20 +3255,6 @@
       "url": "https://flash.jin10.com/detail/20261010133445317800",
       "sourceId": "hot-jin10",
       "sourceName": "金十数据",
-      "score": 63,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "ck8i8xu87m5w4fr81z2zbyi2",
-      "title": "宝能集团所持120亿元股权被冻结",
-      "summary": "宝能集团所持价值120亿元股权被冻结，冻结原因及申请人信息尚未披露。",
-      "url": "https://www.cls.cn/detail/2500392",
-      "sourceId": "feed-cls",
-      "sourceName": "财联社 · 电报",
       "score": 63,
       "category": "market",
       "tags": [
@@ -3640,21 +3395,6 @@
       "entityTags": []
     },
     {
-      "id": "mbnf0lhlz642c1krjylhkno5",
-      "title": "科创50ETF华夏连续2天放量成交",
-      "summary": "科创50ETF华夏（588000）成交额突破100亿元，为2025年8月19日以来首次，连续2天放量；早盘一度跌超4%，午后翻红，收盘涨0.59%。",
-      "url": "https://flash.jin10.com/detail/20261009142941318800",
-      "sourceId": "hot-jin10",
-      "sourceName": "金十数据",
-      "score": 61,
-      "category": "market",
-      "tags": [
-        "市场动态",
-        "数据/榜单"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "t4di3pw0vdt6qqsq2pin5su8",
       "title": "财联社10月22日电，截至目前，南向资金净卖出额达40亿港元。",
       "summary": "10月22日，南向资金净卖出额累计达40亿港元，为当日资金流向数据。",
@@ -3708,21 +3448,6 @@
       "sourceName": "券商中国",
       "publishedAt": "2026-10-17T02:21:00.000Z",
       "score": 57,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "jz3nnjhgi7e2s501hlxp8m0y",
-      "title": "关于债券交易型开放式基金纳入债券质押式协议回购交易的通知",
-      "summary": "深证上〔 202 6 〕 710 号 各市场参与人 ： 为促进深圳证券交易所（以下简称本所）债券交易型开放式基金（以下简称债券 ETF）市场发展，提升债券ET…",
-      "url": "http://www.szse.cn/lawrules/rule/bond/bonds/trade/t20260522_620634.html",
-      "sourceId": "rss-szse-rules",
-      "sourceName": "深交所 · 业务规则",
-      "publishedAt": "+058357-07-22T11:00:00.000Z",
-      "score": 56,
       "category": "policy",
       "tags": [
         "监管政策"
@@ -3806,21 +3531,6 @@
       "entityTags": [
         "招商证券"
       ]
-    },
-    {
-      "id": "lxwa71rqgjiz71b5pfaa8rzg",
-      "title": "今日新股，盘中涨超528%！",
-      "summary": "今日新股盘中涨幅超528%。",
-      "url": "https://qzs.stcn.com/article/detail/639853.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-09T03:49:00.000Z",
-      "score": 52,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
     },
     {
       "id": "egh4i1ryqcx04a0hsmv0mh8m",
@@ -3936,6 +3646,6 @@
   ],
   "meta": {
     "itemCount": 1500,
-    "llmCalls": 125
+    "llmCalls": 13
   }
 }
