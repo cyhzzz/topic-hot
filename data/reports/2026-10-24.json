@@ -1,0 +1,111 @@
+{
+  "day": "2026-10-24",
+  "generatedAt": "2026-10-24T05:44:13.130Z",
+  "lead": {
+    "title": "证监会就私募母基金新规征求意见，花旗证券中国获批设立",
+    "paragraph": "证监会就私募投资母基金管理发布征求意见稿，明确母基金分类与分散投资要求，共23条；同时核准设立花旗证券（中国）有限公司。同日，吴清会见香港财政司司长陈茂波，双方就深化两地资本市场合作交换意见。AI资本开支两难困境与标普对数据中心评级预警亦引发关注。",
+    "highlights": [
+      "证监会发布私募投资母基金管理规定征求意见稿，共23条，明确母基金概念、分类及分散投资要求，豁免计入一层投资层级。",
+      "证监会核准设立花旗证券（中国）有限公司。",
+      "证监会主席吴清会见香港财政司司长陈茂波一行，就支持香港落实第一个五年规划、深化两地资本市场务实合作交换意见。",
+      "标普全球评级警告数据中心行业面临信用评级下调风险，已追踪146个受阻项目。",
+      "AI资本开支陷入两难：加速则自由现金流承压，减速则增长叙事失守。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "policy",
+      "title": "监管政策",
+      "items": [
+        {
+          "id": "m2xc00gjopwos89xe8ye0spc",
+          "title": "中国证监会就《私募投资母基金管理规定（征求意见稿）》公开征求意见",
+          "summary": "中国证监会发布《私募投资母基金管理规定》征求意见稿，共23条，明确母基金概念与分类、分散投资要求，并豁免计入一层投资层级。",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7666352/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-23T07:51:49.000Z",
+          "score": 78,
+          "category": "policy",
+          "tags": [
+            "监管政策",
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "wsuvbexogh0yn91vbl1tdnlj",
+          "title": "吴清主席会见香港特区政府财政司司长陈茂波一行",
+          "summary": "2026年10月23日，证监会主席吴清会见香港财政司司长陈茂波一行，双方就支持香港落实第一个五年规划、深化两地资本市场务实合作及巩固香港国际金融中心地位交换意见。",
+          "url": "https://www.csrc.gov.cn/csrc/c106311/c7666429/content.shtml",
+          "sourceId": "web-csrc-news",
+          "sourceName": "证监会 · 要闻",
+          "publishedAt": "2026-10-23T09:39:28.000Z",
+          "score": 71,
+          "category": "policy",
+          "tags": [
+            "监管政策"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "adv8psxk7m31mz0ndlfyknma",
+          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+          "summary": "标普全球评级警告，数据中心行业因地方禁令、电网容量限制和项目延误，面临信用评级下调风险，已追踪146个受阻项目。",
+          "url": "https://wallstreetcn.com/articles/3784379",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-24T02:20:15.000Z",
+          "score": 66,
+          "category": "policy",
+          "tags": [
+            "监管政策",
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ce71rtib8q2g5va1prqpfgma",
+          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+          "summary": "证监会核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报；特朗普表示或对伊朗发动小规模军事行动。",
+          "url": "https://www.cls.cn/detail/2514116",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 66,
+          "category": "policy",
+          "tags": [
+            "监管政策",
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "rl1tj6nz46j5ugplz86632z9",
+          "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
+          "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现…",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-24T03:48:36.000Z",
+          "score": 63,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 118,
+    "selected": 5,
+    "llmCalls": 89
+  }
+}

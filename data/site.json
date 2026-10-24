@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T05:59:31.597Z",
-  "today": "2026-10-23",
+  "generatedAt": "2026-10-24T05:44:13.130Z",
+  "today": "2026-10-24",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,117 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-24",
+      "generatedAt": "2026-10-24T05:44:13.130Z",
+      "lead": {
+        "title": "证监会就私募母基金新规征求意见，花旗证券中国获批设立",
+        "paragraph": "证监会就私募投资母基金管理发布征求意见稿，明确母基金分类与分散投资要求，共23条；同时核准设立花旗证券（中国）有限公司。同日，吴清会见香港财政司司长陈茂波，双方就深化两地资本市场合作交换意见。AI资本开支两难困境与标普对数据中心评级预警亦引发关注。",
+        "highlights": [
+          "证监会发布私募投资母基金管理规定征求意见稿，共23条，明确母基金概念、分类及分散投资要求，豁免计入一层投资层级。",
+          "证监会核准设立花旗证券（中国）有限公司。",
+          "证监会主席吴清会见香港财政司司长陈茂波一行，就支持香港落实第一个五年规划、深化两地资本市场务实合作交换意见。",
+          "标普全球评级警告数据中心行业面临信用评级下调风险，已追踪146个受阻项目。",
+          "AI资本开支陷入两难：加速则自由现金流承压，减速则增长叙事失守。"
+        ]
+      },
+      "sections": [
+        {
+          "category": "policy",
+          "title": "监管政策",
+          "items": [
+            {
+              "id": "m2xc00gjopwos89xe8ye0spc",
+              "title": "中国证监会就《私募投资母基金管理规定（征求意见稿）》公开征求意见",
+              "summary": "中国证监会发布《私募投资母基金管理规定》征求意见稿，共23条，明确母基金概念与分类、分散投资要求，并豁免计入一层投资层级。",
+              "url": "https://www.csrc.gov.cn/csrc/c100028/c7666352/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-10-23T07:51:49.000Z",
+              "score": 78,
+              "category": "policy",
+              "tags": [
+                "监管政策",
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "wsuvbexogh0yn91vbl1tdnlj",
+              "title": "吴清主席会见香港特区政府财政司司长陈茂波一行",
+              "summary": "2026年10月23日，证监会主席吴清会见香港财政司司长陈茂波一行，双方就支持香港落实第一个五年规划、深化两地资本市场务实合作及巩固香港国际金融中心地位交换意见。",
+              "url": "https://www.csrc.gov.cn/csrc/c106311/c7666429/content.shtml",
+              "sourceId": "web-csrc-news",
+              "sourceName": "证监会 · 要闻",
+              "publishedAt": "2026-10-23T09:39:28.000Z",
+              "score": 71,
+              "category": "policy",
+              "tags": [
+                "监管政策"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "adv8psxk7m31mz0ndlfyknma",
+              "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+              "summary": "标普全球评级警告，数据中心行业因地方禁令、电网容量限制和项目延误，面临信用评级下调风险，已追踪146个受阻项目。",
+              "url": "https://wallstreetcn.com/articles/3784379",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-24T02:20:15.000Z",
+              "score": 66,
+              "category": "policy",
+              "tags": [
+                "监管政策",
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ce71rtib8q2g5va1prqpfgma",
+              "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+              "summary": "证监会核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报；特朗普表示或对伊朗发动小规模军事行动。",
+              "url": "https://www.cls.cn/detail/2514116",
+              "sourceId": "hot-cls",
+              "sourceName": "财联社 · 热榜",
+              "score": 66,
+              "category": "policy",
+              "tags": [
+                "监管政策",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "rl1tj6nz46j5ugplz86632z9",
+              "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
+              "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现…",
+              "url": "https://wallstreetcn.com/articles/3784381",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-24T03:48:36.000Z",
+              "score": 63,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 118,
+        "selected": 5,
+        "llmCalls": 89
+      }
+    },
     {
       "day": "2026-10-23",
       "generatedAt": "2026-10-23T05:59:31.597Z",
@@ -1517,190 +1628,6 @@
         "selected": 5,
         "llmCalls": 112
       }
-    },
-    {
-      "day": "2026-10-10",
-      "generatedAt": "2026-10-10T06:59:28.642Z",
-      "lead": {
-        "title": "公募运作新规征求意见，美债收益率逼近5.4%",
-        "paragraph": "证监会就公募基金的运作管理新规公开征求意见，拟支持权益类基金发展并提高运作灵活度。海外市场方面，十年期美债收益率逼近5.4%创24年新高，标普500指数虽创新高但市场广度恶化。",
-        "highlights": [
-          "证监会就公募运作管理办法及配套规则公开征求意见，落实《推动公募基金高质量发展行动方案》。",
-          "十年期美债收益率逼近5.4%，创2002年以来新高，标普500仅约30%成分股交易于50日均线之上。",
-          "9月A股新开户191万户，市场活跃度提升，投资者入场意愿增强。",
-          "ASML宣布对韩国客户零部件价格全线上调10%，三星SK海力士已接受，明年1月起生效。",
-          "国泰海通被险资巨头举牌，券商股权发生重大变动。"
-        ]
-      },
-      "sections": [
-        {
-          "category": "industry",
-          "title": "券商经营",
-          "items": [
-            {
-              "id": "bbc893xe3ns2a6omqztz1mch",
-              "title": "券业重磅！国泰海通，被险资巨头举牌！",
-              "summary": "国泰海通被险资巨头举牌，券商股权发生重大变动。",
-              "url": "https://qzs.stcn.com/article/detail/640175.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-10T02:49:00.000Z",
-              "score": 51,
-              "category": "industry",
-              "tags": [
-                "券商经营",
-                "并购重组"
-              ],
-              "entityTags": [
-                "国泰海通"
-              ]
-            }
-          ]
-        },
-        {
-          "category": "policy",
-          "title": "监管政策",
-          "items": [
-            {
-              "id": "vtwhnmjpjzz38ljmqex9jcpq",
-              "title": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见",
-              "summary": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见，拟规范公募基金投资运作、支持权益类基金发展、提高运作灵活度，落实《推动公募基金高质量发展行动方案》。",
-              "url": "https://www.csrc.gov.cn/csrc/c100028/c7663393/content.shtml",
-              "sourceId": "web-csrc-news",
-              "sourceName": "证监会 · 要闻",
-              "publishedAt": "2026-10-09T08:59:43.000Z",
-              "score": 81,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "uufx6r4a6xqwufcvysi0znkx",
-              "title": "深夜！美联储，突发大消息！",
-              "summary": "2026年10月9日深夜，美联储发布重大政策消息，具体内容需待原文补充。",
-              "url": "https://qzs.stcn.com/article/detail/640112.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-09T23:44:00.000Z",
-              "score": 51,
-              "category": "policy",
-              "tags": [
-                "非证券/宏观",
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "otyzmxc4l068a047ipryujqa",
-              "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
-              "summary": "十年期美债收益率逼近5.4%创2002年以来新高，标普500指数虽创新高但仅约30%成分股交易于50日均线之上，市场广度创历史最差，罗素2000小盘股累计跌幅约8.5%逼近技术性回调区间。",
-              "url": "https://wallstreetcn.com/articles/3783317",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-10T03:54:42.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "非证券/宏观",
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "j58l2q2qvqxd0wesen40bxay",
-              "title": "9月A股新开户191万户",
-              "summary": "9月A股新开户191万户，显示市场活跃度提升，投资者入场意愿增强。",
-              "url": "https://qzs.stcn.com/article/detail/640205.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-10T05:38:00.000Z",
-              "score": 68,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "d6ql9kgn24uzss9w9x11cfdd",
-              "title": "跟跌不跟涨！白银陷入困境",
-              "summary": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性…",
-              "url": "https://wallstreetcn.com/articles/3783312",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-10T02:09:28.000Z",
-              "score": 64,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "kjglhv5w0izfu6byftfog3wy",
-              "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
-              "summary": "金十数据10月10日讯，10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京共同主持召开中欧贸易投资磋商机制第二次例会。…",
-              "url": "https://flash.jin10.com/detail/20261010133445317800",
-              "sourceId": "hot-jin10",
-              "sourceName": "金十数据",
-              "score": 63,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "gs6q7mvnsvc44lm75p7l3649",
-              "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
-              "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备…",
-              "url": "https://wallstreetcn.com/articles/3783320",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-10T06:01:44.000Z",
-              "score": 61,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "acquisition",
-          "title": "获客展业",
-          "items": [
-            {
-              "id": "wakcd3e7oofglnaugbdqtdlh",
-              "title": "北京：增加人工智能手机和电脑、智能机器人等新一代智能终端产品有效供给",
-              "summary": "金十数据10月10日讯，北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》。其中指出，深入推进“人工智能+消费”。扩大数字产品消费，增加人…",
-              "url": "https://flash.jin10.com/detail/20261010140847242800",
-              "sourceId": "hot-jin10",
-              "sourceName": "金十数据",
-              "score": 62,
-              "category": "acquisition",
-              "tags": [
-                "获客展业"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 115,
-        "selected": 9,
-        "llmCalls": 111
-      }
     }
   ],
   "groups": [
@@ -1716,20 +1643,7 @@
         "ibd6xjeeacnf65c03etrekls",
         "na3dce8k01lez1s23eev00q6"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_99ca4d7d30",
-      "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "kjglhv5w0izfu6byftfog3wy",
-        "fv7yy58up78b62p59uyb48vh"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_84e96edb7e",
@@ -1742,7 +1656,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1757,20 +1671,7 @@
         "ma1flcwm6too4ezwwghtwedl",
         "xqxe8gh5f5zfvxbi8sq2kmx8"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_b9cc3c64d5",
-      "title": "北京：加大新能源汽车推广力度 培育汽车消费新增长点",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "k3tce2urw7en02rtrtm3n2nn",
-        "hz7k1woivvmtil5kryijfnr3"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1784,7 +1685,7 @@
         "xmvltady5nxhaw1wchmr3cum",
         "n22b5m5uicf6jvful1k49hr9"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_cfdd9c0cda",
@@ -1794,8 +1695,6 @@
         "监管政策"
       ],
       "itemIds": [
-        "xlvxcq4st7y1e1n5udih4oo2",
-        "qt7lzpwye79t63nlgjvfxt0y",
         "egz8payohskwz39ajmwdsn1f",
         "e4or3wcgmgc0ymx35uwu06kr",
         "si7ka36rz01lzlinrpcve3iu",
@@ -1804,7 +1703,6 @@
         "r3vkvr4n3t8m6wyo7667tryi",
         "x4gslclcjazmwieeqr3bnfjb",
         "maedz20a2155qih4aja5fe3s",
-        "ttxdf7bfqalup9pky2vef248",
         "esdde3rexcale2s1e94iecxb",
         "e0020ychrcwv8cis55ojj0bt",
         "tlsmg8wmvt7di0z33qce3atq",
@@ -1816,7 +1714,7 @@
         "xakh95lkjplapmxw1whct5ht",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1829,7 +1727,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1842,7 +1740,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_890366d991",
@@ -1861,7 +1759,7 @@
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_920de07728",
@@ -1874,7 +1772,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1888,7 +1786,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1901,7 +1799,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -1914,7 +1812,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1931,12 +1829,12 @@
         "bigyzcouasba6f6u9d8559nu",
         "n9uhkzo8z3zouz36vffvf2tm",
         "urly6s2gcvj7xi6a99oxvktz",
-        "lvee2uv6z5fazmuljgqtckyb",
         "tpektdnddvifpwrjvmaruiuu",
         "rdnaw3xexnhu3cyqh44dhufr",
+        "ipno0oefzzy84hp0rwofd9qe",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1949,7 +1847,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1962,7 +1860,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_15b21aaf71",
@@ -1975,7 +1873,7 @@
         "um03e83pupeayjphg8aij8da",
         "fv8vzd1lo96co64tpzlw8lra"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1988,7 +1886,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -2002,7 +1900,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -2015,7 +1913,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -2028,7 +1926,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -2041,7 +1939,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -2055,7 +1953,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_892b2927de",
@@ -2069,7 +1967,7 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -2082,7 +1980,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -2095,7 +1993,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_c20498e2aa",
@@ -2108,7 +2006,7 @@
         "m6wyj79ki9lphvtvfjx9ply0",
         "my2bzktwj8phr9t3qouwysto"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -2121,20 +2019,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_74f3ec0b0c",
-      "title": "节后机票价格“跳水” 多条航线低于高铁票价",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "jj6tej14grxw06godwugxzcu",
-        "u83w5b517u3uc1mfxy1whzy0"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_7044af8608",
@@ -2147,7 +2032,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -2163,20 +2048,7 @@
         "xsh2l0p00pral3a6gpu119lz",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_0a341da11f",
-      "title": "巴拿马地震已致27人受伤 暂无人员死亡报告",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "iw68v9ftyl2029daxccti32j",
-        "euj9qx1ep1opj3hn5m42lcl4"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -2189,7 +2061,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2202,20 +2074,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_8f49574cf5",
-      "title": "澳大利亚一架轻型飞机坠毁 2人受重伤",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "xu4cao0rcbstlo6545kzpuu7",
-        "gd0smfiwueuupb6svumyk8u5"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_90d90b2e4e",
@@ -2228,7 +2087,7 @@
         "e0cg4xm43lf1rwnem5qyoy1m",
         "z3pdd7d1f91el41c8ethoidc"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2241,7 +2100,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2254,7 +2113,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2267,7 +2126,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2280,7 +2139,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_eb6a470ebd",
@@ -2293,7 +2152,7 @@
         "i3ur9y86cbedf1idai5p86k0",
         "n7ngreobna89f56l1bldyw77"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2306,20 +2165,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_ea10e5070f",
-      "title": "何立峰会见法国总统外事顾问博纳",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "dfhkw40c4dolsfxylmp2pi4i",
-        "yq1aak0jx928fn0uf612sjic"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2332,7 +2178,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2345,7 +2191,20 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
+    },
+    {
+      "id": "ev_cb92fc6832",
+      "title": "俄司法部：对12名境外俄罗斯人实施暂时限制措施",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "pg1mpk59n6cdjnl3rty55jjw",
+        "kkinvpa3ezfq14uhyvr6oiis"
+      ],
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_301045330e",
@@ -2358,7 +2217,7 @@
         "ej2g8a43fq8jb2qs4q4i3l8d",
         "umer7d6kdv005q4tkm80l06x"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -2371,7 +2230,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2384,7 +2243,20 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
+    },
+    {
+      "id": "ev_139ff53af7",
+      "title": "拼多多捐赠1000万元 驰援西藏那曲抗震救灾",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "or0x59htzds4fb39oe7crecv",
+        "kix1ztu0gjk01drm2qboqahq"
+      ],
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_616fddbb42",
@@ -2397,7 +2269,7 @@
         "vfn24c813iqvwlwtriyspksh",
         "pkhu6ede5n39wb9gdgftqgrp"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_1693c515a1",
@@ -2410,7 +2282,7 @@
         "n2d620iymoecp36pu4ks9u1i",
         "y7g2w557uzu26swtrwvdxbm0"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_dbb6a11680",
@@ -2424,7 +2296,7 @@
         "l3lpneotiit7w7gmg4piid4i",
         "oxya51nxtzzzgf8bnu921vhc"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2437,7 +2309,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2450,7 +2322,21 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
+    },
+    {
+      "id": "ev_78030114a5",
+      "title": "瓦努阿图附近海域发生7.2级地震",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "wmqwe4h0fx8n3ngl4nh0fwad",
+        "quo1bppn2skb5nmnv4kklpyk",
+        "avbpm8v5b7d3i52fladdehy9"
+      ],
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_d3d48dbf36",
@@ -2463,7 +2349,7 @@
         "e9rq8vwvr14nmzyb5v2ws00o",
         "ixcpccb7hqrhphr3kiaa8i1l"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_120ebf1fc3",
@@ -2476,7 +2362,7 @@
         "v8mf6vqacp1cpt78zhtnf5dd",
         "kkroj1xogf4s6wjq1r8eq7vm"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2489,20 +2375,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_f8524334fb",
-      "title": "财联社10月10日电，中国地震台网自动测定：10月10日12时14分在巴拿马附近（北纬7.53度，西经80.77度）发…",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "vw76hba2zxxh2eewuzsofkx6",
-        "tfngnrcdb7h4hgu72fmbigh3"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2515,20 +2388,7 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
-    },
-    {
-      "id": "ev_306a4f3596",
-      "title": "财联社C50风向指数调查：9月新增信贷、社融或同比少增，M1、M2增速环比回落",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "qv5kmejx69hkjhduvkyju9hi",
-        "shl8opsh6p81qyukbp9mp2hb"
-      ],
-      "updatedAt": "2026-10-23T05:59:31.597Z"
+      "updatedAt": "2026-10-24T05:44:13.130Z"
     }
   ],
   "items": [
@@ -2540,21 +2400,6 @@
       "sourceId": "web-csrc-news",
       "sourceName": "证监会 · 要闻",
       "publishedAt": "2026-10-19T09:37:05.000Z",
-      "score": 81,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "vtwhnmjpjzz38ljmqex9jcpq",
-      "title": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见",
-      "summary": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见，拟规范公募基金投资运作、支持权益类基金发展、提高运作灵活度，落实《推动公募基金高质量发展行动方案》。",
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7663393/content.shtml",
-      "sourceId": "web-csrc-news",
-      "sourceName": "证监会 · 要闻",
-      "publishedAt": "2026-10-09T08:59:43.000Z",
       "score": 81,
       "category": "policy",
       "tags": [
@@ -2590,6 +2435,22 @@
       "tags": [
         "市场动态",
         "其他"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "m2xc00gjopwos89xe8ye0spc",
+      "title": "中国证监会就《私募投资母基金管理规定（征求意见稿）》公开征求意见",
+      "summary": "中国证监会发布《私募投资母基金管理规定》征求意见稿，共23条，明确母基金概念与分类、分散投资要求，并豁免计入一层投资层级。",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7666352/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-10-23T07:51:49.000Z",
+      "score": 78,
+      "category": "policy",
+      "tags": [
+        "监管政策",
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -2776,6 +2637,21 @@
       "entityTags": []
     },
     {
+      "id": "wsuvbexogh0yn91vbl1tdnlj",
+      "title": "吴清主席会见香港特区政府财政司司长陈茂波一行",
+      "summary": "2026年10月23日，证监会主席吴清会见香港财政司司长陈茂波一行，双方就支持香港落实第一个五年规划、深化两地资本市场务实合作及巩固香港国际金融中心地位交换意见。",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7666429/content.shtml",
+      "sourceId": "web-csrc-news",
+      "sourceName": "证监会 · 要闻",
+      "publishedAt": "2026-10-23T09:39:28.000Z",
+      "score": 71,
+      "category": "policy",
+      "tags": [
+        "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "t5gx2owfet0k39xt3t6k7n8o",
       "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
       "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
@@ -2947,22 +2823,6 @@
       "entityTags": []
     },
     {
-      "id": "otyzmxc4l068a047ipryujqa",
-      "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
-      "summary": "十年期美债收益率逼近5.4%创2002年以来新高，标普500指数虽创新高但仅约30%成分股交易于50日均线之上，市场广度创历史最差，罗素2000小盘股累计跌幅约8.5%逼近技术性回调区间。",
-      "url": "https://wallstreetcn.com/articles/3783317",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-10T03:54:42.000Z",
-      "score": 69,
-      "category": "market",
-      "tags": [
-        "非证券/宏观",
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "zlrmdeaoie8eoynidc2ldwlu",
       "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
       "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
@@ -2974,21 +2834,6 @@
       "tags": [
         "市场动态",
         "产品更新"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "j58l2q2qvqxd0wesen40bxay",
-      "title": "9月A股新开户191万户",
-      "summary": "9月A股新开户191万户，显示市场活跃度提升，投资者入场意愿增强。",
-      "url": "https://qzs.stcn.com/article/detail/640205.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-10T05:38:00.000Z",
-      "score": 68,
-      "category": "market",
-      "tags": [
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -3078,6 +2923,37 @@
       "score": 67,
       "category": "market",
       "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "adv8psxk7m31mz0ndlfyknma",
+      "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+      "summary": "标普全球评级警告，数据中心行业因地方禁令、电网容量限制和项目延误，面临信用评级下调风险，已追踪146个受阻项目。",
+      "url": "https://wallstreetcn.com/articles/3784379",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-24T02:20:15.000Z",
+      "score": 66,
+      "category": "policy",
+      "tags": [
+        "监管政策",
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ce71rtib8q2g5va1prqpfgma",
+      "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+      "summary": "证监会核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报；特朗普表示或对伊朗发动小规模军事行动。",
+      "url": "https://www.cls.cn/detail/2514116",
+      "sourceId": "hot-cls",
+      "sourceName": "财联社 · 热榜",
+      "score": 66,
+      "category": "policy",
+      "tags": [
+        "监管政策",
         "市场动态"
       ],
       "entityTags": []
@@ -3219,14 +3095,14 @@
       "entityTags": []
     },
     {
-      "id": "d6ql9kgn24uzss9w9x11cfdd",
-      "title": "跟跌不跟涨！白银陷入困境",
-      "summary": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性…",
-      "url": "https://wallstreetcn.com/articles/3783312",
+      "id": "rl1tj6nz46j5ugplz86632z9",
+      "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
+      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现…",
+      "url": "https://wallstreetcn.com/articles/3784381",
       "sourceId": "rss-wallstreetcn",
       "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-10T02:09:28.000Z",
-      "score": 64,
+      "publishedAt": "2026-10-24T03:48:36.000Z",
+      "score": 63,
       "category": "market",
       "tags": [
         "市场动态"
@@ -3245,20 +3121,6 @@
       "category": "product",
       "tags": [
         "产品更新"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "kjglhv5w0izfu6byftfog3wy",
-      "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
-      "summary": "金十数据10月10日讯，10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京共同主持召开中欧贸易投资磋商机制第二次例会。…",
-      "url": "https://flash.jin10.com/detail/20261010133445317800",
-      "sourceId": "hot-jin10",
-      "sourceName": "金十数据",
-      "score": 63,
-      "category": "market",
-      "tags": [
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -3305,20 +3167,6 @@
       "category": "market",
       "tags": [
         "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "wakcd3e7oofglnaugbdqtdlh",
-      "title": "北京：增加人工智能手机和电脑、智能机器人等新一代智能终端产品有效供给",
-      "summary": "金十数据10月10日讯，北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》。其中指出，深入推进“人工智能+消费”。扩大数字产品消费，增加人…",
-      "url": "https://flash.jin10.com/detail/20261010140847242800",
-      "sourceId": "hot-jin10",
-      "sourceName": "金十数据",
-      "score": 62,
-      "category": "acquisition",
-      "tags": [
-        "获客展业"
       ],
       "entityTags": []
     },
@@ -3376,21 +3224,6 @@
       "category": "policy",
       "tags": [
         "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "gs6q7mvnsvc44lm75p7l3649",
-      "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
-      "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备…",
-      "url": "https://wallstreetcn.com/articles/3783320",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-10T06:01:44.000Z",
-      "score": 61,
-      "category": "market",
-      "tags": [
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -3579,40 +3412,6 @@
       "entityTags": []
     },
     {
-      "id": "bbc893xe3ns2a6omqztz1mch",
-      "title": "券业重磅！国泰海通，被险资巨头举牌！",
-      "summary": "国泰海通被险资巨头举牌，券商股权发生重大变动。",
-      "url": "https://qzs.stcn.com/article/detail/640175.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-10T02:49:00.000Z",
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "券商经营",
-        "并购重组"
-      ],
-      "entityTags": [
-        "国泰海通"
-      ]
-    },
-    {
-      "id": "uufx6r4a6xqwufcvysi0znkx",
-      "title": "深夜！美联储，突发大消息！",
-      "summary": "2026年10月9日深夜，美联储发布重大政策消息，具体内容需待原文补充。",
-      "url": "https://qzs.stcn.com/article/detail/640112.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-09T23:44:00.000Z",
-      "score": 51,
-      "category": "policy",
-      "tags": [
-        "非证券/宏观",
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "hfcx37yewb83c96jnq365097",
       "title": "卖卖卖！这家券商，持续处置资产",
       "summary": "某券商持续处置资产，进行业务与资源配置调整。",
@@ -3646,6 +3445,6 @@
   ],
   "meta": {
     "itemCount": 1500,
-    "llmCalls": 13
+    "llmCalls": 114
   }
 }

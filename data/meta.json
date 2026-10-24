@@ -1,17 +1,11 @@
 {
-  "lastRunAt": "2026-10-23T05:59:31.597Z",
-  "lastSuccessAt": "2026-10-23T06:02:41.177Z",
-  "llmCallsUsed": 13,
-  "fetchedFeeds": 4,
-  "newItems": 19,
+  "lastRunAt": "2026-10-24T05:44:13.130Z",
+  "lastSuccessAt": "2026-10-24T05:54:59.005Z",
+  "llmCallsUsed": 114,
+  "fetchedFeeds": 10,
+  "newItems": 118,
   "selectedToday": 5,
   "errors": [
-    "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)",
-    "fetch hot-wallstreetcn: HTTP 500：https://newsnow.busiyi.world/api/s?id=wallstreetcn-hot&latest",
-    "fetch hot-cls: HTTP 500：https://newsnow.busiyi.world/api/s?id=cls-hot&latest",
-    "fetch feed-cls: HTTP 500：https://newsnow.busiyi.world/api/s?id=cls&latest",
-    "fetch hot-jin10: HTTP 500：https://newsnow.busiyi.world/api/s?id=jin10&latest",
-    "fetch hot-gelonghui: HTTP 500：https://newsnow.busiyi.world/api/s?id=gelonghui&latest",
-    "fetch hot-fastbull: HTTP 500：https://newsnow.busiyi.world/api/s?id=fastbull-news&latest"
+    "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)"
   ]
 }
