@@ -1,10 +1,10 @@
 {
-  "lastRunAt": "2026-10-24T05:44:13.130Z",
-  "lastSuccessAt": "2026-10-24T05:54:59.005Z",
-  "llmCallsUsed": 114,
+  "lastRunAt": "2026-10-25T06:00:34.052Z",
+  "lastSuccessAt": "2026-10-25T06:10:22.409Z",
+  "llmCallsUsed": 97,
   "fetchedFeeds": 10,
-  "newItems": 118,
-  "selectedToday": 5,
+  "newItems": 102,
+  "selectedToday": 3,
   "errors": [
     "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)"
   ]

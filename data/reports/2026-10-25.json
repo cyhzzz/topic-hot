@@ -1,0 +1,84 @@
+{
+  "day": "2026-10-25",
+  "generatedAt": "2026-10-25T06:00:34.052Z",
+  "lead": {
+    "title": "野村看多AI投资延续概率75%，高盛提示美联储政策不确定性",
+    "paragraph": "野村证券预计AI军备竞赛持续概率达75%，2027年存储芯片短缺格局已基本锁定。同期高盛对美联储12月利率路径发出警示，称市场对加息或不加息都",
+    "highlights": [
+      "野村预测AI投资竞赛延续概率75%，主要风险为融资渠道关闭和电力短缺",
+      "对冲基金创纪录抛售后，高盛建议有选择地抄底AI资产，但信心不足",
+      "高盛警告美联储12月利率路径不确定性加大，市场可能未做好准备"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "hkndl3656wzfshrtpnz01ta5",
+          "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
+          "summary": "美债收益率从高位快速回落，AI投资热潮与能源价格冲击这两股曾共同推高利率的力量，正在出现分化。高盛警告， 市场对美联储政策路径的判断面临更大不确定性，12月加…",
+          "url": "https://wallstreetcn.com/articles/3784408",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-25T05:37:40.000Z",
+          "score": 63,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "acquisition",
+      "title": "获客展业",
+      "items": [
+        {
+          "id": "jgn2mq4e0ltjxmwcztkh0yg5",
+          "title": "对冲基金创纪录抛售后，高盛建议抄底：“有选择”地配置AI，但信心不足",
+          "summary": "对冲基金集中减仓、AI交易拥挤度下降，为部分美国科技股创造了买入机会，但高盛对反弹仍持谨慎态度。其策略师建议有选择地配置AI资产， 核心依据是龙头企业盈利预期…",
+          "url": "https://wallstreetcn.com/articles/3784401",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-25T02:08:44.000Z",
+          "score": 64,
+          "category": "acquisition",
+          "tags": [
+            "获客展业"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "ik6ugjcqy3fvtvkr3rj9j6mb",
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "summary": "野村证券预测AI投资竞赛持续及半导体超级周期延续的概率为75%，2027年存储芯片短缺格局已基本锁定，主要风险为融资渠道关闭和电力短缺。",
+          "url": "https://wallstreetcn.com/articles/3784406",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-25T03:45:59.000Z",
+          "score": 75,
+          "category": "opinion",
+          "tags": [
+            "观点/评论",
+            "海外同业"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 102,
+    "selected": 3,
+    "llmCalls": 76
+  }
+}
