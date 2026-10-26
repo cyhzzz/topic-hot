@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T06:00:34.052Z",
-  "today": "2026-10-25",
+  "generatedAt": "2026-10-26T06:04:26.115Z",
+  "today": "2026-10-26",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,69 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-26",
+      "generatedAt": "2026-10-26T06:04:26.115Z",
+      "lead": {
+        "title": "SK海力士将公布股东回报方案 人形机器人训练成本骤降千倍",
+        "paragraph": "今日市场关注焦点集中在半导体与机器人两大领域。SK海力士确认周三随季报公布股东回报措施，市场预期将派发16万亿韩元特别股息；加州大学伯克利分校SuperMimic技术将人形机器人运动控制训练算力消耗压缩逾1000倍。",
+        "highlights": [
+          "SK海力士周三随季报公布股东回报措施，预期派发16万亿韩元特别股息",
+          "特别股息资金来源于出售日本铠侠股权所得收益",
+          "伯克利SuperMimic论文将人形机器人全身运动控制器训练算力消耗压缩超1000倍",
+          "该技术从128块GPU运行一周降至单块H100运行三小时，已获CoRL 2026收录"
+        ]
+      },
+      "sections": [
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "ggsblxzmcfmbk1fzy5a8bjd1",
+              "title": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍",
+              "summary": "加州大学伯克利分校SuperMimic论文显示，人形机器人全身运动控制器训练算力消耗可压缩逾1000倍——从128块GPU运行一周降至单块H100运行三小时，该成果已被CoRL 2026收录；野村国际报告称这是机器人身体控制训练成本",
+              "url": "https://wallstreetcn.com/articles/3784444",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-26T04:30:02.000Z",
+              "score": 70,
+              "category": "product",
+              "tags": [
+                "非证券/宏观",
+                "金融科技"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "other",
+          "title": "其他",
+          "items": [
+            {
+              "id": "rn8hwiij1l74hluy81c9bdvm",
+              "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
+              "summary": "SK海力士确认周三随季报公布股东回报措施，外界预期将派发16万亿韩元特别股息，资金来源于出售日本存储芯片制造商铠侠股权所得收益。",
+              "url": "https://wallstreetcn.com/articles/3784447",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-26T03:42:47.000Z",
+              "score": 66,
+              "tags": [
+                "其他"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 112,
+        "selected": 2,
+        "llmCalls": 96
+      }
+    },
     {
       "day": "2026-10-25",
       "generatedAt": "2026-10-25T06:00:34.052Z",
@@ -1467,135 +1530,6 @@
         "selected": 5,
         "llmCalls": 109
       }
-    },
-    {
-      "day": "2026-10-12",
-      "generatedAt": "2026-10-12T07:17:44.813Z",
-      "lead": {
-        "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组…",
-        "paragraph": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
-        "highlights": [
-          "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
-          "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏…",
-          "低风险、稳收益ETF产品布局持续提速"
-        ]
-      },
-      "sections": [
-        {
-          "category": "industry",
-          "title": "券商经营",
-          "items": [
-            {
-              "id": "jkriowzvobm9p4mcvkyirgs0",
-              "title": "跌破8000人！保代数量8年来首降，投行“金领”褪色",
-              "summary": "保荐代表人数量跌破8000人，为8年来首次下降，投行业务景气度下滑导致岗位收缩。",
-              "url": "https://qzs.stcn.com/article/detail/640504.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-12T04:28:00.000Z",
-              "score": 50,
-              "category": "industry",
-              "tags": [
-                "数据/榜单",
-                "券商经营"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "drpyo8vc75mjep2teh98kg6w",
-              "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组件首次转由美国生产",
-              "summary": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
-              "url": "https://wallstreetcn.com/articles/3783407",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-12T03:15:38.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "券商经营"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "zp38nlfyiwxl4a0550luqxp3",
-              "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
-              "summary": "美股期货周一涨0.3%，韩股收跌3.6%，油价回落，投资者淡化中东地缘风险。高盛将美国股票评级上调至增持，美联储主席沃什本周预计就加息节奏发声。",
-              "url": "https://wallstreetcn.com/articles/3783408",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-12T07:09:21.000Z",
-              "score": 66,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "g9oyoge52tlnd79tv17ausvo",
-              "title": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
-              "summary": "标普500屡创新高，但对冲基金净杠杆率仅46.9%处于一年第2百分位，多空比跌至五年第1百分位；Mag 7持仓创历史新高同时科技股遭连续净卖出，VIX衍生品显示市场信心不足。",
-              "url": "https://wallstreetcn.com/articles/3783421",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-12T06:49:27.000Z",
-              "score": 66,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "i8a8kf2jslqnzyu6izip63tk",
-              "title": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
-              "summary": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，…",
-              "url": "https://wallstreetcn.com/articles/3783404",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-12T06:47:50.000Z",
-              "score": 64,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "product",
-          "title": "产品与工具",
-          "items": [
-            {
-              "id": "mprhcrqe0hf1ddm9j1vtlklb",
-              "title": "低风险、稳收益ETF产品布局持续提速",
-              "summary": "国庆长假前后沪市股票ETF合计净流入369亿元，宽基ETF净流入252亿元，科创50ETF净流入150亿元；节前8只中证红利增长ETF等多只产品集中上报，低风险稳收益ETF布局持续提速。",
-              "url": "https://flash.jin10.com/detail/20261012145412980800",
-              "sourceId": "hot-jin10",
-              "sourceName": "金十数据",
-              "score": 65,
-              "category": "product",
-              "tags": [
-                "产品更新",
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 123,
-        "selected": 6,
-        "llmCalls": 114
-      }
     }
   ],
   "groups": [
@@ -1610,7 +1544,7 @@
         "adu9z9ipacvwbzfas6t43we9",
         "goamk5slpra8alqax3bhricv"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_13601c7786",
@@ -1623,9 +1557,10 @@
         "dd3655aextngqggwnd682qsc",
         "islh2652va3ojs448xe1nvqf",
         "ma1flcwm6too4ezwwghtwedl",
+        "gcenac8q8gpxyob0jqipcgg0",
         "xqxe8gh5f5zfvxbi8sq2kmx8"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1639,7 +1574,7 @@
         "xmvltady5nxhaw1wchmr3cum",
         "n22b5m5uicf6jvful1k49hr9"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_0fe34cd389",
@@ -1668,7 +1603,7 @@
         "xakh95lkjplapmxw1whct5ht",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1681,7 +1616,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1694,7 +1629,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_890366d991",
@@ -1713,7 +1648,7 @@
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_4bd2439c2e",
@@ -1726,7 +1661,7 @@
         "ubntz84qh9nb2oid7c4uz3ta",
         "dhlppg5fawur2n0h6rei3rft"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_920de07728",
@@ -1739,7 +1674,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1753,7 +1688,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_ec38a3add5",
@@ -1766,7 +1701,7 @@
         "oa232u46k9wzce0mhxf9v8ex",
         "f84ujrtr209q0d5kj8c5e4e6"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -1779,7 +1714,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1795,13 +1730,13 @@
         "vruan380oeifttgz7708ldq5",
         "bigyzcouasba6f6u9d8559nu",
         "n9uhkzo8z3zouz36vffvf2tm",
-        "urly6s2gcvj7xi6a99oxvktz",
+        "j9wlzbz5y6ue70mno3rv6q4t",
         "tpektdnddvifpwrjvmaruiuu",
         "rdnaw3xexnhu3cyqh44dhufr",
         "ipno0oefzzy84hp0rwofd9qe",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1814,7 +1749,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1827,20 +1762,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
-    },
-    {
-      "id": "ev_15b21aaf71",
-      "title": "【数读IPO】国内军用特种线缆细分“小巨人”今日申购",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "um03e83pupeayjphg8aij8da",
-        "fv8vzd1lo96co64tpzlw8lra"
-      ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1853,7 +1775,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -1867,7 +1789,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1880,7 +1802,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -1893,7 +1815,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -1906,7 +1828,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -1920,7 +1842,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1934,7 +1856,20 @@
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
+    },
+    {
+      "id": "ev_6f80635b07",
+      "title": "沪指翻红 上涨个股近3000只",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "x1hbc02va0ml7sfzr0sqguge",
+        "jqj0e4u5ha8iyrejwdjxg3db"
+      ],
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1947,7 +1882,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -1960,20 +1895,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
-    },
-    {
-      "id": "ev_c20498e2aa",
-      "title": "美驻沙特使馆发布安全警示",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "m6wyj79ki9lphvtvfjx9ply0",
-        "my2bzktwj8phr9t3qouwysto"
-      ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -1986,7 +1908,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1999,7 +1921,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -2015,7 +1937,7 @@
         "xsh2l0p00pral3a6gpu119lz",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -2028,7 +1950,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_d92a708b8d",
@@ -2041,7 +1963,7 @@
         "l0khocn9b5xdwck66hmnd628",
         "ftf2xzvxmnu4unvxy1pp8k3c"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2054,20 +1976,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
-    },
-    {
-      "id": "ev_90d90b2e4e",
-      "title": "10月12日全国农产品批发市场猪肉平均价格为15.98元/公斤 比上周六下降0.7%",
-      "category": "product",
-      "tags": [
-        "产品更新"
-      ],
-      "itemIds": [
-        "e0cg4xm43lf1rwnem5qyoy1m",
-        "z3pdd7d1f91el41c8ethoidc"
-      ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2080,7 +1989,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2093,7 +2002,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2106,7 +2015,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2119,20 +2028,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
-    },
-    {
-      "id": "ev_eb6a470ebd",
-      "title": "王毅将作为习近平主席特别代表出席亚信峰会 并访问阿塞拜疆、克罗地亚、黑山、保加利亚",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "i3ur9y86cbedf1idai5p86k0",
-        "n7ngreobna89f56l1bldyw77"
-      ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2145,7 +2041,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2158,7 +2054,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2171,7 +2067,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_cb92fc6832",
@@ -2184,7 +2080,7 @@
         "pg1mpk59n6cdjnl3rty55jjw",
         "kkinvpa3ezfq14uhyvr6oiis"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_89dd7a4ce9",
@@ -2197,7 +2093,7 @@
         "il79ltzu3gpo67i7at9x8e1u",
         "tj6keeq3o77pvsuulz3act2j"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_55eaa8ddad",
@@ -2210,7 +2106,7 @@
         "v25z3ijjeop1uysk0o5qm6y4",
         "popoab0i00y7l1m5k8k2c50i"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2223,7 +2119,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_139ff53af7",
@@ -2236,7 +2132,7 @@
         "or0x59htzds4fb39oe7crecv",
         "kix1ztu0gjk01drm2qboqahq"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2249,7 +2145,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2262,7 +2158,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_78030114a5",
@@ -2276,20 +2172,20 @@
         "quo1bppn2skb5nmnv4kklpyk",
         "avbpm8v5b7d3i52fladdehy9"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
-      "id": "ev_120ebf1fc3",
-      "title": "黄金投资者周报上新！",
+      "id": "ev_0f60c880fe",
+      "title": "财联社10月26日电，俄罗斯国防部称俄军在黑海击中一艘货船。",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "v8mf6vqacp1cpt78zhtnf5dd",
-        "kkroj1xogf4s6wjq1r8eq7vm"
+        "cpfblq4i1hykjp2shqfv31h6",
+        "lngk3pq1lzq22zxaoadz33ic"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2302,7 +2198,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2315,7 +2211,7 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     },
     {
       "id": "ev_9366d5b2e8",
@@ -2328,7 +2224,7 @@
         "qw769hjmjikox3w1wweqyfk5",
         "m8khojylv9ort9xipjtb785p"
       ],
-      "updatedAt": "2026-10-25T06:00:34.052Z"
+      "updatedAt": "2026-10-26T06:04:26.115Z"
     }
   ],
   "items": [
@@ -2592,6 +2488,22 @@
       "entityTags": []
     },
     {
+      "id": "ggsblxzmcfmbk1fzy5a8bjd1",
+      "title": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍",
+      "summary": "加州大学伯克利分校SuperMimic论文显示，人形机器人全身运动控制器训练算力消耗可压缩逾1000倍——从128块GPU运行一周降至单块H100运行三小时，该成果已被CoRL 2026收录；野村国际报告称这是机器人身体控制训练成本",
+      "url": "https://wallstreetcn.com/articles/3784444",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-26T04:30:02.000Z",
+      "score": 70,
+      "category": "product",
+      "tags": [
+        "非证券/宏观",
+        "金融科技"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "k5eqtpcjneulgy69tkck9hx8",
       "title": "吴清主席与财政部副部长郭婷婷共同会见美国公众公司会计监督委员会主席洛戈泰斯",
       "summary": "2026年10月14日，中国证监会主席吴清与财政部副部长郭婷婷在京共同会见美国PCAOB主席洛戈泰斯，双方就持续推进中美审计监管合作、增进资本市场审计监管交流深入交换意见。",
@@ -2717,21 +2629,6 @@
       "entityTags": []
     },
     {
-      "id": "drpyo8vc75mjep2teh98kg6w",
-      "title": "台积电20亿美元硅中介层大单交给格罗方德，CoWoS关键组件首次转由美国生产",
-      "summary": "台积电将CoWoS关键组件硅中介层首次委外给美国格罗方德，签订20亿美元五年长约，预计2028年上半年在美国纽约州逐步放量，AI先进封装产能由此延伸至美国本土。",
-      "url": "https://wallstreetcn.com/articles/3783407",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-12T03:15:38.000Z",
-      "score": 69,
-      "category": "market",
-      "tags": [
-        "券商经营"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "zlrmdeaoie8eoynidc2ldwlu",
       "title": "上交所副总经理苑多然：积极推动主动ETF落地 挂牌基金总市值达3.5万亿",
       "summary": "上交所副总经理苑多然表示，截至今年9月上交所挂牌基金总市值达3.5万亿元，ETF成交额和市值分居亚洲第一和第三，交易所正积极推动主动ETF落地。",
@@ -2822,6 +2719,20 @@
       "entityTags": []
     },
     {
+      "id": "rn8hwiij1l74hluy81c9bdvm",
+      "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
+      "summary": "SK海力士确认周三随季报公布股东回报措施，外界预期将派发16万亿韩元特别股息，资金来源于出售日本存储芯片制造商铠侠股权所得收益。",
+      "url": "https://wallstreetcn.com/articles/3784447",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-26T03:42:47.000Z",
+      "score": 66,
+      "tags": [
+        "其他"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "adv8psxk7m31mz0ndlfyknma",
       "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
       "summary": "标普全球评级警告，数据中心行业因地方禁令、电网容量限制和项目延误，面临信用评级下调风险，已追踪146个受阻项目。",
@@ -2884,36 +2795,6 @@
       "entityTags": []
     },
     {
-      "id": "zp38nlfyiwxl4a0550luqxp3",
-      "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
-      "summary": "美股期货周一涨0.3%，韩股收跌3.6%，油价回落，投资者淡化中东地缘风险。高盛将美国股票评级上调至增持，美联储主席沃什本周预计就加息节奏发声。",
-      "url": "https://wallstreetcn.com/articles/3783408",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-12T07:09:21.000Z",
-      "score": 66,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "g9oyoge52tlnd79tv17ausvo",
-      "title": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
-      "summary": "标普500屡创新高，但对冲基金净杠杆率仅46.9%处于一年第2百分位，多空比跌至五年第1百分位；Mag 7持仓创历史新高同时科技股遭连续净卖出，VIX衍生品显示市场信心不足。",
-      "url": "https://wallstreetcn.com/articles/3783421",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-12T06:49:27.000Z",
-      "score": 66,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "ugsunnait4jiljqysjgzsgwp",
       "title": "建行把大模型送进银行间市场",
       "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
@@ -2925,21 +2806,6 @@
       "category": "industry",
       "tags": [
         "金融科技"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "mprhcrqe0hf1ddm9j1vtlklb",
-      "title": "低风险、稳收益ETF产品布局持续提速",
-      "summary": "国庆长假前后沪市股票ETF合计净流入369亿元，宽基ETF净流入252亿元，科创50ETF净流入150亿元；节前8只中证红利增长ETF等多只产品集中上报，低风险稳收益ETF布局持续提速。",
-      "url": "https://flash.jin10.com/detail/20261012145412980800",
-      "sourceId": "hot-jin10",
-      "sourceName": "金十数据",
-      "score": 65,
-      "category": "product",
-      "tags": [
-        "产品更新",
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -2981,21 +2847,6 @@
       "sourceId": "rss-wallstreetcn",
       "sourceName": "华尔街见闻",
       "publishedAt": "2026-10-23T04:03:56.000Z",
-      "score": 64,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "i8a8kf2jslqnzyu6izip63tk",
-      "title": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
-      "summary": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，…",
-      "url": "https://wallstreetcn.com/articles/3783404",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-12T06:47:50.000Z",
       "score": 64,
       "category": "market",
       "tags": [
@@ -3334,26 +3185,10 @@
         "券商经营"
       ],
       "entityTags": []
-    },
-    {
-      "id": "jkriowzvobm9p4mcvkyirgs0",
-      "title": "跌破8000人！保代数量8年来首降，投行“金领”褪色",
-      "summary": "保荐代表人数量跌破8000人，为8年来首次下降，投行业务景气度下滑导致岗位收缩。",
-      "url": "https://qzs.stcn.com/article/detail/640504.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-12T04:28:00.000Z",
-      "score": 50,
-      "category": "industry",
-      "tags": [
-        "数据/榜单",
-        "券商经营"
-      ],
-      "entityTags": []
     }
   ],
   "meta": {
     "itemCount": 1500,
-    "llmCalls": 97
+    "llmCalls": 115
   }
 }

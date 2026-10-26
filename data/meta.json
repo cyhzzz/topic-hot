@@ -1,11 +1,12 @@
 {
-  "lastRunAt": "2026-10-25T06:00:34.052Z",
-  "lastSuccessAt": "2026-10-25T06:10:22.409Z",
-  "llmCallsUsed": 97,
-  "fetchedFeeds": 10,
-  "newItems": 102,
-  "selectedToday": 3,
+  "lastRunAt": "2026-10-26T06:04:26.115Z",
+  "lastSuccessAt": "2026-10-26T06:19:24.052Z",
+  "llmCallsUsed": 115,
+  "fetchedFeeds": 9,
+  "newItems": 112,
+  "selectedToday": 2,
   "errors": [
+    "fetch web-csrc-news: Connect Timeout Error (attempted addresses: 119.44.2.15:443, 119.44.2.13:443, 119.44.2.11:443, 119.44.2.12:443, 119.44.2.17:443, 119.44.2.18:443, 119.44.2.14:443, 119.44.2.16:443, timeout: 15000ms)",
     "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)"
   ]
 }

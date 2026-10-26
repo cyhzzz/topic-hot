@@ -1,0 +1,63 @@
+{
+  "day": "2026-10-26",
+  "generatedAt": "2026-10-26T06:04:26.115Z",
+  "lead": {
+    "title": "SK海力士将公布股东回报方案 人形机器人训练成本骤降千倍",
+    "paragraph": "今日市场关注焦点集中在半导体与机器人两大领域。SK海力士确认周三随季报公布股东回报措施，市场预期将派发16万亿韩元特别股息；加州大学伯克利分校SuperMimic技术将人形机器人运动控制训练算力消耗压缩逾1000倍。",
+    "highlights": [
+      "SK海力士周三随季报公布股东回报措施，预期派发16万亿韩元特别股息",
+      "特别股息资金来源于出售日本铠侠股权所得收益",
+      "伯克利SuperMimic论文将人形机器人全身运动控制器训练算力消耗压缩超1000倍",
+      "该技术从128块GPU运行一周降至单块H100运行三小时，已获CoRL 2026收录"
+    ]
+  },
+  "sections": [
+    {
+      "category": "product",
+      "title": "产品与工具",
+      "items": [
+        {
+          "id": "ggsblxzmcfmbk1fzy5a8bjd1",
+          "title": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍",
+          "summary": "加州大学伯克利分校SuperMimic论文显示，人形机器人全身运动控制器训练算力消耗可压缩逾1000倍——从128块GPU运行一周降至单块H100运行三小时，该成果已被CoRL 2026收录；野村国际报告称这是机器人身体控制训练成本",
+          "url": "https://wallstreetcn.com/articles/3784444",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-26T04:30:02.000Z",
+          "score": 70,
+          "category": "product",
+          "tags": [
+            "非证券/宏观",
+            "金融科技"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "other",
+      "title": "其他",
+      "items": [
+        {
+          "id": "rn8hwiij1l74hluy81c9bdvm",
+          "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
+          "summary": "SK海力士确认周三随季报公布股东回报措施，外界预期将派发16万亿韩元特别股息，资金来源于出售日本存储芯片制造商铠侠股权所得收益。",
+          "url": "https://wallstreetcn.com/articles/3784447",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-26T03:42:47.000Z",
+          "score": 66,
+          "tags": [
+            "其他"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 112,
+    "selected": 2,
+    "llmCalls": 96
+  }
+}
