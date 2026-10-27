@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T06:04:26.115Z",
-  "today": "2026-10-26",
+  "generatedAt": "2026-10-27T06:12:38.404Z",
+  "today": "2026-10-27",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,151 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-27",
+      "generatedAt": "2026-10-27T06:12:38.404Z",
+      "lead": {
+        "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或…",
+        "paragraph": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
+        "highlights": [
+          "人形机器人存储需求5年增加20倍？马斯克：荒谬，机器人存储需求“超过一切”，超…",
+          "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+          "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0…"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "m9kiifbs3vopjwd7v2u7puph",
+              "title": "又一家万亿券商！中金“三合一”交割落地，财富版图改写在即",
+              "summary": "中金公司完成",
+              "url": "https://www.cls.cn/detail/2515931",
+              "sourceId": "hot-cls",
+              "sourceName": "财联社 · 热榜",
+              "score": 62,
+              "category": "industry",
+              "tags": [
+                "券商经营",
+                "并购重组"
+              ],
+              "entityTags": [
+                "中金公司"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "vc4evcg05up7x1jyqtk3dft4",
+              "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
+              "summary": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
+              "url": "https://wallstreetcn.com/articles/3784542",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T05:50:21.000Z",
+              "score": 68,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "qh4msbiwtejqsrrhl0g3jt7n",
+              "title": "人形机器人存储需求5年增加20倍？马斯克：荒谬，机器人存储需求“超过一切”，超级智能更是远超于此",
+              "summary": "马斯克驳斥Counterpoint Research关于人形机器人存储需求5年增20倍的预测，称其\"荒谬\"，并断言机器人RAM需求将超越地球上其他一切；美光科技将人形机器人列为重要存储需求驱动力，定位\"物理AI\"核心增量市场。",
+              "url": "https://wallstreetcn.com/articles/3784526",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T04:06:44.000Z",
+              "score": 68,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ia9tllw46xcwyvqqndio3hle",
+              "title": "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0.8%，光模块、AI大模型反弹",
+              "summary": "10月27日，A股三大股指集体高开后一路震荡回落，盘中三大指数相继翻绿，创业板指开盘一度涨超1%后回吐，科创50指数半日跌超1%。银行板块逆势走强，沪农商行涨…",
+              "url": "https://wallstreetcn.com/articles/3784531",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T04:04:34.000Z",
+              "score": 64,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "kza2w2utiszr5jd80xlfn9un",
+              "title": "“72%的Token消耗却仅占27%的支出”--AI多空之争的关键议题",
+              "summary": "AI需求数据正在制造一场罕见的市场分歧：同一组数字，多头和空头各取所需，双方都宣称胜利。这场争论的核心，是一个令人不安的结构性矛盾—— Token消耗量爆炸式…",
+              "url": "https://wallstreetcn.com/articles/3784523",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T03:32:00.000Z",
+              "score": 61,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "g8o8g4kahq715hmbpo2wa0io",
+              "title": "Anthropic IPO将至，澳洲最大银行坐拥15亿澳元浮盈",
+              "summary": "随着Anthropic上市进程临近，澳大利亚联邦银行（CBA）正站在一笔潜在巨额收益的门口。 CBA持有的Anthropic股权账面价值已从最初的1.53亿澳…",
+              "url": "https://wallstreetcn.com/articles/3784543",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T05:52:05.000Z",
+              "score": 60,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "product",
+          "title": "产品与工具",
+          "items": [
+            {
+              "id": "g0tegucl6dlt6unnq1wyxszu",
+              "title": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+              "summary": "台积电计划对旗下先进封装服务大幅涨价，AI芯片需求持续旺盛带来的产能压力正向供应链成本端传导。 据中国台湾《工商時報》援引供应链消息人士报道，台积电正考虑将其…",
+              "url": "https://wallstreetcn.com/articles/3784544",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-27T05:52:14.000Z",
+              "score": 65,
+              "category": "product",
+              "tags": [
+                "产品更新"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 118,
+        "selected": 7,
+        "llmCalls": 108
+      }
+    },
     {
       "day": "2026-10-26",
       "generatedAt": "2026-10-26T06:04:26.115Z",
@@ -1409,143 +1554,9 @@
         "selected": 4,
         "llmCalls": 95
       }
-    },
-    {
-      "day": "2026-10-13",
-      "generatedAt": "2026-10-13T07:39:40.590Z",
-      "lead": {
-        "title": "长鑫突破震全球存储链，AI交易重挫韩股，A股午后逆转翻红",
-        "paragraph": "长鑫存储宣布4F²架构关键进展，2026年底前将推DDR5服务器内存，引发海外存储芯片板块抛售，费城半导体指数跌2.7%创三周新低。同日，AI交易热潮降温，韩股KOSPI单日暴跌5.47%，SK海力士重挫超10%；A股却走出午后大逆转，三大指数集体翻红。",
-        "highlights": [
-          "长鑫4F²架构突破，2026年推DDR5服务器内存，美股存储芯片遭抛售",
-          "韩国KOSPI收跌5.47%，SK海力士暴跌10.09%",
-          "现货黄金突破4200美元/盎司",
-          "A股三大指数午后翻红，覆铜板与军工板块领涨",
-          "茶百道遭香港证监会勒令停牌，上市两年半市值缩水近八成"
-        ]
-      },
-      "sections": [
-        {
-          "category": "industry",
-          "title": "券商经营",
-          "items": [
-            {
-              "id": "id92u40l410d7cbshrylr9lu",
-              "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
-              "summary": "长鑫存储宣布在4F²存储单元架构上取得关键进展，计划2026年底前推出DDR5服务器内存产品，引发美股芯片板块抛售，费城半导体指数下跌2.7%创三周新低，马斯克评论中国规模化制造能力超过全球其他地区总和。",
-              "url": "https://wallstreetcn.com/articles/3783500",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-13T04:57:14.000Z",
-              "score": 75,
-              "category": "industry",
-              "tags": [
-                "非证券/宏观"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "policy",
-          "title": "监管政策",
-          "items": [
-            {
-              "id": "w9bw1vu9ivftc5eefkz16vbw",
-              "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
-              "summary": "茶百道（02555.HK）被香港证监会指令停牌，具体原因尚未披露。该公司2024年4月以17.50港元/股登陆港交所，募资约25.86亿港元。",
-              "url": "https://wallstreetcn.com/articles/3783516",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-13T06:42:04.000Z",
-              "score": 73,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "t5gx2owfet0k39xt3t6k7n8o",
-              "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
-              "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
-              "url": "https://wallstreetcn.com/articles/3783492",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-13T06:39:32.000Z",
-              "score": 71,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "infdl1f7ep2rh2es826up9dk",
-              "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
-              "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
-              "url": "https://wallstreetcn.com/articles/3783494",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-13T05:39:08.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "product",
-          "title": "产品与工具",
-          "items": [
-            {
-              "id": "estj7pwzp217d06ocegvpipg",
-              "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
-              "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
-              "url": "https://wallstreetcn.com/articles/3783496",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-13T04:04:09.000Z",
-              "score": 63,
-              "category": "product",
-              "tags": [
-                "产品更新"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 115,
-        "selected": 5,
-        "llmCalls": 109
-      }
     }
   ],
   "groups": [
-    {
-      "id": "ev_84e96edb7e",
-      "title": "沪深两市成交额连续第3个交易日突破1.5万亿元。",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "adu9z9ipacvwbzfas6t43we9",
-        "goamk5slpra8alqax3bhricv"
-      ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
-    },
     {
       "id": "ev_13601c7786",
       "title": "今日重点关注的财经数据与事件：2026年10月14日 周三",
@@ -1558,9 +1569,10 @@
         "islh2652va3ojs448xe1nvqf",
         "ma1flcwm6too4ezwwghtwedl",
         "gcenac8q8gpxyob0jqipcgg0",
-        "xqxe8gh5f5zfvxbi8sq2kmx8"
+        "xqxe8gh5f5zfvxbi8sq2kmx8",
+        "nz1k09lenl8ymvz9dhot6du3"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1574,7 +1586,7 @@
         "xmvltady5nxhaw1wchmr3cum",
         "n22b5m5uicf6jvful1k49hr9"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_0fe34cd389",
@@ -1587,6 +1599,7 @@
         "egz8payohskwz39ajmwdsn1f",
         "e4or3wcgmgc0ymx35uwu06kr",
         "si7ka36rz01lzlinrpcve3iu",
+        "soyvgzoge55rbhds904nl7ek",
         "hng28hbbaeys4r6179vy40dp",
         "igiuz289mpul4iamyz5opva8",
         "r3vkvr4n3t8m6wyo7667tryi",
@@ -1601,9 +1614,10 @@
         "yp6so61ippnl84kt3b17gy0o",
         "jyws9vt11ygvvajlhadpekfa",
         "xakh95lkjplapmxw1whct5ht",
+        "mbmfysd7w7vc85hgu1lls5kx",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1616,7 +1630,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1629,7 +1643,21 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
+    },
+    {
+      "id": "ev_843b245cf4",
+      "title": "10月21日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+      "category": "market",
+      "tags": [
+        "数据/榜单",
+        "市场动态"
+      ],
+      "itemIds": [
+        "hph3lbmawf8szpgbjtkiyftw",
+        "jbziqy3v8ecada0bpfdhxowr"
+      ],
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_890366d991",
@@ -1642,13 +1670,14 @@
         "dy3qnkjcz2allxof7mr269sl",
         "ra10s6jjaoi1zgzn9p9nwjgh",
         "g3nna2ph1tpmczseg1q8xgkm",
+        "g101rghhbrovx93qz2l9l62e",
         "rjq9ccyj3hmzgeuph08bynvz",
         "bc2r737h1fdtw8imgkj0e4fu",
         "jinljylpa1dwk8trrhnb2tm0",
         "efihql6733xf8lfbuu3txwkz",
         "nne07nw7fi1im995806hnhdo"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_4bd2439c2e",
@@ -1661,7 +1690,7 @@
         "ubntz84qh9nb2oid7c4uz3ta",
         "dhlppg5fawur2n0h6rei3rft"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_920de07728",
@@ -1674,7 +1703,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1688,20 +1717,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
-    },
-    {
-      "id": "ev_ec38a3add5",
-      "title": "沪深两市今日成交额合计15378.31亿元，中际旭创成交额居首",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "oa232u46k9wzce0mhxf9v8ex",
-        "f84ujrtr209q0d5kj8c5e4e6"
-      ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -1714,7 +1730,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1729,14 +1745,14 @@
         "drjn5ih8bkk826fz9vd29wg2",
         "vruan380oeifttgz7708ldq5",
         "bigyzcouasba6f6u9d8559nu",
-        "n9uhkzo8z3zouz36vffvf2tm",
         "j9wlzbz5y6ue70mno3rv6q4t",
+        "djgr9bzejx5bet5o047oppv0",
         "tpektdnddvifpwrjvmaruiuu",
         "rdnaw3xexnhu3cyqh44dhufr",
         "ipno0oefzzy84hp0rwofd9qe",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1749,7 +1765,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1762,7 +1778,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1775,7 +1791,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -1789,7 +1805,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1802,7 +1818,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -1815,7 +1831,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -1828,7 +1844,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -1842,7 +1858,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_892b2927de",
@@ -1852,11 +1868,10 @@
         "市场动态"
       ],
       "itemIds": [
-        "upwkn1ijvgsi8m4vwkh91yut",
         "gr66a4wejxqgnx51y9uz6n11",
         "rwo5kzhi7jkji551um35g9gb"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_6f80635b07",
@@ -1869,7 +1884,7 @@
         "x1hbc02va0ml7sfzr0sqguge",
         "jqj0e4u5ha8iyrejwdjxg3db"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_5d604eb0c8",
@@ -1882,7 +1897,7 @@
         "er79m5g62bry7ht7jm706apd",
         "yyvq68m0786l6q4ol84ea7hk"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -1895,7 +1910,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -1908,7 +1923,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1921,7 +1936,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -1937,7 +1952,7 @@
         "xsh2l0p00pral3a6gpu119lz",
         "cbg4bd4hqgeay1p0k9yavyu2"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -1950,7 +1965,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_d92a708b8d",
@@ -1963,7 +1978,7 @@
         "l0khocn9b5xdwck66hmnd628",
         "ftf2xzvxmnu4unvxy1pp8k3c"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -1976,7 +1991,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -1989,7 +2004,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2002,7 +2017,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2015,7 +2030,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2028,7 +2043,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_f36739e3de",
@@ -2041,7 +2056,7 @@
         "ttozonuoefvhqxw6yalk4prl",
         "bbn7b493i8s3o72n0rjicvet"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_e9ab99de9c",
@@ -2054,7 +2069,7 @@
         "lwt49ylg1qcfrktesxiwr547",
         "miw1n32ezesg7zyww0yek24b"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2067,7 +2082,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_cb92fc6832",
@@ -2080,7 +2095,7 @@
         "pg1mpk59n6cdjnl3rty55jjw",
         "kkinvpa3ezfq14uhyvr6oiis"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_89dd7a4ce9",
@@ -2093,20 +2108,7 @@
         "il79ltzu3gpo67i7at9x8e1u",
         "tj6keeq3o77pvsuulz3act2j"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
-    },
-    {
-      "id": "ev_55eaa8ddad",
-      "title": "财联社10月13日电，博通发布面向VMware云平台的VMware HyperArmor安全方案。",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "v25z3ijjeop1uysk0o5qm6y4",
-        "popoab0i00y7l1m5k8k2c50i"
-      ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2119,7 +2121,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_139ff53af7",
@@ -2132,7 +2134,7 @@
         "or0x59htzds4fb39oe7crecv",
         "kix1ztu0gjk01drm2qboqahq"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2145,7 +2147,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2158,7 +2160,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_78030114a5",
@@ -2172,7 +2174,7 @@
         "quo1bppn2skb5nmnv4kklpyk",
         "avbpm8v5b7d3i52fladdehy9"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_0f60c880fe",
@@ -2185,7 +2187,20 @@
         "cpfblq4i1hykjp2shqfv31h6",
         "lngk3pq1lzq22zxaoadz33ic"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
+    },
+    {
+      "id": "ev_cd8aef22d2",
+      "title": "印度石油部长：正在扩大炼油产能，以帮助满足本地需求并履行出口承诺。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "odddfueloi7myz4ot2mu65or",
+        "tm2xk8dfc8tl8gxlkt85qkva"
+      ],
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2198,7 +2213,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2211,7 +2226,7 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     },
     {
       "id": "ev_9366d5b2e8",
@@ -2224,7 +2239,7 @@
         "qw769hjmjikox3w1wweqyfk5",
         "m8khojylv9ort9xipjtb785p"
       ],
-      "updatedAt": "2026-10-26T06:04:26.115Z"
+      "updatedAt": "2026-10-27T06:12:38.404Z"
     }
   ],
   "items": [
@@ -2367,21 +2382,6 @@
       "entityTags": []
     },
     {
-      "id": "id92u40l410d7cbshrylr9lu",
-      "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
-      "summary": "长鑫存储宣布在4F²存储单元架构上取得关键进展，计划2026年底前推出DDR5服务器内存产品，引发美股芯片板块抛售，费城半导体指数下跌2.7%创三周新低，马斯克评论中国规模化制造能力超过全球其他地区总和。",
-      "url": "https://wallstreetcn.com/articles/3783500",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-13T04:57:14.000Z",
-      "score": 75,
-      "category": "industry",
-      "tags": [
-        "非证券/宏观"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "vgz414a4zdx0m3nd2d1h989a",
       "title": "中国证监会发布《违规转让证券案件行政处罚实施规则》",
       "summary": "中国证监会发布《违规转让证券案件行政处罚实施规则》，明确违规转让证券的认定标准与四种类别，自2026年12月1日起施行。",
@@ -2409,21 +2409,6 @@
       "category": "market",
       "tags": [
         "非证券/宏观"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "w9bw1vu9ivftc5eefkz16vbw",
-      "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
-      "summary": "茶百道（02555.HK）被香港证监会指令停牌，具体原因尚未披露。该公司2024年4月以17.50港元/股登陆港交所，募资约25.86亿港元。",
-      "url": "https://wallstreetcn.com/articles/3783516",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-13T06:42:04.000Z",
-      "score": 73,
-      "category": "policy",
-      "tags": [
-        "监管政策"
       ],
       "entityTags": []
     },
@@ -2469,21 +2454,6 @@
       "category": "policy",
       "tags": [
         "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "t5gx2owfet0k39xt3t6k7n8o",
-      "title": "全球AI交易再重挫，韩股收跌5.47%领跌亚太，SK海力士暴跌超10%，现货黄金突破4200",
-      "summary": "韩国KOSPI指数周二收跌5.47%领跌亚太，SK海力士暴跌10.09%，现货黄金突破4200美元/盎司。",
-      "url": "https://wallstreetcn.com/articles/3783492",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-13T06:39:32.000Z",
-      "score": 71,
-      "category": "market",
-      "tags": [
-        "市场动态"
       ],
       "entityTags": []
     },
@@ -2614,14 +2584,29 @@
       "entityTags": []
     },
     {
-      "id": "infdl1f7ep2rh2es826up9dk",
-      "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
-      "summary": "A股三大指数10月13日午后集体翻红，创业板指涨0.58%，深成指涨0.41%，沪指涨0.47%。AI硬件与覆铜板板块领涨，港股恒指接近翻红。隔夜美股存储芯片重挫后A股盘中一度杀跌，午后回暖。",
-      "url": "https://wallstreetcn.com/articles/3783494",
+      "id": "vc4evcg05up7x1jyqtk3dft4",
+      "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
+      "summary": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
+      "url": "https://wallstreetcn.com/articles/3784542",
       "sourceId": "rss-wallstreetcn",
       "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-13T05:39:08.000Z",
-      "score": 69,
+      "publishedAt": "2026-10-27T05:50:21.000Z",
+      "score": 68,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "qh4msbiwtejqsrrhl0g3jt7n",
+      "title": "人形机器人存储需求5年增加20倍？马斯克：荒谬，机器人存储需求“超过一切”，超级智能更是远超于此",
+      "summary": "马斯克驳斥Counterpoint Research关于人形机器人存储需求5年增20倍的预测，称其\"荒谬\"，并断言机器人RAM需求将超越地球上其他一切；美光科技将人形机器人列为重要存储需求驱动力，定位\"物理AI\"核心增量市场。",
+      "url": "https://wallstreetcn.com/articles/3784526",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-27T04:06:44.000Z",
+      "score": 68,
       "category": "market",
       "tags": [
         "市场动态"
@@ -2795,6 +2780,21 @@
       "entityTags": []
     },
     {
+      "id": "g0tegucl6dlt6unnq1wyxszu",
+      "title": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+      "summary": "台积电计划对旗下先进封装服务大幅涨价，AI芯片需求持续旺盛带来的产能压力正向供应链成本端传导。 据中国台湾《工商時報》援引供应链消息人士报道，台积电正考虑将其…",
+      "url": "https://wallstreetcn.com/articles/3784544",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-27T05:52:14.000Z",
+      "score": 65,
+      "category": "product",
+      "tags": [
+        "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ugsunnait4jiljqysjgzsgwp",
       "title": "建行把大模型送进银行间市场",
       "summary": "建设银行成为银行间市场首家将大模型用于债券回购交易的机构，升级覆盖智能询报价、押品管理和交易定价，应用于日均成交近7万亿元的高频流动性市场。",
@@ -2806,6 +2806,21 @@
       "category": "industry",
       "tags": [
         "金融科技"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ia9tllw46xcwyvqqndio3hle",
+      "title": "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0.8%，光模块、AI大模型反弹",
+      "summary": "10月27日，A股三大股指集体高开后一路震荡回落，盘中三大指数相继翻绿，创业板指开盘一度涨超1%后回吐，科创50指数半日跌超1%。银行板块逆势走强，沪农商行涨…",
+      "url": "https://wallstreetcn.com/articles/3784531",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-27T04:04:34.000Z",
+      "score": 64,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -2885,19 +2900,21 @@
       "entityTags": []
     },
     {
-      "id": "estj7pwzp217d06ocegvpipg",
-      "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
-      "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入…",
-      "url": "https://wallstreetcn.com/articles/3783496",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-13T04:04:09.000Z",
-      "score": 63,
-      "category": "product",
+      "id": "m9kiifbs3vopjwd7v2u7puph",
+      "title": "又一家万亿券商！中金“三合一”交割落地，财富版图改写在即",
+      "summary": "中金公司完成",
+      "url": "https://www.cls.cn/detail/2515931",
+      "sourceId": "hot-cls",
+      "sourceName": "财联社 · 热榜",
+      "score": 62,
+      "category": "industry",
       "tags": [
-        "产品更新"
+        "券商经营",
+        "并购重组"
       ],
-      "entityTags": []
+      "entityTags": [
+        "中金公司"
+      ]
     },
     {
       "id": "r83ii4h0gkgn9fsaex1syyry",
@@ -2939,6 +2956,21 @@
       "sourceName": "华尔街见闻",
       "publishedAt": "2026-10-15T03:43:18.000Z",
       "score": 62,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "kza2w2utiszr5jd80xlfn9un",
+      "title": "“72%的Token消耗却仅占27%的支出”--AI多空之争的关键议题",
+      "summary": "AI需求数据正在制造一场罕见的市场分歧：同一组数字，多头和空头各取所需，双方都宣称胜利。这场争论的核心，是一个令人不安的结构性矛盾—— Token消耗量爆炸式…",
+      "url": "https://wallstreetcn.com/articles/3784523",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-27T03:32:00.000Z",
+      "score": 61,
       "category": "market",
       "tags": [
         "市场动态"
@@ -2999,6 +3031,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "g8o8g4kahq715hmbpo2wa0io",
+      "title": "Anthropic IPO将至，澳洲最大银行坐拥15亿澳元浮盈",
+      "summary": "随着Anthropic上市进程临近，澳大利亚联邦银行（CBA）正站在一笔潜在巨额收益的门口。 CBA持有的Anthropic股权账面价值已从最初的1.53亿澳…",
+      "url": "https://wallstreetcn.com/articles/3784543",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-27T05:52:05.000Z",
+      "score": 60,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3189,6 +3236,6 @@
   ],
   "meta": {
     "itemCount": 1500,
-    "llmCalls": 115
+    "llmCalls": 124
   }
 }

@@ -1,0 +1,145 @@
+{
+  "day": "2026-10-27",
+  "generatedAt": "2026-10-27T06:12:38.404Z",
+  "lead": {
+    "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或…",
+    "paragraph": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
+    "highlights": [
+      "人形机器人存储需求5年增加20倍？马斯克：荒谬，机器人存储需求“超过一切”，超…",
+      "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+      "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0…"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "m9kiifbs3vopjwd7v2u7puph",
+          "title": "又一家万亿券商！中金“三合一”交割落地，财富版图改写在即",
+          "summary": "中金公司完成",
+          "url": "https://www.cls.cn/detail/2515931",
+          "sourceId": "hot-cls",
+          "sourceName": "财联社 · 热榜",
+          "score": 62,
+          "category": "industry",
+          "tags": [
+            "券商经营",
+            "并购重组"
+          ],
+          "entityTags": [
+            "中金公司"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "vc4evcg05up7x1jyqtk3dft4",
+          "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
+          "summary": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
+          "url": "https://wallstreetcn.com/articles/3784542",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T05:50:21.000Z",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "qh4msbiwtejqsrrhl0g3jt7n",
+          "title": "人形机器人存储需求5年增加20倍？马斯克：荒谬，机器人存储需求“超过一切”，超级智能更是远超于此",
+          "summary": "马斯克驳斥Counterpoint Research关于人形机器人存储需求5年增20倍的预测，称其\"荒谬\"，并断言机器人RAM需求将超越地球上其他一切；美光科技将人形机器人列为重要存储需求驱动力，定位\"物理AI\"核心增量市场。",
+          "url": "https://wallstreetcn.com/articles/3784526",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T04:06:44.000Z",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ia9tllw46xcwyvqqndio3hle",
+          "title": "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0.8%，光模块、AI大模型反弹",
+          "summary": "10月27日，A股三大股指集体高开后一路震荡回落，盘中三大指数相继翻绿，创业板指开盘一度涨超1%后回吐，科创50指数半日跌超1%。银行板块逆势走强，沪农商行涨…",
+          "url": "https://wallstreetcn.com/articles/3784531",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T04:04:34.000Z",
+          "score": 64,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "kza2w2utiszr5jd80xlfn9un",
+          "title": "“72%的Token消耗却仅占27%的支出”--AI多空之争的关键议题",
+          "summary": "AI需求数据正在制造一场罕见的市场分歧：同一组数字，多头和空头各取所需，双方都宣称胜利。这场争论的核心，是一个令人不安的结构性矛盾—— Token消耗量爆炸式…",
+          "url": "https://wallstreetcn.com/articles/3784523",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T03:32:00.000Z",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "g8o8g4kahq715hmbpo2wa0io",
+          "title": "Anthropic IPO将至，澳洲最大银行坐拥15亿澳元浮盈",
+          "summary": "随着Anthropic上市进程临近，澳大利亚联邦银行（CBA）正站在一笔潜在巨额收益的门口。 CBA持有的Anthropic股权账面价值已从最初的1.53亿澳…",
+          "url": "https://wallstreetcn.com/articles/3784543",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T05:52:05.000Z",
+          "score": 60,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "product",
+      "title": "产品与工具",
+      "items": [
+        {
+          "id": "g0tegucl6dlt6unnq1wyxszu",
+          "title": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+          "summary": "台积电计划对旗下先进封装服务大幅涨价，AI芯片需求持续旺盛带来的产能压力正向供应链成本端传导。 据中国台湾《工商時報》援引供应链消息人士报道，台积电正考虑将其…",
+          "url": "https://wallstreetcn.com/articles/3784544",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T05:52:14.000Z",
+          "score": 65,
+          "category": "product",
+          "tags": [
+            "产品更新"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 118,
+    "selected": 7,
+    "llmCalls": 108
+  }
+}

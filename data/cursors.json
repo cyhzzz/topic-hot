@@ -1,7 +1,7 @@
 {
   "web-csrc-news": {
     "configHash": "99f472af2d593516",
-    "lastFetchedAt": "2026-10-25T06:00:34.052Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "rss-sse-rules": {
     "etag": "W/\"7d74-KqBMwOD7orF3e3Y8FvPO0iDOc5Y\"",
@@ -11,9 +11,9 @@
   },
   "rss-szse-rules": {
     "etag": "W/\"df073-0bGTIQdwf4xvukyCqgIuFA1R40U\"",
-    "lastModified": "Mon, 26 Oct 2026 06:05:04 GMT",
+    "lastModified": "Tue, 27 Oct 2026 06:13:18 GMT",
     "configHash": "9c26031e70026c9f",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "web-qzs": {
     "configHash": "9f35edcd72148af1",
@@ -21,30 +21,30 @@
   },
   "rss-wallstreetcn": {
     "configHash": "71a2e642bfc44427",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "hot-wallstreetcn": {
     "configHash": "6e76a2ca01510352",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "hot-cls": {
     "configHash": "b73136911153b1c3",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "feed-cls": {
     "configHash": "881503a4560500e9",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "hot-jin10": {
     "configHash": "83b8ba8f301f4170",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "hot-gelonghui": {
     "configHash": "d7b1ef5198e62f0f",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   },
   "hot-fastbull": {
     "configHash": "69fea532e8a4072b",
-    "lastFetchedAt": "2026-10-26T06:04:26.115Z"
+    "lastFetchedAt": "2026-10-27T06:12:38.404Z"
   }
 }
