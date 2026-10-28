@@ -1,0 +1,139 @@
+{
+  "day": "2026-10-28",
+  "generatedAt": "2026-10-28T06:49:00.849Z",
+  "lead": {
+    "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
+    "paragraph": "印度央行行长公开暗示，利率政策将纳入汇率防御工具箱审议，银行体系超额流动性从9月初11万亿卢比骤降至4620亿卢比，萎缩超95%，隔夜拆借利率已升至政策区间上端。",
+    "highlights": [
+      "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
+      "创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，…",
+      "主力资金流向前十大个股"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "jaapa0jw17eszkukqtqqa6d2",
+          "title": "金十整理：美国就业增长骤降，美联储10月暂停加息理由是否更充分？",
+          "summary": "<br/><span class=\"section-news\">1. RSM US：美国9月新增非农就业仅2.9万人，受人口老龄化及移民政策收紧影响，劳动力供…",
+          "url": "https://flash.jin10.com/detail/20261028142803277800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 61,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "r52txh59urwtjy7bok3qw0dv",
+          "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
+          "summary": "印度央行行长公开暗示，利率政策将纳入汇率防御工具箱审议，银行体系超额流动性从9月初11万亿卢比骤降至4620亿卢比，萎缩超95%，隔夜拆借利率已升至政策区间上端。",
+          "url": "https://wallstreetcn.com/articles/3784641",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T04:06:09.000Z",
+          "score": 81,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ktmvyfnud2rd0hya0jbg46xp",
+          "title": "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
+          "summary": "Anthropic上市在即，亚马逊凭借62亿美元本金的可转债持仓账面价值高达979亿美元，成为最大赢家；Anthropic估值近万亿美元，股权高度稀释，风投收益丰厚却无一跻身主要股东。",
+          "url": "https://wallstreetcn.com/articles/3784649",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T06:34:57.000Z",
+          "score": 76,
+          "category": "market",
+          "tags": [
+            "海外同业",
+            "市场动态",
+            "数据/榜单"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ghrt7oexwwgxtl38u1yjtxcv",
+          "title": "创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，恒科指涨1%",
+          "summary": "10月28日A股三大指数扩大涨幅，创业板指涨近4%，半导体与人形机器人板块集体爆发，长鑫科技市值重回3万亿；白酒板块调整，五粮液跌超5%。港股恒科指涨超1%。",
+          "url": "https://wallstreetcn.com/articles/3784632",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T05:22:42.000Z",
+          "score": 70,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "l5hx0lxcd9up68i07mxu7rkt",
+          "title": "主力资金流向前十大个股",
+          "summary": "2026年10月28日，中际旭创获主力资金净流入21.75亿元居首位，宁德时代以流出8.87亿元排第一位，东方财富净流出2.25亿元位列流出榜末尾。",
+          "url": "https://flash.jin10.com/detail/20261028141120821800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 65,
+          "category": "market",
+          "tags": [
+            "数据/榜单"
+          ],
+          "entityTags": [
+            "东方财富"
+          ]
+        },
+        {
+          "id": "rj1gcz08cdrdxjby6z6rpiuq",
+          "title": "大摩“量化团队”：AI芯片股还没跌完，建议“逢反弹减仓”",
+          "summary": "摩根士丹利量化策略团队警告，半导体与数据中心相关股票的近期抛售尚未结束，中期内仍面临进一步下行风险，建议投资者利用任何反弹机会削减这类头寸。 追风交易台消息，…",
+          "url": "https://wallstreetcn.com/articles/3784627",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T04:07:09.000Z",
+          "score": 62,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ddztd16wn62ki6qun31i72ry",
+          "title": "高盛存储专家会：产能扩张“远水难解近渴”，DRAM涨价或持续至2028年，HBM明年均价预计暴涨122%",
+          "summary": "存储芯片市场供需格局正向头部厂商倾斜，涨价周期或比市场预期更长。 高盛于10月27日举办TrendForce存储行业专家网络研讨会。TrendForce专家在…",
+          "url": "https://wallstreetcn.com/articles/3784647",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T05:51:26.000Z",
+          "score": 60,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 116,
+    "selected": 7,
+    "llmCalls": 107
+  }
+}

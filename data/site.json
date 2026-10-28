@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T06:12:38.404Z",
-  "today": "2026-10-27",
+  "generatedAt": "2026-10-28T06:49:00.849Z",
+  "today": "2026-10-28",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,145 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-28",
+      "generatedAt": "2026-10-28T06:49:00.849Z",
+      "lead": {
+        "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
+        "paragraph": "印度央行行长公开暗示，利率政策将纳入汇率防御工具箱审议，银行体系超额流动性从9月初11万亿卢比骤降至4620亿卢比，萎缩超95%，隔夜拆借利率已升至政策区间上端。",
+        "highlights": [
+          "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
+          "创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，…",
+          "主力资金流向前十大个股"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "jaapa0jw17eszkukqtqqa6d2",
+              "title": "金十整理：美国就业增长骤降，美联储10月暂停加息理由是否更充分？",
+              "summary": "<br/><span class=\"section-news\">1. RSM US：美国9月新增非农就业仅2.9万人，受人口老龄化及移民政策收紧影响，劳动力供…",
+              "url": "https://flash.jin10.com/detail/20261028142803277800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 61,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "r52txh59urwtjy7bok3qw0dv",
+              "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
+              "summary": "印度央行行长公开暗示，利率政策将纳入汇率防御工具箱审议，银行体系超额流动性从9月初11万亿卢比骤降至4620亿卢比，萎缩超95%，隔夜拆借利率已升至政策区间上端。",
+              "url": "https://wallstreetcn.com/articles/3784641",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-28T04:06:09.000Z",
+              "score": 81,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ktmvyfnud2rd0hya0jbg46xp",
+              "title": "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
+              "summary": "Anthropic上市在即，亚马逊凭借62亿美元本金的可转债持仓账面价值高达979亿美元，成为最大赢家；Anthropic估值近万亿美元，股权高度稀释，风投收益丰厚却无一跻身主要股东。",
+              "url": "https://wallstreetcn.com/articles/3784649",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-28T06:34:57.000Z",
+              "score": 76,
+              "category": "market",
+              "tags": [
+                "海外同业",
+                "市场动态",
+                "数据/榜单"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ghrt7oexwwgxtl38u1yjtxcv",
+              "title": "创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，恒科指涨1%",
+              "summary": "10月28日A股三大指数扩大涨幅，创业板指涨近4%，半导体与人形机器人板块集体爆发，长鑫科技市值重回3万亿；白酒板块调整，五粮液跌超5%。港股恒科指涨超1%。",
+              "url": "https://wallstreetcn.com/articles/3784632",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-28T05:22:42.000Z",
+              "score": 70,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "l5hx0lxcd9up68i07mxu7rkt",
+              "title": "主力资金流向前十大个股",
+              "summary": "2026年10月28日，中际旭创获主力资金净流入21.75亿元居首位，宁德时代以流出8.87亿元排第一位，东方财富净流出2.25亿元位列流出榜末尾。",
+              "url": "https://flash.jin10.com/detail/20261028141120821800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 65,
+              "category": "market",
+              "tags": [
+                "数据/榜单"
+              ],
+              "entityTags": [
+                "东方财富"
+              ]
+            },
+            {
+              "id": "rj1gcz08cdrdxjby6z6rpiuq",
+              "title": "大摩“量化团队”：AI芯片股还没跌完，建议“逢反弹减仓”",
+              "summary": "摩根士丹利量化策略团队警告，半导体与数据中心相关股票的近期抛售尚未结束，中期内仍面临进一步下行风险，建议投资者利用任何反弹机会削减这类头寸。 追风交易台消息，…",
+              "url": "https://wallstreetcn.com/articles/3784627",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-28T04:07:09.000Z",
+              "score": 62,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ddztd16wn62ki6qun31i72ry",
+              "title": "高盛存储专家会：产能扩张“远水难解近渴”，DRAM涨价或持续至2028年，HBM明年均价预计暴涨122%",
+              "summary": "存储芯片市场供需格局正向头部厂商倾斜，涨价周期或比市场预期更长。 高盛于10月27日举办TrendForce存储行业专家网络研讨会。TrendForce专家在…",
+              "url": "https://wallstreetcn.com/articles/3784647",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-28T05:51:26.000Z",
+              "score": 60,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 116,
+        "selected": 7,
+        "llmCalls": 107
+      }
+    },
     {
       "day": "2026-10-27",
       "generatedAt": "2026-10-27T06:12:38.404Z",
@@ -1448,115 +1587,28 @@
         "selected": 2,
         "llmCalls": 95
       }
-    },
-    {
-      "day": "2026-10-14",
-      "generatedAt": "2026-10-14T06:05:03.499Z",
-      "lead": {
-        "title": "AI算力战下半场：电力散热网络成新战场；美债收益率破5%",
-        "paragraph": "AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场。BondBloxx策略师认为美债收益率突破5%并非异常，财政赤字与发债规模正推高期限溢价。",
-        "highlights": [
-          "AI算力战下半场：AMD上月AI token消耗量增幅达95倍，电力散热网络成新战场",
-          "美债收益率破5%：BondBloxx称财政赤字与发债规模推高期限溢价",
-          "信银理财贺晋：理财公司需提升权益投资能力，做好耐心资本枢纽",
-          "某券商持续处置资产，进行业务与资源配置调整"
-        ]
-      },
-      "sections": [
-        {
-          "category": "industry",
-          "title": "券商经营",
-          "items": [
-            {
-              "id": "hfcx37yewb83c96jnq365097",
-              "title": "卖卖卖！这家券商，持续处置资产",
-              "summary": "某券商持续处置资产，进行业务与资源配置调整。",
-              "url": "https://qzs.stcn.com/article/detail/641162.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-14T04:38:00.000Z",
-              "score": 50,
-              "category": "industry",
-              "tags": [
-                "券商经营"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "gdn7pzb6upfmnyvkmqfmaldq",
-              "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
-              "summary": "美银证券报告称，AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场，AMD上月AI token消耗量增幅达95倍。",
-              "url": "https://wallstreetcn.com/articles/3783589",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-14T03:09:58.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "其他",
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "product",
-          "title": "产品与工具",
-          "items": [
-            {
-              "id": "xd4v5bgmlyi2acqiy48w557d",
-              "title": "理财公司如何当好耐心资本枢纽？信银理财贺晋：立足多元产品供给，提升权益投资能力",
-              "summary": "信银理财贺晋认为理财公司要做好耐心资本枢纽，需立足多元产品供给、提升权益投资能力。",
-              "url": "https://qzs.stcn.com/article/detail/641160.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-14T04:38:00.000Z",
-              "score": 51,
-              "category": "product",
-              "tags": [
-                "财富管理",
-                "产品更新"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "opinion",
-          "title": "观点分析",
-          "items": [
-            {
-              "id": "z5unj7ld22bd59766bt33o4z",
-              "title": "BondBloxx策略师：美债收益率突破5%并非异常，财政赤字与发债规模推高期限溢价",
-              "summary": "BondBloxx高级策略师比安科认为美债收益率突破5%并不异常，美国财政赤字扩大、国债供应增加推高期限溢价，投资者要求更高补偿以持有长期美债。",
-              "url": "https://flash.jin10.com/detail/20261014133839384800",
-              "sourceId": "hot-jin10",
-              "sourceName": "金十数据",
-              "score": 67,
-              "category": "opinion",
-              "tags": [
-                "其他"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 108,
-        "selected": 4,
-        "llmCalls": 95
-      }
     }
   ],
   "groups": [
+    {
+      "id": "ev_154963d13b",
+      "title": "沪深两市成交额突破1.5万亿 较上一日此时放量超2000亿",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "g0c67k7c5fj1bzvj8v3uzgz7",
+        "ra10s6jjaoi1zgzn9p9nwjgh",
+        "g3nna2ph1tpmczseg1q8xgkm",
+        "g101rghhbrovx93qz2l9l62e",
+        "rjq9ccyj3hmzgeuph08bynvz",
+        "bc2r737h1fdtw8imgkj0e4fu",
+        "jinljylpa1dwk8trrhnb2tm0",
+        "efihql6733xf8lfbuu3txwkz"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
     {
       "id": "ev_13601c7786",
       "title": "今日重点关注的财经数据与事件：2026年10月14日 周三",
@@ -1565,14 +1617,13 @@
         "市场动态"
       ],
       "itemIds": [
-        "dd3655aextngqggwnd682qsc",
         "islh2652va3ojs448xe1nvqf",
         "ma1flcwm6too4ezwwghtwedl",
         "gcenac8q8gpxyob0jqipcgg0",
         "xqxe8gh5f5zfvxbi8sq2kmx8",
         "nz1k09lenl8ymvz9dhot6du3"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_376b3ecb2e",
@@ -1583,10 +1634,9 @@
       ],
       "itemIds": [
         "bl5rpv2o8dnjf6wys2c957f1",
-        "xmvltady5nxhaw1wchmr3cum",
         "n22b5m5uicf6jvful1k49hr9"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_0fe34cd389",
@@ -1596,15 +1646,12 @@
         "监管政策"
       ],
       "itemIds": [
-        "egz8payohskwz39ajmwdsn1f",
         "e4or3wcgmgc0ymx35uwu06kr",
         "si7ka36rz01lzlinrpcve3iu",
         "soyvgzoge55rbhds904nl7ek",
-        "hng28hbbaeys4r6179vy40dp",
         "igiuz289mpul4iamyz5opva8",
         "r3vkvr4n3t8m6wyo7667tryi",
         "x4gslclcjazmwieeqr3bnfjb",
-        "maedz20a2155qih4aja5fe3s",
         "esdde3rexcale2s1e94iecxb",
         "e0020ychrcwv8cis55ojj0bt",
         "tlsmg8wmvt7di0z33qce3atq",
@@ -1617,7 +1664,7 @@
         "mbmfysd7w7vc85hgu1lls5kx",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1630,7 +1677,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1643,7 +1690,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_843b245cf4",
@@ -1657,27 +1704,7 @@
         "hph3lbmawf8szpgbjtkiyftw",
         "jbziqy3v8ecada0bpfdhxowr"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
-    },
-    {
-      "id": "ev_890366d991",
-      "title": "沪深两市成交额突破1.5万亿 较上一日此时放量近1700亿",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "dy3qnkjcz2allxof7mr269sl",
-        "ra10s6jjaoi1zgzn9p9nwjgh",
-        "g3nna2ph1tpmczseg1q8xgkm",
-        "g101rghhbrovx93qz2l9l62e",
-        "rjq9ccyj3hmzgeuph08bynvz",
-        "bc2r737h1fdtw8imgkj0e4fu",
-        "jinljylpa1dwk8trrhnb2tm0",
-        "efihql6733xf8lfbuu3txwkz",
-        "nne07nw7fi1im995806hnhdo"
-      ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_4bd2439c2e",
@@ -1690,7 +1717,20 @@
         "ubntz84qh9nb2oid7c4uz3ta",
         "dhlppg5fawur2n0h6rei3rft"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
+    {
+      "id": "ev_a11822b2d0",
+      "title": "湖北：今年以来对“六张网”相关领域授信915亿元",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "fzqhh0v3xbvavbzojnyu7gtj",
+        "oh2k7mucij1zkotivavy2m84"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_920de07728",
@@ -1703,7 +1743,7 @@
         "s0dncaj2t1y1gdrvliuy0iv3",
         "h3n0c474sylh7t95r1nnhohk"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1717,7 +1757,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -1730,7 +1770,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_210ee611c7",
@@ -1740,7 +1780,6 @@
         "市场动态"
       ],
       "itemIds": [
-        "k6i4b2si2udz9spugse8ex8g",
         "agokfr6ibwf3cggsuq7eecbt",
         "drjn5ih8bkk826fz9vd29wg2",
         "vruan380oeifttgz7708ldq5",
@@ -1748,11 +1787,12 @@
         "j9wlzbz5y6ue70mno3rv6q4t",
         "djgr9bzejx5bet5o047oppv0",
         "tpektdnddvifpwrjvmaruiuu",
+        "mxml7u12qpw161pd541ad31b",
         "rdnaw3xexnhu3cyqh44dhufr",
         "ipno0oefzzy84hp0rwofd9qe",
         "grsygoiychq2fxjnkd6a99s1"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1765,7 +1805,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1778,7 +1818,7 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1791,7 +1831,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -1805,7 +1845,7 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1818,7 +1858,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -1831,7 +1871,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -1844,7 +1884,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -1858,20 +1898,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
-    },
-    {
-      "id": "ev_892b2927de",
-      "title": "股指期货午盘收盘",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "gr66a4wejxqgnx51y9uz6n11",
-        "rwo5kzhi7jkji551um35g9gb"
-      ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_6f80635b07",
@@ -1884,20 +1911,7 @@
         "x1hbc02va0ml7sfzr0sqguge",
         "jqj0e4u5ha8iyrejwdjxg3db"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
-    },
-    {
-      "id": "ev_5d604eb0c8",
-      "title": "金十图示：2026年10月13日（周二）投机情绪指数",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "er79m5g62bry7ht7jm706apd",
-        "yyvq68m0786l6q4ol84ea7hk"
-      ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -1910,7 +1924,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -1923,7 +1937,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1936,7 +1950,7 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -1949,10 +1963,9 @@
         "yxumbzg7wgwmccpzz1nf5eu3",
         "qi4v9ejd1ho615h1gfpvrdu9",
         "almhbzck4g2wtzdsxi0dcuto",
-        "xsh2l0p00pral3a6gpu119lz",
-        "cbg4bd4hqgeay1p0k9yavyu2"
+        "xsh2l0p00pral3a6gpu119lz"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -1965,7 +1978,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_d92a708b8d",
@@ -1978,7 +1991,7 @@
         "l0khocn9b5xdwck66hmnd628",
         "ftf2xzvxmnu4unvxy1pp8k3c"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -1991,7 +2004,20 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
+    {
+      "id": "ev_568ca910b9",
+      "title": "乙二醇期货主力合约触及涨停，涨幅6%，现报5276元/吨。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "vr9vyatts5fnzu2i4kc1fxhf",
+        "yb8wjt0ed3vi165wq50rlnp8"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2004,7 +2030,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2017,7 +2043,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2030,7 +2056,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2043,33 +2069,20 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
-      "id": "ev_f36739e3de",
-      "title": "​煤炭板块再度异动 安泰集团5天3板",
+      "id": "ev_7ffc31e62c",
+      "title": "港珠澳大桥珠海公路口岸开通以来对APEC经济体进出口突破万亿元",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "ttozonuoefvhqxw6yalk4prl",
-        "bbn7b493i8s3o72n0rjicvet"
+        "gsup0b77aevgbosvm251e1va",
+        "bqotyndswbpw9vqv284rnmss"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
-    },
-    {
-      "id": "ev_e9ab99de9c",
-      "title": "苏州4宗宅地10.6亿元底价成交",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "lwt49ylg1qcfrktesxiwr547",
-        "miw1n32ezesg7zyww0yek24b"
-      ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2082,7 +2095,20 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
+    {
+      "id": "ev_0c32bfad03",
+      "title": "中国地震台网自动测定：10月28日14时19分在台湾花莲县海域附近（北纬23.82度，东经122.49度）发生4.0级…",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "mbrhdxhqscn1iszel9fx64y4",
+        "k4b7wsj5bj681bn0vtt9mf6m"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_cb92fc6832",
@@ -2095,7 +2121,7 @@
         "pg1mpk59n6cdjnl3rty55jjw",
         "kkinvpa3ezfq14uhyvr6oiis"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_89dd7a4ce9",
@@ -2108,7 +2134,7 @@
         "il79ltzu3gpo67i7at9x8e1u",
         "tj6keeq3o77pvsuulz3act2j"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2121,7 +2147,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_139ff53af7",
@@ -2134,7 +2160,20 @@
         "or0x59htzds4fb39oe7crecv",
         "kix1ztu0gjk01drm2qboqahq"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
+    {
+      "id": "ev_a1139117de",
+      "title": "财联社10月28日电，碳酸锂连续主力合约日内跌5%，现报92900元/吨。",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "sh2499jue9hc019ebk6wkbav",
+        "quq5eeark0gdvwy27x9jvaxk"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2147,7 +2186,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2160,7 +2199,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_78030114a5",
@@ -2174,7 +2213,7 @@
         "quo1bppn2skb5nmnv4kklpyk",
         "avbpm8v5b7d3i52fladdehy9"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_0f60c880fe",
@@ -2187,7 +2226,7 @@
         "cpfblq4i1hykjp2shqfv31h6",
         "lngk3pq1lzq22zxaoadz33ic"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_cd8aef22d2",
@@ -2200,7 +2239,7 @@
         "odddfueloi7myz4ot2mu65or",
         "tm2xk8dfc8tl8gxlkt85qkva"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_c3064ca58a",
@@ -2213,7 +2252,7 @@
         "exlwmh7ao3ltawiygc5ejmub",
         "odnstid0j25s3fvkhada1huu"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2226,7 +2265,20 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
+    },
+    {
+      "id": "ev_e53605fd34",
+      "title": "中国地震台网正式测定：10月28日14时19分在台湾花莲县海域发生3.9级地震，震源深度22千米。​​​",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "fn1wlx4btde7ciwna4jdlesn",
+        "ty8emoa9y47mh9o6p8uaz6p1"
+      ],
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     },
     {
       "id": "ev_9366d5b2e8",
@@ -2239,10 +2291,25 @@
         "qw769hjmjikox3w1wweqyfk5",
         "m8khojylv9ort9xipjtb785p"
       ],
-      "updatedAt": "2026-10-27T06:12:38.404Z"
+      "updatedAt": "2026-10-28T06:49:00.849Z"
     }
   ],
   "items": [
+    {
+      "id": "r52txh59urwtjy7bok3qw0dv",
+      "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
+      "summary": "印度央行行长公开暗示，利率政策将纳入汇率防御工具箱审议，银行体系超额流动性从9月初11万亿卢比骤降至4620亿卢比，萎缩超95%，隔夜拆借利率已升至政策区间上端。",
+      "url": "https://wallstreetcn.com/articles/3784641",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-28T04:06:09.000Z",
+      "score": 81,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
     {
       "id": "k6gxopn837vggs522qqnrmbh",
       "title": "统筹发展和安全 坚持开放与合作 奋力谱写资本市场“十五五”高质量发展新篇章——吴清主席在2026金融街论坛年会上的主题演讲",
@@ -2332,6 +2399,23 @@
       "category": "industry",
       "tags": [
         "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ktmvyfnud2rd0hya0jbg46xp",
+      "title": "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
+      "summary": "Anthropic上市在即，亚马逊凭借62亿美元本金的可转债持仓账面价值高达979亿美元，成为最大赢家；Anthropic估值近万亿美元，股权高度稀释，风投收益丰厚却无一跻身主要股东。",
+      "url": "https://wallstreetcn.com/articles/3784649",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-28T06:34:57.000Z",
+      "score": 76,
+      "category": "market",
+      "tags": [
+        "海外同业",
+        "市场动态",
+        "数据/榜单"
       ],
       "entityTags": []
     },
@@ -2458,6 +2542,21 @@
       "entityTags": []
     },
     {
+      "id": "ghrt7oexwwgxtl38u1yjtxcv",
+      "title": "创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，恒科指涨1%",
+      "summary": "10月28日A股三大指数扩大涨幅，创业板指涨近4%，半导体与人形机器人板块集体爆发，长鑫科技市值重回3万亿；白酒板块调整，五粮液跌超5%。港股恒科指涨超1%。",
+      "url": "https://wallstreetcn.com/articles/3784632",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-28T05:22:42.000Z",
+      "score": 70,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ggsblxzmcfmbk1fzy5a8bjd1",
       "title": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍",
       "summary": "加州大学伯克利分校SuperMimic论文显示，人形机器人全身运动控制器训练算力消耗可压缩逾1000倍——从128块GPU运行一周降至单块H100运行三小时，该成果已被CoRL 2026收录；野村国际报告称这是机器人身体控制训练成本",
@@ -2568,22 +2667,6 @@
       "entityTags": []
     },
     {
-      "id": "gdn7pzb6upfmnyvkmqfmaldq",
-      "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
-      "summary": "美银证券报告称，AI算力竞争已从单芯片转向整机架系统，电力、散热与网络互联成为新战场，AMD上月AI token消耗量增幅达95倍。",
-      "url": "https://wallstreetcn.com/articles/3783589",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-14T03:09:58.000Z",
-      "score": 69,
-      "category": "market",
-      "tags": [
-        "其他",
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "vc4evcg05up7x1jyqtk3dft4",
       "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
       "summary": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
@@ -2690,20 +2773,6 @@
       "entityTags": []
     },
     {
-      "id": "z5unj7ld22bd59766bt33o4z",
-      "title": "BondBloxx策略师：美债收益率突破5%并非异常，财政赤字与发债规模推高期限溢价",
-      "summary": "BondBloxx高级策略师比安科认为美债收益率突破5%并不异常，美国财政赤字扩大、国债供应增加推高期限溢价，投资者要求更高补偿以持有长期美债。",
-      "url": "https://flash.jin10.com/detail/20261014133839384800",
-      "sourceId": "hot-jin10",
-      "sourceName": "金十数据",
-      "score": 67,
-      "category": "opinion",
-      "tags": [
-        "其他"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "rn8hwiij1l74hluy81c9bdvm",
       "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
       "summary": "SK海力士确认周三随季报公布股东回报措施，外界预期将派发16万亿韩元特别股息，资金来源于出售日本存储芯片制造商铠侠股权所得收益。",
@@ -2778,6 +2847,22 @@
         "市场动态"
       ],
       "entityTags": []
+    },
+    {
+      "id": "l5hx0lxcd9up68i07mxu7rkt",
+      "title": "主力资金流向前十大个股",
+      "summary": "2026年10月28日，中际旭创获主力资金净流入21.75亿元居首位，宁德时代以流出8.87亿元排第一位，东方财富净流出2.25亿元位列流出榜末尾。",
+      "url": "https://flash.jin10.com/detail/20261028141120821800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 65,
+      "category": "market",
+      "tags": [
+        "数据/榜单"
+      ],
+      "entityTags": [
+        "东方财富"
+      ]
     },
     {
       "id": "g0tegucl6dlt6unnq1wyxszu",
@@ -2900,6 +2985,21 @@
       "entityTags": []
     },
     {
+      "id": "rj1gcz08cdrdxjby6z6rpiuq",
+      "title": "大摩“量化团队”：AI芯片股还没跌完，建议“逢反弹减仓”",
+      "summary": "摩根士丹利量化策略团队警告，半导体与数据中心相关股票的近期抛售尚未结束，中期内仍面临进一步下行风险，建议投资者利用任何反弹机会削减这类头寸。 追风交易台消息，…",
+      "url": "https://wallstreetcn.com/articles/3784627",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-28T04:07:09.000Z",
+      "score": 62,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "m9kiifbs3vopjwd7v2u7puph",
       "title": "又一家万亿券商！中金“三合一”交割落地，财富版图改写在即",
       "summary": "中金公司完成",
@@ -2959,6 +3059,20 @@
       "category": "market",
       "tags": [
         "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "jaapa0jw17eszkukqtqqa6d2",
+      "title": "金十整理：美国就业增长骤降，美联储10月暂停加息理由是否更充分？",
+      "summary": "<br/><span class=\"section-news\">1. RSM US：美国9月新增非农就业仅2.9万人，受人口老龄化及移民政策收紧影响，劳动力供…",
+      "url": "https://flash.jin10.com/detail/20261028142803277800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 61,
+      "category": "industry",
+      "tags": [
+        "券商经营"
       ],
       "entityTags": []
     },
@@ -3031,6 +3145,21 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "ddztd16wn62ki6qun31i72ry",
+      "title": "高盛存储专家会：产能扩张“远水难解近渴”，DRAM涨价或持续至2028年，HBM明年均价预计暴涨122%",
+      "summary": "存储芯片市场供需格局正向头部厂商倾斜，涨价周期或比市场预期更长。 高盛于10月27日举办TrendForce存储行业专家网络研讨会。TrendForce专家在…",
+      "url": "https://wallstreetcn.com/articles/3784647",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-28T05:51:26.000Z",
+      "score": 60,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3201,41 +3330,10 @@
         "市场动态"
       ],
       "entityTags": []
-    },
-    {
-      "id": "xd4v5bgmlyi2acqiy48w557d",
-      "title": "理财公司如何当好耐心资本枢纽？信银理财贺晋：立足多元产品供给，提升权益投资能力",
-      "summary": "信银理财贺晋认为理财公司要做好耐心资本枢纽，需立足多元产品供给、提升权益投资能力。",
-      "url": "https://qzs.stcn.com/article/detail/641160.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-14T04:38:00.000Z",
-      "score": 51,
-      "category": "product",
-      "tags": [
-        "财富管理",
-        "产品更新"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "hfcx37yewb83c96jnq365097",
-      "title": "卖卖卖！这家券商，持续处置资产",
-      "summary": "某券商持续处置资产，进行业务与资源配置调整。",
-      "url": "https://qzs.stcn.com/article/detail/641162.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-14T04:38:00.000Z",
-      "score": 50,
-      "category": "industry",
-      "tags": [
-        "券商经营"
-      ],
-      "entityTags": []
     }
   ],
   "meta": {
-    "itemCount": 1500,
-    "llmCalls": 124
+    "itemCount": 1435,
+    "llmCalls": 120
   }
 }
