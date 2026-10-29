@@ -1,11 +1,12 @@
 {
-  "lastRunAt": "2026-10-28T06:49:00.849Z",
-  "lastSuccessAt": "2026-10-28T07:09:25.705Z",
-  "llmCallsUsed": 120,
-  "fetchedFeeds": 10,
-  "newItems": 116,
+  "lastRunAt": "2026-10-29T06:59:13.201Z",
+  "lastSuccessAt": "2026-10-29T07:15:52.543Z",
+  "llmCallsUsed": 121,
+  "fetchedFeeds": 9,
+  "newItems": 108,
   "selectedToday": 7,
   "errors": [
+    "fetch rss-szse-rules: The operation was aborted due to timeout",
     "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)"
   ]
 }

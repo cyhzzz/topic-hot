@@ -1,0 +1,131 @@
+{
+  "day": "2026-10-29",
+  "generatedAt": "2026-10-29T06:59:13.201Z",
+  "lead": {
+    "title": "沃什暗示高利率压制AI热潮，A股科技板块重挫",
+    "paragraph": "全球市场同步出现拥挤、困惑与踏空的多重极端信号，美联储官员沃什公开暗示高利率正在压制AI投资扩张，打破了市场对AI利率免疫的共识。A股方面，创业板与科创50指数均跌逾4%，算力硬件集体调整、中金公司跌停，而四大行总市值盘中突破10万亿元成为少数亮点。",
+    "highlights": [
+      "沃什暗示高利率压制AI投资，12月加息概率为83%。",
+      "科创50、创业板指分别跌逾4%，算力硬件与半导体板块集体调整。",
+      "中金公司跌停，四大行总市值盘中突破10万亿元。",
+      "科创板ETF易方达成交额超110亿元，多只A500ETF成交额突破50亿元。",
+      "财政部廖岷获提名接任IMF副总裁，12月1日起生效。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "a4xf4lf9zd9iho69tcwhkq08",
+          "title": "拥挤、困惑、踏空：全球市场出现多重极端信号",
+          "summary": "Mag 7隐含波动率处于四年第15百分位，对冲基金AI持仓近历史峰值，动量策略仓位近乎清零，全球市场同步出现极端信号。",
+          "url": "https://wallstreetcn.com/articles/3784742",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-29T03:31:30.000Z",
+          "score": 75,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "ed5g6wk0fqlgbt6yoromcbge",
+          "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+          "summary": "美联储官员沃什在发布会上暗示高利率正在影响AI投资扩张步伐，打破了AI对利率免疫的市场共识，使加息路径面临双向难题。",
+          "url": "https://wallstreetcn.com/articles/3784743",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-29T03:55:07.000Z",
+          "score": 71,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "hfrxetfd2h1ffyvxfkh4gte0",
+          "title": "创业板跌超2%，算力硬件集体调整，中金跌停，四大行总市值突破10万亿元，恒科指跌2%，科网股普跌",
+          "summary": "10月29日A股创业板指跌超2.8%、科创50跌3%，算力硬件与半导体板块集体调整；工商、建设银行创出新高，四大行总市值盘中突破10万亿元；港股恒科指跌2%，国债期货全线下跌。",
+          "url": "https://wallstreetcn.com/articles/3784738",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-29T05:53:39.000Z",
+          "score": 70,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": [
+            "中金公司"
+          ]
+        },
+        {
+          "id": "t74643sgjo3b5mptbl2a89a7",
+          "title": "IMF第四位中国籍副总裁落定，财政部廖岷将履新",
+          "summary": "IMF副总裁李波将于2026年11月30日任期结束后离任，中国财政部副部长廖岷获提名接任，12月1日起生效。",
+          "url": "https://flash.jin10.com/detail/20261029141625032800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 68,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "wnp11et670nl100rryn465o2",
+          "title": "两只热门科创、创业ETF成交均破百亿",
+          "summary": "10月29日，科创板ETF易方达成交额超110亿元，科创50ETF华夏成交额超100亿元，多只A500ETF成交额突破50亿元。",
+          "url": "https://flash.jin10.com/detail/20261029143609051800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 67,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "e06o4vzbkbem68ibnd4vo0t4",
+          "title": "机构：美联储12月加息可能性仍存",
+          "summary": "Catalyst Fund高级投资组合经理Larry Holzenthaler表示，美联储12月加息已成大概率事件，货币市场定价加息25个基点的概率为83%，沃什言论表明美联储首要关注物价稳定。",
+          "url": "https://flash.jin10.com/detail/20261029141900865800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 61,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "okgzh4y1v10e4qwegqm0jcg5",
+          "title": "科创50、创业板指均跌逾4%",
+          "summary": "科创板50指数与创业板指分别下跌超过4%。",
+          "url": "https://www.cls.cn/detail/2519022",
+          "sourceId": "feed-cls",
+          "sourceName": "财联社 · 电报",
+          "score": 60,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 108,
+    "selected": 7,
+    "llmCalls": 102
+  }
+}

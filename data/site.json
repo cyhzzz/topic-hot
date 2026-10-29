@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T06:49:00.849Z",
-  "today": "2026-10-28",
+  "generatedAt": "2026-10-29T06:59:13.201Z",
+  "today": "2026-10-29",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,137 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-29",
+      "generatedAt": "2026-10-29T06:59:13.201Z",
+      "lead": {
+        "title": "沃什暗示高利率压制AI热潮，A股科技板块重挫",
+        "paragraph": "全球市场同步出现拥挤、困惑与踏空的多重极端信号，美联储官员沃什公开暗示高利率正在压制AI投资扩张，打破了市场对AI利率免疫的共识。A股方面，创业板与科创50指数均跌逾4%，算力硬件集体调整、中金公司跌停，而四大行总市值盘中突破10万亿元成为少数亮点。",
+        "highlights": [
+          "沃什暗示高利率压制AI投资，12月加息概率为83%。",
+          "科创50、创业板指分别跌逾4%，算力硬件与半导体板块集体调整。",
+          "中金公司跌停，四大行总市值盘中突破10万亿元。",
+          "科创板ETF易方达成交额超110亿元，多只A500ETF成交额突破50亿元。",
+          "财政部廖岷获提名接任IMF副总裁，12月1日起生效。"
+        ]
+      },
+      "sections": [
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "a4xf4lf9zd9iho69tcwhkq08",
+              "title": "拥挤、困惑、踏空：全球市场出现多重极端信号",
+              "summary": "Mag 7隐含波动率处于四年第15百分位，对冲基金AI持仓近历史峰值，动量策略仓位近乎清零，全球市场同步出现极端信号。",
+              "url": "https://wallstreetcn.com/articles/3784742",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-29T03:31:30.000Z",
+              "score": 75,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "ed5g6wk0fqlgbt6yoromcbge",
+              "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+              "summary": "美联储官员沃什在发布会上暗示高利率正在影响AI投资扩张步伐，打破了AI对利率免疫的市场共识，使加息路径面临双向难题。",
+              "url": "https://wallstreetcn.com/articles/3784743",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-29T03:55:07.000Z",
+              "score": 71,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "hfrxetfd2h1ffyvxfkh4gte0",
+              "title": "创业板跌超2%，算力硬件集体调整，中金跌停，四大行总市值突破10万亿元，恒科指跌2%，科网股普跌",
+              "summary": "10月29日A股创业板指跌超2.8%、科创50跌3%，算力硬件与半导体板块集体调整；工商、建设银行创出新高，四大行总市值盘中突破10万亿元；港股恒科指跌2%，国债期货全线下跌。",
+              "url": "https://wallstreetcn.com/articles/3784738",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-29T05:53:39.000Z",
+              "score": 70,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": [
+                "中金公司"
+              ]
+            },
+            {
+              "id": "t74643sgjo3b5mptbl2a89a7",
+              "title": "IMF第四位中国籍副总裁落定，财政部廖岷将履新",
+              "summary": "IMF副总裁李波将于2026年11月30日任期结束后离任，中国财政部副部长廖岷获提名接任，12月1日起生效。",
+              "url": "https://flash.jin10.com/detail/20261029141625032800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 68,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "wnp11et670nl100rryn465o2",
+              "title": "两只热门科创、创业ETF成交均破百亿",
+              "summary": "10月29日，科创板ETF易方达成交额超110亿元，科创50ETF华夏成交额超100亿元，多只A500ETF成交额突破50亿元。",
+              "url": "https://flash.jin10.com/detail/20261029143609051800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 67,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "e06o4vzbkbem68ibnd4vo0t4",
+              "title": "机构：美联储12月加息可能性仍存",
+              "summary": "Catalyst Fund高级投资组合经理Larry Holzenthaler表示，美联储12月加息已成大概率事件，货币市场定价加息25个基点的概率为83%，沃什言论表明美联储首要关注物价稳定。",
+              "url": "https://flash.jin10.com/detail/20261029141900865800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 61,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "okgzh4y1v10e4qwegqm0jcg5",
+              "title": "科创50、创业板指均跌逾4%",
+              "summary": "科创板50指数与创业板指分别下跌超过4%。",
+              "url": "https://www.cls.cn/detail/2519022",
+              "sourceId": "feed-cls",
+              "sourceName": "财联社 · 电报",
+              "score": 60,
+              "category": "market",
+              "tags": [
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 108,
+        "selected": 7,
+        "llmCalls": 102
+      }
+    },
     {
       "day": "2026-10-28",
       "generatedAt": "2026-10-28T06:49:00.849Z",
@@ -1530,63 +1661,6 @@
         "selected": 4,
         "llmCalls": 111
       }
-    },
-    {
-      "day": "2026-10-15",
-      "generatedAt": "2026-10-15T05:51:02.238Z",
-      "lead": {
-        "title": "美联储加息预期升温叠加AI泡沫担忧，市场全线承压",
-        "paragraph": "今日市场主线聚焦于美联储加息预期升温与AI板块估值担忧。亚太半导体与存储产业链遭遇重挫，CoreWeave债券价格跌破面值80%引发关注；GMO高管预警股票超供与AI基建放缓将引爆AI泡沫。",
-        "highlights": [
-          "CoreWeave债券跌破面值80%，五年违约概率突破50%",
-          "GMO高管称股票超供与AI基建放缓将引爆AI泡沫",
-          "美联储加息预期升温，亚太半导体与存储产业链全线重挫",
-          "市场全线承压，今日需重点关注AI基建与债券风险"
-        ]
-      },
-      "sections": [
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "ypz7hvv5iqbfjvx4w56qgnl2",
-              "title": "GMO高管：股票超供和AI基建放缓，将共同引爆这轮AI泡沫",
-              "summary": "10月15日，美国通胀黏性推升加息预期，亚太半导体与存储产业链遭遇全线重挫，AI算力独角兽CoreWeave债券跌破面值80%、五年违约概率突破50%。 在这…",
-              "url": "https://wallstreetcn.com/articles/3783680",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-15T03:43:18.000Z",
-              "score": 62,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "rxs3r9pt38z8mqskr8bxg0lm",
-              "title": "利空突袭，全线跳水！美联储，加息大消息！",
-              "summary": "美联储加息消息突袭市场，引发全线跳水。",
-              "url": "https://qzs.stcn.com/article/detail/641347.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-15T13:13:00.000Z",
-              "score": 51,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 118,
-        "selected": 2,
-        "llmCalls": 95
-      }
     }
   ],
   "groups": [
@@ -1604,43 +1678,13 @@
         "g101rghhbrovx93qz2l9l62e",
         "rjq9ccyj3hmzgeuph08bynvz",
         "bc2r737h1fdtw8imgkj0e4fu",
-        "jinljylpa1dwk8trrhnb2tm0",
-        "efihql6733xf8lfbuu3txwkz"
+        "jinljylpa1dwk8trrhnb2tm0"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
-      "id": "ev_13601c7786",
-      "title": "今日重点关注的财经数据与事件：2026年10月14日 周三",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "islh2652va3ojs448xe1nvqf",
-        "ma1flcwm6too4ezwwghtwedl",
-        "gcenac8q8gpxyob0jqipcgg0",
-        "xqxe8gh5f5zfvxbi8sq2kmx8",
-        "nz1k09lenl8ymvz9dhot6du3"
-      ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
-    },
-    {
-      "id": "ev_376b3ecb2e",
-      "title": "创业板指跌逾4%",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "bl5rpv2o8dnjf6wys2c957f1",
-        "n22b5m5uicf6jvful1k49hr9"
-      ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
-    },
-    {
-      "id": "ev_0fe34cd389",
-      "title": "10月13日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+      "id": "ev_7b142b6402",
+      "title": "10月16日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
       "category": "policy",
       "tags": [
         "监管政策"
@@ -1654,17 +1698,14 @@
         "x4gslclcjazmwieeqr3bnfjb",
         "esdde3rexcale2s1e94iecxb",
         "e0020ychrcwv8cis55ojj0bt",
-        "tlsmg8wmvt7di0z33qce3atq",
         "eg19c7zna8id6s475rn3q361",
         "wxycshgwdihqkcs5qjzy8mgb",
-        "ce4ub25mx5r60cx8002dxi7k",
         "yp6so61ippnl84kt3b17gy0o",
-        "jyws9vt11ygvvajlhadpekfa",
         "xakh95lkjplapmxw1whct5ht",
         "mbmfysd7w7vc85hgu1lls5kx",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_2b884ab4dd",
@@ -1677,7 +1718,7 @@
         "z1hi6z1xvpxh2k29uq40iie4",
         "iissn02o1rue1lgpei08lfti"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1690,7 +1731,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_843b245cf4",
@@ -1704,7 +1745,7 @@
         "hph3lbmawf8szpgbjtkiyftw",
         "jbziqy3v8ecada0bpfdhxowr"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_4bd2439c2e",
@@ -1717,7 +1758,7 @@
         "ubntz84qh9nb2oid7c4uz3ta",
         "dhlppg5fawur2n0h6rei3rft"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_a11822b2d0",
@@ -1730,20 +1771,7 @@
         "fzqhh0v3xbvavbzojnyu7gtj",
         "oh2k7mucij1zkotivavy2m84"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
-    },
-    {
-      "id": "ev_920de07728",
-      "title": "全国首批绿证跨境集中交易达成 共成交绿证约10万个",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "s0dncaj2t1y1gdrvliuy0iv3",
-        "h3n0c474sylh7t95r1nnhohk"
-      ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1757,7 +1785,20 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_cdc0a4f98c",
+      "title": "ST臻镭：正围绕光模块等新兴应用场景进行布局 相关营收占比较低",
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "itemIds": [
+        "tdukz9ir9s53arcq7yfufcds",
+        "nzzl17ghxtmmc02bbrut3dgk"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_aec096ea42",
@@ -1770,29 +1811,7 @@
         "l0sce11tv6b17j372n4sr8rl",
         "vmkhxgfrelxuksbzawng9bjw"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
-    },
-    {
-      "id": "ev_210ee611c7",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "agokfr6ibwf3cggsuq7eecbt",
-        "drjn5ih8bkk826fz9vd29wg2",
-        "vruan380oeifttgz7708ldq5",
-        "bigyzcouasba6f6u9d8559nu",
-        "j9wlzbz5y6ue70mno3rv6q4t",
-        "djgr9bzejx5bet5o047oppv0",
-        "tpektdnddvifpwrjvmaruiuu",
-        "mxml7u12qpw161pd541ad31b",
-        "rdnaw3xexnhu3cyqh44dhufr",
-        "ipno0oefzzy84hp0rwofd9qe",
-        "grsygoiychq2fxjnkd6a99s1"
-      ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1805,7 +1824,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_538028f10e",
@@ -1818,7 +1837,36 @@
         "svnito0zzirwj72e8b3meeyq",
         "qcqgcia4xet3fjn9clx5xjcd"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_1b87727a78",
+      "title": "今日重点关注的财经数据与事件：2026年10月22日 周四",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "islh2652va3ojs448xe1nvqf",
+        "ma1flcwm6too4ezwwghtwedl",
+        "gcenac8q8gpxyob0jqipcgg0",
+        "xqxe8gh5f5zfvxbi8sq2kmx8",
+        "nz1k09lenl8ymvz9dhot6du3"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_76aa925d49",
+      "title": "碳酸锂期货失守9万元/吨关口",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "o5y9mm6qgwhc06qc1bro97qj",
+        "nw74au0xxp2kutb8nnhp9pjk"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1831,7 +1879,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_ef554a74a0",
@@ -1845,7 +1893,29 @@
         "mf77ud2mpj8q6ki5aet8te2r",
         "utvrcmhauspfu1mli8zhtslw"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_ba37d7f9f1",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "agokfr6ibwf3cggsuq7eecbt",
+        "drjn5ih8bkk826fz9vd29wg2",
+        "vruan380oeifttgz7708ldq5",
+        "j9wlzbz5y6ue70mno3rv6q4t",
+        "djgr9bzejx5bet5o047oppv0",
+        "d9yit3qtps93824aw4wp09vq",
+        "tpektdnddvifpwrjvmaruiuu",
+        "mxml7u12qpw161pd541ad31b",
+        "rdnaw3xexnhu3cyqh44dhufr",
+        "ipno0oefzzy84hp0rwofd9qe",
+        "grsygoiychq2fxjnkd6a99s1"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_17e9f8ade9",
@@ -1858,7 +1928,7 @@
         "wzbnj0mg03lgnbxegtwigxz9",
         "k8x96wz40dxaduaertttorty"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -1871,7 +1941,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -1884,7 +1954,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -1898,7 +1968,7 @@
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_6f80635b07",
@@ -1911,7 +1981,7 @@
         "x1hbc02va0ml7sfzr0sqguge",
         "jqj0e4u5ha8iyrejwdjxg3db"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -1924,7 +1994,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -1937,7 +2007,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_7044af8608",
@@ -1950,7 +2020,20 @@
         "ek7xr43o63lac3i2s5k4xy7h",
         "ub0mf9zq86w4qm45tal8xym7"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_71784278d6",
+      "title": "蓝佛安会见世界银行常务副行长兼首席行政官张文才",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "dv3lv5i397vkwnriad36rru0",
+        "ehtk1jozjddbytdg2ayloeth"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -1965,7 +2048,7 @@
         "almhbzck4g2wtzdsxi0dcuto",
         "xsh2l0p00pral3a6gpu119lz"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -1978,7 +2061,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_d92a708b8d",
@@ -1991,7 +2074,7 @@
         "l0khocn9b5xdwck66hmnd628",
         "ftf2xzvxmnu4unvxy1pp8k3c"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2004,7 +2087,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_568ca910b9",
@@ -2017,7 +2100,7 @@
         "vr9vyatts5fnzu2i4kc1fxhf",
         "yb8wjt0ed3vi165wq50rlnp8"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_ce40593ccc",
@@ -2030,7 +2113,7 @@
         "zxt5307frej9c08mwgj4j7es",
         "joggjwjo581s5mig47h2daxj"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2043,7 +2126,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2056,7 +2139,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2069,7 +2152,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_7ffc31e62c",
@@ -2082,7 +2165,20 @@
         "gsup0b77aevgbosvm251e1va",
         "bqotyndswbpw9vqv284rnmss"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_d7e5e41fa8",
+      "title": "国内金饰价格较昨日变化不大",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "e2l4l999ctfnswjy55wiw3vc",
+        "jp80iculer99aglsgozewgsy"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_7ef9eb8193",
@@ -2095,7 +2191,7 @@
         "s1okilw4djsrih08b9jyap97",
         "lnfguqlri9sx0rneh8k3qmu0"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_0c32bfad03",
@@ -2108,7 +2204,7 @@
         "mbrhdxhqscn1iszel9fx64y4",
         "k4b7wsj5bj681bn0vtt9mf6m"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_cb92fc6832",
@@ -2121,7 +2217,7 @@
         "pg1mpk59n6cdjnl3rty55jjw",
         "kkinvpa3ezfq14uhyvr6oiis"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_89dd7a4ce9",
@@ -2134,7 +2230,7 @@
         "il79ltzu3gpo67i7at9x8e1u",
         "tj6keeq3o77pvsuulz3act2j"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2147,7 +2243,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_139ff53af7",
@@ -2160,7 +2256,7 @@
         "or0x59htzds4fb39oe7crecv",
         "kix1ztu0gjk01drm2qboqahq"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_a1139117de",
@@ -2173,7 +2269,7 @@
         "sh2499jue9hc019ebk6wkbav",
         "quq5eeark0gdvwy27x9jvaxk"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_43a0448082",
@@ -2186,7 +2282,7 @@
         "xxd2ilcwu5q281gx7juyaawi",
         "a2rwgklqqq8ppzpy8rlex894"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_e79abcc407",
@@ -2199,7 +2295,7 @@
         "tp38oatvcxd03hwwl0svpsz5",
         "d2zlzgwrijhpxrvf785kzjvm"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_78030114a5",
@@ -2213,7 +2309,7 @@
         "quo1bppn2skb5nmnv4kklpyk",
         "avbpm8v5b7d3i52fladdehy9"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_0f60c880fe",
@@ -2226,7 +2322,7 @@
         "cpfblq4i1hykjp2shqfv31h6",
         "lngk3pq1lzq22zxaoadz33ic"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_cd8aef22d2",
@@ -2239,20 +2335,20 @@
         "odddfueloi7myz4ot2mu65or",
         "tm2xk8dfc8tl8gxlkt85qkva"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
-      "id": "ev_c3064ca58a",
-      "title": "台积电(TSM.N) 第三季度物联网业务收入季度环比增长5%。",
+      "id": "ev_a350d362f7",
+      "title": "财联社10月29日电，俄罗斯国防部称一夜之间在俄罗斯各地区击落1214架乌克兰无人机。",
       "category": "market",
       "tags": [
         "市场动态"
       ],
       "itemIds": [
-        "exlwmh7ao3ltawiygc5ejmub",
-        "odnstid0j25s3fvkhada1huu"
+        "tkg2mvg8i4q7ouujudo9ek6n",
+        "htqgsj6m6y7tugq2otjwwbij"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2265,7 +2361,20 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
+    },
+    {
+      "id": "ev_76b7e20361",
+      "title": "10月28日全国农产品批发市场猪肉平均价格为15.59元/公斤 比昨天下降0.7%",
+      "category": "product",
+      "tags": [
+        "产品更新"
+      ],
+      "itemIds": [
+        "erewx72nugy47i388afdp9jy",
+        "c42z18kxqe25uzoy8v9045jy"
+      ],
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_e53605fd34",
@@ -2278,7 +2387,7 @@
         "fn1wlx4btde7ciwna4jdlesn",
         "ty8emoa9y47mh9o6p8uaz6p1"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     },
     {
       "id": "ev_9366d5b2e8",
@@ -2291,7 +2400,7 @@
         "qw769hjmjikox3w1wweqyfk5",
         "m8khojylv9ort9xipjtb785p"
       ],
-      "updatedAt": "2026-10-28T06:49:00.849Z"
+      "updatedAt": "2026-10-29T06:59:13.201Z"
     }
   ],
   "items": [
@@ -2420,6 +2529,21 @@
       "entityTags": []
     },
     {
+      "id": "a4xf4lf9zd9iho69tcwhkq08",
+      "title": "拥挤、困惑、踏空：全球市场出现多重极端信号",
+      "summary": "Mag 7隐含波动率处于四年第15百分位，对冲基金AI持仓近历史峰值，动量策略仓位近乎清零，全球市场同步出现极端信号。",
+      "url": "https://wallstreetcn.com/articles/3784742",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-29T03:31:30.000Z",
+      "score": 75,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ik6ugjcqy3fvtvkr3rj9j6mb",
       "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
       "summary": "野村证券预测AI投资竞赛持续及半导体超级周期延续的概率为75%，2027年存储芯片短缺格局已基本锁定，主要风险为融资渠道关闭和电力短缺。",
@@ -2527,6 +2651,21 @@
       "entityTags": []
     },
     {
+      "id": "ed5g6wk0fqlgbt6yoromcbge",
+      "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+      "summary": "美联储官员沃什在发布会上暗示高利率正在影响AI投资扩张步伐，打破了AI对利率免疫的市场共识，使加息路径面临双向难题。",
+      "url": "https://wallstreetcn.com/articles/3784743",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-29T03:55:07.000Z",
+      "score": 71,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "wsuvbexogh0yn91vbl1tdnlj",
       "title": "吴清主席会见香港特区政府财政司司长陈茂波一行",
       "summary": "2026年10月23日，证监会主席吴清会见香港财政司司长陈茂波一行，双方就支持香港落实第一个五年规划、深化两地资本市场务实合作及巩固香港国际金融中心地位交换意见。",
@@ -2540,6 +2679,23 @@
         "监管政策"
       ],
       "entityTags": []
+    },
+    {
+      "id": "hfrxetfd2h1ffyvxfkh4gte0",
+      "title": "创业板跌超2%，算力硬件集体调整，中金跌停，四大行总市值突破10万亿元，恒科指跌2%，科网股普跌",
+      "summary": "10月29日A股创业板指跌超2.8%、科创50跌3%，算力硬件与半导体板块集体调整；工商、建设银行创出新高，四大行总市值盘中突破10万亿元；港股恒科指跌2%，国债期货全线下跌。",
+      "url": "https://wallstreetcn.com/articles/3784738",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-29T05:53:39.000Z",
+      "score": 70,
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "entityTags": [
+        "中金公司"
+      ]
     },
     {
       "id": "ghrt7oexwwgxtl38u1yjtxcv",
@@ -2667,6 +2823,20 @@
       "entityTags": []
     },
     {
+      "id": "t74643sgjo3b5mptbl2a89a7",
+      "title": "IMF第四位中国籍副总裁落定，财政部廖岷将履新",
+      "summary": "IMF副总裁李波将于2026年11月30日任期结束后离任，中国财政部副部长廖岷获提名接任，12月1日起生效。",
+      "url": "https://flash.jin10.com/detail/20261029141625032800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 68,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "vc4evcg05up7x1jyqtk3dft4",
       "title": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
       "summary": "高盛警告全球炼油厂停产规模已超预期，中东和俄罗斯合计约580万桶/日的超额停产量超过9月份设定的500万桶/日最坏情景假设，成品油供应紧张局面料延续至2027年。",
@@ -2708,6 +2878,20 @@
       "tags": [
         "市场动态",
         "产品更新"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "wnp11et670nl100rryn465o2",
+      "title": "两只热门科创、创业ETF成交均破百亿",
+      "summary": "10月29日，科创板ETF易方达成交额超110亿元，科创50ETF华夏成交额超100亿元，多只A500ETF成交额突破50亿元。",
+      "url": "https://flash.jin10.com/detail/20261029143609051800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 67,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3048,17 +3232,16 @@
       ]
     },
     {
-      "id": "ypz7hvv5iqbfjvx4w56qgnl2",
-      "title": "GMO高管：股票超供和AI基建放缓，将共同引爆这轮AI泡沫",
-      "summary": "10月15日，美国通胀黏性推升加息预期，亚太半导体与存储产业链遭遇全线重挫，AI算力独角兽CoreWeave债券跌破面值80%、五年违约概率突破50%。 在这…",
-      "url": "https://wallstreetcn.com/articles/3783680",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-15T03:43:18.000Z",
-      "score": 62,
+      "id": "e06o4vzbkbem68ibnd4vo0t4",
+      "title": "机构：美联储12月加息可能性仍存",
+      "summary": "Catalyst Fund高级投资组合经理Larry Holzenthaler表示，美联储12月加息已成大概率事件，货币市场定价加息25个基点的概率为83%，沃什言论表明美联储首要关注物价稳定。",
+      "url": "https://flash.jin10.com/detail/20261029141900865800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 61,
       "category": "market",
       "tags": [
-        "市场动态"
+        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -3145,6 +3328,20 @@
       "category": "policy",
       "tags": [
         "监管政策"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "okgzh4y1v10e4qwegqm0jcg5",
+      "title": "科创50、创业板指均跌逾4%",
+      "summary": "科创板50指数与创业板指分别下跌超过4%。",
+      "url": "https://www.cls.cn/detail/2519022",
+      "sourceId": "feed-cls",
+      "sourceName": "财联社 · 电报",
+      "score": 60,
+      "category": "market",
+      "tags": [
+        "市场动态"
       ],
       "entityTags": []
     },
@@ -3315,25 +3512,10 @@
         "市场动态"
       ],
       "entityTags": []
-    },
-    {
-      "id": "rxs3r9pt38z8mqskr8bxg0lm",
-      "title": "利空突袭，全线跳水！美联储，加息大消息！",
-      "summary": "美联储加息消息突袭市场，引发全线跳水。",
-      "url": "https://qzs.stcn.com/article/detail/641347.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-15T13:13:00.000Z",
-      "score": 51,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
     }
   ],
   "meta": {
-    "itemCount": 1435,
-    "llmCalls": 120
+    "itemCount": 1427,
+    "llmCalls": 121
   }
 }
