@@ -1,0 +1,94 @@
+{
+  "day": "2026-10-30",
+  "generatedAt": "2026-10-30T07:01:49.450Z",
+  "lead": {
+    "title": "中国平安前三季业绩分化，创业板午后大跌超3%",
+    "paragraph": "中国平安前三季度归母营运利润同比增长8.3%，但受A股市场调整影响归母净利润同比下滑27.3%。创业板午后跌幅扩大至超3%，光模块龙头领跌，白酒、医药板块逆势反弹。",
+    "highlights": [
+      "中国平安前三季归母营运利润增长8.3%至1259亿元，净利润同比下滑27.3%。",
+      "创业板午后跌超3%，新易盛、中际旭创等光模块龙头领跌。",
+      "白酒、医药、创新药板块走强，恒指涨超1%。",
+      "30年期国债创3月以来最大单日跌幅。",
+      "上纬新材前三季亏损4.22亿元，机器人业务收入尚未确认。"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "a4kd6guc380a2nz6oznzas5g",
+          "title": "每天烧掉3300亿Token，中国平安三季报说了啥？",
+          "summary": "中国平安2026年前三季度归母营运利润同比增长8.3%至1259.05亿元；受A股市场调整影响归母净利润同比下降27.3%至966.45亿元。",
+          "url": "https://wallstreetcn.com/articles/3784838",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T05:50:17.000Z",
+          "score": 70,
+          "category": "industry",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "fxrbpaww9sd20lcu7kf0evr4",
+          "title": "上纬新材前三季度亏损4.22亿元，机器人业务尚未确认收入",
+          "summary": "上纬新材在机器人业务上的研发投入，已经超过新材料业务同期实现的净利润。 前三季度公司营业收入12.09亿元，同比下降5.51%，归母净利润由上年同期盈利605…",
+          "url": "https://wallstreetcn.com/articles/3784844",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T06:12:45.000Z",
+          "score": 61,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "ondx1n8ukmrwl6i6zsyjpgi9",
+          "title": "创业板午后再跌超3%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅，恒指涨超1%",
+          "summary": "创业板午后跌超3%，沪指跌超1%，光模块龙头新易盛、中际旭创领跌，控股股东减持32亿；白酒、医药、创新药板块反弹，恒指涨超1%。",
+          "url": "https://wallstreetcn.com/articles/3784820",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T06:44:52.000Z",
+          "score": 66,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "plqsa42yenxcxtmkvehdrmoz",
+          "title": "车端算力竞赛，被推向3000 TOPS",
+          "summary": "城区辅助驾驶正向10万元级车型下沉，智驾厂商却还在争夺更高的算力上限。一边是用更低成本扩大覆盖，一边是为更大的车端模型预留能力。两种需求并行，让这场竞争很难只…",
+          "url": "https://wallstreetcn.com/articles/3784842",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T06:10:55.000Z",
+          "score": 65,
+          "category": "market",
+          "tags": [
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 114,
+    "selected": 4,
+    "llmCalls": 96
+  }
+}

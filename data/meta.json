@@ -1,12 +1,12 @@
 {
-  "lastRunAt": "2026-10-29T06:59:13.201Z",
-  "lastSuccessAt": "2026-10-29T07:15:52.543Z",
+  "lastRunAt": "2026-10-30T07:01:49.450Z",
+  "lastSuccessAt": "2026-10-30T07:15:17.240Z",
   "llmCallsUsed": 121,
   "fetchedFeeds": 9,
-  "newItems": 108,
-  "selectedToday": 7,
+  "newItems": 114,
+  "selectedToday": 4,
   "errors": [
-    "fetch rss-szse-rules: The operation was aborted due to timeout",
+    "fetch web-csrc-news: Connect Timeout Error (attempted addresses: 59.108.140.6:443, 59.108.140.7:443, 59.108.140.8:443, 59.108.140.9:443, 59.108.140.10:443, 59.108.140.11:443, 59.108.140.12:443, 59.108.140.13:443, timeout: 15000ms)",
     "fetch web-qzs: Connect Timeout Error (attempted address: qzs.stcn.com:443, timeout: 15000ms)"
   ]
 }
