@@ -1,2916 +1,5 @@
 [
   {
-    "id": "fbsnbgbnjiqpvfp6v1zkjstw",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642107.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642107.html",
-    "title": "突然！恐慌指数，狂飙21.45%！",
-    "language": "zh",
-    "publishedAt": "2026-10-17T04:47:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 60,
-      "understand": 46,
-      "average": 53
-    },
-    "selected": true
-  },
-  {
-    "id": "rapl2jrfho80tcx7n16y54km",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642095.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642095.html",
-    "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
-    "language": "zh",
-    "publishedAt": "2026-10-17T02:21:00.000Z",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "policy",
-    "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 68,
-      "understand": 46,
-      "average": 57
-    },
-    "selected": true
-  },
-  {
-    "id": "rnfo68k25o70b5i8yczpan4c",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642069.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642069.html",
-    "title": "利空突袭！清晨，科技股大跳水！",
-    "language": "zh",
-    "publishedAt": "2026-10-16T23:39:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "利空突袭！清晨，科技股大跳水！",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 21,
-      "understand": 46,
-      "average": 34
-    },
-    "selected": false
-  },
-  {
-    "id": "iissn02o1rue1lgpei08lfti",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642113.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642113.html",
-    "title": "多方判断电价拐点已现",
-    "language": "zh",
-    "publishedAt": "2026-10-17T05:15:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "多方判断电价拐点已现",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 40,
-      "average": 28
-    },
-    "selected": false
-  },
-  {
-    "id": "ls1558lesp3g26uyfk87pj0y",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642112.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642112.html",
-    "title": "肯尼亚确诊第3例输入型埃博拉病例",
-    "language": "zh",
-    "publishedAt": "2026-10-17T05:04:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "肯尼亚确诊第3例输入型埃博拉病例",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "isylixani5q01gd8n01gr287",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642111.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642111.html",
-    "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
-    "language": "zh",
-    "publishedAt": "2026-10-17T04:56:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 42,
-      "understand": 46,
-      "average": 44
-    },
-    "selected": false
-  },
-  {
-    "id": "fp62e97vl4ukx428i2m2lb4r",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642108.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642108.html",
-    "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
-    "language": "zh",
-    "publishedAt": "2026-10-17T04:48:00.000Z",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "policy",
-    "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 63,
-      "understand": 46,
-      "average": 55
-    },
-    "selected": true
-  },
-  {
-    "id": "ma3xw960wjmoa2wy77of1p44",
-    "identityKey": "url:https://qzs.stcn.com/article/detail/642106.html",
-    "sourceId": "web-qzs",
-    "via": "web:web-qzs",
-    "url": "https://qzs.stcn.com/article/detail/642106.html",
-    "title": "这家券商副总经理，拟任地级市副市长！",
-    "language": "zh",
-    "publishedAt": "2026-10-17T04:47:00.000Z",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:00.284Z",
-    "discoveredAt": "2026-10-17T05:33:00.284Z",
-    "category": "market",
-    "summary": "这家券商副总经理，拟任地级市副市长！",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 59,
-      "understand": 46,
-      "average": 53
-    },
-    "selected": true
-  },
-  {
-    "id": "opalfu5t6hwfhfrcp6a3p6st",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783832",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783832",
-    "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-    "language": "zh",
-    "publishedAt": "2026-10-17T03:51:11.000Z",
-    "excerpt": "美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告， 收紧的金融条件正在悄然完成美联储的部分工作，只是这一冲击被集中吸收在普通股票身上，而非以AI为核心的少数巨头。 十年期美债收益率突破5.3%，美元升至本轮周期新高，油价居高不下，三重压力叠加之下，摩根士丹利综合金融条件指数已跳升至约1.4个标准差，这一水平在过去35年中仅被突破数次，上一次还是2022年美联储每次会议加息75个基点之时。与此同时，高盛已将预期修正为10月FOMC再加息一次。 市场的关键裂缝已清晰可见：标普500等权重指数在过去六个月落后市值加权指数达6%，9月份当十年期收益率突破5%时，等权重指数单月下跌5%，而市值加权指数几乎持平。高盛Tony Pasquariello虽对\"广度崩溃\"的论断持部分保留态度，但承认标普500成分股中位数较52周高点已回落15%，为互联网泡沫破裂以来最差读数。两大机构的分歧，恰恰勾勒出当前市场最核心的悬念：这场分化究竟如何收场？ 金融条件已在暗中大幅收紧 表面上，股市指数显得风平浪静。但Wilson…",
-    "media": [
-      {
-        "url": "https://wpimg-wscn.awtmt.com/28a27d09-55e6-459c-adcb-57989e4ca9e7.png"
-      }
-    ],
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "market",
-    "summary": "美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告， 收紧的金融条件正在…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 80,
-      "average": 40
-    },
-    "selected": false
-  },
-  {
-    "id": "hfwjzg3fr9n2ck518rnspl5n",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783831",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783831",
-    "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
-    "language": "zh",
-    "publishedAt": "2026-10-17T03:22:17.000Z",
-    "excerpt": "Anthropic正悄然推动一项由其主导起草的AI安全法案，试图为联邦政府干预前沿AI模型设定极高门槛，同时将监管权力严格限定于商务部和联邦法院。 据路透社17日援引Politico报道，Anthropic代表已私下向国会议员游说这份草案法规。 根据法案内容，政府只有在AI模型面临可预见的、迫在眉睫的风险——即可能造成超过10亿美元损失，或导致50人以上死亡或重伤时，方可介入阻止模型发布或使用。 这一高门槛意味着，绝大多数情形下AI模型的开发与部署将不受政府干预。 Anthropic发言人向路透社表示，该法案所体现的提案内容，源自Anthropic今年早些时候发布的\"先进AI框架\"（Advanced AI Framework）。发言人同时强调，法案将赋予政府\"阻止或遏制最强大模型危险部署的能力\"，并要求开发者对前沿AI模型进行测试、公开评估结果，并接受独立第三方评估。商务部未就路透社的置评请求作出回应。 触发监管的条件极为严苛 根据Politico的报道，法案对政府介入条件作出严格限定。触发监管的风险必须源于以下三种特定情形之一 ：AI模型被用于生物武器的研制或扩散、模型逃脱开发者的…",
-    "media": [],
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "policy",
-    "summary": "Anthropic正悄然推动一项由其主导起草的AI安全法案，试图为联邦政府干预前沿AI模型设定极高门槛，同时将监管权力严格限定于商务部和联邦法院。 据路透社1…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 80,
-      "average": 40
-    },
-    "selected": false
-  },
-  {
-    "id": "c21uuuomv1zj3koi32gxalzc",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783830",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783830",
-    "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-    "language": "zh",
-    "publishedAt": "2026-10-17T02:58:22.000Z",
-    "excerpt": "黄金自1月高点回落逾四分之一，白银跌幅超过一半，表面上看，这不过是一场过热行情的自然冷却。但价格下跌的背后，实物市场的结构性失衡不仅未曾修复，反而持续恶化—— 央行在金价下跌14%的季度里创纪录地增持，白银连续六年录得供应赤字且缺口进一步扩大。 价格与实物供需之间的裂缝，正在变得越来越难以忽视。 黄金于2026年1月触及每盎司5608美元（现货价）的历史峰值后掉头下行，至10月中旬已跌至约4112美元，较峰值下跌约27%。白银在1月29日短暂触及121.62美元后，随即腰斩，目前在56美元附近交投。与此同时，据世界黄金协会数据，2026年二季度全球央行购金量达288.9吨，创有记录以来同期最高，较上年同期激增62%——而这恰恰发生在金价单季下跌14%的区间内，与追涨资金的行为模式截然相反。 实物银市场同样传递出异常信号。据白银协会《2026年世界白银调查报告》，2026年全球白银市场预计录得4630万盎司的供应缺口，较2025年的4030万盎司进一步扩大，为连续第六年出现赤字，而矿山供应几乎毫无增长。价格暴跌53%，赤字不减反增——这一组合，远非一次普通的商品调整所能解释。 纸面市场…",
-    "media": [
-      {
-        "url": "https://wpimg-wscn.awtmt.com/d60a8763-539b-48de-abbb-547dedab7501.png"
-      }
-    ],
-    "tags": [
-      "市场动态",
-      "非证券/宏观"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "market",
-    "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 58,
-      "understand": 80,
-      "average": 69
-    },
-    "selected": true
-  },
-  {
-    "id": "j7q716ip2p996fhqqcgpmvfa",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783829",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783829",
-    "title": "特斯拉高管详解新Roadster：放弃四驱、专用4680电池，目标车重不到1.7吨",
-    "language": "zh",
-    "publishedAt": "2026-10-17T02:08:17.000Z",
-    "excerpt": "特斯拉新款Roadster正式揭开面纱，其技术方案远超市场此前预期。这款车搭载专属4680电池、双电机后驱系统、主动吸地风扇以及源自SpaceX的冷气推进器，最激进版本宣称0至60英里/小时加速仅需0.55秒，并具备有限离地飞行能力。 特斯拉车辆工程副总裁Lars Moravy 16日在接受Hagerty频道采访时，首度系统披露了这款车的核心技术细节。他透露， 新Roadster最终放弃了四驱方案，转而采用双电机后驱布局，双电机总功率逾1兆瓦（约合1341马力），扭矩超过1400牛·米， \"把全部扭矩放在身后，会带来非常直接、富有情感的驾驶感受。\"他表示， 整车目标重量将略低于1700公斤， 与此前开发过程中曾考虑的2000公斤方案相比大幅瘦身。 新Roadster初期推出三个版本，售价尚未公布。产品序列从Performance版起步，搭载完整动力系统与吸地风扇，0至60英里/小时加速约1.6秒；Thrust版加入冷气推进器，同一指标缩短至0.85秒（扣除起步滑行时间）；顶配Rocket版以400升高压氮气容器取代副驾驶座位，变为单座车型，宣称加速成绩进一步压缩至0.55秒，并可实现…",
-    "media": [
-      {
-        "url": "https://wpimg-wscn.awtmt.com/f463b7df-ff3c-4347-94cc-9931292fb363.png"
-      }
-    ],
-    "tags": [
-      "产品更新"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "product",
-    "summary": "特斯拉新款Roadster正式揭开面纱，其技术方案远超市场此前预期。这款车搭载专属4680电池、双电机后驱系统、主动吸地风扇以及源自SpaceX的冷气推进器，…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 80,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "i0t4fg2hfasw78lenna0j7qa",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783825",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783825",
-    "title": "华尔街开出中期选举价码：民主党因子暴涨20%，大盘却深陷“盲区”",
-    "language": "zh",
-    "publishedAt": "2026-10-17T01:19:56.000Z",
-    "excerpt": "华尔街已为即将到来的美国中期选举开出明确价码。 10月16日，知名财经分析平台ZeroHedge梳理各大投行最新研报指出，摩根大通构建的“民主党因子”自8月以来累计上涨约20%，而同期标普500指数仅微涨2.6%。这种微观与宏观的严重背离，正成为华尔街内部争论的核心焦点。 预测平台Polymarket目前对民主党横扫两院的概率定价已达64%至65%左右；高盛综合 Kalshi 与 Polymarket 的平均预测数据，也在10月8日前后触及 65% 的高位。 这一概率在仅两个月前的基金经理调查中还徘徊于23%的低位，如今却已跃升为市场的基准情景。 摩根大通Delta-One策略师Manish Sinha指出，如果将该因子的波动率拉满至与标普500指数相同的水平，即按风险对等原则放大约6倍杠杆进行比较，其折算出的年化回报率高达约 170% ，远超大盘同期约15%的表现。 值得注意的是，这一走势几乎完全由个股层面的公司特质因素驱动，与人工智能概念炒作、动量交易、利率走势以及大盘系统性风险均无显著关联。 这意味着选举风险已被华尔街成功隔离并定义为多空对冲工具，以纯粹的超额收益形式在机构间流…",
-    "media": [
-      {
-        "url": "https://wpimg-wscn.awtmt.com/45c6bbd5-453b-4e0f-9f47-c63db437b278.png"
-      }
-    ],
-    "tags": [
-      "观点/评论"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "opinion",
-    "summary": "华尔街已为即将到来的美国中期选举开出明确价码。 10月16日，知名财经分析平台ZeroHedge梳理各大投行最新研报指出，摩根大通构建的“民主党因子”自8月以…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 4,
-      "understand": 80,
-      "average": 42
-    },
-    "selected": false
-  },
-  {
-    "id": "uttghfpn6pegut9ph560cv4d",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783826",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783826",
-    "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
-    "language": "zh",
-    "publishedAt": "2026-10-17T01:13:15.000Z",
-    "excerpt": "AI基础设施融资风险与能源价格骤升同步爆发，令华尔街本周承受双重冲击。 纳斯达克100指数本周累跌5.5%，创下2025年4月关税动荡以来最大单周跌幅；半导体板块八连跌，为2008年以来最长连跌纪录，区间跌幅约16%。云计算服务商CoreWeave成为市场焦点——其部分债券收益率周四一度突破15%，信用风险攀升至通常预示财务困境的水平，股价周五单日再跌12%，较年内高点累计腰斩逾50%。 与此同时，布伦特原油收于每桶约110美元附近，WTI原油单日涨幅达3.8%，油价骤升加剧通胀顾虑，推动10年期美债收益率升至5.097%，令债市的避险逻辑受到侵蚀。 本周市场的核心转变在于： AI交易的主要矛盾已从算力需求增长，转向融资成本、资本开支回报与企业盈利能力。两大风险——AI泡沫估值松动与能源驱动的通胀压力——在同一时间窗口集中释放，对股票、债券与信用市场形成联动压制。 AI债务风险浮出水面，CoreWeave成引爆点 CoreWeave的信用恶化是本轮抛售的直接导火索。这家新兴云计算服务商依靠大规模举债建设AI数据中心基础设施，其债务融资模式在本周遭到市场的集中审视。CoreWeave部…",
-    "media": [
-      {
-        "url": "https://wpimg-wscn.awtmt.com/627df28f-180e-42c3-9bd1-d3c0eff1cfc2.png"
-      }
-    ],
-    "tags": [
-      "市场动态",
-      "海外同业"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "market",
-    "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 59,
-      "understand": 80,
-      "average": 70
-    },
-    "selected": true
-  },
-  {
-    "id": "ngxd2s1pqg162vjjv352u0fk",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783824",
-    "sourceId": "rss-wallstreetcn",
-    "via": "rss:rss-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783824",
-    "title": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半",
-    "language": "zh",
-    "publishedAt": "2026-10-17T00:29:45.000Z",
-    "excerpt": "印度卢比录得七个月最大单周涨幅，政策干预提振但持续性存疑。 本周，卢比累计上涨约2%，周五收盘报84.96兑1美元。此前卢比一度逼近历史低点，RBI随后出手，通过将石油美元需求引导至场外、大幅收紧购汇限额等措施推动汇率企稳。 然而，上述政策的副作用也随之显现。 华尔街见闻提及 ，对冲成本飙升至十年高位，债券收益率攀升至三年多来最高水平，外汇市场流动性加速萎缩。 市场人士对频繁调整外汇规则的做法表达担忧，认为此举可能削弱政策可预期性。分析人士指出，卢比能否持续反弹，关键在于深层经济压力能否得到有效缓解。 管制措施扰动对冲市场 华尔街见闻提及 ，印度央行于上周六宣布的一项关键措施规定，银行须为超过200万美元的外汇衍生品交易计提相当于卢比价值20%的准备金。这直接推高了企业和银行通过远期合约、掉期等工具对冲汇率风险的成本。 岸内美元兑卢比远期收益率随即急剧攀升。三个月期远期收益率周四一度升至6.54%，创2016年5月以来收盘新高。 IFA Global首席执行官Abhishek Goenka将该市场形容为\"极度错位\"，并指出，当前企业借入卢比再换成美元，比直接借入美元的成本更低，这是市…",
-    "media": [],
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:02.937Z",
-    "discoveredAt": "2026-10-17T05:33:02.937Z",
-    "category": "market",
-    "summary": "印度卢比录得七个月最大单周涨幅，政策干预提振但持续性存疑。 本周，卢比累计上涨约2%，周五收盘报84.96兑1美元。此前卢比一度逼近历史低点，RBI随后出手，…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 80,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "tms0h4cu87glsyy0wh31egc2",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783778",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783778",
-    "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 26,
-      "understand": 46,
-      "average": 36
-    },
-    "selected": false
-  },
-  {
-    "id": "uf5gc07uw5vhn7b6wg4y20hl",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783763",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783763",
-    "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "jrod5y1m5il0ehn4c6ngu7yy",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783794",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783794",
-    "title": "华尔街刚刚抛售一切，大规模逼空即将来临？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "华尔街刚刚抛售一切，大规模逼空即将来临？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 18,
-      "understand": 46,
-      "average": 32
-    },
-    "selected": false
-  },
-  {
-    "id": "dveg0pu5l6087srrwt8pqe0a",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783782",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783782",
-    "title": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "iq40ndpeh4tnogrd6y1540xq",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783799",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783799",
-    "title": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "w4ry17urs4iygmqrflen78tk",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783788",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783788",
-    "title": "尾盘20分钟，突然爆量！大资金涌入宽基ETF，释放什么信号？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "尾盘20分钟，突然爆量！大资金涌入宽基ETF，释放什么信号？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "cfbreikbdbbis41leq7tw8f9",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783785",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783785",
-    "title": "特斯拉“飞行跑车”安全吗？马斯克：如果安全是首要目标，就别买",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "特斯拉“飞行跑车”安全吗？马斯克：如果安全是首要目标，就别买",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 12,
-      "understand": 46,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "grsygoiychq2fxjnkd6a99s1",
-    "identityKey": "url:https://wallstreetcn.com/articles/3783821",
-    "sourceId": "hot-wallstreetcn",
-    "via": "newsnow:hot-wallstreetcn",
-    "url": "https://wallstreetcn.com/articles/3783821",
-    "title": "华尔街见闻早餐FM-Radio | 2026年10月17日",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.334Z",
-    "discoveredAt": "2026-10-17T05:33:03.334Z",
-    "category": "market",
-    "summary": "华尔街见闻早餐FM-Radio | 2026年10月17日",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "wsrs40405tyn2og1dfcjrs6v",
-    "identityKey": "url:https://www.cls.cn/detail/2507382",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507382",
-    "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 42,
-      "understand": 46,
-      "average": 44
-    },
-    "selected": false
-  },
-  {
-    "id": "fng6p814lam5u558a83pysr9",
-    "identityKey": "url:https://www.cls.cn/detail/2507165",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507165",
-    "title": "国常会：人工智能是影响未来发展的关键变量",
-    "language": "zh",
-    "tags": [
-      "非证券/宏观"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "国务院常务会议指出人工智能是影响未来发展的关键变量，对经济社会发展具有战略性意义。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 50,
-      "understand": 46,
-      "average": 48
-    },
-    "selected": false
-  },
-  {
-    "id": "hhzf2qupn33z5mrzwkplfbho",
-    "identityKey": "url:https://www.cls.cn/detail/2507088",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507088",
-    "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "policy",
-    "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 75,
-      "understand": 46,
-      "average": 61
-    },
-    "selected": true
-  },
-  {
-    "id": "szuy6txv05q5kdw2vi0qt1li",
-    "identityKey": "url:https://www.cls.cn/detail/2507375",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507375",
-    "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "美股收盘：纳指跌超2%，科技股重挫；红利及能源板块表现强劲，相关巨头股价再创新高。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 64,
-      "understand": 46,
-      "average": 55
-    },
-    "selected": false
-  },
-  {
-    "id": "v1hm0aeq9hvlyvbwaua4qf5m",
-    "identityKey": "url:https://www.cls.cn/detail/2507057",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507057",
-    "title": "习近平在内蒙古乌兰察布考察",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "习近平在内蒙古乌兰察布考察",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "p7vdn6e5chb8xx65ittxi825",
-    "identityKey": "url:https://www.cls.cn/detail/2507119",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507119",
-    "title": "10余家A股公司三季报预喜：覆铜板龙头预计业绩倍增",
-    "language": "zh",
-    "tags": [
-      "券商经营"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "industry",
-    "summary": "10余家A股公司三季报预喜：覆铜板龙头预计业绩倍增",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 11,
-      "understand": 46,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "mh087x5v78rtxyyquekq5920",
-    "identityKey": "url:https://www.cls.cn/detail/2507383",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507383",
-    "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 18,
-      "understand": 46,
-      "average": 32
-    },
-    "selected": false
-  },
-  {
-    "id": "u0avu17fj1pk1c2e9inzp6vg",
-    "identityKey": "url:https://www.cls.cn/detail/2507332",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507332",
-    "title": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "pmiyehu4eg1kgijfyegy2ce8",
-    "identityKey": "url:https://www.cls.cn/detail/2507262",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507262",
-    "title": "订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "fu9pcmsu3lymk38djc1rsiq2",
-    "identityKey": "url:https://www.cls.cn/detail/2507355",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507355",
-    "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "dh0tuh19zen56ofm9d0p6m3v",
-    "identityKey": "url:https://www.cls.cn/detail/2507212",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507212",
-    "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 38,
-      "understand": 46,
-      "average": 42
-    },
-    "selected": false
-  },
-  {
-    "id": "dj1iyzpj0h5ajj461bwshdmo",
-    "identityKey": "url:https://www.cls.cn/detail/2507401",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507401",
-    "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "policy",
-    "summary": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 42,
-      "understand": 46,
-      "average": 44
-    },
-    "selected": false
-  },
-  {
-    "id": "j97n4fh0h9rh01fvbwu7x68q",
-    "identityKey": "url:https://www.cls.cn/detail/2507307",
-    "sourceId": "hot-cls",
-    "via": "newsnow:hot-cls",
-    "url": "https://www.cls.cn/detail/2507307",
-    "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.594Z",
-    "discoveredAt": "2026-10-17T05:33:03.594Z",
-    "category": "market",
-    "summary": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "utvrcmhauspfu1mli8zhtslw",
-    "identityKey": "url:https://www.cls.cn/detail/2507431",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507431",
-    "title": "RISC-V重磅峰会将举办 产业空间有望超2000亿元",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "RISC-V重磅峰会将举办 产业空间有望超2000亿元",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 4,
-      "understand": 46,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "d2zlzgwrijhpxrvf785kzjvm",
-    "identityKey": "url:https://www.cls.cn/detail/2507429",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507429",
-    "title": "巴西亚马孙地区毁林面积降至38年最低",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "巴西亚马孙地区毁林面积降至38年最低",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 3,
-      "understand": 46,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "bxldnn2g38esb8dc7ba8ngdl",
-    "identityKey": "url:https://www.cls.cn/detail/2507428",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507428",
-    "title": "印尼塞梅鲁火山喷发 火山灰柱高约1000米",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "印尼塞梅鲁火山喷发 火山灰柱高约1000米",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "xxd2ilcwu5q281gx7juyaawi",
-    "identityKey": "url:https://www.cls.cn/detail/2507427",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507427",
-    "title": "全国秋粮收获过七成",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "全国秋粮收获过七成",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 40,
-      "average": 28
-    },
-    "selected": false
-  },
-  {
-    "id": "yg4gz8tb9ji7k53rsa5qr913",
-    "identityKey": "url:https://www.cls.cn/detail/2507425",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507425",
-    "title": "厄瓜多尔一艘渔船疑似沉没 14名船员失踪",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "厄瓜多尔一艘渔船疑似沉没 14名船员失踪",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "joggjwjo581s5mig47h2daxj",
-    "identityKey": "url:https://www.cls.cn/detail/2507416",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507416",
-    "title": "破解跨域协同瓶颈 智能体互联平台发布",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "破解跨域协同瓶颈 智能体互联平台发布",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "yrsxwya4x22nfmvrvxq06o7o",
-    "identityKey": "url:https://www.cls.cn/detail/2507412",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507412",
-    "title": "鲁班工坊系列国家标准公布",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "鲁班工坊系列国家标准公布",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 32,
-      "understand": 46,
-      "average": 39
-    },
-    "selected": false
-  },
-  {
-    "id": "swlmpcjkzxzbuujqhiux5ej6",
-    "identityKey": "url:https://www.cls.cn/detail/2507411",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507411",
-    "title": "广东已备案195款大模型 位居全国前列",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "广东已备案195款大模型 位居全国前列",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "gfid9ru3nks1b60l42sglkxk",
-    "identityKey": "url:https://www.cls.cn/detail/2507410",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507410",
-    "title": "财联社10月17日电，据工会声明，安托法加斯塔（Antofagasta）旗下森蒂内拉铜矿的工会工人与资方就新劳动合同达成初步协议，并同意结束罢工。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "财联社10月17日电，据工会声明，安托法加斯塔（Antofagasta）旗下森蒂内拉铜矿的工会工人与资方就新劳动合同达成初步协议，并同意结束罢工。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "ibq8oub4fgw4wj7abig110mr",
-    "identityKey": "url:https://www.cls.cn/detail/2507408",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507408",
-    "title": "两部门：支持体育运动进影院 探索在符合条件的电影院开展适宜的运动项目",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "两部门：支持体育运动进影院 探索在符合条件的电影院开展适宜的运动项目",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 18,
-      "understand": 46,
-      "average": 32
-    },
-    "selected": false
-  },
-  {
-    "id": "vnoe0gzv53qn0qihsdxb6y44",
-    "identityKey": "url:https://www.cls.cn/detail/2507407",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507407",
-    "title": "上海财经大学校长刘元春：AI冲击世界金融结构 重思人民币管理思路",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "上海财经大学校长刘元春：AI冲击世界金融结构 重思人民币管理思路",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 20,
-      "understand": 46,
-      "average": 33
-    },
-    "selected": false
-  },
-  {
-    "id": "rvvhxyhhe9hqds9ni9t46wgm",
-    "identityKey": "url:https://www.cls.cn/detail/2507406",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507406",
-    "title": "财联社10月17日电，越南总理称，越南将力争在2027年实现至少10%的GDP增长。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "财联社10月17日电，越南总理称，越南将力争在2027年实现至少10%的GDP增长。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 3,
-      "understand": 46,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "o4f06n5vg2avghh7dzwxgyse",
-    "identityKey": "url:https://www.cls.cn/detail/2507405",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507405",
-    "title": "华储网：10月22日中央储备冻猪肉收储竞价交易挂牌13800吨",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "华储网：10月22日中央储备冻猪肉收储竞价交易挂牌13800吨",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "xdhobawockwb4vqowivb6n5f",
-    "identityKey": "url:https://www.cls.cn/detail/2507404",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507404",
-    "title": "我国技能人才新增劳动力平均受教育年限超14年",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "我国技能人才新增劳动力平均受教育年限超14年",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 22,
-      "understand": 46,
-      "average": 34
-    },
-    "selected": false
-  },
-  {
-    "id": "e7zb5cezx2t9329vi5awud95",
-    "identityKey": "url:https://www.cls.cn/detail/2507403",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507403",
-    "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "伊朗革命卫队宣布，一艘油轮在霍尔木兹海峡触雷发生爆炸。霍尔木兹海峡是全球关键石油运输咽喉，此次事件引发市场对原油供应中断的担忧。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 58,
-      "understand": 46,
-      "average": 52
-    },
-    "selected": false
-  },
-  {
-    "id": "p8nv4ojeecdinerlfx12frwq",
-    "identityKey": "url:https://www.cls.cn/detail/2507402",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507402",
-    "title": "华储网：10月20日中央储备冻猪肉轮换出库挂牌国产冻猪肉15000吨",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "华储网：10月20日中央储备冻猪肉轮换出库挂牌国产冻猪肉15000吨",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "xvka77bv3h0d9926bzr1honu",
-    "identityKey": "url:https://www.cls.cn/detail/2507400",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507400",
-    "title": "《世界职业技术教育标准框架》发布",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "《世界职业技术教育标准框架》发布",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 2,
-      "understand": 46,
-      "average": 24
-    },
-    "selected": false
-  },
-  {
-    "id": "uolapiy8yqsl12hfw98ass4k",
-    "identityKey": "url:https://www.cls.cn/detail/2507396",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507396",
-    "title": "航行警告：渤海执行军事任务",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "航行警告：渤海执行军事任务",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 10,
-      "understand": 46,
-      "average": 28
-    },
-    "selected": false
-  },
-  {
-    "id": "t0pp3jxe14xz6in6ixx5x9zc",
-    "identityKey": "url:https://www.cls.cn/detail/2507395",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507395",
-    "title": "Anthropic据悉在最新一轮芯片融资交易中 向黑石集团提供两位数收益率",
-    "language": "zh",
-    "tags": [
-      "券商经营"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "industry",
-    "summary": "Anthropic据悉在最新一轮芯片融资交易中 向黑石集团提供两位数收益率",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "m0mgl2lwmua18d8rvvumwd67",
-    "identityKey": "url:https://www.cls.cn/detail/2507394",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507394",
-    "title": "特朗普宣布暂缓实施新一轮对俄制裁",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "特朗普宣布暂缓实施新一轮对俄制裁",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "oxy0n6tda9hd786x9yapw0m0",
-    "identityKey": "url:https://www.cls.cn/detail/2507393",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507393",
-    "title": "财联社10月17日电，据白宫发布的行政命令，美国总统特朗普表示，他已向国会提交一份证明文件，确认实施豁免符合美国国家利益。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "财联社10月17日电，据白宫发布的行政命令，美国总统特朗普表示，他已向国会提交一份证明文件，确认实施豁免符合美国国家利益。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "vweh979d7zekpzx0trc885ni",
-    "identityKey": "url:https://www.cls.cn/detail/2507391",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507391",
-    "title": "俄称打击乌港口 乌称击落俄无人机",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "俄称打击乌港口 乌称击落俄无人机",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "v9ypc99b8hthx7k1nmdd0nlt",
-    "identityKey": "url:https://www.cls.cn/detail/2507390",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507390",
-    "title": "部分“固收+”理财产品净值回撤 风控与预期管理临考",
-    "language": "zh",
-    "tags": [
-      "财富管理"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "部分\"固收+\"理财产品出现净值回撤，券商在风控和投资者预期管理方面面临考验。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 53,
-      "understand": 46,
-      "average": 50
-    },
-    "selected": false
-  },
-  {
-    "id": "g0p9wqvzhx77fvntxkvppb2m",
-    "identityKey": "url:https://www.cls.cn/detail/2507389",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507389",
-    "title": "机构：第三季度上海办公楼市场需求回暖",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "机构：第三季度上海办公楼市场需求回暖",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "rg87k47ojuckpfy2ef0x1ymz",
-    "identityKey": "url:https://www.cls.cn/detail/2507388",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507388",
-    "title": "巴拿马发生5.2级地震",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "巴拿马发生5.2级地震",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 40,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "sdwrtbkc4prudwxn4qsj474c",
-    "identityKey": "url:https://www.cls.cn/detail/2507387",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507387",
-    "title": "从“飞起来”到“用起来” 低空经济告别概念比拼",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "从“飞起来”到“用起来” 低空经济告别概念比拼",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 45,
-      "understand": 46,
-      "average": 46
-    },
-    "selected": false
-  },
-  {
-    "id": "iwmage86pusl9ubjy6cln5i5",
-    "identityKey": "url:https://www.cls.cn/detail/2507386",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507386",
-    "title": "默茨：欧盟应保持财政克制 反对大幅扩增预算规模",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "默茨：欧盟应保持财政克制 反对大幅扩增预算规模",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 12,
-      "understand": 46,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "zo04rlvd3hw1yjrn3ugpeqcg",
-    "identityKey": "url:https://www.cls.cn/detail/2507385",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507385",
-    "title": "我国金饰消费额逼近历史最高水平 18岁到34岁年轻人是买金大户",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "我国金饰消费额逼近历史最高水平 18岁到34岁年轻人是买金大户",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 28,
-      "understand": 46,
-      "average": 37
-    },
-    "selected": false
-  },
-  {
-    "id": "zgft5fq8a0lnhrpbboeun1pa",
-    "identityKey": "url:https://www.cls.cn/detail/2507384",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507384",
-    "title": "普京：继续打击乌军工企业",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "普京：继续打击乌军工企业",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 12,
-      "understand": 46,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "trh5hqu01odhpetx2qm2l3gc",
-    "identityKey": "url:https://www.cls.cn/detail/2507381",
-    "sourceId": "feed-cls",
-    "via": "newsnow:feed-cls",
-    "url": "https://www.cls.cn/detail/2507381",
-    "title": "财联社10月17日电，美国最大电网运营商称温和天气下的电力紧急状态正成为新常态。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:03.922Z",
-    "discoveredAt": "2026-10-17T05:33:03.922Z",
-    "category": "market",
-    "summary": "财联社10月17日电，美国最大电网运营商称温和天气下的电力紧急状态正成为新常态。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "ltd95fksyulahv29876qmuum",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132737212800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132737212800",
-    "title": "中国地震台网正式测定：10月17日13时06分在巴基斯坦（北纬27.90度，东经66.25度）发生5.9级地震，震源深度10千米。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "中国地震台网正式测定：10月17日13时06分在巴基斯坦（北纬27.90度，东经66.25度）发生5.9级地震，震源深度10千米。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "xakh95lkjplapmxw1whct5ht",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132410536800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132410536800",
-    "title": "10月16日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "policy",
-    "summary": "10月16日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 8,
-      "understand": 46,
-      "average": 27
-    },
-    "selected": false
-  },
-  {
-    "id": "e4or3wcgmgc0ymx35uwu06kr",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132406283800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132406283800",
-    "title": "10月16日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "policy",
-    "summary": "10月16日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 59,
-      "understand": 46,
-      "average": 53
-    },
-    "selected": false
-  },
-  {
-    "id": "si7ka36rz01lzlinrpcve3iu",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132404289800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132404289800",
-    "title": "10月16日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "policy",
-    "summary": "10月16日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 59,
-      "understand": 46,
-      "average": 53
-    },
-    "selected": false
-  },
-  {
-    "id": "o4zjyy4dn5z9ndchvzayivb7",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132215640800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132215640800",
-    "title": "欧洲央行行长拉加德：战争带来通胀上行风险。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲央行行长拉加德：战争带来通胀上行风险。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 40,
-      "understand": 46,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "ixj4agp46wvera4jxhh7ry9r",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132157613800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132157613800",
-    "title": "欧洲央行行长拉加德：财政可持续性对经济稳定至关重要。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲央行行长拉加德：财政可持续性对经济稳定至关重要。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 25,
-      "understand": 46,
-      "average": 36
-    },
-    "selected": false
-  },
-  {
-    "id": "su1zeh6bjfefdcgt4yy6vu7j",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017132152195800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017132152195800",
-    "title": "欧洲央行行长拉加德：欧元区增长面临下行风险。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲央行行长拉加德：欧元区增长面临下行风险。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "dp3mpqul9u47ndxhiha9087v",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017131952299800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017131952299800",
-    "title": "欧洲地中海地震中心和德国地球科学研究中心将巴基斯坦胡兹达尔附近地震的震级从6.0级下调至5.6级。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲地中海地震中心和德国地球科学研究中心将巴基斯坦胡兹达尔附近地震的震级从6.0级下调至5.6级。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 46,
-      "average": 26
-    },
-    "selected": false
-  },
-  {
-    "id": "ahtltiyriz4zn1nktodhun6q",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017131738111800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017131738111800",
-    "title": "欧洲地中海地震中心：巴基斯坦胡兹达尔（Khuzdar）附近发生6.0级地震。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲地中海地震中心：巴基斯坦胡兹达尔（Khuzdar）附近发生6.0级地震。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "z1hi6z1xvpxh2k29uq40iie4",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017131719538800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017131719538800",
-    "title": "多方判断电价拐点已现",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，进入四季度，电力市场淡季不淡。在迎峰度夏结束、高温负荷逐步消退的背景下，广东、江苏等地月度交易电价不降反升，南方区域现货价格亦持续走强。此外，10月13日，江苏电力交易中心印发《2027年江苏电力零售市场交易工作指引》，推动批零价格全面传导。行业专家接受记者采访时表示，本轮电价上涨是供需两端多重因素叠加的结果，属于市场运行中的合理波动；江苏新版规则为电价向用户侧传导提供了机制样本。多名券商公用事业研究员判断，2026年或是国内电价底部，拐点正在显现。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，进入四季度，电力市场淡季不淡。在迎峰度夏结束、高温负荷逐步消退的背景下，广东、江苏等地月度交易电价不降反升，南方区域现货价格亦持续走强…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 47,
-      "understand": 59,
-      "average": 53
-    },
-    "selected": false
-  },
-  {
-    "id": "n3waqfsd4ayhns2yff3dg0mz",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017131403926800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017131403926800",
-    "title": "欧洲地中海地震中心：巴基斯坦地区发生6级地震。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "欧洲地中海地震中心：巴基斯坦地区发生6级地震。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 8,
-      "understand": 46,
-      "average": 27
-    },
-    "selected": false
-  },
-  {
-    "id": "tg24ynux4rq4cv0elp2yadk0",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017131153705800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017131153705800",
-    "title": "印度限制使用甘蔗原料生产乙醇 以抑制糖价上涨",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，据外媒报道，印度已下令国有燃料零售商停止采购以食糖及主要甘蔗原料生产的乙醇，此举可能有助于抑制糖价上涨。这项措施将于印度11月1日开始的新供应年度生效。此前，夏季干旱天气冲击甘蔗产量，导致全球糖价飙升。印度国有炼油企业印度石油公司、巴拉特石油公司、印度斯坦石油公司、努马利加尔炼油公司以及芒格洛尔炼油和石化公司联合发布招标公告，计划为新供应年度采购近110亿升乙醇，并在公告中援引了政府的新指令。根据周五发布的招标文件，“本次数量招标不接受以甘蔗汁、食糖、糖浆及B级糖蜜生产的乙醇报价。”印度是全球第二大食糖生产国。此前，强烈的厄尔尼诺现象导致印度遭遇十多年来最弱的季风降雨，使该国食糖供应趋紧，预计今年糖产量将低于上年。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，据外媒报道，印度已下令国有燃料零售商停止采购以食糖及主要甘蔗原料生产的乙醇，此举可能有助于抑制糖价上涨。这项措施将于印度11月1日开始…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 80,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "mf77ud2mpj8q6ki5aet8te2r",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017125809739800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017125809739800",
-    "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，第六届RISC-V中国峰会已定档10月18日至20日，在深圳会展中心（福田）举行。作为全球开源硬件与RISC-V生态的重要年度盛会，本届峰会将汇聚顶尖科学家、核心架构师、行业领军企业决策者、技术开发者及生态合作伙伴，预计吸引3600多位线下专业观众、超450家参展商及研究机构参与。据弗若斯特沙利文数据，中国RISC-V主控芯片市场已从2021年的约11亿元增长至2025年的约377亿元，预计2030年将达约2194亿元；RISC-V 在中国智能终端、具身智能芯片市场的渗透率，预计分别由2025年的6.9%、10.7%提升至2030年的26.7%、28.2%。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，第六届RISC-V中国峰会已定档10月18日至20日，在深圳会展中心（福田）举行。作为全球开源硬件与RISC-V生态的重要年度盛会，本…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 65,
-      "average": 40
-    },
-    "selected": false
-  },
-  {
-    "id": "q8vsqh174k3ifg3pwo9rh5er",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017125726143800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017125726143800",
-    "title": "据伊朗迈赫尔通讯社：伊朗外交部长阿拉格齐抵达伊拉克首都巴格达。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "据伊朗迈赫尔通讯社：伊朗外交部长阿拉格齐抵达伊拉克首都巴格达。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 10,
-      "understand": 46,
-      "average": 28
-    },
-    "selected": false
-  },
-  {
-    "id": "s71to7aulkdm8bsdpc7ub9vh",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017124821066800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017124821066800",
-    "title": "据路透社：消息人士透露，一名俄罗斯官员在曼谷举行的国际货币基金组织（IMF）指导委员会会议上发言时，多名与会代表离席。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "据路透社：消息人士透露，一名俄罗斯官员在曼谷举行的国际货币基金组织（IMF）指导委员会会议上发言时，多名与会代表离席。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "de6phjmzbxut34hi18g9j4q4",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017123633431800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017123633431800",
-    "title": "俄罗斯直接投资基金首席执行官：暂停执行《格雷厄姆法案》的部分条款标志着一个重要且具有真正历史意义的时刻。俄罗斯与美国之间的经济合作符合两国的共同利益，有助于维护全球经济稳定，并为建立互信和实现持久和平奠定基础。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "俄罗斯直接投资基金首席执行官：暂停执行《格雷厄姆法案》的部分条款标志着一个重要且具有真正历史意义的时刻。俄罗斯与美国之间的经济合作符合两国的共同利益，有助于维…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 40,
-      "average": 20
-    },
-    "selected": false
-  },
-  {
-    "id": "i87bzzrj8ftk7bdtqe40bt75",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017123611445800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017123611445800",
-    "title": "俄罗斯直接投资基金首席执行官：美俄经济对话和和平努力将继续。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "俄罗斯直接投资基金首席执行官：美俄经济对话和和平努力将继续。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "zrptj3784mvdb9d7jtbn81tz",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017122908256800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017122908256800",
-    "title": "世界银行：蒙古国向世界银行旗下为最贫困国家提供援助的国际开发协会（IDA）基金捐款130万美元，成为该基金的新捐助国。",
-    "language": "zh",
-    "tags": [
-      "监管政策"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "policy",
-    "summary": "世界银行：蒙古国向世界银行旗下为最贫困国家提供援助的国际开发协会（IDA）基金捐款130万美元，成为该基金的新捐助国。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 12,
-      "understand": 46,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "tz4vyx1hpsrrn9wn2ew2nrnl",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017122651961800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017122651961800",
-    "title": "PPI飙到6.3%，为什么各国突然都在救柴油？",
-    "language": "zh",
-    "excerpt": "✰",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "✰",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 35,
-      "understand": 50,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "dbygtdhkuzk3ch01lcn4uv9u",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017121714946800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017121714946800",
-    "title": "特朗普大赞美国股市：“历史最强！”",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，美国总统特朗普在社交媒体上发图指出，美国股市在其执政期间飙升，标普500指数从2024年12月的5881点升至2026年9月的7651点，累计上涨约30%。特朗普同时配文称：“历史最强！”",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，美国总统特朗普在社交媒体上发图指出，美国股市在其执政期间飙升，标普500指数从2024年12月的5881点升至2026年9月的7651…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 47,
-      "understand": 50,
-      "average": 49
-    },
-    "selected": false
-  },
-  {
-    "id": "grtdwr9q1w2n7cipn44bwhhz",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017121226382800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017121226382800",
-    "title": "据伊朗Press TV：伊朗外交部长阿拉格齐周六启程前往伊拉克首都巴格达，出席伊斯兰合作组织（OIC）外交部长理事会第52届会议。届时，他将阐述伊朗的立场，并与其他成员国外长举行双边会晤。",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "据伊朗Press TV：伊朗外交部长阿拉格齐周六启程前往伊拉克首都巴格达，出席伊斯兰合作组织（OIC）外交部长理事会第52届会议。届时，他将阐述伊朗的立场，并…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 5,
-      "understand": 40,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "ccxr5876a6g0feunkxstmlxz",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017120200506800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017120200506800",
-    "title": "铝价跌破3000美元，印尼铝少来四成为何还跌？",
-    "language": "zh",
-    "excerpt": "✰",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "✰",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 22,
-      "understand": 50,
-      "average": 36
-    },
-    "selected": false
-  },
-  {
-    "id": "cqrc934hbg7940zjtdvyxk1g",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017115748534800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017115748534800",
-    "title": "湾芯展收官，860家企业提前锁定明年展位",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）收官。2026湾芯展市场化对接成效显著，定向邀约华虹半导体、粤芯半导体、积塔半导体、长江存储、武汉新芯、晶合集成、长鑫存储、士兰微等43家Fab核心晶圆制造企业开展洽谈，累计吸引超6500位专业采购商到场。据组委会消息，2027湾芯展将扩容至10万平方米，启用深圳会展中心（福田）9个展馆，目前展位预订态势向好，已有超860家企业提前锁定参展席位，预订率达80%，展商热情持续走高，直观印证业界对湾芯展平台价值的充分肯定。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）收官。2026湾芯展市场化对接成效显著…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 65,
-      "average": 33
-    },
-    "selected": false
-  },
-  {
-    "id": "a2rwgklqqq8ppzpy8rlex894",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017114516240800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017114516240800",
-    "title": "全国秋粮收获过七成",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，10月17日从农业农村部获悉，据最新农情调度，全国秋粮收获过七成。分地区看，东北收获过六成，黄淮海、西南过八成，西北近八成，长江中下游过六成，华南过三成。冬小麦播种过一成，冬油菜播种过三成。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，10月17日从农业农村部获悉，据最新农情调度，全国秋粮收获过七成。分地区看，东北收获过六成，黄淮海、西南过八成，西北近八成，长江中下游…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 44,
-      "average": 22
-    },
-    "selected": false
-  },
-  {
-    "id": "nmxr80d3x5gfets1mttzm9lm",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017114054619800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017114054619800",
-    "title": "天津港集团董事长褚斌会见中国数联物流信息有限公司董事长张健一行",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，天津港集团消息，10月15日，天津港集团党委书记、董事长褚斌会见中国数联物流信息有限公司党委书记、董事长张健一行，双方围绕股权合作落地、物流大数据平台共建、业务场景创新应用开展深入交流，共商数实融合赋能港航物流高质量发展新路径。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，天津港集团消息，10月15日，天津港集团党委书记、董事长褚斌会见中国数联物流信息有限公司党委书记、董事长张健一行，双方围绕股权合作落地…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 65,
-      "average": 40
-    },
-    "selected": false
-  },
-  {
-    "id": "adurki7xrws1d93kdmtjv9b5",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017112521224800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017112521224800",
-    "title": "金十数据10月17日讯，国家数据集团或将于近日挂牌成立。",
-    "language": "zh",
-    "excerpt": "✰",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "✰",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 25,
-      "understand": 50,
-      "average": 38
-    },
-    "selected": false
-  },
-  {
-    "id": "e2l4l999ctfnswjy55wiw3vc",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017112104454800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017112104454800",
-    "title": "国内金饰价格较昨日变化不大",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，今日国内黄金饰品价格对比显示，多家品牌足金饰品克价较昨日变化不大，多数报价在1250元/克附近。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，今日国内黄金饰品价格对比显示，多家品牌足金饰品克价较昨日变化不大，多数报价在1250元/克附近。",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 13,
-      "understand": 50,
-      "average": 32
-    },
-    "selected": false
-  },
-  {
-    "id": "qk6tblfs1e2fofo9242ez5rj",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017111743641800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017111743641800",
-    "title": "智利Centinela铜矿工会达成初步协议 逾一周罢工结束",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，智利安托法加斯塔旗下Centinela铜矿的两个罢工工会已就新的集体劳动合同达成初步协议，结束了持续逾一周的罢工。两个工会于周五晚间召开会议，向会员介绍协议内容，并将于周六举行投票，决定是否正式批准该协议。Distrito Centinela和Minera Esperanza两个工会的700多名会员于10月7日开始罢工，此前劳资双方的合同谈判破裂。工会要求所有工人无论隶属于哪个工会，都应享有相同的福利待遇。两个工会本周重返谈判桌，寻求解决劳资纠纷。Centinela铜矿的罢工，加上必和必拓旗下智利埃斯孔迪达铜矿面临的罢工威胁，一直对全球铜价形成支撑。",
-    "tags": [
-      "非证券/宏观"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "智利安托法加斯塔旗下Centinela铜矿两个工会达成初步协议，结束持续逾一周的罢工；罢工叠加必和必拓埃斯孔迪达铜矿威胁，对全球铜价形成支撑。",
-    "summaryMode": "llm",
-    "score": {
-      "attention": 52,
-      "understand": 65,
-      "average": 59
-    },
-    "selected": false
-  },
-  {
-    "id": "zxt5307frej9c08mwgj4j7es",
-    "identityKey": "url:https://flash.jin10.com/detail/20261017110610907800",
-    "sourceId": "hot-jin10",
-    "via": "newsnow:hot-jin10",
-    "url": "https://flash.jin10.com/detail/20261017110610907800",
-    "title": "破解跨域协同瓶颈 智能体互联平台发布",
-    "language": "zh",
-    "excerpt": "金十数据10月17日讯，昨天（16日），行业首个基于确定性网络的智能体互联平台AXP，在江苏南京正式发布。该平台重点破解了不同类型智能体通信壁垒、网络传输质量不稳定、精准协同对接难等行业瓶颈。依托全新技术架构，平台可实现百万级智能体集约化管理、千公里级跨域协同联动，具备毫秒级智能体精准识别、秒级跨区域检索调度能力，整体调度时延性能提升20%。此次平台的成功发布，标志着我国在智能体互联网新型基础设施建设领域取得关键性技术突破，为人工智能跨域协同、规模化落地应用提供了坚实的网络支撑。",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.256Z",
-    "discoveredAt": "2026-10-17T05:33:04.256Z",
-    "category": "market",
-    "summary": "金十数据10月17日讯，昨天（16日），行业首个基于确定性网络的智能体互联平台AXP，在江苏南京正式发布。该平台重点破解了不同类型智能体通信壁垒、网络传输质量…",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 65,
-      "average": 33
-    },
-    "selected": false
-  },
-  {
-    "id": "rs6ax865shjn41ibm00crtu8",
-    "identityKey": "url:https://www.gelonghui.com/news/5326441",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326441",
-    "title": "万物云携手生态伙伴共建家门口的幸福生活",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 50,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "bfcxrrd6ou040b45mke9lddb",
-    "identityKey": "url:https://www.gelonghui.com/news/5326440",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326440",
-    "title": "华泰证券：航司运营继续好转 等待油价回落",
-    "language": "zh",
-    "excerpt": "研报摘要",
-    "tags": [
-      "观点/评论"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "opinion",
-    "summary": "研报摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 46,
-      "understand": 50,
-      "average": 48
-    },
-    "selected": false
-  },
-  {
-    "id": "ahrnkdmrg3stv7sx6ov17dxz",
-    "identityKey": "url:https://www.gelonghui.com/news/5326439",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326439",
-    "title": "海康威视第三季度：营收、扣非净利增速双双创新高",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "券商经营"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "industry",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 50,
-      "average": 33
-    },
-    "selected": false
-  },
-  {
-    "id": "k1srfarml7x62bsrh06ukj6v",
-    "identityKey": "url:https://www.gelonghui.com/news/5326392",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326392",
-    "title": "金力集团(03919.HK)拟\"2供1\"供股 净筹约1260万港元",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 23,
-      "understand": 50,
-      "average": 37
-    },
-    "selected": false
-  },
-  {
-    "id": "mxvbzd1m07gmwq3xtuuqe9vm",
-    "identityKey": "url:https://www.gelonghui.com/news/5326391",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326391",
-    "title": "酷派集团(02369.HK)拟“2供1”供股 净筹5600万港元",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 24,
-      "understand": 50,
-      "average": 37
-    },
-    "selected": false
-  },
-  {
-    "id": "du8wikok5tpyk5zgvs4g039w",
-    "identityKey": "url:https://www.gelonghui.com/news/5326390",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326390",
-    "title": "海峡石油化工(00852.HK)拟1250万美元出售南通润德石油化工全部股权",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 3,
-      "understand": 50,
-      "average": 27
-    },
-    "selected": false
-  },
-  {
-    "id": "iqqeyheo05x5nqh5kz1lyi5m",
-    "identityKey": "url:https://www.gelonghui.com/news/5326389",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326389",
-    "title": "快狗打车(02246.HK)拟1元出售GGEx Holdings Limited全部股权 中文名拟变更为GOGO科技",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 50,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "trbtl4il1cnoayzou6xwi0x3",
-    "identityKey": "url:https://www.gelonghui.com/news/5326388",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326388",
-    "title": "山东黄金(01787.HK)拟成立香港财资公司",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 3,
-      "understand": 50,
-      "average": 27
-    },
-    "selected": false
-  },
-  {
-    "id": "ds11kzo0h37s1q9lnxhpyssa",
-    "identityKey": "url:https://www.gelonghui.com/news/5326386",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326386",
-    "title": "立高食品(300973.SZ)：目前为止已经投建了两条UHT奶油的产品线",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "产品更新"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "product",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 30,
-      "understand": 50,
-      "average": 40
-    },
-    "selected": false
-  },
-  {
-    "id": "yvot19m8p04lhmpigsquq05q",
-    "identityKey": "url:https://www.gelonghui.com/news/5326385",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326385",
-    "title": "立高食品(300973.SZ)：海外业务目前重心在北美市场和东南亚市场",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 50,
-      "average": 33
-    },
-    "selected": false
-  },
-  {
-    "id": "u6dwlqmbsgm5me8gnxp7i5ya",
-    "identityKey": "url:https://www.gelonghui.com/news/5326384",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326384",
-    "title": "英皇国际(00163.HK)附属以1.62亿港元出售西贡土地",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 8,
-      "understand": 50,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "xneuobfulxgwt5h7tahf1rz4",
-    "identityKey": "url:https://www.gelonghui.com/news/5326383",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326383",
-    "title": "天孚通信(300394.SZ)：看好CPO和NPO的发展前景，并且会坚定不移持续扩产以满足客户需求",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 45,
-      "understand": 50,
-      "average": 48
-    },
-    "selected": false
-  },
-  {
-    "id": "kf2hcp7rsp5bn7p4c50gxhrw",
-    "identityKey": "url:https://www.gelonghui.com/news/5326382",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326382",
-    "title": "天孚通信(300394.SZ)：已经在泰国建有生产基地，部分无源器件已处于量产状态",
-    "language": "zh",
-    "excerpt": "公司信息",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "公司信息",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 50,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "k61m4gx2h451wkmvpovp82cq",
-    "identityKey": "url:https://www.gelonghui.com/news/5326381",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326381",
-    "title": "乙德投资控股(06182.HK)：陈嘉伟获委任为执行董事",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 50,
-      "average": 25
-    },
-    "selected": false
-  },
-  {
-    "id": "peb9srjbet9cypkk74og79vm",
-    "identityKey": "url:https://www.gelonghui.com/news/5326380",
-    "sourceId": "hot-gelonghui",
-    "via": "newsnow:hot-gelonghui",
-    "url": "https://www.gelonghui.com/news/5326380",
-    "title": "出门问问(02438.HK)附属提供1200万元贷款",
-    "language": "zh",
-    "excerpt": "港股公告摘要",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.579Z",
-    "discoveredAt": "2026-10-17T05:33:04.579Z",
-    "category": "market",
-    "summary": "港股公告摘要",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 8,
-      "understand": 50,
-      "average": 29
-    },
-    "selected": false
-  },
-  {
-    "id": "j1vf9lest2ff8utdv5s0be2i",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387098_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387098_1",
-    "title": "100%汇率对冲，为什么收益仍可能偏离当地股市涨幅？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "100%汇率对冲，为什么收益仍可能偏离当地股市涨幅？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 36,
-      "understand": 46,
-      "average": 41
-    },
-    "selected": false
-  },
-  {
-    "id": "nrv74p49kdmff1kksrdtyvqe",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387097_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387097_1",
-    "title": "外汇交收风险：重置成本只有20万美元，为何会暴露1100万美元本金？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "外汇交收风险：重置成本只有20万美元，为何会暴露1100万美元本金？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 0,
-      "understand": 46,
-      "average": 23
-    },
-    "selected": false
-  },
-  {
-    "id": "k0gz5dm2ueyfuqcjvrtqdl7c",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387096_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387096_1",
-    "title": "回购折扣率上调：为什么卖出等额缺口的债券仍然不够？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "回购折扣率上调：为什么卖出等额缺口的债券仍然不够？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 39,
-      "understand": 46,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "hebej449n947rnyeo47hn1ad",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387095_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387095_1",
-    "title": "收入按总额还是净额：高毛利率与低收入倍数为何可能失真",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "收入按总额还是净额：高毛利率与低收入倍数为何可能失真",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 49,
-      "understand": 46,
-      "average": 48
-    },
-    "selected": false
-  },
-  {
-    "id": "ujl4sihiv0ziipa43wvpdy00",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4386309_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4386309_1",
-    "title": "康佳A、B股终止上市决定落地：无整理期，持股者接下来怎么办？",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "康佳A、B股终止上市决定落地：无整理期，持股者接下来怎么办？",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 15,
-      "understand": 46,
-      "average": 31
-    },
-    "selected": false
-  },
-  {
-    "id": "bqz0soinrkg93btxgkoj1q2c",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387094_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387094_1",
-    "title": "方差风险溢价：隐含波动率较高，不等于卖方有优势",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "方差风险溢价：隐含波动率较高，不等于卖方有优势",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 39,
-      "understand": 46,
-      "average": 43
-    },
-    "selected": false
-  },
-  {
-    "id": "z0lse5hanj9mq3vfldeqpyh1",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387085_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387085_1",
-    "title": "远月期货结算价如何推导：月差权重与实际平仓价",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "远月期货结算价如何推导：月差权重与实际平仓价",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 28,
-      "understand": 46,
-      "average": 37
-    },
-    "selected": false
-  },
-  {
-    "id": "zjtw6jlsdd93f4z6nvwolrvh",
-    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387080_1",
-    "sourceId": "hot-fastbull",
-    "via": "newsnow:hot-fastbull",
-    "url": "https://www.fastbull.com/cn/newsdetail/4387080_1",
-    "title": "NDF结算怎么算：美元差额为什么不能代替韩元付款",
-    "language": "zh",
-    "tags": [
-      "市场动态"
-    ],
-    "entityTags": [],
-    "firstSeenAt": "2026-10-17T05:33:04.921Z",
-    "discoveredAt": "2026-10-17T05:33:04.921Z",
-    "category": "market",
-    "summary": "NDF结算怎么算：美元差额为什么不能代替韩元付款",
-    "summaryMode": "rules",
-    "score": {
-      "attention": 25,
-      "understand": 46,
-      "average": 36
-    },
-    "selected": false
-  },
-  {
     "id": "m9uynv4pexvkffwsfoz5ldxn",
     "identityKey": "url:https://qzs.stcn.com/article/detail/642193.html",
     "sourceId": "web-qzs",
@@ -34955,6 +32044,2771 @@
       "attention": 18,
       "understand": 46,
       "average": 32
+    },
+    "selected": false
+  },
+  {
+    "id": "q9nnbu7ip1belli74kot91m7",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784905",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784905",
+    "title": "长鑫科技业绩交流会：LPDDR6瞄准汽车新场景，20亿回购获通过，强劲现金流支撑再投入",
+    "language": "zh",
+    "publishedAt": "2026-10-31T05:45:00.000Z",
+    "excerpt": "长鑫科技2026年三季度交出一份强劲成绩单，同时以LPDDR6首发旗舰手机为标志，正式宣示跻身全球高端存储第一梯队。 华尔街见闻提及 ，2026年第三季度，长鑫科技实现 营业收入 1187亿元，环比增长19%； 利润总额 990亿元，环比增长21%； 净利润 890亿元，环比增长19%； 毛利率 达89.53%，较二季度提升1.94个百分点， 营业利润率 83.43%再创历史高位。 前三季度 累计营收2690亿元，同比增长739%，净利润1965亿元，多项核心指标刷新公司历史记录。 随后，总裁曹堪宇在 上市后的首次 业绩交流会上表示，受AI应用快速发展带动， 四季度服务器客户需求仍然强劲，DRAM供不应求态势预计持续，公司营收将继续增长。展望2027年，AI、智能终端和汽车智能化需求仍被视为主要增长来源。 董事会秘书袁媛则就回购、分红和员工激励回应投资者称，公司将在资本开支和技术升级投入仍较高的背景下，按监管规则和经营情况推进股东回报安排。 三季度财务亮点：利润增速高于营收，“造血能力”大幅跃升 财务负责人黄丹阳在业绩交流会上介绍，三季度公司营业收入较二季度增加192亿元，利润总额环…",
+    "media": [],
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "policy",
+    "summary": "长鑫科技2026年三季度交出一份强劲成绩单，同时以LPDDR6首发旗舰手机为标志，正式宣示跻身全球高端存储第一梯队。 华尔街见闻提及 ，2026年第三季度，长…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 80,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "u4jlykdymeai1o3vgnsfini4",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784900",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784900",
+    "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+    "language": "zh",
+    "publishedAt": "2026-10-31T05:41:38.000Z",
+    "excerpt": "巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出 随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。 10月29日，巴克莱银行报告指出，包括谷歌、亚马逊、Meta、微软、甲骨文等超大规模云计算服务商，以及AMD、博通、英伟达等芯片制造商在内的 10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的16% 。 巴克莱强调，过去六个月，这十家公司的信用风险均有所扩大，目前均处于其六个月波动区间的上限附近。 （AI 群体：当前5年期CDS的六个月区间对比） 这意味着持有该投资级指数的投资者已被动承担了大量AI领域的波动风险。此外，这些核心AI企业的CDS与现金债券的基差已转为正值， 即购买违约保护的成本已超过持有这些企业债券所带来的额外收益 。 据彭博报道， 这一反常现象主要由于大量未持有相关债券的机构（如进行对冲的股票基金和银行）正大举买入CDS，以对冲巨大的AI资本支出及相关贷款风险。 此番技术性异动在信贷对冲与基差扭曲的逻辑上，与2008年当年…",
+    "media": [
+      {
+        "url": "https://wpimg-wscn.awtmt.com/1c0f4eec-a848-4e3a-b850-9300428e5803.png"
+      }
+    ],
+    "tags": [
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "opinion",
+    "summary": "巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出 随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 28,
+      "understand": 80,
+      "average": 54
+    },
+    "selected": false
+  },
+  {
+    "id": "fh71qu4h9uytokhddfrdx9e0",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784908",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784908",
+    "title": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
+    "language": "zh",
+    "publishedAt": "2026-10-31T04:13:53.000Z",
+    "excerpt": "国内证券业的“TOP”2之一，总资产规模领先者国泰海通发布三季报。 这是证券业在今年3季度整体面临调整市道时的一次关键业绩报告，其中的数据和细分行业表现更能反映一家公司的底层实力，而国泰海通显然跑出了自己的“姿势”。 体量登顶，业绩继续努力 2026年10月30日晚，合并后的国泰海通交出2026年的三季报。季报显示，公司前三季度营收 589.76亿元，同比 +28.51%；归母净利润 248.85亿元，同比 +12.73%；扣非归母净利润 239.47亿元，同比 +46.87%。虽然第三季度单季受市场回落等影响，营收 118.13亿元，同比 -46.35%；归母净利 46.25亿元，同比 -27.01%，但不妨碍公司年内大盘。 更大的亮点在资产规模方面：国泰海通三季度末的总资产达到2.42万亿元，较年初增长14.43%，总资产、净资产、净资本三项均居行业第一——这是使得国泰海通在资产规模的体量上压过“行业一哥”中信证券（中信证券同期总资产2.35万亿）。但利润规模上，中信仍以310.22亿净利领先。 经纪、投行、资管，三大业务飘红 不考虑回落的单季度业绩，看前三季度累计的业务，国泰海…",
+    "media": [],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [
+      "国泰海通",
+      "中信证券"
+    ],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "industry",
+    "summary": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元跃居行业第一，超过中信证券。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 82,
+      "understand": 80,
+      "average": 81
+    },
+    "selected": true
+  },
+  {
+    "id": "tiquenixrnq11xzt5rypzvrl",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784903",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784903",
+    "title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？",
+    "language": "zh",
+    "publishedAt": "2026-10-31T04:12:41.000Z",
+    "excerpt": "黑石告诉投资者，Anthropic上市后可能无法立即获得投资级评级，预计主要评级机构将给予其“较高档”的垃圾级评级。 据英国《金融时报》援引知情人士报道称，黑石向Anthropic最新一笔630亿美元芯片融资交易的投资者传达了这一信息。若评级落在垃圾级，Anthropic为逾8000亿美元的算力计划融资前景将更加复杂。 美国财经博主、YouTube频道Meet Kevin主理人Kevin Paffrath认为，这则消息是周五美股加速下跌的导火索：“消息一出，市场跌得更狠了。”在他看来，症结在于Anthropic的算力承诺需要十几年的利润才能覆盖，偏偏又拿不到投资级评级。 当天，亚马逊和英特尔的财报已加剧市场对AI热潮可持续性的担忧，美股在报道发布前就已大幅走低；报道发布后，美国科技股进一步跌至日内低点，纳斯达克100指数收跌3.5%。 投资级预期落空 知情人士称，过去几个月，黑石一直告诉投资伙伴，预计Anthropic将在年底前拿到投资级评级。但根据主要评级机构给出的指引，黑石近期改口称，Anthropic获得BB区间或以上评级的可能性更大。 按标普和惠誉的评级体系，BBB-及以上为…",
+    "media": [],
+    "tags": [
+      "其他"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "market",
+    "summary": "黑石向投资者告知Anthropic上市后预计获BB区间评级而非投资级，致其8000亿美元算力计划融资前景复杂；该消息被指为10月31日美股下跌导火索，纳斯达克100收跌3.5%。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 68,
+      "understand": 80,
+      "average": 74
+    },
+    "selected": true
+  },
+  {
+    "id": "lhlxsvb7g27qg844sua7jdg4",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784904",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784904",
+    "title": "一片下跌声中，OpenAI大幅削减融资金额，从300亿降到200亿",
+    "language": "zh",
+    "publishedAt": "2026-10-31T03:38:33.000Z",
+    "excerpt": "OpenAI将新一轮融资目标削减100亿美元至约200亿美元，估值也从1.4万亿美元下调至1.25万亿美元。 据媒体援引多位知情人士报道，OpenAI要求投资者在周五前作出认购承诺，但由于部分投资者调低了认购额度，截至周五的首批认购资金预计不足200亿美元。 周五，纳斯达克100指数下跌3.5%，二级市场的AI抛售潮和头号对手Anthropic即将上市，给这轮融资蒙上阴影。 从“IPO前最后机会”到收缩目标 上月，OpenAI还计划以1.4万亿美元估值融资300亿美元，并将其定位为投资者在明年IPO前入股的最后机会。公司以7月以来营收快速增长为由，把估值从8520亿美元大幅上调。首席财务官Sarah Friar此前曾向员工表示，上市窗口预计在2027年，具体日期未定。 此后科技股遭遇猛烈抛售，市场对AI支出的节奏和规模愈发担忧，OpenAI随之收敛了目标。一位OpenAI支持者说，融资启动时正值AI交易火热，没想到市场急剧逆转，令其措手不及。 需求降温早有迹象。据媒体此前报道，摩根士丹利与旧金山科技基金Dragoneer曾以1.4万亿美元的投前估值，向该行私人财富客户推介OpenAI…",
+    "media": [],
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "market",
+    "summary": "OpenAI将新一轮融资目标削减100亿美元至约200亿美元，估值也从1.4万亿美元下调至1.25万亿美元。 据媒体援引多位知情人士报道，OpenAI要求投资…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 80,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "lchq5uz3eh1w4jcdfaqxxst1",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784906",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784906",
+    "title": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿",
+    "language": "zh",
+    "publishedAt": "2026-10-31T03:23:28.000Z",
+    "excerpt": "在复杂严峻的宏观经济环境与银行业整体承压的背景下，“零售之王”招商银行发布了三季报。 季报显示，今年前三季度，招行实现营业收入2648.52亿元，同比增长5.34%；实现归属于本行股东的净利润1164.76亿元，同比增长2.38%。在13.76万亿的庞大资产体量之上，招行依然保持了稳健的增长态势。 透过这份三季报，外界亦可以看到招商银行应对当下市场环境的三大策略安排：成本端推动净息差筑底企稳、零售端推动大财富管理矩阵爆发，资产端把好风险关。 净息差同比改善环比持平 近年来，受LPR下调及有效信贷需求不足影响，银行业净息差普遍承压。然而，招行三季报完成了息差的“企稳”。 报告显示，2026年1-9月，招行净利差1.76%，净利息收益率（NIM）1.82%。更为关键的是，在2026年第三季度单季，招行的净利差和净利息收益率均环比二季度持平。在行业息差普遍下行的通道中，招行能够率先踩住“刹车”，实属不易。 这背后得益于招行在资产负债两端的精细化运作。一方面，负债成本率稳步下降，前三季度计息负债年化平均成本率降至1.04%；另一方面，招行坚持优化资产结构，活期存款占比呈企稳态势（日均余额占比…",
+    "media": [],
+    "tags": [
+      "非证券/宏观"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "industry",
+    "summary": "招商银行前三季度营收2648.52亿元，同比增长5.34%；归母净利润1164.76亿元，同比增长2.38%，净息差环比企稳，客户资产逼近19万亿元。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 62,
+      "understand": 80,
+      "average": 71
+    },
+    "selected": true
+  },
+  {
+    "id": "h03p5q6rgn07km8244gu57d0",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784901",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784901",
+    "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
+    "language": "zh",
+    "publishedAt": "2026-10-31T02:08:44.000Z",
+    "excerpt": "中国10月制造业与非制造业景气水平均有所回落，但 10月大型制造业企业继续扩张，铁路运输、水上运输、邮政、互联网软件及信息技术服务等行业商务活动指数均位于较高景气区间。 10月31日，国家统计局数据显示， 10月制造业PMI为49.3%，比上月下降0.8个百分点，制造业景气水平有所回落。 与此同时， 非制造业商务活动指数为49.7%，比上月下降0.5个百分点，非制造业景气水平有所下降。资本市场服务、保险、房地产等行业商务活动指数均低于临界点。 整体来看，综合PMI产出指数为49.7%，比上月下降1.0个百分点。 国家统计局服务业调查中心首席统计师霍丽慧指出， “十一”假期前部分需求提前释放，以及国际环境复杂多变，是导致制造业景气度回落的主要因素 。 尽管整体景气度承压，但经济运行中不乏结构性亮点。高技术制造业继续保持扩张，凸显新质生产力发展态势良好；同时，受长假消费提振，部分服务业表现活跃。 服务业商务活动指数微降至50.0%的临界点。 霍丽慧解读称，金融行业商务活动指数回落且幅度较大，是本月服务业景气度略有回落的主要原因。 此外，资本市场服务、保险和房地产等行业的景气度均低于临界点…",
+    "media": [
+      {
+        "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261031311162258512_ORIGIN.png"
+      }
+    ],
+    "tags": [
+      "非证券/宏观"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "market",
+    "summary": "中国10月制造业PMI降至49.3%，非制造业PMI降至49.7%，均环比回落。国家统计局数据显示，“十一”假期前需求提前释放及国际环境复杂多变是主因。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 63,
+      "understand": 80,
+      "average": 72
+    },
+    "selected": true
+  },
+  {
+    "id": "gxyyqt0bhlwpjoraf9a80q53",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784911",
+    "sourceId": "rss-wallstreetcn",
+    "via": "rss:rss-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784911",
+    "title": "透视中国人寿三季报：国寿的Alpha不在利润表里，在保单里",
+    "language": "zh",
+    "publishedAt": "2026-10-31T01:59:35.000Z",
+    "excerpt": "10月30日晚，中国人寿（601628）披露2026年三季报。季报显示，公司前三季度营业收入 3678.12亿元，归母净利润 894.30亿元，同比均明显有所回落。 但利润数字背后，公司的总投资收益率为 3.23%；新业务价值同比提升13.1%，加上总保费、首年期交保费和队伍规模等指标依然位居行业领先位置。对长期的投资者而言，搞清这些可能更为重要。 穿过短期数字，长期实力仍在 观察今年保险行业的三季报，有一个共同特征值得重视：三季度单季的利润明显回落。这一点在中国人寿也体现的很明显。 公司前三季度前三季度营业收入 3678.12亿元，同比 -31.6%；前三季度归母净利润 894.30亿元，同比 -46.7%；如果单看第三季度单季营收-664.95亿元，归母净利润-450.59亿元，承压明显。 但穿过数字可以发现，-511.37亿元的前三季度公允价值变动损益，是重要变量。比较下，去年同期这个科目的数字是+1364.05亿元——一进一出，单这一科目就影响了1875亿元的利润差异。 但这不是财报面貌的全部 。 仔细看看，中国人寿的投资收益本身其实还在增长：2026年1-9月，国寿集团实现…",
+    "media": [],
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.614Z",
+    "discoveredAt": "2026-10-31T06:56:40.614Z",
+    "category": "industry",
+    "summary": "10月30日晚，中国人寿（601628）披露2026年三季报。季报显示，公司前三季度营业收入 3678.12亿元，归母净利润 894.30亿元，同比均明显有所…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 47,
+      "understand": 80,
+      "average": 64
+    },
+    "selected": true
+  },
+  {
+    "id": "qbdlbsdfw8e2aen0j9n7xh1z",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784860",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784860",
+    "title": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "policy",
+    "summary": "证监会：全力稳市场稳预期，持续提升资本市场韧性和信心",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 28,
+      "understand": 46,
+      "average": 37
+    },
+    "selected": false
+  },
+  {
+    "id": "knm87ix5ap77n88ftbvivddx",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784870",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784870",
+    "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
+    "language": "zh",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "industry",
+    "summary": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 46,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "ckiqxivpa0g8blpl66n2n1dj",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784841",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784841",
+    "title": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "market",
+    "summary": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 46,
+      "understand": 46,
+      "average": 46
+    },
+    "selected": false
+  },
+  {
+    "id": "j3k0ai9xk0pq5kd8iy1k2zsz",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784902",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784902",
+    "title": "雪上加霜！科技股“认清现实”的一周",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "market",
+    "summary": "雪上加霜！科技股“认清现实”的一周",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 19,
+      "understand": 46,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "ba4zwgsq2q9ndvzwhz77b2pe",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784878",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784878",
+    "title": "AI最危险的交易或许不在科技股，而在美元",
+    "language": "zh",
+    "tags": [
+      "观点/评论",
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "market",
+    "summary": "AI相关交易的最大风险可能不在于科技股，而在于美元走势，投资者需关注AI投资对美元的影响。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 65,
+      "understand": 46,
+      "average": 56
+    },
+    "selected": false
+  },
+  {
+    "id": "rhxh1ttd60qvqgv4qtl4k5kk",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784877",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784877",
+    "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "market",
+    "summary": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "cdjhsdheloku7ijxw49wfpvp",
+    "identityKey": "url:https://wallstreetcn.com/articles/3784876",
+    "sourceId": "hot-wallstreetcn",
+    "via": "newsnow:hot-wallstreetcn",
+    "url": "https://wallstreetcn.com/articles/3784876",
+    "title": "中国央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:40.907Z",
+    "discoveredAt": "2026-10-31T06:56:40.907Z",
+    "category": "market",
+    "summary": "中国央行：继续实施适度宽松的货币政策，综合运用多种货币政策工具，保持流动性充裕",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "f83o1hi4m7sw8n2prwrdldur",
+    "identityKey": "url:https://www.cls.cn/detail/2521408",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521408",
+    "title": "【早报】美芯片股遭重挫，英特尔跌逾28%；原油集体走高、黄金大幅下挫；长鑫科技、贵州茅台等披露三季报",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "【早报】美芯片股遭重挫，英特尔跌逾28%；原油集体走高、黄金大幅下挫；长鑫科技、贵州茅台等披露三季报",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "b5as99mqllpqb9nyl5jh6zv4",
+    "identityKey": "url:https://www.cls.cn/detail/2521391",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521391",
+    "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "p26q1os4zc81mie4b805degj",
+    "identityKey": "url:https://www.cls.cn/detail/2521415",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521415",
+    "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 20,
+      "understand": 46,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "vppxr0k8ezbacsexwi0i6cb4",
+    "identityKey": "url:https://www.cls.cn/detail/2520513",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2520513",
+    "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 35,
+      "understand": 46,
+      "average": 41
+    },
+    "selected": false
+  },
+  {
+    "id": "p5h40h1q9ncw1118ppi2w5sz",
+    "identityKey": "url:https://www.cls.cn/detail/2521497",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521497",
+    "title": "官方披露：将有两名中国人登陆月球",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "官方披露：将有两名中国人登陆月球",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 46,
+      "average": 29
+    },
+    "selected": false
+  },
+  {
+    "id": "h6rxsyeehdnw6wjxt6eg3lzm",
+    "identityKey": "url:https://www.cls.cn/detail/2521270",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521270",
+    "title": "3000颗卫星、800亿元规模！上海发力卫星互联网之城",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "3000颗卫星、800亿元规模！上海发力卫星互联网之城",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "i3qz5i7e31678w6hy2l3jbzb",
+    "identityKey": "url:https://www.cls.cn/detail/2521444",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521444",
+    "title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
+    "language": "zh",
+    "tags": [
+      "非证券/宏观"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "国家统计局数据显示，10月份中国制造业采购经理指数（PMI）为49.3%，低于50%的荣枯线。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 65,
+      "understand": 46,
+      "average": 56
+    },
+    "selected": false
+  },
+  {
+    "id": "tkjnzdphaw0d1v79wyfpizpa",
+    "identityKey": "url:https://www.cls.cn/detail/2521450",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521450",
+    "title": "金饰克价，年内暴跌近550元",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "金饰克价，年内暴跌近550元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "jgu3z9rkiuufiynk6k1fnoic",
+    "identityKey": "url:https://www.cls.cn/detail/2521313",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521313",
+    "title": "贵金属遭遇抛售潮！黄金下破3900美元 白银失守50美元关口",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "贵金属遭遇抛售潮！黄金下破3900美元 白银失守50美元关口",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 6,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "lgqap86052lae6jvi03yow02",
+    "identityKey": "url:https://www.cls.cn/detail/2521448",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521448",
+    "title": "华尔街富豪纷纷捐款支持共和党议员 政治担忧正席卷整个投资行业",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "华尔街富豪纷纷捐款支持共和党议员 政治担忧正席卷整个投资行业",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 21,
+      "understand": 46,
+      "average": 34
+    },
+    "selected": false
+  },
+  {
+    "id": "nde73v60biu9kghgknak56ay",
+    "identityKey": "url:https://www.cls.cn/detail/2521289",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521289",
+    "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 25,
+      "understand": 46,
+      "average": 36
+    },
+    "selected": false
+  },
+  {
+    "id": "sb2u7n5rj2dsoiddhtufhfmg",
+    "identityKey": "url:https://www.cls.cn/detail/2521316",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521316",
+    "title": "财报不达标就遭猛烈抛售！华尔街掀起严厉“业绩审判”",
+    "language": "zh",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "industry",
+    "summary": "财报不达标就遭猛烈抛售！华尔街掀起严厉“业绩审判”",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 49,
+      "understand": 46,
+      "average": 48
+    },
+    "selected": false
+  },
+  {
+    "id": "xn8q31lrd1yp015b6zmjz1xh",
+    "identityKey": "url:https://www.cls.cn/detail/2521354",
+    "sourceId": "hot-cls",
+    "via": "newsnow:hot-cls",
+    "url": "https://www.cls.cn/detail/2521354",
+    "title": "微软等五大科技巨头因AI开支大砍八成回购 股东回报比例创至少15年新低",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.173Z",
+    "discoveredAt": "2026-10-31T06:56:41.173Z",
+    "category": "market",
+    "summary": "微软等五大科技巨头因AI开支大砍八成回购 股东回报比例创至少15年新低",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 46,
+      "average": 29
+    },
+    "selected": false
+  },
+  {
+    "id": "m0acbvpr9ylyd34p8v1p2b3x",
+    "identityKey": "url:https://www.cls.cn/detail/2521517",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521517",
+    "title": "生态环境部：11月上半月局地可能出现轻度污染 京津冀中南部可能出现中度污染",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "生态环境部：11月上半月局地可能出现轻度污染 京津冀中南部可能出现中度污染",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "mgia7du9nqdt4pefjsw58hdr",
+    "identityKey": "url:https://www.cls.cn/detail/2521514",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521514",
+    "title": "《考古工作“十五五”规划》印发 明确7方面重点任务",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "《考古工作“十五五”规划》印发 明确7方面重点任务",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 46,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "kxs2z26pfp6zv41xj4g4429l",
+    "identityKey": "url:https://www.cls.cn/detail/2521513",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521513",
+    "title": "伊朗战事期间 美石油行业被曝获巨利",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "伊朗战事期间 美石油行业被曝获巨利",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "jjqh8l0tmpywxnzhju78m5wi",
+    "identityKey": "url:https://www.cls.cn/detail/2521512",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521512",
+    "title": "卡塔尔与伊朗举行会谈 推动美伊达成协议",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "卡塔尔与伊朗举行会谈 推动美伊达成协议",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "tvly6yqc4lnxq380bu59106c",
+    "identityKey": "url:https://www.cls.cn/detail/2521511",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521511",
+    "title": "财联社10月31日电，中国地震台网正式测定：10月31日13时52分在西藏那曲市巴青县（北纬32.46度，东经93.93度）发生3.8级地震，震源深度10千米。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "财联社10月31日电，中国地震台网正式测定：10月31日13时52分在西藏那曲市巴青县（北纬32.46度，东经93.93度）发生3.8级地震，震源深度10千米。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "e9aa4wq3vg0amsxrz8lwafzd",
+    "identityKey": "url:https://www.cls.cn/detail/2521507",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521507",
+    "title": "波兰宪法法院危机持续 总统发表声明并召集紧急磋商",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "波兰宪法法院危机持续 总统发表声明并召集紧急磋商",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "vjfywf2ij5edlz3nc1gjrqq5",
+    "identityKey": "url:https://www.cls.cn/detail/2521506",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521506",
+    "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "np8vcfcquwu793yrlcdq3jxi",
+    "identityKey": "url:https://www.cls.cn/detail/2521504",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521504",
+    "title": "涵盖自行车、独轮车等 两项儿童用品国标明起实施",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "涵盖自行车、独轮车等 两项儿童用品国标明起实施",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "ottnyp7aiaszfmfqwcs8qgrv",
+    "identityKey": "url:https://www.cls.cn/detail/2521503",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521503",
+    "title": "财联社10月31日电，马来西亚10月1日至31日棕榈油出口量为1,645,408吨。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "财联社10月31日电，马来西亚10月1日至31日棕榈油出口量为1,645,408吨。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 46,
+      "average": 29
+    },
+    "selected": false
+  },
+  {
+    "id": "nrlr5xr8qmbggbfalubf54xj",
+    "identityKey": "url:https://www.cls.cn/detail/2521502",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521502",
+    "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 22,
+      "understand": 46,
+      "average": 34
+    },
+    "selected": false
+  },
+  {
+    "id": "c0e5nzvbjy3gjwqeilbvxdir",
+    "identityKey": "url:https://www.cls.cn/detail/2521499",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521499",
+    "title": "中国常驻联合国代表团举办发展权主题边会",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "中国常驻联合国代表团举办发展权主题边会",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 46,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "yo9jyg4zcycll25beubg3y89",
+    "identityKey": "url:https://www.cls.cn/detail/2521498",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521498",
+    "title": "瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 46,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "a83l6nwz3cia4sw0zoef8rjk",
+    "identityKey": "url:https://www.cls.cn/detail/2521496",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521496",
+    "title": "加拿大与欧盟启动未来联盟",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "加拿大与欧盟启动未来联盟",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "ea13w5wypeqjf51ti1s97qxj",
+    "identityKey": "url:https://www.cls.cn/detail/2521486",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521486",
+    "title": "日本一列车撞熊后脱轨",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "日本一列车撞熊后脱轨",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 40,
+      "average": 20
+    },
+    "selected": false
+  },
+  {
+    "id": "mwl4xr1ep2r70oingslj9zgb",
+    "identityKey": "url:https://www.cls.cn/detail/2521485",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521485",
+    "title": "沙特联军称拦截两架胡塞武装无人机",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "沙特联军称拦截两架胡塞武装无人机",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 3,
+      "understand": 46,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "vtuspw9yqm5cn4mc2alizm0m",
+    "identityKey": "url:https://www.cls.cn/detail/2521483",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521483",
+    "title": "美国今年麻疹确诊病例已超过去年2倍",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "美国今年麻疹确诊病例已超过去年2倍",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "ijtrmfwq7q1549vlfnmzd8uy",
+    "identityKey": "url:https://www.cls.cn/detail/2521482",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521482",
+    "title": "北京：建设绿氢（绿色燃料）交易中心",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "北京：建设绿氢（绿色燃料）交易中心",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 46,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "ler6vlgm7ns8p2wdf4pc0lze",
+    "identityKey": "url:https://www.cls.cn/detail/2521481",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521481",
+    "title": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "epf651f8k6dbwlgmq3siuvju",
+    "identityKey": "url:https://www.cls.cn/detail/2521480",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521480",
+    "title": "东方证券孙金霞：中国具有低利率与完备的基础设施体系等多重优势，为科技产业长期发展提供基础",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "东方证券孙金霞：中国具有低利率与完备的基础设施体系等多重优势，为科技产业长期发展提供基础",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 59,
+      "understand": 46,
+      "average": 53
+    },
+    "selected": false
+  },
+  {
+    "id": "v5465ukhxztg8qkw31cmlcgt",
+    "identityKey": "url:https://www.cls.cn/detail/2521479",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521479",
+    "title": "北京：做强燃料电池汽车全产业链",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "北京：做强燃料电池汽车全产业链",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "ir3nw86xf6yw506zypz22oo0",
+    "identityKey": "url:https://www.cls.cn/detail/2521473",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521473",
+    "title": "中国首次载人月球探测任务乘组计划由3人组成，其中两人着陆月球表面",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "中国首次载人月球探测任务乘组计划由3人组成，其中两人着陆月球表面",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 10,
+      "understand": 46,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "xvpmonqmm8k8fiysm56ywo26",
+    "identityKey": "url:https://www.cls.cn/detail/2521478",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521478",
+    "title": "10月沪牌拍卖结果刚刚出炉",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "10月沪牌拍卖结果刚刚出炉",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 10,
+      "understand": 46,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "cyfcvp88fioq3037zx0083t2",
+    "identityKey": "url:https://www.cls.cn/detail/2521477",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521477",
+    "title": "上海数据交易所已核发首批15份数据产权登记凭证",
+    "language": "zh",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "policy",
+    "summary": "上海数据交易所已核发首批15份数据产权登记凭证",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 46,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "u5q7h1uym3d72uzydncj8l73",
+    "identityKey": "url:https://www.cls.cn/detail/2521476",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521476",
+    "title": "北京：培育高温膜燃料电池、固体氧化物燃料电池、氢燃机等前沿赛道创新主体",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "北京：培育高温膜燃料电池、固体氧化物燃料电池、氢燃机等前沿赛道创新主体",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 6,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "zz0wqtw2058dipiba0ap5h5d",
+    "identityKey": "url:https://www.cls.cn/detail/2521475",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521475",
+    "title": "北京：力争到2030年全市氢能产业链规模突破400亿元",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "北京：力争到2030年全市氢能产业链规模突破400亿元",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 46,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "z26w1grtsq5lyc1kd4zrlu68",
+    "identityKey": "url:https://www.cls.cn/detail/2521474",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521474",
+    "title": "山西前三季度煤层气产量创新高",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "山西前三季度煤层气产量创新高",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 46,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "w57lb0vs9rjsczxj9sxfrftt",
+    "identityKey": "url:https://www.cls.cn/detail/2521472",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521472",
+    "title": "奇瑞高管回应智界独立：要更像新势力，而非“大一号”传统车企",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "奇瑞高管回应智界独立：要更像新势力，而非“大一号”传统车企",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 46,
+      "average": 29
+    },
+    "selected": false
+  },
+  {
+    "id": "k1e6jk5nk1b6dzu5p31p9b0z",
+    "identityKey": "url:https://www.cls.cn/detail/2521467",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521467",
+    "title": "新建天蒲铁路今天开通运营 线路全长约82公里",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "新建天蒲铁路今天开通运营 线路全长约82公里",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 28,
+      "understand": 46,
+      "average": 37
+    },
+    "selected": false
+  },
+  {
+    "id": "g2ptoq1coraww8950eb3ggw0",
+    "identityKey": "url:https://www.cls.cn/detail/2521465",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521465",
+    "title": "中方对美国强推西撒问题安理会决议草案表决表示遗憾",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "中方对美国强推西撒问题安理会决议草案表决表示遗憾",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "x7cp489qk6thi60v0stgd9rx",
+    "identityKey": "url:https://www.cls.cn/detail/2521463",
+    "sourceId": "feed-cls",
+    "via": "newsnow:feed-cls",
+    "url": "https://www.cls.cn/detail/2521463",
+    "title": "中企承建乌拉圭500千伏输变电环网正式交付",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:41.437Z",
+    "discoveredAt": "2026-10-31T06:56:41.437Z",
+    "category": "market",
+    "summary": "中企承建乌拉圭500千伏输变电环网正式交付",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 10,
+      "understand": 46,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "gt59tm8oxuetun7x2ab5zfzx",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031143819216800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031143819216800",
+    "title": "陈茂波：香港经济增长势头强劲，全年增幅或创五年新高",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，据香港电台援引财政司司长陈茂波的话报道称，香港第三季度经济增长保持强劲，为全年经济实现五年来最强增幅铺平道路。陈茂波在一档电台节目中表示，今年上半年香港经济增长5.1%，出口是主要推动力；第三季度投资增长势头持续。尽管官方统计数据尚未公布，但该季度经济增长动能依然强劲。陈茂波表示，全年经济增长预测可能上调，政府经济顾问稍后将公布具体情况。陈茂波警告，受地缘政治紧张局势及中东冲突影响，油价上涨并加剧通胀压力，预计明年利率仍将维持高位，可能对房地产市场和整体经济造成影响。政府将密切关注金融风险。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，据香港电台援引财政司司长陈茂波的话报道称，香港第三季度经济增长保持强劲，为全年经济实现五年来最强增幅铺平道路。陈茂波在一档电台节目中表…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "vs9zbspofw9pf6ylmcp8bpc2",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031143242804800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031143242804800",
+    "title": "ChatGPT支持多账号切换",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，OpenAI核心产品与平台负责人蒂博·索蒂奥发文宣布已在网页端、iOS和安卓端推出ChatGPT账号切换功能，并计划很快上线桌面端。索蒂奥同时预告称，接下来的两天都会有重置卡。OpenAI官方更新日志，用户最多可同时登录两个账号，并在不退出登录的情况下快速切换，不过同一时间内，仍只有一个账号可以处于活跃状态。",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "product",
+    "summary": "金十数据10月31日讯，OpenAI核心产品与平台负责人蒂博·索蒂奥发文宣布已在网页端、iOS和安卓端推出ChatGPT账号切换功能，并计划很快上线桌面端。索…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "yywy3w75ke5c6ixutypmqjm2",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031143011768800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031143011768800",
+    "title": "中国长安汽车与中国移动签署战略合作协议",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，10月30日，中国长安汽车集团有限公司与中国移动通信集团有限公司在北京举行战略合作协议签约仪式。主协议签署后，重庆移动、中移上海产业研究院与中国长安汽车三大数智新能源品牌阿维塔、深蓝汽车、长安启源分别签署业务合作框架协议。此次签约标志着双方战略合作迈入新阶段，将在数智化转型、人工智能、智能网联生态、数据要素、“车路云一体化”、低空经济、新能源与低碳、员工权益服务等方向深化合作。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，10月30日，中国长安汽车集团有限公司与中国移动通信集团有限公司在北京举行战略合作协议签约仪式。主协议签署后，重庆移动、中移上海产业研…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "nobbph5j7o7xsu9k3lpagb37",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031142219454800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031142219454800",
+    "title": "联邦法官叫停特朗普政府对加州选举官员的刑事威胁",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，据外媒报道，一名联邦法官下令，特朗普政府不得以刑事起诉相威胁，迫使加州选举官员配合处理涉及涉嫌非公民投票的选票。旧金山联邦地区法官特丽娜·汤普森（Trina Thompson）周五批准了劳工组织和民权团体提出的请求，要求联邦政府停止警告加州选举官员：如果不配合特朗普政府的相关行动，他们可能面临刑事指控。她还禁止美国司法部要求选举官员从全州选民登记名单中删除特定已登记选民，同时要求司法部将这些选民为11月3日选举投出的选票单独留存。法官在裁决中写道：“尽管司法部和国土安全部声称，其行动旨在阻止非公民非法投票，但这些行动很可能干扰选举管理，并剥夺合法选民的投票权。”",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，据外媒报道，一名联邦法官下令，特朗普政府不得以刑事起诉相威胁，迫使加州选举官员配合处理涉及涉嫌非公民投票的选票。旧金山联邦地区法官特丽…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 65,
+      "average": 35
+    },
+    "selected": false
+  },
+  {
+    "id": "jekdiogzr2o3a3opccfnlmca",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031141200546800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031141200546800",
+    "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
+    "language": "zh",
+    "excerpt": "伊朗外交部发言人巴加埃：阿布穆萨岛、大通布岛和小通布岛自古以来就属于伊朗，其归属历史可以追溯到阿联酋1971年建国之前数千年。加拿大在过去两个多世纪里一直捍卫自身领土完整，抵御美国的威胁和野心，如今为何却在这场人为制造的争端中偏袒一方？难道领土完整只有在加拿大自身主权受到威胁时才值得重视吗？加拿大采取这一立场，实际上是在砍倒自己赖以立足的树枝。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "伊朗外交部发言人巴加埃：阿布穆萨岛、大通布岛和小通布岛自古以来就属于伊朗，其归属历史可以追溯到阿联酋1971年建国之前数千年。加拿大在过去两个多世纪里一直捍卫…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 65,
+      "average": 35
+    },
+    "selected": false
+  },
+  {
+    "id": "pp0conwrgl2ia92252vtqpro",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031135627720800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031135627720800",
+    "title": "期货盯盘神器专属文章",
+    "language": "zh",
+    "excerpt": "印尼降雨预期渐近，最新气象预报显示11月起降雨将趋于稳定，严重野火烟霾现转机，棕榈油减产担忧能否真正消解？",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "印尼降雨预期渐近，最新气象预报显示11月起降雨将趋于稳定，严重野火烟霾现转机，棕榈油减产担忧能否真正消解？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 44,
+      "average": 22
+    },
+    "selected": false
+  },
+  {
+    "id": "op3akw098mfggrj6ji7vs9hy",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031135529581800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031135529581800",
+    "title": "俄国防部：俄防空系统夜间击落433架乌克兰无人机。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "俄国防部：俄防空系统夜间击落433架乌克兰无人机。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "kju0nuwuujdqw2cmsqajcz9u",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031135200284800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031135200284800",
+    "title": "波兰总统呼吁紧急磋商解决宪法法院争端",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，波兰总统府国务秘书谢费尔纳克31日凌晨在宪法法院外抗议活动现场宣读总统纳夫罗茨基的声明。声明说，波兰宪法秩序遭到破坏，宪法机构遭“强行占领”。声明要求有关人员撤离法院办公楼，并呼吁与议会各派代表举行紧急磋商。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，波兰总统府国务秘书谢费尔纳克31日凌晨在宪法法院外抗议活动现场宣读总统纳夫罗茨基的声明。声明说，波兰宪法秩序遭到破坏，宪法机构遭“强行…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 50,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "vez87zrjcgtpniof3zrea6eu",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031134711734800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031134711734800",
+    "title": "沙特主导的多国联军：拦截敌方无人机的碎片落下，未造成人员伤亡，相关部门正在对现场进行处理。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "沙特主导的多国联军：拦截敌方无人机的碎片落下，未造成人员伤亡，相关部门正在对现场进行处理。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 10,
+      "understand": 46,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "i0ifv40je81jqq1uok0knsvw",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031133906128800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031133906128800",
+    "title": "沙特主导的多国联军发言人图尔基·马利基：在利雅得地区拦截并摧毁了一架敌方无人机。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "沙特主导的多国联军发言人图尔基·马利基：在利雅得地区拦截并摧毁了一架敌方无人机。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "bx0cwpkpgw303nik0mk8xxu8",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031133200561800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031133200561800",
+    "title": "期货热点追踪",
+    "language": "zh",
+    "excerpt": "美铜月线两连阴，COMEX累库超70万吨且关税预期降温，铜市前期的“挤仓溢价”会被反噬吗？",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "美铜月线两连阴，COMEX累库超70万吨且关税预期降温，铜市前期的“挤仓溢价”会被反噬吗？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 28,
+      "understand": 44,
+      "average": 36
+    },
+    "selected": false
+  },
+  {
+    "id": "ysll946o2uikmbcy38cxnyuo",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031131319556800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031131319556800",
+    "title": "英国央行考虑放宽房贷限制，为高风险贷款开闸",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，据英国金融时报，英国央行正在研究十多年来规模最大的抵押贷款规则改革之一。面对政府和业界要求提高住房拥有率的呼声，监管机构正考虑放宽限制，为风险更高的贷款大幅增加打开空间。监管机构正在考虑全面调整2008年金融危机后出台的限制措施。这些规定一直是制约高收入倍数借款者获得抵押贷款数量的关键因素。自2014年以来，英国大多数贷款机构被禁止将超过15%的抵押贷款发放给借款金额超过借款人年收入4.5倍的人群。2025年7月，英国央行放宽了相关规定，推动高贷款收入比（LTI）抵押贷款数量大幅增加。如今，在贷款机构和政府的压力下，英国央行金融政策委员会（FPC）正研究进一步放宽限制，将高风险抵押贷款的认定门槛从家庭收入的4.5倍提高至5倍。",
+    "tags": [
+      "监管政策"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "policy",
+    "summary": "金十数据10月31日讯，据英国金融时报，英国央行正在研究十多年来规模最大的抵押贷款规则改革之一。面对政府和业界要求提高住房拥有率的呼声，监管机构正考虑放宽限制…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 22,
+      "understand": 80,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "brnq286u3eu0yw7jg7gj37j4",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031130938220800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031130938220800",
+    "title": "SpaceX(SPCX.O)：确认部署了27颗星链卫星。",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "SpaceX(SPCX.O)：确认部署了27颗星链卫星。",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "bp6ghbti86b6c2dgy0hxbqa9",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031125057103800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031125057103800",
+    "title": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，“不管是在座的各位科学家还是其他科学家，我们需要世界上智慧大脑的支持。”10月31日，宁德时代董事长、创始人曾毓群在2026世界顶尖科学家论坛开幕式主论坛演讲中表示，宁德时代正推动电池技术赋能能源发展，但现有电池能量密度仍不足以支撑更广泛的应用。整个行业需要借助人工智能和全球科学界的力量，加速电化学领域的源头创新。在曾毓群看来，电池系统是一个高度复杂的过程，涉及从飞秒级到数十年的多时间尺度，也触及原子层面的多个维度。正因如此，宁德时代正在运用大语言模型赋能科学发现。曾毓群介绍，公司拥有超过1万亿条测试数据，并自研AI原生研究系统，将湿实验室与干实验室连接在一起。不过，他仍然认为目前“做得还不够多”，尤其需要来自电化学领域科学界的支持。",
+    "tags": [
+      "非证券/宏观",
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "opinion",
+    "summary": "宁德时代董事长曾毓群在2026世界顶尖科学家论坛上表示，现有电池能量密度仍不足以支撑更广泛应用，公司正用自研AI原生研究系统结合万亿条测试数据，加速电化学领域的源头创新。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 71,
+      "understand": 80,
+      "average": 76
+    },
+    "selected": true
+  },
+  {
+    "id": "t7f8cyt2kwf6plzzjw5p5yph",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031124641587800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031124641587800",
+    "title": "瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，10月30日，瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部，与商务部部长王文涛举行会谈，双方就中瑞经贸关系、自贸协定升级等议题交换意见。帕姆兰表示，中国是瑞士全球第三、亚洲第一大贸易伙伴，瑞士高度重视对华经贸合作。瑞中自贸协定成功升级，将推动双边经贸关系迈上新台阶，并对外释放瑞中两国共同支持以世贸组织为核心的多边贸易体制的积极信号。王文涛表示，中瑞两国互为重要经贸合作伙伴，瑞士对华合作走在欧洲国家前列。在两国领导人的战略引领下，中瑞双方顺利完成自贸协定升级谈判并签署议定书，为双边经贸关系发展翻开新篇章。自贸协定升级充分体现了中瑞合作优势互补、互利共赢的本质，展现了中瑞两国维护国际经贸规则、支持自由贸易的鲜明立场，在当前国际环境下具有重要意义。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，10月30日，瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部，与商务部部长王文涛举行会谈，双方就中瑞经贸关系、自贸协定升级…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 18,
+      "understand": 80,
+      "average": 49
+    },
+    "selected": false
+  },
+  {
+    "id": "qp2z77fmneqoyo30e4g2freh",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031124516560800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031124516560800",
+    "title": "鹏华基金首席资产配置官郑科：短期市场迎结构再平衡 A股整体估值仍具吸引力",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，近期A股市场出现阶段性调整，投资者风险偏好有所回落。针对当前市场波动、估值水平与中长期投资机遇，鹏华基金首席资产配置官、资产配置与基金投资部总经理郑科认为，本轮市场波动属于行情运行中的结构性再平衡，并未改变A股长期投资价值，权益资产依然具备较强的配置吸引力。郑科表示，受筹码堆积影响，三季度股权风险溢价第三次触碰均值下方两倍标准差之际，市场出现了较大幅度调整，创业板、双创50等为代表的板块，均出现了阶段性的回调。需要强调的是，这是A股市场特性使然，并没有出现明显的经济基本面变动，并不影响未来我国以新质生产力为引擎的换挡进程。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，近期A股市场出现阶段性调整，投资者风险偏好有所回落。针对当前市场波动、估值水平与中长期投资机遇，鹏华基金首席资产配置官、资产配置与基金…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 37,
+      "understand": 65,
+      "average": 51
+    },
+    "selected": false
+  },
+  {
+    "id": "yxlkyzpegxyzfgz9noxhudcz",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031124347966800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031124347966800",
+    "title": "期货盯盘神器专属文章",
+    "language": "zh",
+    "excerpt": "在生物燃料对豆油需求持续增长的支撑下，美国2026/27年度大豆压榨量预计将进一步扩张至27.80亿蒲式耳，出口量预计将恢复至17.00亿蒲式耳，新年度美豆整体供需将维持偏紧格局？2026/27年度的农场现货均价预测为.....点击阅读。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "在生物燃料对豆油需求持续增长的支撑下，美国2026/27年度大豆压榨量预计将进一步扩张至27.80亿蒲式耳，出口量预计将恢复至17.00亿蒲式耳，新年度美豆整…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 44,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "ae0zmtqt6hylp0uqui7n8yyz",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031123430671800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031123430671800",
+    "title": "美联储都暂停加息了，金价为何反而涨不动？",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 4,
+      "understand": 50,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "ao7lqn357m6kprtevwu4825l",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031121441232800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031121441232800",
+    "title": "伊朗外长阿拉格齐：将不再有任何红线",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，据伊通社（IRNA）报道，伊朗外长阿拉格齐回应德国总理默茨近期言论称，去年美国和以色列对伊朗发动空袭时，默茨对这些袭击表示欢迎，他当时说：“他们正在替欧洲干脏活！”阿拉格齐说，“与伊朗将对侵犯伊朗人民的人造成的沉重而具有毁灭性的打击相比，1000亿欧元根本不值一提。”10月30日，默茨在访问韩国期间表示，过去8个月，伊朗战争推高能源价格，仅能源成本上涨一项就已使欧洲损失超过1000亿欧元。阿拉格齐最后称，以后将不再有任何红线。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，据伊通社（IRNA）报道，伊朗外长阿拉格齐回应德国总理默茨近期言论称，去年美国和以色列对伊朗发动空袭时，默茨对这些袭击表示欢迎，他当时…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 65,
+      "average": 37
+    },
+    "selected": false
+  },
+  {
+    "id": "t6sgq7nzkklulgs5np9nncdn",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031120651977800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031120651977800",
+    "title": "沙特联军称拦截两架胡塞武装无人机",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，沙特阿拉伯主导的多国联军发言人图尔基·马利基称，31日早些时候，联军在沙特东部省上空拦截并击毁了一架也门胡塞武装发射的无人机。 沙特联军还称，随后又摧毁了一架胡塞武装向沙特南部地区发射的无人机。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，沙特阿拉伯主导的多国联军发言人图尔基·马利基称，31日早些时候，联军在沙特东部省上空拦截并击毁了一架也门胡塞武装发射的无人机。 沙特联…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 50,
+      "average": 28
+    },
+    "selected": false
+  },
+  {
+    "id": "yicq7ewh96tt0r80md2qo437",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031120051984800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031120051984800",
+    "title": "海湾油轮带回了供应，为何没带回低油价？",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 20,
+      "understand": 50,
+      "average": 35
+    },
+    "selected": false
+  },
+  {
+    "id": "u96n526apblzoxl1kmki3sut",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031115809926800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031115809926800",
+    "title": "北京：培育高温膜燃料电池、固体氧化物燃料电池、氢燃机等前沿赛道创新主体",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，推动氢能多元供应、多领域应用技术创新，开展富氢高炉控制、氢基直接还原等氢冶金技术研发，加快液氢储运、固态储供氢、高压管束储运等储运关键装备产业化，探索车载氢系统循环再利用模式，培育高温膜燃料电池、固体氧化物燃料电池、氢燃机、液氢重卡等前沿赛道创新主体，拓展氢能多元化高端应用产业链条。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，推动氢能多元供应、多领域应用技术创新，开…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 45,
+      "understand": 65,
+      "average": 55
+    },
+    "selected": false
+  },
+  {
+    "id": "ii374bscgpcu5rxxsplxjoph",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031115748724800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031115748724800",
+    "title": "北京：建设绿氢（绿色燃料）交易中心",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，建设绿氢（绿色燃料）交易中心。立足“三北”绿氢供应带与沿海消纳需求带交汇的区位禀赋，依托京津冀创新、金融、产业和基础设施优势，建设绿氢（绿色燃料）交易中心，形成碳氢协同、规范高效、公开透明的氢能交易市场，引领带动国内氢能产业良性发展，提升绿氢产品国际定价权。",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "product",
+    "summary": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，建设绿氢（绿色燃料）交易中心。立足“三北…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "qab23jwpgihl0pgfnwqzqwmo",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031115458247800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031115458247800",
+    "title": "日本央行加快出售ETF，或为高市早苗政策议程提供资金支持",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，据外媒报道，日本央行决定加快出售ETF，可能增加其向政府上缴的收益，从而为首相高市早苗（Sanae Takaichi）推进成本高昂的政策议程提供资金支持。根据法律规定，日本央行在扣除股息及其他支出后，必须将盈余收益上缴政府。出售ETF获得的收益可能增加其上缴金额，为政府提供额外的非税收入。日本财务大臣片山皋月周五称，政府将在即将启动的预算编制过程中，考虑如何使用这笔新增收入。随着政府着手编制明年预算，这笔潜在的额外收入可能帮助高市早苗为其政策议程筹措资金。高市早苗此前承诺推出为期两年的食品消费税减税措施、实施为期14年的增长投资计划，并增加国防开支。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，据外媒报道，日本央行决定加快出售ETF，可能增加其向政府上缴的收益，从而为首相高市早苗（Sanae Takaichi）推进成本高昂的政…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 65,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "cbl6p627fsnfxyabs1g9vqri",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031114837541800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031114837541800",
+    "title": "一周热榜精选：金银科技股遭遇黑色星期五！沃什未解美联储12月悬念",
+    "language": "zh",
+    "excerpt": "✰",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "✰",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 38,
+      "understand": 50,
+      "average": 44
+    },
+    "selected": false
+  },
+  {
+    "id": "nwr726dm0g5puhkd34z9202d",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031114825417800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031114825417800",
+    "title": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，东方证券研究所副所长孙金霞认为，美国AI投资在产业层面仍具有广阔的发展前景，但其高度依赖资本密集型投资的增长模式，正在面临融资需求和成本上升、商业化回报滞后等多重压力。美国AI叙事正从过去的投资规模竞争，转向投资回报和可持续性的考验。孙金霞称，当前美国AI投资增长动能放缓，风险由债市向股市扩散。近期美国AI企业信用利差扩大，部分高杠杆算力企业出现融资压力，随后风险开始由债券市场向股票市场传导，科技股调整压力上升。",
+    "tags": [
+      "观点/评论",
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "opinion",
+    "summary": "东方证券孙金霞认为美国AI投资增长动能放缓，高杠杆算力企业融资压力显现，风险正由债市向股市传导，科技股调整压力上升。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 59,
+      "understand": 65,
+      "average": 62
+    },
+    "selected": true
+  },
+  {
+    "id": "eql25h6ryl3m5qrevo590swr",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031114432725800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031114432725800",
+    "title": "北京：力争到2030年全市氢能产业链规模突破400亿元",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，力争到2030年，累计推广燃料电池汽车突破万辆，建成加氢站超40座，实现绿色化工、热电联供等场景规模化应用，全市氢能产业链规模突破400亿元，带动京津冀突破1000亿元，构建自主可控、经济高效、绿色安全的京津冀氢能全产业链体系。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，力争到2030年，累计推广燃料电池汽车突…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 65,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "grldodikckkjnbze0ctghy29",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031113730715800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031113730715800",
+    "title": "Pro Farmer一周展望：收割完工产区基差率先走强，美豆能否借助下周9月压榨报告扭转乾坤？",
+    "language": "zh",
+    "tags": [
+      "观点/评论"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "opinion",
+    "summary": "Pro Farmer一周展望：收割完工产区基差率先走强，美豆能否借助下周9月压榨报告扭转乾坤？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
+    },
+    "selected": false
+  },
+  {
+    "id": "w0tunx19ssgyh9bstlqjaq3d",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031113725155800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031113725155800",
+    "title": "费丹与鲁比奥会谈，重点讨论美伊谈判进展",
+    "language": "zh",
+    "excerpt": "金十数据10月31日讯，土耳其外交部长哈坎·费丹在亚特兰大举行的二十国集团外长会议期间，与美国国务卿马尔科·鲁比奥会面。双方重点讨论了华盛顿与德黑兰正在进行的谈判的最新进展。此外，两人还就双边关系、加沙地带局势、乌克兰战争及其他地区局势交换了意见。",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "金十数据10月31日讯，土耳其外交部长哈坎·费丹在亚特兰大举行的二十国集团外长会议期间，与美国国务卿马尔科·鲁比奥会面。双方重点讨论了华盛顿与德黑兰正在进行的…",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 65,
+      "average": 35
+    },
+    "selected": false
+  },
+  {
+    "id": "xdzhbybcdzo7srt14y29x2e5",
+    "identityKey": "url:https://flash.jin10.com/detail/20261031113502865800",
+    "sourceId": "hot-jin10",
+    "via": "newsnow:hot-jin10",
+    "url": "https://flash.jin10.com/detail/20261031113502865800",
+    "title": "中东媒体披露美伊谈判调解方的提案草案",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.086Z",
+    "discoveredAt": "2026-10-31T06:56:42.086Z",
+    "category": "market",
+    "summary": "中东媒体披露美伊谈判调解方的提案草案",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 46,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "p05ne47k2jhsjp2pek469xfx",
+    "identityKey": "url:https://www.gelonghui.com/news/5340780",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340780",
+    "title": "汉邦科技(688755.SH)：前三季净利润6398.52万元，同比增长72.85%",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "券商经营"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "industry",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 15,
+      "understand": 50,
+      "average": 33
+    },
+    "selected": false
+  },
+  {
+    "id": "a7ttndyjldyjcp9jqlqmfacx",
+    "identityKey": "url:https://www.gelonghui.com/news/5340779",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340779",
+    "title": "ETF资金流|科创债ETF、公司债ETF、信用债ETF、30年国债ETF、可转债ETF、通信ETF、酒ETF等获得资金净流出",
+    "language": "zh",
+    "excerpt": "A股异动",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "A股异动",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 26,
+      "understand": 50,
+      "average": 38
+    },
+    "selected": false
+  },
+  {
+    "id": "iubfqbjgcfe3298gspf0nwmg",
+    "identityKey": "url:https://www.gelonghui.com/news/5340778",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340778",
+    "title": "ETF资金流向观察|宽基ETF单日吸金252亿元，信用债ETF净流出107亿元",
+    "language": "zh",
+    "excerpt": "ETF",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "宽基ETF单日吸金252亿元，信用债ETF净流出107亿元。",
+    "summaryMode": "llm",
+    "score": {
+      "attention": 66,
+      "understand": 50,
+      "average": 58
+    },
+    "selected": false
+  },
+  {
+    "id": "i8jqa4zzdhuig42ipbnxi9po",
+    "identityKey": "url:https://www.gelonghui.com/news/5340777",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340777",
+    "title": "ETF资金流|沪深300ETF、创业板ETF、科创50ETF、A500ETF等获得资金净流入",
+    "language": "zh",
+    "excerpt": "A股异动",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "A股异动",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 44,
+      "understand": 50,
+      "average": 47
+    },
+    "selected": false
+  },
+  {
+    "id": "lwg0cpm8cmvq0rvnjg5ps7wn",
+    "identityKey": "url:https://www.gelonghui.com/news/5340776",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340776",
+    "title": "ETF资金流｜宽基指数ETF单日吸金252亿元，策略风格ETF净流入15.56亿元，信用债指数ETF净流出107亿元",
+    "language": "zh",
+    "excerpt": "A股异动",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "A股异动",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "ws0xomixtswx9g00rd4x4jei",
+    "identityKey": "url:https://www.gelonghui.com/news/5340345",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340345",
+    "title": "上峰材料(000672.SZ)：除了即将进入冬歇期的区域外，其余水泥生产基地未出现停产",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "f14wteyx58h5e6v4qkfq6v6a",
+    "identityKey": "url:https://www.gelonghui.com/news/5340344",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340344",
+    "title": "万润股份(002643.SZ)：2026年第三季度公司生命科学与医药业务收入较比去年同期相对平稳",
+    "language": "zh",
+    "excerpt": "A股公告摘要",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "A股公告摘要",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 50,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "w53w0ys05awnmqizuhpj9aav",
+    "identityKey": "url:https://www.gelonghui.com/news/5340343",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340343",
+    "title": "万润股份(002643.SZ)：布局的高性能聚合物产品包括聚酰亚胺类产品PEI、TPI、PI-5218、PEEK 以及 PA46 五类",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "产品更新"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "product",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "pwr3hbkakgi19hmvfy8ua0mp",
+    "identityKey": "url:https://www.gelonghui.com/news/5340342",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340342",
+    "title": "银轮股份(002126.SZ)：冷板也是公司重点拓展的品类之一",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "mgtfkgroqrccdrxy3qsrhq3a",
+    "identityKey": "url:https://www.gelonghui.com/news/5340341",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340341",
+    "title": "银轮股份(002126.SZ)：机器人业务是公司重点培育的方向",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 25,
+      "understand": 50,
+      "average": 38
+    },
+    "selected": false
+  },
+  {
+    "id": "ifrrb303gk23k2vlz4cnlvu0",
+    "identityKey": "url:https://www.gelonghui.com/news/5340340",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340340",
+    "title": "宁波东力(002164.SZ)：公司精密减速器业务前期主要依托宁波杭州湾生产基地开展试验线运行与小批量生产交付",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 12,
+      "understand": 50,
+      "average": 31
+    },
+    "selected": false
+  },
+  {
+    "id": "f3etjkk1zigra0xe50neiki1",
+    "identityKey": "url:https://www.gelonghui.com/news/5340339",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340339",
+    "title": "青鸟智控(002960.SZ)：四足机器人本体预计于今年年底实现小批量量产",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "v4thn5p7ulxe65uag73exxfi",
+    "identityKey": "url:https://www.gelonghui.com/news/5340338",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340338",
+    "title": "鸿富瀚(301086.SZ)：机器人属于具备长期成长空间的优质赛道，行业未来发展潜力较大",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 50,
+      "average": 25
+    },
+    "selected": false
+  },
+  {
+    "id": "yffh8hpdprpdh8h86gmvrahn",
+    "identityKey": "url:https://www.gelonghui.com/news/5340337",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340337",
+    "title": "鸿富瀚(301086.SZ)：液冷业务整体推进顺利",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 38,
+      "understand": 50,
+      "average": 44
+    },
+    "selected": false
+  },
+  {
+    "id": "o4h1f48wb1u2fwx5325qwd6h",
+    "identityKey": "url:https://www.gelonghui.com/news/5340336",
+    "sourceId": "hot-gelonghui",
+    "via": "newsnow:hot-gelonghui",
+    "url": "https://www.gelonghui.com/news/5340336",
+    "title": "飞龙股份(002536.SZ)：在服务器液冷算力领域具备较大发展潜力",
+    "language": "zh",
+    "excerpt": "公司信息",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.313Z",
+    "discoveredAt": "2026-10-31T06:56:42.313Z",
+    "category": "market",
+    "summary": "公司信息",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 50,
+      "average": 29
+    },
+    "selected": false
+  },
+  {
+    "id": "n4pvj8fzku7ugg2f335xft0g",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387365_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387365_1",
+    "title": "外汇成交价为何不同于央行参考汇率？拆开时间差、点差与费用",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "外汇成交价为何不同于央行参考汇率？拆开时间差、点差与费用",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 34,
+      "understand": 46,
+      "average": 40
+    },
+    "selected": false
+  },
+  {
+    "id": "pt0807kx6j30ahm4k3up1jro",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387364_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387364_1",
+    "title": "外汇点差更低，为何整笔成交反而更贵？逐档重算订单价格",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "外汇点差更低，为何整笔成交反而更贵？逐档重算订单价格",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 18,
+      "understand": 46,
+      "average": 32
+    },
+    "selected": false
+  },
+  {
+    "id": "bihi5oyvfdlbzfalvkcwdnf3",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387363_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387363_1",
+    "title": "美元指数上涨时，美元兑日元为何仍可能下跌？有效汇率篮子怎么算",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "美元指数上涨时，美元兑日元为何仍可能下跌？有效汇率篮子怎么算",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 8,
+      "understand": 46,
+      "average": 27
+    },
+    "selected": false
+  },
+  {
+    "id": "v7bgbzdl16y9s1zkljqqzp7a",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387362_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387362_1",
+    "title": "美元兑港元联系汇率：7.75至7.85区间为何不保证交易获利？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "美元兑港元联系汇率：7.75至7.85区间为何不保证交易获利？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 40,
+      "understand": 46,
+      "average": 43
+    },
+    "selected": false
+  },
+  {
+    "id": "gj88g8kku50dwgnzxhuwr2rk",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387361_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387361_1",
+    "title": "伦敦与纽约外汇时段为何会错开一小时？按交易日期重算重叠窗口",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "伦敦与纽约外汇时段为何会错开一小时？按交易日期重算重叠窗口",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "ahc15y4nyay4yt7ridkxguzg",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387360_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387360_1",
+    "title": "在岸与离岸人民币价差收窄，为什么不等于人民币升值？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "在岸与离岸人民币价差收窄，为什么不等于人民币升值？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 26,
+      "understand": 46,
+      "average": 36
+    },
+    "selected": false
+  },
+  {
+    "id": "cvz1ed7ddlji5xccp48e7gt5",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387359_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387359_1",
+    "title": "外汇反向下单为何没有平仓？净额与对冲账户的持仓核对",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "外汇反向下单为何没有平仓？净额与对冲账户的持仓核对",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 5,
+      "understand": 46,
+      "average": 26
+    },
+    "selected": false
+  },
+  {
+    "id": "dxvvcrfn3msh16fkc3uzstie",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387358_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387358_1",
+    "title": "货币对没动，账户浮盈为什么还会变？先核对盈亏币种",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "货币对没动，账户浮盈为什么还会变？先核对盈亏币种",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 28,
+      "understand": 46,
+      "average": 37
+    },
+    "selected": false
+  },
+  {
+    "id": "y9equjf4dudjw9mxahftptkx",
+    "identityKey": "url:https://www.fastbull.com/cn/newsdetail/4387333_1",
+    "sourceId": "hot-fastbull",
+    "via": "newsnow:hot-fastbull",
+    "url": "https://www.fastbull.com/cn/newsdetail/4387333_1",
+    "title": "币安遭遇63亿美元安全事件：DevOps工程师电脑疑被入侵，SAFU能否保障用户资产安全？",
+    "language": "zh",
+    "tags": [
+      "市场动态"
+    ],
+    "entityTags": [],
+    "firstSeenAt": "2026-10-31T06:56:42.559Z",
+    "discoveredAt": "2026-10-31T06:56:42.559Z",
+    "category": "market",
+    "summary": "币安遭遇63亿美元安全事件：DevOps工程师电脑疑被入侵，SAFU能否保障用户资产安全？",
+    "summaryMode": "rules",
+    "score": {
+      "attention": 0,
+      "understand": 46,
+      "average": 23
     },
     "selected": false
   }

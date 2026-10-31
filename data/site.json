@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T07:01:49.450Z",
-  "today": "2026-10-30",
+  "generatedAt": "2026-10-31T06:55:59.614Z",
+  "today": "2026-10-31",
   "site": {
     "name": "券业动态",
     "subject": "证券",
@@ -57,6 +57,154 @@
     }
   ],
   "reports": [
+    {
+      "day": "2026-10-31",
+      "generatedAt": "2026-10-31T06:55:59.614Z",
+      "lead": {
+        "title": "国泰海通总资产跃居行业第一，券商三季报龙头交锋",
+        "paragraph": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元超越中信证券登顶行业榜首，券商合并整合效应初显。同日公布的宏观数据与银行三季报显示，实体经济与金融龙头仍在过渡期寻求企稳。",
+        "highlights": [
+          "国泰海通总资产2.42万亿元超越中信证券，稳居行业第一",
+          "招商银行客户资产逼近19万亿元，净息差环比企稳",
+          "中国人寿前三季度归母净利润894.30亿元，同比明显增长",
+          "中国10月制造业PMI回落至49.3%，非制造业PMI降至49.7%",
+          "宁德时代曾毓群称电池技术尚需提升，正用AI加速电化学研发"
+        ]
+      },
+      "sections": [
+        {
+          "category": "industry",
+          "title": "券商经营",
+          "items": [
+            {
+              "id": "fh71qu4h9uytokhddfrdx9e0",
+              "title": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
+              "summary": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元跃居行业第一，超过中信证券。",
+              "url": "https://wallstreetcn.com/articles/3784908",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-31T04:13:53.000Z",
+              "score": 81,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": [
+                "国泰海通",
+                "中信证券"
+              ]
+            },
+            {
+              "id": "lchq5uz3eh1w4jcdfaqxxst1",
+              "title": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿",
+              "summary": "招商银行前三季度营收2648.52亿元，同比增长5.34%；归母净利润1164.76亿元，同比增长2.38%，净息差环比企稳，客户资产逼近19万亿元。",
+              "url": "https://wallstreetcn.com/articles/3784906",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-31T03:23:28.000Z",
+              "score": 71,
+              "category": "industry",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "gxyyqt0bhlwpjoraf9a80q53",
+              "title": "透视中国人寿三季报：国寿的Alpha不在利润表里，在保单里",
+              "summary": "10月30日晚，中国人寿（601628）披露2026年三季报。季报显示，公司前三季度营业收入 3678.12亿元，归母净利润 894.30亿元，同比均明显有所…",
+              "url": "https://wallstreetcn.com/articles/3784911",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-31T01:59:35.000Z",
+              "score": 64,
+              "category": "industry",
+              "tags": [
+                "券商经营"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "title": "市场动态",
+          "items": [
+            {
+              "id": "tiquenixrnq11xzt5rypzvrl",
+              "title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？",
+              "summary": "黑石向投资者告知Anthropic上市后预计获BB区间评级而非投资级，致其8000亿美元算力计划融资前景复杂；该消息被指为10月31日美股下跌导火索，纳斯达克100收跌3.5%。",
+              "url": "https://wallstreetcn.com/articles/3784903",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-31T04:12:41.000Z",
+              "score": 74,
+              "category": "market",
+              "tags": [
+                "其他"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "h03p5q6rgn07km8244gu57d0",
+              "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
+              "summary": "中国10月制造业PMI降至49.3%，非制造业PMI降至49.7%，均环比回落。国家统计局数据显示，“十一”假期前需求提前释放及国际环境复杂多变是主因。",
+              "url": "https://wallstreetcn.com/articles/3784901",
+              "sourceId": "rss-wallstreetcn",
+              "sourceName": "华尔街见闻",
+              "publishedAt": "2026-10-31T02:08:44.000Z",
+              "score": 72,
+              "category": "market",
+              "tags": [
+                "非证券/宏观"
+              ],
+              "entityTags": []
+            }
+          ]
+        },
+        {
+          "category": "opinion",
+          "title": "观点分析",
+          "items": [
+            {
+              "id": "bp6ghbti86b6c2dgy0hxbqa9",
+              "title": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现",
+              "summary": "宁德时代董事长曾毓群在2026世界顶尖科学家论坛上表示，现有电池能量密度仍不足以支撑更广泛应用，公司正用自研AI原生研究系统结合万亿条测试数据，加速电化学领域的源头创新。",
+              "url": "https://flash.jin10.com/detail/20261031125057103800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 76,
+              "category": "opinion",
+              "tags": [
+                "非证券/宏观",
+                "观点/评论"
+              ],
+              "entityTags": []
+            },
+            {
+              "id": "nwr726dm0g5puhkd34z9202d",
+              "title": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+              "summary": "东方证券孙金霞认为美国AI投资增长动能放缓，高杠杆算力企业融资压力显现，风险正由债市向股市传导，科技股调整压力上升。",
+              "url": "https://flash.jin10.com/detail/20261031114825417800",
+              "sourceId": "hot-jin10",
+              "sourceName": "金十数据",
+              "score": 62,
+              "category": "opinion",
+              "tags": [
+                "观点/评论",
+                "市场动态"
+              ],
+              "entityTags": []
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "total": 122,
+        "selected": 7,
+        "llmCalls": 90
+      }
+    },
     {
       "day": "2026-10-30",
       "generatedAt": "2026-10-30T07:01:49.450Z",
@@ -1520,146 +1668,6 @@
         "selected": 3,
         "llmCalls": 81
       }
-    },
-    {
-      "day": "2026-10-17",
-      "generatedAt": "2026-10-17T05:32:24.902Z",
-      "lead": {
-        "title": "牛散内幕交易罚没超5亿，海外AI抛售蔓延债市",
-        "paragraph": "证监会近日连开两张巨额罚单，3名自然人因内幕交易和市场操纵被合计罚没逾5亿元，彰显监管高压态势。海外市场同样波澜迭起，纳斯达克100本周累跌5.5%，恐慌指数骤升21.45%，AI概念股抛售潮蔓延至债市，贵金属也同步承压。",
-        "highlights": [
-          "证监会罚没3名牛散近5.1亿元，内幕+操纵双重重拳落地。",
-          "纳斯达克100本周累跌5.5%，半导体板块八连跌，AI债市抛售蔓延。",
-          "黄金较1月高点跌超27%，白银价格腰斩，实物市场结构性失衡加剧。",
-          "VIX恐慌指数狂飙21.45%，布伦特原油收于约110美元。",
-          "多家部门联合发布风险提示，覆盖就业、网络、教育等多领域。"
-        ]
-      },
-      "sections": [
-        {
-          "category": "policy",
-          "title": "监管政策",
-          "items": [
-            {
-              "id": "hhzf2qupn33z5mrzwkplfbho",
-              "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-              "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
-              "url": "https://www.cls.cn/detail/2507088",
-              "sourceId": "hot-cls",
-              "sourceName": "财联社 · 热榜",
-              "score": 61,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "rapl2jrfho80tcx7n16y54km",
-              "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
-              "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
-              "url": "https://qzs.stcn.com/article/detail/642095.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-17T02:21:00.000Z",
-              "score": 57,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "fp62e97vl4ukx428i2m2lb4r",
-              "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
-              "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
-              "url": "https://qzs.stcn.com/article/detail/642108.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-17T04:48:00.000Z",
-              "score": 55,
-              "category": "policy",
-              "tags": [
-                "监管政策"
-              ],
-              "entityTags": []
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "title": "市场动态",
-          "items": [
-            {
-              "id": "uttghfpn6pegut9ph560cv4d",
-              "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
-              "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
-              "url": "https://wallstreetcn.com/articles/3783826",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-17T01:13:15.000Z",
-              "score": 70,
-              "category": "market",
-              "tags": [
-                "市场动态",
-                "海外同业"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "c21uuuomv1zj3koi32gxalzc",
-              "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-              "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
-              "url": "https://wallstreetcn.com/articles/3783830",
-              "sourceId": "rss-wallstreetcn",
-              "sourceName": "华尔街见闻",
-              "publishedAt": "2026-10-17T02:58:22.000Z",
-              "score": 69,
-              "category": "market",
-              "tags": [
-                "市场动态",
-                "非证券/宏观"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "fbsnbgbnjiqpvfp6v1zkjstw",
-              "title": "突然！恐慌指数，狂飙21.45%！",
-              "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
-              "url": "https://qzs.stcn.com/article/detail/642107.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-17T04:47:00.000Z",
-              "score": 53,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            },
-            {
-              "id": "ma3xw960wjmoa2wy77of1p44",
-              "title": "这家券商副总经理，拟任地级市副市长！",
-              "summary": "这家券商副总经理，拟任地级市副市长！",
-              "url": "https://qzs.stcn.com/article/detail/642106.html",
-              "sourceId": "web-qzs",
-              "sourceName": "券商中国",
-              "publishedAt": "2026-10-17T04:47:00.000Z",
-              "score": 53,
-              "category": "market",
-              "tags": [
-                "市场动态"
-              ],
-              "entityTags": []
-            }
-          ]
-        }
-      ],
-      "stats": {
-        "total": 120,
-        "selected": 7,
-        "llmCalls": 99
-      }
     }
   ],
   "groups": [
@@ -1674,7 +1682,20 @@
         "g0c67k7c5fj1bzvj8v3uzgz7",
         "zrxfe4h3t7kbi41rtqutoat9"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_6dddaf1688",
+      "title": "北京：培育高温膜燃料电池、固体氧化物燃料电池、氢燃机等前沿赛道创新主体",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "u96n526apblzoxl1kmki3sut",
+        "u5q7h1uym3d72uzydncj8l73"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_7b142b6402",
@@ -1684,8 +1705,6 @@
         "监管政策"
       ],
       "itemIds": [
-        "e4or3wcgmgc0ymx35uwu06kr",
-        "si7ka36rz01lzlinrpcve3iu",
         "soyvgzoge55rbhds904nl7ek",
         "igiuz289mpul4iamyz5opva8",
         "r3vkvr4n3t8m6wyo7667tryi",
@@ -1695,24 +1714,10 @@
         "eg19c7zna8id6s475rn3q361",
         "wxycshgwdihqkcs5qjzy8mgb",
         "yp6so61ippnl84kt3b17gy0o",
-        "xakh95lkjplapmxw1whct5ht",
         "mbmfysd7w7vc85hgu1lls5kx",
         "k9abmhoejd8n45at6s8a6ra7"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_2b884ab4dd",
-      "title": "多方判断电价拐点已现",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "z1hi6z1xvpxh2k29uq40iie4",
-        "iissn02o1rue1lgpei08lfti"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_0ad02f682d",
@@ -1725,7 +1730,7 @@
         "x9lqy91gzcgrg0k8kpksfgy3",
         "cz1i9fco1v9d629z2n6nk1a5"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_843b245cf4",
@@ -1739,7 +1744,7 @@
         "hph3lbmawf8szpgbjtkiyftw",
         "jbziqy3v8ecada0bpfdhxowr"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_4bd2439c2e",
@@ -1752,7 +1757,7 @@
         "ubntz84qh9nb2oid7c4uz3ta",
         "dhlppg5fawur2n0h6rei3rft"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_a11822b2d0",
@@ -1765,7 +1770,7 @@
         "fzqhh0v3xbvavbzojnyu7gtj",
         "oh2k7mucij1zkotivavy2m84"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_2e0330593c",
@@ -1779,7 +1784,7 @@
         "s32q9yevo9bi820gi2t7at1p",
         "amorbkm1c26cogyg18s9ku7w"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_c3f3c58e2b",
@@ -1795,7 +1800,7 @@
         "bc2r737h1fdtw8imgkj0e4fu",
         "jinljylpa1dwk8trrhnb2tm0"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_cdc0a4f98c",
@@ -1808,7 +1813,20 @@
         "tdukz9ir9s53arcq7yfufcds",
         "nzzl17ghxtmmc02bbrut3dgk"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_933250108d",
+      "title": "瑞士联邦主席兼经济、教研部长帕姆兰率经济界代表团到访商务部",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "t7f8cyt2kwf6plzzjw5p5yph",
+        "yo9jyg4zcycll25beubg3y89"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_ce135fa5f5",
@@ -1821,7 +1839,7 @@
         "xf2uqkrjplxk6hkwqlyff05v",
         "lgvih38k3t819hkcho968xk4"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_1b87727a78",
@@ -1837,7 +1855,7 @@
         "xqxe8gh5f5zfvxbi8sq2kmx8",
         "nz1k09lenl8ymvz9dhot6du3"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_76aa925d49",
@@ -1850,7 +1868,20 @@
         "o5y9mm6qgwhc06qc1bro97qj",
         "nw74au0xxp2kutb8nnhp9pjk"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_8584b8b3cd",
+      "title": "ETF资金流|沪深300ETF、创业板ETF、科创50ETF、A500ETF等获得资金净流入",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "i8jqa4zzdhuig42ipbnxi9po",
+        "v15zw7iike39nz5eett7895p"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_59e694802e",
@@ -1863,21 +1894,7 @@
         "rzurh0zlp12u17jvzoc8gr6b",
         "g1bwa79uqsge8i92thmwmq8h"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_ef554a74a0",
-      "title": "RISC-V重磅峰会将举办，产业空间有望超2000亿元，多只概念股砸出“深坑”",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "isylixani5q01gd8n01gr287",
-        "mf77ud2mpj8q6ki5aet8te2r",
-        "utvrcmhauspfu1mli8zhtslw"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_ba37d7f9f1",
@@ -1896,10 +1913,9 @@
         "tpektdnddvifpwrjvmaruiuu",
         "mxml7u12qpw161pd541ad31b",
         "rdnaw3xexnhu3cyqh44dhufr",
-        "ipno0oefzzy84hp0rwofd9qe",
-        "grsygoiychq2fxjnkd6a99s1"
+        "ipno0oefzzy84hp0rwofd9qe"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_dc42558d81",
@@ -1912,7 +1928,7 @@
         "vz0a2h8sgen95ph1022klwbc",
         "qy91lh41oj0zqtth79wj3a8w"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_7f54eccb3a",
@@ -1925,7 +1941,7 @@
         "ulu875ka816yv9yh4vr4p4hd",
         "ggk4ss2w8z2sgnghg4u5v37r"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_52ca4c128f",
@@ -1936,10 +1952,11 @@
       ],
       "itemIds": [
         "gilddi4qeo16blnmookyiu6q",
+        "bx0cwpkpgw303nik0mk8xxu8",
         "ekk2zfblirmb0abtgyqsgtbf",
         "x9pjl3wiyu2lgbc3ilormost"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_6f80635b07",
@@ -1952,7 +1969,20 @@
         "x1hbc02va0ml7sfzr0sqguge",
         "jqj0e4u5ha8iyrejwdjxg3db"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_eba8874b5c",
+      "title": "北京：力争到2030年全市氢能产业链规模突破400亿元",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "eql25h6ryl3m5qrevo590swr",
+        "zz0wqtw2058dipiba0ap5h5d"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_fd5e83adef",
@@ -1965,7 +1995,7 @@
         "m9t6iuc368hbm7e8hlnlzm7w",
         "m2e9coed3vupk3mdf3rwbwb0"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_dea2ce678b",
@@ -1978,7 +2008,7 @@
         "uk02ow9ncli9qbbes5pzb8ke",
         "v32t2lohq08j6nmzn9ib9akf"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_1aa0859220",
@@ -1991,7 +2021,7 @@
         "ltezkxyz3apxg9qafrlexsu3",
         "mbgjsm5djjaft58oi64ebnk2"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_71784278d6",
@@ -2004,7 +2034,7 @@
         "dv3lv5i397vkwnriad36rru0",
         "ehtk1jozjddbytdg2ayloeth"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_3abc0564d5",
@@ -2018,7 +2048,7 @@
         "bjkac1uibtty8x5esuipn800",
         "sk2giaqu60l03o60qla88dwa"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_0e4c96da06",
@@ -2033,7 +2063,7 @@
         "almhbzck4g2wtzdsxi0dcuto",
         "xsh2l0p00pral3a6gpu119lz"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_62c8fded62",
@@ -2046,7 +2076,7 @@
         "jhi9q7v7bklvw6aqww0pdm0c",
         "zzmkr6t1anfie0lalpe6y4tp"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_d92a708b8d",
@@ -2059,7 +2089,7 @@
         "l0khocn9b5xdwck66hmnd628",
         "ftf2xzvxmnu4unvxy1pp8k3c"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_d8531af50a",
@@ -2072,7 +2102,7 @@
         "jcwumg0rj6yj2cjqed2ces9w",
         "tz4bzq0o2nyk95285eifew1l"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_568ca910b9",
@@ -2085,20 +2115,7 @@
         "vr9vyatts5fnzu2i4kc1fxhf",
         "yb8wjt0ed3vi165wq50rlnp8"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_ce40593ccc",
-      "title": "破解跨域协同瓶颈 智能体互联平台发布",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "zxt5307frej9c08mwgj4j7es",
-        "joggjwjo581s5mig47h2daxj"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_2c085a6716",
@@ -2111,7 +2128,7 @@
         "fj5i1wz7idxafle5ubl16073",
         "gmkmhvdo6qqwb8ljriuo4pa4"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_fc1dda45ae",
@@ -2124,7 +2141,7 @@
         "uwzwntlsiobwitofeh0faxxq",
         "q97c7dmfg0tky67buj5et83x"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_edd2aee783",
@@ -2137,7 +2154,7 @@
         "gf66tfp1psisw9nrasdjd5z3",
         "gnpku7oz9qndqidw3tgrnmj9"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_7ffc31e62c",
@@ -2150,20 +2167,7 @@
         "gsup0b77aevgbosvm251e1va",
         "bqotyndswbpw9vqv284rnmss"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_d7e5e41fa8",
-      "title": "国内金饰价格较昨日变化不大",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "e2l4l999ctfnswjy55wiw3vc",
-        "jp80iculer99aglsgozewgsy"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_0c32bfad03",
@@ -2176,7 +2180,7 @@
         "mbrhdxhqscn1iszel9fx64y4",
         "k4b7wsj5bj681bn0vtt9mf6m"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_cb92fc6832",
@@ -2189,7 +2193,7 @@
         "pg1mpk59n6cdjnl3rty55jjw",
         "kkinvpa3ezfq14uhyvr6oiis"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_89dd7a4ce9",
@@ -2202,7 +2206,7 @@
         "il79ltzu3gpo67i7at9x8e1u",
         "tj6keeq3o77pvsuulz3act2j"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_3a797c0f40",
@@ -2215,7 +2219,7 @@
         "wx7u27mtu70x4la9p1gv80lo",
         "m94zesbfjlqphuyigrcvoaba"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_139ff53af7",
@@ -2228,7 +2232,7 @@
         "or0x59htzds4fb39oe7crecv",
         "kix1ztu0gjk01drm2qboqahq"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_a1139117de",
@@ -2241,33 +2245,7 @@
         "sh2499jue9hc019ebk6wkbav",
         "quq5eeark0gdvwy27x9jvaxk"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_43a0448082",
-      "title": "全国秋粮收获过七成",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "xxd2ilcwu5q281gx7juyaawi",
-        "a2rwgklqqq8ppzpy8rlex894"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
-    },
-    {
-      "id": "ev_e79abcc407",
-      "title": "巴西亚马孙地区毁林面积降至38年最低",
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "itemIds": [
-        "tp38oatvcxd03hwwl0svpsz5",
-        "d2zlzgwrijhpxrvf785kzjvm"
-      ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_78030114a5",
@@ -2281,7 +2259,7 @@
         "quo1bppn2skb5nmnv4kklpyk",
         "avbpm8v5b7d3i52fladdehy9"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_0f60c880fe",
@@ -2294,7 +2272,7 @@
         "cpfblq4i1hykjp2shqfv31h6",
         "lngk3pq1lzq22zxaoadz33ic"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_cd8aef22d2",
@@ -2307,7 +2285,7 @@
         "odddfueloi7myz4ot2mu65or",
         "tm2xk8dfc8tl8gxlkt85qkva"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_a350d362f7",
@@ -2321,7 +2299,20 @@
         "ou9fok6u78dss7gil5jf2w0e",
         "htqgsj6m6y7tugq2otjwwbij"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_cbbf7777c8",
+      "title": "沙特联军称拦截两架胡塞武装无人机",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "t6sgq7nzkklulgs5np9nncdn",
+        "mwl4xr1ep2r70oingslj9zgb"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_909a60678b",
@@ -2334,7 +2325,20 @@
         "lqsi0wzfm9x12o7pdjeefjx6",
         "yyh8xp74c0x3j3p3vc35m6rt"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_722ea5e836",
+      "title": "中国地震台网正式测定：10月24日11时34分在西藏那曲市巴青县（北纬32.46度，东经93.96度）发生3.3级地震…",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "t62os228s1uqovboukby3d1r",
+        "tvly6yqc4lnxq380bu59106c"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_76b7e20361",
@@ -2347,7 +2351,7 @@
         "erewx72nugy47i388afdp9jy",
         "c42z18kxqe25uzoy8v9045jy"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_e53605fd34",
@@ -2360,7 +2364,7 @@
         "fn1wlx4btde7ciwna4jdlesn",
         "ty8emoa9y47mh9o6p8uaz6p1"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     },
     {
       "id": "ev_9366d5b2e8",
@@ -2373,10 +2377,41 @@
         "qw769hjmjikox3w1wweqyfk5",
         "m8khojylv9ort9xipjtb785p"
       ],
-      "updatedAt": "2026-10-30T07:01:49.450Z"
+      "updatedAt": "2026-10-31T06:55:59.614Z"
+    },
+    {
+      "id": "ev_9a55dccb13",
+      "title": "期货盯盘神器专属文章",
+      "category": "market",
+      "tags": [
+        "市场动态"
+      ],
+      "itemIds": [
+        "yxlkyzpegxyzfgz9noxhudcz",
+        "pp0conwrgl2ia92252vtqpro"
+      ],
+      "updatedAt": "2026-10-31T06:55:59.614Z"
     }
   ],
   "items": [
+    {
+      "id": "fh71qu4h9uytokhddfrdx9e0",
+      "title": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
+      "summary": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元跃居行业第一，超过中信证券。",
+      "url": "https://wallstreetcn.com/articles/3784908",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-31T04:13:53.000Z",
+      "score": 81,
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": [
+        "国泰海通",
+        "中信证券"
+      ]
+    },
     {
       "id": "r52txh59urwtjy7bok3qw0dv",
       "title": "印度央行行长首度表态：可能用利率工具来保卫货币",
@@ -2485,6 +2520,21 @@
       "entityTags": []
     },
     {
+      "id": "bp6ghbti86b6c2dgy0hxbqa9",
+      "title": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现",
+      "summary": "宁德时代董事长曾毓群在2026世界顶尖科学家论坛上表示，现有电池能量密度仍不足以支撑更广泛应用，公司正用自研AI原生研究系统结合万亿条测试数据，加速电化学领域的源头创新。",
+      "url": "https://flash.jin10.com/detail/20261031125057103800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 76,
+      "category": "opinion",
+      "tags": [
+        "非证券/宏观",
+        "观点/评论"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ktmvyfnud2rd0hya0jbg46xp",
       "title": "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
       "summary": "Anthropic上市在即，亚马逊凭借62亿美元本金的可转债持仓账面价值高达979亿美元，成为最大赢家；Anthropic估值近万亿美元，股权高度稀释，风投收益丰厚却无一跻身主要股东。",
@@ -2563,6 +2613,21 @@
       "entityTags": []
     },
     {
+      "id": "tiquenixrnq11xzt5rypzvrl",
+      "title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？",
+      "summary": "黑石向投资者告知Anthropic上市后预计获BB区间评级而非投资级，致其8000亿美元算力计划融资前景复杂；该消息被指为10月31日美股下跌导火索，纳斯达克100收跌3.5%。",
+      "url": "https://wallstreetcn.com/articles/3784903",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-31T04:12:41.000Z",
+      "score": 74,
+      "category": "market",
+      "tags": [
+        "其他"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "vgz414a4zdx0m3nd2d1h989a",
       "title": "中国证监会发布《违规转让证券案件行政处罚实施规则》",
       "summary": "中国证监会发布《违规转让证券案件行政处罚实施规则》，明确违规转让证券的认定标准与四种类别，自2026年12月1日起施行。",
@@ -2594,6 +2659,21 @@
       "entityTags": []
     },
     {
+      "id": "h03p5q6rgn07km8244gu57d0",
+      "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
+      "summary": "中国10月制造业PMI降至49.3%，非制造业PMI降至49.7%，均环比回落。国家统计局数据显示，“十一”假期前需求提前释放及国际环境复杂多变是主因。",
+      "url": "https://wallstreetcn.com/articles/3784901",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-31T02:08:44.000Z",
+      "score": 72,
+      "category": "market",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "xh9u4au24wahnvhcug0pfh2d",
       "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
       "summary": "AI大模型公司DeepSeek完成约1000亿元融资，宁德时代和腾讯参投，本轮融资后累计融资规模将达约1500亿元。",
@@ -2618,6 +2698,21 @@
       "publishedAt": "2026-10-17T09:44:22.000Z",
       "score": 72,
       "category": "market",
+      "tags": [
+        "非证券/宏观"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "lchq5uz3eh1w4jcdfaqxxst1",
+      "title": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿",
+      "summary": "招商银行前三季度营收2648.52亿元，同比增长5.34%；归母净利润1164.76亿元，同比增长2.38%，净息差环比企稳，客户资产逼近19万亿元。",
+      "url": "https://wallstreetcn.com/articles/3784906",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-31T03:23:28.000Z",
+      "score": 71,
+      "category": "industry",
       "tags": [
         "非证券/宏观"
       ],
@@ -2732,22 +2827,6 @@
       "entityTags": []
     },
     {
-      "id": "uttghfpn6pegut9ph560cv4d",
-      "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
-      "summary": "纳斯达克100指数本周累跌5.5%，半导体板块八连跌；AI云计算服务商CoreWeave债券收益率突破15%，股价年内高点腰斩逾50%；布伦特原油收于约110美元，10年期美债收益率升至5.097%。",
-      "url": "https://wallstreetcn.com/articles/3783826",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-17T01:13:15.000Z",
-      "score": 70,
-      "category": "market",
-      "tags": [
-        "市场动态",
-        "海外同业"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "bhjq4rnkuu7qzdi79t2lhjix",
       "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
       "summary": "高盛10月22日报告指出，若AI带来15%生产率提升，过渡期内最多约9%员工可能暂时离开岗位；技术让劳动岗位变冗余的职业五年平均就业人数下降约25%。",
@@ -2791,22 +2870,6 @@
       "category": "opinion",
       "tags": [
         "观点/评论"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "c21uuuomv1zj3koi32gxalzc",
-      "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-      "summary": "黄金较1月高点跌逾27%，白银腰斩，但央行二季度创纪录增持288.9吨，白银连续第六年出现供应缺口，实物市场结构性失衡持续恶化。",
-      "url": "https://wallstreetcn.com/articles/3783830",
-      "sourceId": "rss-wallstreetcn",
-      "sourceName": "华尔街见闻",
-      "publishedAt": "2026-10-17T02:58:22.000Z",
-      "score": 69,
-      "category": "market",
-      "tags": [
-        "市场动态",
-        "非证券/宏观"
       ],
       "entityTags": []
     },
@@ -3052,6 +3115,21 @@
       "entityTags": []
     },
     {
+      "id": "gxyyqt0bhlwpjoraf9a80q53",
+      "title": "透视中国人寿三季报：国寿的Alpha不在利润表里，在保单里",
+      "summary": "10月30日晚，中国人寿（601628）披露2026年三季报。季报显示，公司前三季度营业收入 3678.12亿元，归母净利润 894.30亿元，同比均明显有所…",
+      "url": "https://wallstreetcn.com/articles/3784911",
+      "sourceId": "rss-wallstreetcn",
+      "sourceName": "华尔街见闻",
+      "publishedAt": "2026-10-31T01:59:35.000Z",
+      "score": 64,
+      "category": "industry",
+      "tags": [
+        "券商经营"
+      ],
+      "entityTags": []
+    },
+    {
       "id": "ia9tllw46xcwyvqqndio3hle",
       "title": "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0.8%，光模块、AI大模型反弹",
       "summary": "10月27日，A股三大股指集体高开后一路震荡回落，盘中三大指数相继翻绿，创业板指开盘一度涨超1%后回吐，科创50指数半日跌超1%。银行板块逆势走强，沪农商行涨…",
@@ -3137,6 +3215,21 @@
       "score": 63,
       "category": "market",
       "tags": [
+        "市场动态"
+      ],
+      "entityTags": []
+    },
+    {
+      "id": "nwr726dm0g5puhkd34z9202d",
+      "title": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+      "summary": "东方证券孙金霞认为美国AI投资增长动能放缓，高杠杆算力企业融资压力显现，风险正由债市向股市传导，科技股调整压力上升。",
+      "url": "https://flash.jin10.com/detail/20261031114825417800",
+      "sourceId": "hot-jin10",
+      "sourceName": "金十数据",
+      "score": 62,
+      "category": "opinion",
+      "tags": [
+        "观点/评论",
         "市场动态"
       ],
       "entityTags": []
@@ -3306,20 +3399,6 @@
       "entityTags": []
     },
     {
-      "id": "hhzf2qupn33z5mrzwkplfbho",
-      "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-      "summary": "证监会近日开出2张巨额罚单，3名自然人被合计罚没逾5亿元。",
-      "url": "https://www.cls.cn/detail/2507088",
-      "sourceId": "hot-cls",
-      "sourceName": "财联社 · 热榜",
-      "score": 61,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "okgzh4y1v10e4qwegqm0jcg5",
       "title": "科创50、创业板指均跌逾4%",
       "summary": "科创板50指数与创业板指分别下跌超过4%。",
@@ -3394,21 +3473,6 @@
       "entityTags": []
     },
     {
-      "id": "rapl2jrfho80tcx7n16y54km",
-      "title": "内幕+操纵！3名牛散，罚没近5.1亿元！",
-      "summary": "3名牛散因内幕交易和市场操纵被处罚，罚没金额近5.1亿元。",
-      "url": "https://qzs.stcn.com/article/detail/642095.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-17T02:21:00.000Z",
-      "score": 57,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
       "id": "i0hli379qk1yn1740l4kxn3a",
       "title": "两大A股券商，今日终止上市！",
       "summary": "两大A股券商于今日终止上市。",
@@ -3418,51 +3482,6 @@
       "publishedAt": "2026-10-19T01:01:00.000Z",
       "score": 55,
       "category": "industry",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "fp62e97vl4ukx428i2m2lb4r",
-      "title": "人社部、中央网信办、教育部、公安部、国务院国资委等，发布风险提示",
-      "summary": "人社部、中央网信办、教育部、公安部、国务院国资委等多部门于2026年10月17日联合发布风险提示，涉及就业、网络、教育、治安及国资监管等领域。",
-      "url": "https://qzs.stcn.com/article/detail/642108.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-17T04:48:00.000Z",
-      "score": 55,
-      "category": "policy",
-      "tags": [
-        "监管政策"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "fbsnbgbnjiqpvfp6v1zkjstw",
-      "title": "突然！恐慌指数，狂飙21.45%！",
-      "summary": "恐慌指数（VIX）大幅上涨21.45%，反映全球资本市场短期波动加剧、投资者风险偏好显著下降。",
-      "url": "https://qzs.stcn.com/article/detail/642107.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-17T04:47:00.000Z",
-      "score": 53,
-      "category": "market",
-      "tags": [
-        "市场动态"
-      ],
-      "entityTags": []
-    },
-    {
-      "id": "ma3xw960wjmoa2wy77of1p44",
-      "title": "这家券商副总经理，拟任地级市副市长！",
-      "summary": "这家券商副总经理，拟任地级市副市长！",
-      "url": "https://qzs.stcn.com/article/detail/642106.html",
-      "sourceId": "web-qzs",
-      "sourceName": "券商中国",
-      "publishedAt": "2026-10-17T04:47:00.000Z",
-      "score": 53,
-      "category": "market",
       "tags": [
         "市场动态"
       ],
@@ -3485,7 +3504,7 @@
     }
   ],
   "meta": {
-    "itemCount": 1414,
-    "llmCalls": 121
+    "itemCount": 1408,
+    "llmCalls": 124
   }
 }

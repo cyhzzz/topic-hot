@@ -1,0 +1,148 @@
+{
+  "day": "2026-10-31",
+  "generatedAt": "2026-10-31T06:55:59.614Z",
+  "lead": {
+    "title": "国泰海通总资产跃居行业第一，券商三季报龙头交锋",
+    "paragraph": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元超越中信证券登顶行业榜首，券商合并整合效应初显。同日公布的宏观数据与银行三季报显示，实体经济与金融龙头仍在过渡期寻求企稳。",
+    "highlights": [
+      "国泰海通总资产2.42万亿元超越中信证券，稳居行业第一",
+      "招商银行客户资产逼近19万亿元，净息差环比企稳",
+      "中国人寿前三季度归母净利润894.30亿元，同比明显增长",
+      "中国10月制造业PMI回落至49.3%，非制造业PMI降至49.7%",
+      "宁德时代曾毓群称电池技术尚需提升，正用AI加速电化学研发"
+    ]
+  },
+  "sections": [
+    {
+      "category": "industry",
+      "title": "券商经营",
+      "items": [
+        {
+          "id": "fh71qu4h9uytokhddfrdx9e0",
+          "title": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
+          "summary": "国泰海通前三季度营收589.76亿元、归母净利润248.85亿元，总资产2.42万亿元跃居行业第一，超过中信证券。",
+          "url": "https://wallstreetcn.com/articles/3784908",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-31T04:13:53.000Z",
+          "score": 81,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": [
+            "国泰海通",
+            "中信证券"
+          ]
+        },
+        {
+          "id": "lchq5uz3eh1w4jcdfaqxxst1",
+          "title": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿",
+          "summary": "招商银行前三季度营收2648.52亿元，同比增长5.34%；归母净利润1164.76亿元，同比增长2.38%，净息差环比企稳，客户资产逼近19万亿元。",
+          "url": "https://wallstreetcn.com/articles/3784906",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-31T03:23:28.000Z",
+          "score": 71,
+          "category": "industry",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "gxyyqt0bhlwpjoraf9a80q53",
+          "title": "透视中国人寿三季报：国寿的Alpha不在利润表里，在保单里",
+          "summary": "10月30日晚，中国人寿（601628）披露2026年三季报。季报显示，公司前三季度营业收入 3678.12亿元，归母净利润 894.30亿元，同比均明显有所…",
+          "url": "https://wallstreetcn.com/articles/3784911",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-31T01:59:35.000Z",
+          "score": 64,
+          "category": "industry",
+          "tags": [
+            "券商经营"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "市场动态",
+      "items": [
+        {
+          "id": "tiquenixrnq11xzt5rypzvrl",
+          "title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？",
+          "summary": "黑石向投资者告知Anthropic上市后预计获BB区间评级而非投资级，致其8000亿美元算力计划融资前景复杂；该消息被指为10月31日美股下跌导火索，纳斯达克100收跌3.5%。",
+          "url": "https://wallstreetcn.com/articles/3784903",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-31T04:12:41.000Z",
+          "score": 74,
+          "category": "market",
+          "tags": [
+            "其他"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "h03p5q6rgn07km8244gu57d0",
+          "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
+          "summary": "中国10月制造业PMI降至49.3%，非制造业PMI降至49.7%，均环比回落。国家统计局数据显示，“十一”假期前需求提前释放及国际环境复杂多变是主因。",
+          "url": "https://wallstreetcn.com/articles/3784901",
+          "sourceId": "rss-wallstreetcn",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-31T02:08:44.000Z",
+          "score": 72,
+          "category": "market",
+          "tags": [
+            "非证券/宏观"
+          ],
+          "entityTags": []
+        }
+      ]
+    },
+    {
+      "category": "opinion",
+      "title": "观点分析",
+      "items": [
+        {
+          "id": "bp6ghbti86b6c2dgy0hxbqa9",
+          "title": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现",
+          "summary": "宁德时代董事长曾毓群在2026世界顶尖科学家论坛上表示，现有电池能量密度仍不足以支撑更广泛应用，公司正用自研AI原生研究系统结合万亿条测试数据，加速电化学领域的源头创新。",
+          "url": "https://flash.jin10.com/detail/20261031125057103800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 76,
+          "category": "opinion",
+          "tags": [
+            "非证券/宏观",
+            "观点/评论"
+          ],
+          "entityTags": []
+        },
+        {
+          "id": "nwr726dm0g5puhkd34z9202d",
+          "title": "东方证券孙金霞：美国AI叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验",
+          "summary": "东方证券孙金霞认为美国AI投资增长动能放缓，高杠杆算力企业融资压力显现，风险正由债市向股市传导，科技股调整压力上升。",
+          "url": "https://flash.jin10.com/detail/20261031114825417800",
+          "sourceId": "hot-jin10",
+          "sourceName": "金十数据",
+          "score": 62,
+          "category": "opinion",
+          "tags": [
+            "观点/评论",
+            "市场动态"
+          ],
+          "entityTags": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 122,
+    "selected": 7,
+    "llmCalls": 90
+  }
+}
